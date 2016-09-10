@@ -1,9 +1,9 @@
 # bio-oer
 This is an Open Education Resource for General Biology. It requires Wordpress with the following plugins to work effectively.
-Category Order and Taxonomy Terms Order http://www.nsp-code.com/
-Page Tagger http://www.hiddentao.com/code/wordpress-page-tagger-plugin/
-Table of Contents Plus http://dublue.com/plugins/toc/
-WP LaTeX http://automattic.com/code/
+* Category Order and Taxonomy Terms Order http://www.nsp-code.com/
+* Page Tagger http://www.hiddentao.com/code/wordpress-page-tagger-plugin/
+* Table of Contents Plus http://dublue.com/plugins/toc/
+* WP LaTeX http://automattic.com/code/
 
 This uses the theme: Twenty Thirteen
 
