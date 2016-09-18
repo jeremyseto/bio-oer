@@ -1,0 +1,30 @@
+LOCUS       AF361235                 410 bp    DNA     linear   PRI 08-MAY-2001
+DEFINITION  Bili/Bondo Ape aka Mystery Ape mitochondrial control region, partial
+            sequence.
+ACCESSION   AF361235
+VERSION     AF361235.1  GI:13991693
+KEYWORDS    .
+SOURCE      mitochondrion Bili Ape (Giant Lion Killing Ape)
+  ORGANISM  Pan troglodytes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae.
+FEATURES             Location/Qualifiers
+     source          1..410
+                     /organism="Bili Ape"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Bili"
+                     /db_xref="taxon:9598"
+     misc_feature    <1..>410
+                     /note="control region; hypervariable region I"
+ORIGIN      
+        1 ccacctaagt attggcttat tcattacaac cgctatgtat ttcgtacatt actgccagcc
+       61 accatgaata ttgtacagta ctataatcac tcaactacct ataatacatc aaacccaccc
+      121 cacattacaa cctccacctc atgcttacaa gcacnnnnnn naatcaaccc tcaactgtca
+      181 cacataaaac acaactccaa agacattcct cccccacccc gataccaaca gacctatact
+      241 ctcttaacag tacatagtac atacaaccgt acaccataca tagcacatta cagtcaaatc
+      301 catcctcgcc cccacggatg ccccccctca gataggggtc ccttgcccac catcctccgt
+      361 gaaatcaata tcccgcacaa gagtgctact ctctcgctcc gggcccataa
+//
+

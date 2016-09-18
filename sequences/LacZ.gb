@@ -1,0 +1,135 @@
+LOCUS       NC_018658               3075 bp    DNA     linear   CON 17-DEC-2014
+DEFINITION  Escherichia coli O104:H4 str. 2011C-3493 chromosome, complete
+            genome.
+ACCESSION   NC_018658 REGION: 4049056..4052130
+VERSION     NC_018658.1  GI:407479587
+DBLINK      BioProject: PRJNA176127
+KEYWORDS    RefSeq.
+SOURCE      Escherichia coli O104:H4 str. 2011C-3493
+  ORGANISM  Escherichia coli O104:H4 str. 2011C-3493
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 3075)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-SEP-2012) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   2  (bases 1 to 3075)
+  AUTHORS   Johnson,S.L., Teshima,H., Chertov,O., Gibbons,H.S.,
+            Bishop-Lily,K.A., Strockbine,N., Minogue,T., Rosenzweig,N.,
+            Sozhamannan,S. and Detter,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-FEB-2012) Genome Science B6, Los Alamos National
+            Laboratory, PO Box 1663 M888, Los Alamos, NM 87545, USA
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to CP003289.
+            RefSeq Category: Reference Genome
+                        PHY: Based on Phylogenetics
+            DNA and stock bacterial strain for this genome may be available
+            upon request made to the authors.
+            Annotation was added by the NCBI Prokaryotic Genomes Automatic
+            Annotation Pipeline Group. Information about the Pipeline can be
+            found here:
+            http://www.ncbi.nlm.nih.gov/genomes/static/Pipeline.html. Please be
+            aware that the annotation is done automatically with little or no
+            manual curation.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..3075
+                     /organism="Escherichia coli O104:H4 str. 2011C-3493"
+                     /mol_type="genomic DNA"
+                     /strain="2011C-3493"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:1133852"
+                     /collection_date="2011"
+                     /note="isolated from US citizen afflicted with HUS after
+                     travel to Germany during the 2011 Escherichia coli
+                     oubreak"
+     gene            1..3075
+                     /gene="lacZ"
+                     /locus_tag="O3K_19755"
+                     /db_xref="GeneID:13702624"
+     CDS             1..3075
+                     /gene="lacZ"
+                     /locus_tag="O3K_19755"
+                     /EC_number="3.2.1.23"
+                     /note="COG3250 Beta-galactosidase/beta-glucuronidase"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-D-galactosidase"
+                     /protein_id="YP_006780620.1"
+                     /db_xref="GI:407483471"
+                     /db_xref="GeneID:13702624"
+                     /translation="MTMITDSLAVVLQRRDWENPGVTQLNRLAAHPPFASWRNSEEAR
+                     TDRPSQQLRSLNGEWRFAWFPAPEAVPESWLECDLPEADTVVVPSNWQMHGYDAPIYT
+                     NVTYPITVNPPFVPTENPTGCYSLTFNVDESWLQEGQTRIIFDGVNSAFHLWCNGRWV
+                     GYGQDSRLPSEFDLSAFLRAGENRLAVMVLRWSDGSYLEDQDMWRMSGIFRDVSLLHK
+                     PTTQISDFHVATRFNDDFSRAVLEAEVQMCGELRDYLRVTVSLWQGETQVASGTAPFG
+                     GEIIDERGSYADRVTLRLNVENPKLWSAEIPNLYRAVVELHTADGTLIEAEACDVGFR
+                     EVRIENGLLLLNGKPLLIRGVNRHEHHPLHGQVMDEQTMVQDILLMKQNNFNAVRCSH
+                     YPNHPLWYTLCDRYGLYVVDEANIETHGMVPMNRLTDDPRWLPAMSERVTRMVQRDRN
+                     HPSVIIWSLGNESGHGANHDALYRWIKSVDPSRPVQYEGGGADTFATDIICPMYARVD
+                     EDQPFPAVPKWSIKKWLSLPGELRPLILCEYAHAMGNSLGGFAKYWQAFRQYPRLQGG
+                     FVWDWVDQSLIKYDENGNPWLAYGGDFGDTPNDRQFCMNGLVFADRTPHPALTEAKYQ
+                     QQFFQFRLSGQTIEVTSEYLFRHSDNELLHWMVALDGKPLASGEVPLDVAPQGKQLIE
+                     LPELPQPESAGQLWLTVHVVQPNATAWSEAGHISAWQQWRLAENLSVTLPAASHAIPH
+                     LTTSEMDFCIELGNKRWQFNRQSGFLSQMWIGDKKQLLTPLRDQFTRAPLDNDIGVSE
+                     ATRIDPNAWVERWKAAGHYQAEAALLQCTADTLADAVLITTVHAWQYQGKTLFISRKT
+                     YRIDGSGQMAITVDVEVASNTPHPARIGLTCQLAQVAERVNWLGLGPQENYPDRLTAA
+                     CFDRWDLPLSDMYTPYVFPSENGLRCGTRELNYGPHQWRGDFQFNISRYSQQQLMETS
+                     HRHLLHAEEGTWLNIDGFHMGIGGDDSWSPSVSAEFQLSAGRYHYQLLWCQK"
+ORIGIN      
+        1 atgaccatga ttacggattc actggccgtc gttttacaac gtcgtgactg ggaaaaccct
+       61 ggcgttaccc aacttaatcg ccttgcagca catccccctt tcgccagctg gcgtaatagc
+      121 gaagaggccc gcaccgatcg cccttcccaa cagttgcgca gcctgaatgg cgaatggcgc
+      181 tttgcctggt ttccggcacc agaagcggtg ccggaaagct ggctggagtg cgatcttcct
+      241 gaggccgata ctgtcgtcgt cccctcaaac tggcagatgc acggttacga tgcgcccatc
+      301 tacaccaacg tgacctatcc cattacggtc aatccgccgt ttgttcccac ggagaatccg
+      361 acaggttgtt actcgctcac atttaatgtt gatgaaagct ggctacagga aggccagacg
+      421 cgaattattt ttgatggcgt taactcggcg tttcatctgt ggtgcaacgg tcgctgggtc
+      481 ggttacggtc aggacagtcg tttgccgtct gaatttgacc tgagcgcatt tttacgcgcc
+      541 ggagaaaacc gcctcgcggt gatggtgctg cgctggagtg acggcagtta tctggaagat
+      601 caggatatgt ggcggatgag cggcattttc cgtgacgtct cgttgctgca taaaccgact
+      661 acacaaatca gcgatttcca tgttgccact cgctttaatg atgatttcag ccgcgctgta
+      721 ctggaggctg aagttcagat gtgcggcgag ttgcgtgact acctacgggt aacagtttct
+      781 ttatggcagg gtgaaacgca ggtcgccagc ggcaccgcgc ctttcggcgg tgaaattatc
+      841 gatgagcgtg gtagttatgc cgatcgcgtc acactacgtc tgaacgtcga aaacccgaaa
+      901 ctgtggagcg ccgaaatccc gaatctctat cgtgcggtgg ttgaactgca caccgccgac
+      961 ggcacgctga ttgaagcaga agcctgcgat gtcggtttcc gcgaggtgcg gattgaaaat
+     1021 ggtctgctgc tgctgaacgg caagccgttg ctgattcgag gcgttaaccg tcacgagcat
+     1081 catcctctgc atggtcaggt catggatgag cagacgatgg tgcaggatat cctgctgatg
+     1141 aagcagaaca actttaacgc cgtgcgctgt tcgcattatc cgaaccatcc gctgtggtac
+     1201 acgctgtgcg accgctacgg cctgtatgtg gtggatgaag ccaatattga aacccacggc
+     1261 atggtgccaa tgaatcgtct gaccgatgat ccgcgctggc taccggcgat gagcgaacgc
+     1321 gtaacgcgaa tggtgcagcg cgatcgtaat cacccgagtg tgatcatctg gtcgctgggg
+     1381 aatgaatcag gccacggcgc taatcacgac gcgctgtatc gctggatcaa atctgtcgat
+     1441 ccttcccgcc cggtgcagta tgaaggcggc ggagccgaca ccttcgcaac cgatattatt
+     1501 tgcccgatgt acgcgcgcgt ggatgaagac caacccttcc cggcggtgcc gaaatggtcc
+     1561 atcaaaaaat ggctttcgct gcctggagaa ctgcgcccac tgatcctttg cgaatatgcc
+     1621 cacgcaatgg gtaacagtct tggcggtttc gctaaatact ggcaggcgtt tcgtcagtat
+     1681 ccccgtttac agggcggctt cgtctgggac tgggtggatc agtcgctgat taaatatgat
+     1741 gaaaacggca acccgtggtt ggcttacggc ggtgattttg gcgatacgcc gaacgatcgc
+     1801 cagttctgca tgaacggtct ggtctttgcc gaccgcacgc cgcatccggc gctgacggaa
+     1861 gcaaaatacc agcagcagtt tttccagttc cgtttatccg ggcaaaccat cgaagtgacc
+     1921 agcgaatacc tgttccgtca tagcgataac gagctcctgc actggatggt ggcgctggat
+     1981 ggcaagccgc tggcaagcgg tgaagtgcct ctggatgtcg ctccacaagg taaacagttg
+     2041 attgaactgc ctgaactacc gcagccggag agcgccggac aactctggct tactgtacac
+     2101 gtagtgcaac cgaacgcgac cgcatggtca gaagccggac acatcagcgc ctggcagcag
+     2161 tggcgtctgg cggaaaacct cagcgtgaca ctccccgccg cgtcccacgc catcccgcat
+     2221 ctgaccacca gcgaaatgga tttttgcatc gagctgggta ataagcgttg gcaatttaac
+     2281 cgccagtcag gctttctttc acagatgtgg attggcgata aaaaacaact gctgacgccg
+     2341 ctgcgcgatc agttcacccg cgcgccgctg gataacgaca ttggcgtaag tgaagcgacc
+     2401 cgcattgacc cgaacgcctg ggtcgaacgc tggaaggcgg cgggccatta ccaggccgaa
+     2461 gcggcgttgt tgcagtgcac ggcagataca cttgccgacg cggtgctgat taccactgtc
+     2521 cacgcgtggc agtatcaggg gaaaacctta tttatcagcc ggaaaaccta ccggattgat
+     2581 ggtagtggtc aaatggcgat taccgttgat gttgaagtgg cgagcaatac gccacatccg
+     2641 gcgcggattg gcctgacctg ccagctggcg caggtagcag agcgggtaaa ctggctcgga
+     2701 ttagggccgc aagaaaacta tcccgaccgc cttactgccg cctgttttga ccgctgggat
+     2761 ctgccattgt cagacatgta taccccgtac gtcttcccga gcgaaaacgg tctgcgctgc
+     2821 gggacgcgcg aattgaatta tggcccacac cagtggcgcg gcgacttcca gttcaatatc
+     2881 agtcgctaca gccaacaaca actgatggaa accagccatc gccatctgct gcacgcggaa
+     2941 gaaggcacat ggctgaatat cgacggtttc catatgggga ttggtggcga cgactcctgg
+     3001 agcccgtcag tgtcggcgga attccagctt agcgccggtc gctaccatta ccagttgctc
+     3061 tggtgtcaaa aataa
+//
+

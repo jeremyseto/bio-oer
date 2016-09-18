@@ -1,0 +1,64 @@
+LOCUS       JQ272198                1002 bp    DNA     linear   PRI 21-APR-2012
+DEFINITION  Homo sapiens isolate SPWHosa bitter taste receptor TAS2R38
+            (TAS2R38) gene, complete cds.
+ACCESSION   JQ272198
+VERSION     JQ272198.1  GI:384369985
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1002)
+  AUTHORS   Wooding,S.P.
+  TITLE     Molecular evolution of a bitter taste receptor gene in primates
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1002)
+  AUTHORS   Wooding,S.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2011) McDermott Center for Human Growth and
+            Development, University of Texas Southwestern Medical Center, 6000
+            Harry Hines Boulevard, Dallas, TX 75244, USA
+FEATURES             Location/Qualifiers
+     source          1..1002
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolate="SPWHosa"
+                     /db_xref="taxon:9606"
+     gene            <1..>1002
+                     /gene="TAS2R38"
+     mRNA            <1..>1002
+                     /gene="TAS2R38"
+                     /product="bitter taste receptor TAS2R38"
+     CDS             1..1002
+                     /gene="TAS2R38"
+                     /codon_start=1
+                     /product="bitter taste receptor TAS2R38"
+                     /protein_id="AFH77562.1"
+                     /db_xref="GI:384369986"
+                     /translation="MLTLTRIRTVSYEVRSTFLFISVLEFAVGFLTNAFVFLVNFWDV
+                     VKRQXLSNSDCVLLCLSISRLFLHGLLFLSAIQLTHFQKLSEPLNHSYQAIIMLWMIA
+                     NQANLWLAACLSLLYCSKLIRFSHTFLICLASWVSRKISQMLLGIILCSCICTVLCVW
+                     CFFSRPHFTVTTVLFMNNNTRLNWQIKDLNLFYSFLFCYLWSVPPFLLFLVSSGMLTV
+                     SLGRHMRTMKVYTRNSRDPSLEAHIKALKSLVSFFCFFVISSCAAFISVPLLILWRDK
+                     IGVMVCVGIMAACPSGHAAVLISGNAKLRRAVMTILLWAQSSLKVRADHKADSRTLC"
+ORIGIN      
+        1 atgttgactc taactcgcat ccgcactgtg tcctatgaag tcaggagtac atttctgttc
+       61 atttcagtcc tggagtttgc agtggggttt ctgaccaatg ccttcgtttt cttggtgaat
+      121 ttttgggatg tagtgaagag gcagscactg agcaacagtg attgtgtgct gctgtgtctc
+      181 agcatcagcc ggcttttcct gcatggactg ctgttcctga gtgctatcca gcttacccac
+      241 ttccagaagt tgagtgaacc actgaaccac agctaccaag ccatcatcat gctatggatg
+      301 attgcaaacc aagccaacct ctggcttgct gcctgcctca gcctgcttta ctgctccaag
+      361 ctcatccgtt tctctcacac cttcctgatc tgcttggcaa gctgggtctc caggaagatc
+      421 tcccagatgc tcctgggtat tattctttgc tcctgcatct gcactgtcct ctgtgtttgg
+      481 tgctttttta gcagacctca cttcacagtc acaactgtgc tattcatgaa taacaataca
+      541 aggctcaact ggcagattaa agatctcaat ttattttatt cctttctctt ctgctatctg
+      601 tggtctgtgc ctcctttcct attgtttctg gtttcttctg ggatgctgac tgtctccctg
+      661 ggaaggcaca tgaggacaat gaaggtctat accagaaact ctcgtgaccc cagcctggag
+      721 gcccacatta aagccctcaa gtctcttgtc tcctttttct gcttctttgt gatatcatcc
+      781 tgtgctgcct tcatctctgt gcccctactg attctgtggc gcgacaaaat aggggtgatg
+      841 gtttgtgttg ggataatggc agcttgtccc tctgggcatg cagccgtcct gatctcaggc
+      901 aatgccaagt tgaggagagc tgtgatgacc attctgctct gggctcagag cagcctgaag
+      961 gtaagagccg accacaaggc agattcccgg acactgtgct ga
+//
+
