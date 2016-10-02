@@ -1,4 +1,4 @@
-varanoid <- read.csv("https://raw.githubusercontent.com/jeremyseto/bio-oer/master/varanoid.csv") ##grabs the data from github
+varanoid <- read.csv(url("https://raw.githubusercontent.com/jeremyseto/bio-oer/master/varanoid.csv")) ##grabs the data from github
 row.names(varanoid)<-varanoid$Species ## sets the non-numerical values in the first column
 varanoid_truncated <- (varanoid[,2:14]) ## removes the first column of non-numerical values or it will interfere with math, but we saved those values for the columns already
 dist_measure<-dist(varanoid_truncated, method="euclidean")  ## stores the euclidean calculations into a variable "dist_measure"
