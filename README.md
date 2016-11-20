@@ -2,8 +2,10 @@
 This is an Open Education Resource for General Biology. It requires Wordpress with the following plugins to work effectively.
 * Category Order and Taxonomy Terms Order http://www.nsp-code.com/
 * Page Tagger http://www.hiddentao.com/code/wordpress-page-tagger-plugin/
+ * used for taxonomy of General Education Core Competencies
 * Table of Contents Plus http://dublue.com/plugins/toc/
 * WP LaTeX http://automattic.com/code/
+* Syntax Highlighter Evolved https://wordpress.org/plugins/syntaxhighlighter/
 
 This uses the theme: Twenty Thirteen
 
