@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.5.4" created="2016-11-22 12:03" -->
+<!-- generator="WordPress/4.5.4" created="2016-12-21 14:45" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Biology OER</title>
 	<link>http://openlab.citytech.cuny.edu/bio1-oer</link>
 	<description>Open Education Resources for General Biology 1 and Molecular &#38; Cell Biology</description>
-	<pubDate>Tue, 22 Nov 2016 12:03:54 +0000</pubDate>
+	<pubDate>Wed, 21 Dec 2016 14:45:37 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://openlab.citytech.cuny.edu/</wp:base_site_url>
@@ -3081,7 +3081,7 @@
 	</item>
 	<item>
 		<title>pGreen</title>
-		<link>http://openlab.citytech.cuny.edu/bio1-oer/genetically-modified-organisms-and-transgenesis/pgreen/</link>
+		<link>http://openlab.citytech.cuny.edu/bio1-oer/genetic-modification/pgreen/</link>
 		<pubDate>Tue, 09 Aug 2016 22:34:13 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio1-oer/files/2015/09/pGreen.png</guid>
@@ -7677,20 +7677,24 @@ PCR is accomplished by cycling rapidly between these three steps: denature, an
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=65</guid>
 		<description></description>
 		<content:encoded><![CDATA[<ol>
-	<li><a href="#codis">CoDIS</a></li>
-	<li><a href="#crimescene">Evidence</a></li>
+ 	<li><a href="#codis">CoDIS</a></li>
+ 	<li><a href="#crimescene">Evidence</a></li>
 </ol>
-<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Introduction: “<i><b>You are not the father!</b></i>” Or are you?</span></h2>
+<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Polymorphisms</span></h2>
 <p class="western">The difference in nucleotide sequences between humans lies between 0.1-0.4%. That means that people are greater than 99% similar. But when you look around the room at your classmates, you can see that that small difference amounts to quite a bit of variation within our species. The bulk of these differences aren't even within the coding sequences of genes, but lie outside in regulatory regions that change the expression of those genes. Imagine if there were mutations to the coding sequences, this could be very deleterious to the well-being of the organism. We say that the coding sequences of genes that ultimately lead to proteins has a <b><span style="color: #ff0000">selective pressure</span> </b>to remain the same. The areas outside of the coding sequences have a reduced and sometimes non-existent selection pressure. These areas are allowed to mutate in sequence and even expand or contract. Areas of changes or differences are called <b><span style="color: #ff0000">polymorphic</span> </b>(many forms). If you were to read a repetitive set of sequences and count the repetition, you'd make mistakes and lose count. Likewise, DNA
 polymerase will make errors or stutter in areas of repetitiveness and produce polymorphic regions.</p>
+
+<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Tandem Repeats</span></h2>
 <p class="western">A type of polymorphism occurs due to these repeats expanding and contracting in non-coding regions. These regions are called variable number tandem repeats (<span style="color: #ff0000"><b>VNTRs</b></span>)
 or sometimes short tandem repeats (<span style="color: #ff0000"><b>STRs</b></span>). Any region or location on a chromosome is referred to as <b><span style="color: #ff0000">locus</span> </b>(loci for plural). Scientists use polymorphic loci that are known to
-contain VNTRs/STRs in order to differentiate people based on their DNA. This is often used in forensic science or in maternity/paternity cases. Any variation of a locus is referred to as an <span style="color: #ff0000"><b>allele</b></span>. In standard genetics, we often think of an allele as a variation of gene that would result in a difference in a physical manifestation of that gene. In the case of STRs, these alleles are simply a difference in number of https://openlab.citytech.cuny.edu/bio1-oer/repeats. That means the length of DNA within this locus is either longer or shorter and gives rise to many different alleles.</p>
-<p id="codis" class="western">The FBI and local law enforcement agencies have developed a database called the  Combined DNA Index System (<a href="https://www.fbi.gov/about-us/lab/biometric-analysis/codis" target="_blank"><span style="color: #ff0000"><b>CoDIS</b></span></a>) that gathers data on a number of STRs. By establishing the number of repeats of a given locus, law enforcement officials can differentiate individuals based on the repeat length of these alleles. CoDIS uses a
-set of 13 loci that are tested together. As you would imagine, people are bound to have the same alleles of certain loci, especially if they were related. The use of 13 different loci makes it statistically improbable that 2 different people could be confused for each other. Think about this in terms of physical traits. As you increase the number of physical traits used to describe someone, you are less likely to confuse that person with someone else based on those combinations of traits. Using the CoDIS loci increases the stringency since there are many alleles for each locus. The thirteenth locus in CoDIS (called AMEL) discriminates between male and female.</p>
+contain VNTRs/STRs in order to differentiate people based on their DNA. This is often used in forensic science or in maternity/paternity cases. Any variation of a locus is referred to as an <span style="color: #ff0000"><b>allele</b></span>. In standard genetics, we often think of an allele as a variation of gene that would result in a difference in a physical manifestation of that gene. In the case of STRs, these alleles are simply a difference in number of repeats. That means the length of DNA within this locus is either longer or shorter and gives rise to many different alleles. VNTRs are referred to as minisatellites while STRs are called <span style="color: #ff0000"><strong>microsatellites</strong></span>.</p>
 
+<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">CoDIS</span></h2>
+<a title="By Shruthi.n.christ (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ADna_fingerprinting.jpg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dna_fingerprinting.jpg/512px-Dna_fingerprinting.jpg" alt="Dna fingerprinting" width="512" /></a>The FBI and local law enforcement agencies have developed a database called the  Combined DNA Index System (<a href="https://www.fbi.gov/about-us/lab/biometric-analysis/codis" target="_blank"><span style="color: #ff0000"><b>CoDIS</b></span></a>) that gathers data on a number of STRs. By establishing the number of repeats of a given locus, law enforcement officials can differentiate individuals based on the repeat length of these alleles. CoDIS uses a
+set of 13 loci that are tested together. As you would imagine, people are bound to have the same alleles of certain loci, especially if they were related. The use of 13 different loci makes it statistically improbable that 2 different people could be confused for each other. Think about this in terms of physical traits. As you increase the number of physical traits used to describe someone, you are less likely to confuse that person with someone else based on those combinations of traits. Using the CoDIS loci increases the stringency since there are many alleles for each locus. The thirteenth locus in CoDIS (called AMEL) discriminates between male and female.
 
 [caption id="attachment_76" align="alignnone" width="604"]<a href="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/06/codis.png"><img class="wp-image-76 size-large" src="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/06/codis-1024x905.png" alt="codis" width="604" height="533" /></a> <span style="color: #000000"><span style="font-size: small"><strong>CoDIS STRs:</strong> The FBI utilizes 13 different loci to discriminate between people. AMEL discriminates by gender and is located on the X &amp; Y.</span></span>[/caption]
+<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Crime Scene Investigation</span></h2>
 <p class="western">This lab uses a CoDIS locus called TH01. TH01 is a locus on chromosome 11 that has a repeating sequence of TCAT. There are reported to be between 3-14 repeats in this locus. With the exception of X and Y in a male, all chromosomes have a homologous partner. Therefore, each individual will have 2 alleles for each CoDIS locus.</p>
 
 
@@ -7706,7 +7710,7 @@ this test.</p>
 [caption id="attachment_80" align="alignnone" width="604"]<a href="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/06/TH01PCR.png"><img class="wp-image-80 size-large" src="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/06/TH01PCR-722x1024.png" alt="TH01PCR" width="604" height="856" /></a> <span style="font-size: small"> <strong>TH01 locus used in a Paternity/Maternity test:</strong> Individual PCR reactions are run for each sample (mom, dad, child). The TH01 primer pair specifically amplifies the locus. Each amplified sample is run on the same gel to resolve the different alleles of TH01 from each individual. From this test the sample could be the offspring from these 2 parents but use of more STRs would make it more definitive. Count the TCATs.</span>[/caption]
 <h2><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: x-large"><b> External Resources</b></span></span></h2>
 <ul>
-	<li>Flash animation walking through what a STR is <a href="http://www.dnalc.org/view/15981-DNA-variations.html" target="_blank">http://www.dnalc.org/view/15981-DNA-variations.html</a></li>
+ 	<li>Flash animation walking through what a STR is <a href="http://www.dnalc.org/view/15981-DNA-variations.html" target="_blank">http://www.dnalc.org/view/15981-DNA-variations.html</a></li>
 </ul>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>65</wp:post_id>
@@ -7721,6 +7725,11 @@ this test.</p>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="post_tag" nicename="analysis"><![CDATA[analysis]]></category>
+		<category domain="post_tag" nicename="breadth-of-knowledge"><![CDATA[breadth of knowledge]]></category>
+		<category domain="post_tag" nicename="integration-of-knowledge"><![CDATA[integration of knowledge]]></category>
+		<category domain="post_tag" nicename="quantitative-reasoning"><![CDATA[quantitative reasoning]]></category>
+		<category domain="post_tag" nicename="visual-communication"><![CDATA[visual communication]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[975]]></wp:meta_value>
@@ -9558,7 +9567,7 @@ The NYCCT General Biology 1 Lab will follow the sequence below:
 <td bgcolor="#ffffff" width="545"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Biologically</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif">Important</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif">Molecules</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif">II:</span> <strong><a href="proteins" target="_blank"><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif">Proteins</span></u></span></a></strong><span style="font-family: 'Liberation Sans', Arial, sans-serif"> &amp;</span> <strong><a href="nucleic-acids" target="_blank"><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif">Nucleic</span></u></span><u> </u><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif">Acids</span></u></span></a></strong>
 <ul>
  	<li><strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="protein-detection" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Protein Activity</span></a></u></span> </strong></li>
- 	<li><strong><span style="text-decoration: underline;color: #0000ff"><a style="color: #0000ff" href="nucleic-acids-dna-extraction-and-disches-diphenylamine-test-activity" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Purification of DNA, Dische’s Test</span></a></span></strong></li>
+ 	<li><strong><span style="text-decoration: underline;color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="nucleic-acids-dna-extraction-and-disches-diphenylamine-test-activity" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Purification of DNA, Dische’s Test</span></a></span></strong></li>
  	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif">Review (</span><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="biological-macromolecules-concept" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">concept map</span></a></u></strong></span><span style="font-family: 'Liberation Sans', Arial, sans-serif">) </span></li>
 </ul>
 </td>
@@ -9640,18 +9649,18 @@ The NYCCT General Biology 1 Lab will follow the sequence below:
 <td bgcolor="#ffffff" width="65"><span style="font-family: 'Liberation Sans', Arial, sans-serif">XIII </span></td>
 <td bgcolor="#ffffff" width="545"><span style="font-family: 'Liberation Sans', Arial, sans-serif">DNA</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Fingerprinting</span></span>
 <ul>
- 	<li><a href="rflp-analysis" target="_blank">RFLP</a></li>
- 	<li><span style="color: #0000ff"><u><a class="western" href="pcr" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">PCR Technology</span></a></u></span></li>
- 	<li><span style="color: #0000ff"><u><a class="western" href="variable-number-tandem-repeats" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Forensics</span></a></u></span></li>
+ 	<li><span style="text-decoration: underline"><strong><span style="color: #0000ff;text-decoration: underline"><a style="color: #0000ff;text-decoration: underline" href="rflp-analysis" target="_blank">RFLP</a></span></strong></span></li>
+ 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="pcr" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">PCR Technology</span></a></u></strong></span></li>
+ 	<li><strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="variable-number-tandem-repeats" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Forensics</span></a></u></span></strong></li>
 </ul>
 </td>
 </tr>
 <tr valign="top">
-<td bgcolor="#ffffff" width="65" height="20"><span style="font-family: 'Liberation Sans', Arial, sans-serif">XIV </span></td>
-<td bgcolor="#ffffff" width="545"><span style="color: #0000ff"><span style="color: #0000ff"><u><a class="western" href="genetics" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Genetics</span></a></u></span></span>
+<td bgcolor="#ffffff" width="65" height="20"><span style="font-family: 'Liberation Sans', Arial, sans-serif;color: #000000">XIV </span></td>
+<td bgcolor="#ffffff" width="545"><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="genetics" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Genetics</span></a></u></span>
 <ul>
- 	<li><span style="color: #0000ff"><u><a class="western" href="bitter-taste-activity" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Genetics of Taste Activity</span></a></u></span></li>
- 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif">Counting Corn </span></li>
+ 	<li><strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="bitter-taste-activity" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Genetics of Taste Activity</span></a></u></span></strong></li>
+ 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif;color: #000000">Counting Corn </span></li>
 </ul>
 </td>
 </tr>
@@ -10086,11 +10095,11 @@ For additional background material, consult the "Reading Pages" that correspond
 </tr>
 <tr valign="top">
 <td style="border-color: #000000;width: 67px" width="67"><span style="font-family: Arial, sans-serif"><span style="font-size: small">2</span></span></td>
-<td style="border-color: #000000;width: 67px" width="410"><span style="color: #0000ff"><strong><span lang="zxx"><u><a class="western" style="color: #0000ff" href="propagating-dna-in-bacteria" target="_blank"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Plasmid</span></span></a></u></span></strong></span><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small"> Purification by </span></span></span><span style="color: #0000ff"><strong><span lang="zxx"><u><a class="western" style="color: #0000ff" href="https://openlab.citytech.cuny.edu/bio1-oer/dna-fingerprinting/propagating-dna-in-bacteria/dna-miniprep-by-alkaline-lysis-activity/"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Alkaline lysis</span></span></a></u></span></strong></span>
+<td style="border-color: #000000;width: 67px" width="410"><span style="color: #0000ff"><strong><span lang="zxx"><u><a class="western" style="color: #0000ff" href="propagating-dna-in-bacteria" target="_blank"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Plasmid</span></span></a></u></span></strong></span><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small"> Purification by </span></span></span><span style="color: #0000ff"><strong><span lang="zxx"><u><a class="western" style="color: #0000ff" href="http://dna-miniprep-by-alkaline-lysis-activity" target="_blank"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Alkaline lysis</span></span></a></u></span></strong></span>
 
-<span style="font-family: Arial, sans-serif"><span style="font-size: small">Agarose Gel Electrophoresis</span></span>
+<strong><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff" href="dna-fingerprinting" target="_blank"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Agarose Gel Electrophoresis</span></span></a></span></span></strong>
 
-<span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Plasmid digestion using </span></span></span><span style="color: #0000ff"><strong><span lang="zxx"><u><a class="western" style="color: #0000ff" href="https://openlab.citytech.cuny.edu/bio1-oer/dna-fingerprinting/propagating-dna-in-bacteria/dna-miniprep-by-alkaline-lysis-activity/2/"><span style="font-family: Arial, sans-serif"><span style="font-size: small">restriction enzyme</span></span></a></u></span></strong></span></td>
+<span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Plasmid digestion using </span></span></span><span style="color: #0000ff"><strong><span lang="zxx"><u><a class="western" style="color: #0000ff" href="dna-miniprep-by-alkaline-lysis-activity/2/" target="_blank"><span style="font-family: Arial, sans-serif"><span style="font-size: small">restriction enzyme</span></span></a></u></span></strong></span></td>
 <td style="border-color: #000000;width: 67px" width="134"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Alberts 327-338, 347</span></span></td>
 </tr>
 <tr valign="top">
@@ -10107,7 +10116,7 @@ For additional background material, consult the "Reading Pages" that correspond
 <td style="border-color: #000000;width: 67px" width="410"><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small"><b>Quiz 1</b></span></span></span><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small"> </span></span></span>
 <ul>
  	<li><span style="font-family: Arial, sans-serif"><span style="font-size: small">Plasmid Structure → Visualize transformation predictions</span></span></li>
- 	<li><span style="color: #000080"><span lang="zxx"><u><a class="western" href="https://openlab.citytech.cuny.edu/bio1-oer/gene-expression/transcriptional-control/"><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Transcriptional Control</span></span></span></a></u></span></span></li>
+ 	<li><strong><span style="color: #0000ff"><span lang="zxx"><u><a class="western" style="color: #0000ff" href="transcriptional-control" target="_blank"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Transcriptional Control</span></span></a></u></span></span></strong></li>
 </ul>
 </td>
 <td style="border-color: #000000;width: 67px" width="134"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Alberts 248-249</span></span><span style="font-family: Arial, sans-serif"><span style="font-size: small">Alberts 331-333</span></span></td>
@@ -10118,7 +10127,7 @@ For additional background material, consult the "Reading Pages" that correspond
 
 <span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Introduction to DNA replication and </span></span></span><strong><span style="text-decoration: underline"><span style="color: #0000ff"><span lang="zxx"><a class="western" style="color: #0000ff" href="pcr" target="_blank"><span style="font-family: Arial, sans-serif"><span style="font-size: small">PCR</span></span></a></span></span></span></strong>
 
-<strong><span style="color: #0000ff"><span lang="zxx"><u><a class="western" style="color: #0000ff" href="https://openlab.citytech.cuny.edu/bio1-oer/genetics/6/"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Genetics Review</span></span></a></u></span></span></strong></td>
+<strong><span style="color: #0000ff"><span lang="zxx"><u><a class="western" style="color: #0000ff" href="http://genetics/6/"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Genetics Review</span></span></a></u></span></span></strong></td>
 <td style="border-color: #000000;width: 67px" width="134"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Alberts 200-202</span></span></td>
 </tr>
 <tr valign="top">
@@ -10196,7 +10205,7 @@ For additional background material, consult the "Reading Pages" that correspond
 <td style="border-color: #000000;width: 67px" width="67"><span style="font-family: Arial, sans-serif"><span style="font-size: small">13</span></span></td>
 <td style="border-color: #000000;width: 67px" width="410"><span style="color: #000080"><span lang="zxx"><u><a class="western" href="https://openlab.citytech.cuny.edu/bio1-oer/dna-fingerprinting/propagating-dna-in-bacteria/3/"><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Gene Cloning Workflow</span></span></span></a></u></span></span>
 <ul>
- 	<li><a href="genetically-modified-organisms-and-transgenesis" target="_blank"><strong><span style="color: #0000ff"><span lang="zxx"><u><span style="font-family: Arial, sans-serif"><span style="font-size: small">Transgenic Technology</span></span></u></span></span></strong></a><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small"> and </span></span></span><strong><span style="color: #0000ff"><span lang="zxx"><u><a class="western" style="color: #0000ff" href="gmo-activity" target="_blank"><span style="font-family: Arial, sans-serif"><span style="font-size: small">activity</span></span></a></u></span></span></strong></li>
+ 	<li><a href="genetic-modification" target="_blank"><strong><span style="color: #0000ff"><span lang="zxx"><u><span style="font-family: Arial, sans-serif"><span style="font-size: small">Transgenic Technology</span></span></u></span></span></strong></a><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small"> and </span></span></span><strong><span style="color: #0000ff"><span lang="zxx"><u><a class="western" style="color: #0000ff" href="gmo-activity" target="_blank"><span style="font-family: Arial, sans-serif"><span style="font-size: small">activity</span></span></a></u></span></span></strong></li>
  	<li><span style="font-family: Arial, sans-serif"><span style="font-size: small"><strong><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline"><a style="color: #0000ff;text-decoration: underline" href="https://youtu.be/bl8Vucquc7g" target="_blank">Transfection</a></span></span></strong> of Eukaryotic cells (demonstration)</span></span></li>
 </ul>
 </td>
@@ -12817,7 +12826,7 @@ Students wanted to check some food items. These included, breakfast sausage from
 	</item>
 	<item>
 		<title>Genetic Modification</title>
-		<link>http://openlab.citytech.cuny.edu/bio1-oer/genetically-modified-organisms-and-transgenesis/</link>
+		<link>http://openlab.citytech.cuny.edu/bio1-oer/genetic-modification/</link>
 		<pubDate>Mon, 14 Sep 2015 23:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=425</guid>
@@ -12826,7 +12835,7 @@ Students wanted to check some food items. These included, breakfast sausage from
 <span style="font-size: medium">Genetic modification of organisms has been occurring through human manipulation since the beginning of agriculture. Humans selectively bred crops and livestock to propagate desirable traits in a process termed <span style="color: #ff0000"><b>artificial selection</b></span>. The original grass that gave rise to domesticated corn called teosinte hardly resembles what we think of when imagining modern maize.</span>
 
 [caption id="" align="aligncenter" width="512"]<a title="By John Doebley (http://teosinte.wisc.edu/images.html) [Attribution or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AMaize-teosinte.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Maize-teosinte.jpg/512px-Maize-teosinte.jpg" alt="Maize-teosinte" width="512" height="317" /></a> <span style="font-family: 'Liberation Sans', sans-serif"><span style="font-size: small">Teosinte, the progenitor of maize. Corn came about due to selective breeding.</span></span>[/caption]
-<h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Variation of features</span></h3>
+<h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Variation: Crop domestication</span></h3>
 Selective breeding can yield a variety of features even within the same species. Below is selection of vegetables of the species <em>Brassica oleracea</em> that have been developed into different varieties over the course of agricultural history.
 
 [caption id="" align="aligncenter" width="256"]<a title="Forest &amp; Kim Starr [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AStarr_070730-7852_Brassica_oleracea_var._capitata.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Starr_070730-7852_Brassica_oleracea_var._capitata.jpg/256px-Starr_070730-7852_Brassica_oleracea_var._capitata.jpg" alt="Starr 070730-7852 Brassica oleracea var. capitata" width="256" height="192" /></a> <span style="font-size: small">Cabbage: Brassica oleracea var. capitata</span>[/caption]
@@ -12835,7 +12844,10 @@ Selective breeding can yield a variety of features even within the same species.
 
 [caption id="" align="aligncenter" width="256"]<a title="Coyau / Wikimedia Commons, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AChou-rave_01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Chou-rave_01.jpg/256px-Chou-rave_01.jpg" alt="Chou-rave 01" width="256" height="205" /></a> <span style="font-size: small">Kohlrabi: Brassica oleracea var. gongylodes</span>[/caption]
 
-[caption id="" align="aligncenter" width="256"]<a title="By Richard Bartz, Munich aka Makro Freak (Own work) [CC BY-SA 2.5 (http://creativecommons.org/licenses/by-sa/2.5)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ARomanesco_Brassica_oleracea_Richard_Bartz.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Romanesco_Brassica_oleracea_Richard_Bartz.jpg/256px-Romanesco_Brassica_oleracea_Richard_Bartz.jpg" alt="Romanesco Brassica oleracea Richard Bartz" width="256" height="188" /></a> <span style="font-size: small">Romanesco: Brassica oleracea var. botrytis</span>[/caption]&nbsp;
+[caption id="" align="aligncenter" width="256"]<a title="By Richard Bartz, Munich aka Makro Freak (Own work) [CC BY-SA 2.5 (http://creativecommons.org/licenses/by-sa/2.5)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ARomanesco_Brassica_oleracea_Richard_Bartz.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Romanesco_Brassica_oleracea_Richard_Bartz.jpg/256px-Romanesco_Brassica_oleracea_Richard_Bartz.jpg" alt="Romanesco Brassica oleracea Richard Bartz" width="256" height="188" /></a> <span style="font-size: small">Romanesco: Brassica oleracea var. botrytis</span>[/caption]
+<h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Variation: Animal domestication</span></h3>
+<a title="By YellowLabradorLooking_new.jpg: *derivative work: Djmirko (talk) YellowLabradorLooking.jpg: User:Habj Golden_Retriever_Sammy.jpg: Pharaoh Hound Cockerpoo.jpg: ALMM Longhaired_yorkie.jpg: Ed Garcia from United States Boxer_female_brown.jpg: Flickr user boxercab Milù_050.JPG: AleR Beagle1.jpg: Tobycat Basset_Hound_600.jpg: ToB Newfoundland_dog_Smoky.jpg: Flickr user DanDee Shots derivative work: December21st2012Freak [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACollage_of_Nine_Dogs.jpg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Collage_of_Nine_Dogs.jpg/512px-Collage_of_Nine_Dogs.jpg" alt="Collage of Nine Dogs" width="512" /></a><a title="By Mary Bloom, American Kennel Club [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ADog_morphological_variation.png"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Dog_morphological_variation.png/512px-Dog_morphological_variation.png" alt="Dog morphological variation" width="512" /></a>
+Companion animals like dogs underwent thousands of years of domestication and selection for traits that were desirable for different circumstances. A high degree of morphological diversity exists between dog breeds and their ancestral grey wolf progenitor.
 <h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Genetic Manipulation (engineered)</span></h3>
 Artificial selection takes multiple generations over a long period of time. With the advent of recombinant DNA and biotechnology, scientists can now genetically modify organisms through introduction of foreign genes to provide desirable characteristics within one generation. This process does not require traits to naturally arise in a species.
 
@@ -12845,7 +12857,7 @@ Artificial selection takes multiple generations over a long period of time. With
 
 [caption id="" align="aligncenter" width="512"]<a title="By www.glofish.com [Attribution], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AGloFish_Electric_Green_Tetra.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/GloFish_Electric_Green_Tetra.jpg/512px-GloFish_Electric_Green_Tetra.jpg" alt="GloFish Electric Green Tetra" width="512" height="341" /></a> <span style="font-size: small">Black tetra (Gymnocorymbus ternetzi) GloFish</span>[/caption][caption id="" align="aligncenter" width="512"]<a title="By Fernandograu (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ABlackTetraCloseUp.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/BlackTetraCloseUp.JPG/512px-BlackTetraCloseUp.JPG" alt="BlackTetraCloseUp" width="512" height="341" /></a> <span style="font-size: small">Wild-type Black Tetra</span>[/caption]<!--nextpage-->
 <h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Genetic Engineering in Plants</span></h2>
-<span style="font-size: medium">With the advent of agribusiness, agriculture has become a profit driven venture independent of food production. In this case, high production is paramount. Whereas traditional agriculture and artificial selection was slow and methodical, genetic modification in the context of agribusiness is instantaneous </span><span style="font-size: medium">through </span><span style="color: #ff0000"><span style="font-size: medium"><b>genetic engineering</b></span></span>. The <i><b>objective</b></i> of genetic engineering is to transfer the DNA encoding a useful or favorable gene from an organism that carries that gene to one that does not. Simply inserting DNA into an organism does not result in expression. An appropriate promoter for the transgenic organism must be upstream of the gene of interest in order to drive transcription. In mammals, a strong promoter that will result in expression in every cell is the CMV promoter that is derived from cytomegalovirus. Likewise in plants, a strong promoter that works in every cell is derived from viral promoters like the <span style="color: #ff0000"><strong>CaMV promoter</strong></span> from cauliflower mosaic virus from the <strong><span style="color: #ff0000">35S gene</span></strong><span style="color: #000000"> (a ribosomal RNA)</span>.
+<span style="font-size: medium">With the advent of agribusiness, agriculture has become a profit driven venture independent of food production. In this case, high production is paramount. Whereas traditional agriculture and artificial selection was slow and methodical, genetic modification in the context of agribusiness is instantaneous </span><span style="font-size: medium">through </span><span style="color: #ff0000"><span style="font-size: medium"><b>genetic engineering</b></span></span>. The <i><b>objective</b></i> of genetic engineering is to transfer the DNA encoding a useful or favorable gene from an organism that carries that gene to one that does not. Simply inserting DNA into an organism does not result in expression. An appropriate promoter for the transgenic organism must be upstream of the gene of interest in order to drive transcription. In mammals, a strong promoter that will result in expression in every cell is the CMV promoter that is derived from cytomegalovirus. Likewise in plants, a strong promoter that works in every cell is derived from viral promoters like the <span style="color: #ff0000"><strong>CaMV promoter</strong></span> from cauliflower mosaic virus from the <strong><span style="color: #ff0000">35S gene</span></strong><span style="color: #000000"> (a ribosomal RNA)</span>. (<span style="text-decoration: underline;color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://www.ncbi.nlm.nih.gov/nuccore/AJ007625.1" target="_blank">CaMV 35S sequence on NCBI</a></span>)
 
 <span style="font-size: medium">Examples of useful traits include:</span>
 <ul>
@@ -12877,34 +12889,43 @@ The plant to be engineered is cultured and infected with the transformed <em>Agr
 <span style="font-family: 'Liberation Sans', Arial, sans-serif"> </span>
 <a title="By Yikrazuul (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AGlyphosate.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Glyphosate.svg/512px-Glyphosate.svg.png" alt="Glyphosate" width="512" /></a>
 <strong><span style="color: #ff0000">Roundup</span></strong> is the trade-name of the herbicide <strong><span style="color: #ff0000">glyphosate</span></strong> used in agriculture to control weed populations developed and patented by Monsanto. Glyphosate is absorbed through the foliage of plants and interferes with the enzymes that aid in production of tyrosine, phenylalanine and tryptophan. Plants and lower organisms generate aromatic amino acids through an enzyme 5-enolpyruvylshikimate-3-phosphate (EPSP) synthase which is the target of this compound. A series of Roundup Ready crops were designed by the insertion of the <em>Agrobacterium</em> EPSP gene driven by the CaMV 35S promoter. This version of the gene is inherently resistant to glyphosate poisoning.
+<a title="See page for author [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AGlyphosate_USA_2013.png"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Glyphosate_USA_2013.png/512px-Glyphosate_USA_2013.png" alt="Glyphosate USA 2013" width="512" /></a>
+<h4><span style="font-family: 'Liberation Sans', Arial, sans-serif">Emergence of superweeds</span></h4>
+[caption id="" align="aligncenter" width="256"]<a title="By Pompilid (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or CC BY-SA 2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/2.5-2.0-1.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AAmaranthus_palmeri.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Amaranthus_palmeri.jpg" alt="Amaranthus palmeri" width="256" height="533" /></a> <span style="font-family: 'Liberation Sans', sans-serif"><span style="font-size: small">Palmer amaranth (Amaranthus palmeri), commonly referred to as pig weed is a pest species in cotton and soy fields that has become glyphosate resistant.</span></span>[/caption]
 <h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Pest Resistance</span></h3>
 <a title="By cyanocorax [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AHelicoverpa_zea_larva.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Helicoverpa_zea_larva.jpg/512px-Helicoverpa_zea_larva.jpg" alt="Helicoverpa zea larva" width="512" /></a>
 Crystals from the <em>Bacillus <i>thuringiensis</i></em> (<strong><span style="color: #ff0000">Bt</span></strong>), called <em><strong>Cry</strong></em> protein, are toxic to various insects: moths &amp; butterflies, beetles, ants, wasps, flies &amp; mosquitoes, bees, nematodes. The insertion of this gene into plants like corn (Bt-Corn) were designed to be resistant to pests.
 <a title="By Jim Buckman is credited and the original uploader is P.R.Johnston. (w:en:Image:Bacillus thuringiensis.JPG) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ABt-toxin-crystals.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Bt-toxin-crystals.jpg" alt="Bt-toxin-crystals" width="512" /></a>
 <h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Disease resistance</span></h3>
-Papayas in the United States primarily come from Hawaii. A virus known as Papaya Ringspot Disease threatened the papaya crop in Hawaii. To combat this, papaya were genetically engineered to block viral entry into the papaya cells. Papayas purchased in Latin markets are most likely modified and usually come from Mexico where the  ringspot disease is not yet a problem.
+Papayas in the United States primarily come from Hawaii. A virus known as Papaya Ringspot Disease threatened the papaya crop in Hawaii. To combat this, papaya were genetically engineered to block viral entry into the papaya cells. Papayas purchased in Latin markets are most likely unmodified and usually come from Mexico where the  ringspot disease is not yet a problem.
 <a title="By APS [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APapaya_Ringspot_Virus_Symptoms.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Papaya_Ringspot_Virus_Symptoms.jpg" alt="Papaya Ringspot Virus Symptoms" width="512" /></a>
-Plum Pox Virus  is a threat to the genus <em>Prunus</em>. A genetically modified plum plant has been developed called C5. the cells in these plants silence the expression of plum pox coat protein if infected and does not permit for propagation of the virus.
+Plum Pox Virus  is a threat to the genus <em>Prunus</em>. A genetically modified plum plant has been developed called C5. The cells in these plants silence the expression of plum pox coat protein if infected to block propagation of the virus.
 
 [caption id="" align="aligncenter" width="512"]<a title="This image is in the public domain because it contains materials that originally came from the Agricultural Research Service, the research agency of the United States Department of Agriculture., via Wikimedia Commons" href="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plum_pox_in_apricot.jpg/640px-Plum_pox_in_apricot.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plum_pox_in_apricot.jpg/640px-Plum_pox_in_apricot.jpg" alt="Plum Pox Virus in Apricot" width="512" height="325" /></a> <span style="font-size: small">An apricot infected with plum pox.</span>[/caption]
 
-[caption id="" align="alignnone" width="512"]<a title="By Scott Bauer, USDA ARS [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AC5_plum_pox_resistant_plum.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/C5_plum_pox_resistant_plum.jpg/512px-C5_plum_pox_resistant_plum.jpg" alt="C5 plum pox resistant plum" width="512" height="384" /></a> <span style="font-size: small">C5 resistant plums</span>[/caption]<span style="font-size: small"><span style="font-size: small"><span style="font-size: small"><span style="font-size: small"> </span></span></span></span>
+[caption id="" align="alignnone" width="512"]<a title="By Scott Bauer, USDA ARS [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AC5_plum_pox_resistant_plum.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/C5_plum_pox_resistant_plum.jpg/512px-C5_plum_pox_resistant_plum.jpg" alt="C5 plum pox resistant plum" width="512" height="384" /></a> <span style="font-size: small">C5 resistant plums</span>[/caption]
+<h4><span style="font-size: small"><span style="font-size: small"><span style="font-size: small"><span style="font-size: small"> </span></span></span></span></h4>
 <h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Nutritional Engineering</span></h3>
-<span style="color: #ff0000"><strong>Golden rice</strong></span> is a genetically engineered rice that it meant to address Vitamin A deficiency. It introduces enzyme genes from other species involved in the biosynthetic pathways for β-carotene production, a vitamin A precursor. It is estimated that millions of deaths and irreversible blindness occur in the third world each year due to Vitamin A deficiency and creating this rice was meant to address the problem.
+<span style="color: #ff0000"><strong>Golden rice</strong></span> is a genetically engineered rice that is meant to address Vitamin A deficiency. It introduces enzyme genes from other species involved in the biosynthetic pathways for β-carotene production, a vitamin A precursor. It is estimated that millions of deaths and irreversible blindness occur in the third world each year due to Vitamin A deficiency and creating this rice was meant to address the problem.
 <a title="By Carotenoid.jpg: created by en:user:Petaholmes, modified by Benoit.gallet derivative work: WilliamTheaker (Carotenoid.jpg) [CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACarotenoid.svg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Carotenoid.svg/256px-Carotenoid.svg.png" alt="Carotenoid" width="256" /></a>
 
 Rice is a staple in many cultures, therefore it is a good delivery system. Many controversies exist surrounding Golden Rice due to anti-GMO sentiment (from patenting systems), cultural sensitivities (white rice revered in certain cultures), and Vitamin A content/conversion doubts.
 
 <a title="By International Rice Research Institute (IRRI) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AGolden_Rice.jpg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Golden_Rice.jpg/512px-Golden_Rice.jpg" alt="Golden Rice" width="512" /></a>
-<!--nextpage-->
+<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Explore the debate</span></h2>
+<ul>
+ 	<li><a href="http://www.nature.com/multimedia/podcast/nature/v497/n7447/nature-2013-05-02.mp3" target="_blank">Case studies reveal the complex truths behind GM crop myths.</a></li>
+ 	<li><a href="http://www.nature.com/news/case-studies-a-hard-look-at-gm-crops-1.12907" target="_blank">Case studies: A hard look at GM crops.</a> Gilbert N. Nature. 2013 May 2;497(7447):24-6. doi: 10.1038/497024a
+<!--nextpage--></li>
+</ul>
 <h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Heterologous expression in Tissue Culture</span></h2>
 [caption id="" align="aligncenter" width="1024"]<a title="GFP in HEK293T" href="https://www.flickr.com/photos/jamescastle/17394676551/in/dateposted/"><img src="https://c8.staticflickr.com/8/7792/17394676551_d74ca96244_b.jpg" alt="GFP in HEK293T" width="1024" height="771" /></a> <span style="font-size: small">Human Embryonic Kidney cells (HEK293T) expressing green fluorescent protein.</span>[/caption]
 
 [caption id="" align="aligncenter" width="1024"]<a title="GFP in HEK293T" href="https://www.flickr.com/photos/jamescastle/17207460150/in/dateposted/"><img src="https://c7.staticflickr.com/9/8730/17207460150_e8d7147120_b.jpg" alt="GFP in HEK293T" width="1024" height="771" /></a> <span style="font-size: small">Higher magnification of HEK293T expressing green fluorescent protein.</span>[/caption]
 <h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Plasmid Structure</span></h3>
-[caption id="" align="aligncenter" width="3485"]<img class="" src="https://github.com/jeremyseto/bio-oer/blob/master/figures/molecular/pTargeT.png?raw=true" alt="pTarget mammalian expression vector" width="3485" height="1983" /> <span style="font-size: small"><span style="text-decoration: underline;color: #0000ff"><strong><a style="color: #0000ff;text-decoration: underline" href="http://www.ncbi.nlm.nih.gov/nuccore/AY540613" target="_blank">pTarget</a></strong> </span>mammalian expression vector. The MCS is inside the LacZ gene which permits for blue/white screening of the bacteria after cloning. The LacZ runs in the opposite orientation as the CMV promoter which will drive the gene transcription when inside a mammalian cell.</span>[/caption]
+[caption id="" align="aligncenter" width="3485"]<img class="" src="https://github.com/jeremyseto/bio-oer/blob/master/figures/molecular/pTargeT.png?raw=true" alt="pTarget mammalian expression vector" width="3485" height="1983" /> <span style="font-size: small"><span style="text-decoration: underline;color: #0000ff"><strong><a style="color: #0000ff;text-decoration: underline" href="http://www.ncbi.nlm.nih.gov/nuccore/AY540613" target="_blank">pTarget</a></strong> </span>mammalian expression vector. The MCS is inside the LacZ gene which permits for blue/white screening of the bacteria after cloning. The LacZ runs in the opposite orientation as the CMV promoter which will drive the gene transcription when inside a mammalian cell. SV40 origin servers as a plasmid replication origin if the cell line also expresses SV40 large T antigen, such as HEK293T cells.</span>[/caption]
 
-Mammalian expression vectors contain the same hallmark features as bacterial plasmids; bacterial replication of origin and bacterial antibiotic resistance gene (β-lactamase or <strong>Amp<sub>R</sub></strong>). General bacterial plasmid features allow for the carrying and propogation of the plasmid in a bacterial cell. Mammalian expression vectors additionally include a strong mammalian promoter (like <span style="color: #ff0000"><strong>CMV</strong></span> from the cytomegalovirus immediate early promoter) upstream of a multiple cloning site (<strong><span style="color: #ff0000">MCS</span></strong>). Plasmids transfected into cells are transient in nature unless the DNA is selected for. The inclusion of a mammalian antibiotic resistance gene, like neomycin phosphotransferase (<span style="color: #ff0000"><strong>Neo<sub>R</sub></strong></span>), allows for the integration of the plasmid into the genome of the cell by using high concentrations of Neomycin or the analog G418.
+Mammalian expression vectors contain the same hallmark features as bacterial plasmids: bacterial replication of origin and bacterial antibiotic resistance gene (β-lactamase or <strong>Amp<sub>R</sub></strong>). General bacterial plasmid features allow for the carrying and propogation of the plasmid in a bacterial cell. Mammalian expression vectors additionally include a strong mammalian promoter (like <span style="color: #ff0000"><strong>CMV</strong></span> from the cytomegalovirus immediate early promoter) upstream of a multiple cloning site (<strong><span style="color: #ff0000">MCS</span></strong>). Plasmids transfected into cells are transient in nature unless the DNA is selected for. The inclusion of a mammalian antibiotic resistance gene, like neomycin phosphotransferase (<span style="color: #ff0000"><strong>Neo<sub>R</sub></strong></span>), allows for the integration of the plasmid into the genome of the cell by using high concentrations of Neomycin or the analog G418.
 <h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Lipofection</span></h3>
 Cationic lipids can encapsulate plasmid DNA in liposomes. The cationic portions interact with the negatively charged plasma membrane to deliver the DNA into cells.
 
@@ -12924,10 +12945,14 @@ ES cells can be injected into mouse blastocysts and partially contribute to the 
 <a title="By Staff at NIMH's Transgenic Core Facility [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AChimericMouseWithPups.jpg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/ChimericMouseWithPups.jpg/512px-ChimericMouseWithPups.jpg" alt="ChimericMouseWithPups" width="512" /></a>
 Scientists can also overexpress or heterologously express foreign genes in what are termed <span style="color: #ff0000"><b>transgenic</b></span> organisms. As the name sounds, transgene refers to a gene from one place brought across into another.
 <a title="By Smartse [Kopimi], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ABreeding_transgenesis_cisgenesis.svg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Breeding_transgenesis_cisgenesis.svg/512px-Breeding_transgenesis_cisgenesis.svg.png" alt="Breeding transgenesis cisgenesis" width="512" /></a>
-Transgenic and KO models permit scientists to study the roles of genes inside the organism and understand basic functioning. While commercial organisms like GloFish are a novelty, directed insertion of GFP and the variants into the genome under different promoter systems allow scientists to understand the cell-specific functioning or contribution to the organism. An example of this can be found in developmental neurobiology where individual axons can be traced.
+Transgenic and KO models permit scientists to study the roles of genes inside the organism and understand basic functioning.
 
-[caption id="" align="aligncenter" width="512"]<a title="By Jeff W. Lichtman and Joshua R. Sanes [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ABrainbow_(Lichtman_2008).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Brainbow_%28Lichtman_2008%29.jpg" alt="Brainbow (Lichtman 2008)" width="512" height="252" /></a> <span style="font-size: small">A "brainbow" is a system where a cassette of GFP variant genes are placed downstream of neuronal promoter to permit the tracing of individual neurons and their axons in mice.</span>[/caption][caption id="" align="aligncenter" width="512"]<a title="By National Institutes of Health (https://www.flickr.com/photos/nihgov/29229314884/) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AYoung_zebrafish_brain.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Young_zebrafish_brain.jpg/512px-Young_zebrafish_brain.jpg" alt="Young zebrafish brain" width="512" height="361" /></a> <span style="font-size: small">Brain of a 10-day old double transgenic zebrafish. Blood vessels are shown in magenta (Kdrl:mcherry) and a novel population of perivascular endothelial cells are shown in  green (MRC1a:eGFP).</span>[/caption]&nbsp;
+Through mutagenesis, derivatives of the green fluorescent protein (GFP) have been produced to provide a palette of colors. Additionally, the subsequent discovery of similar genes from other cnidarian species have aided biotechnology by providing tracer molecules within developing organisms or within cells.
 
+[caption id="" align="aligncenter" width="512"]<a title="By Nathan Shaner (transferred from en:Image:FPbeachTsien.jpg) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AFPbeachTsien.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/FPbeachTsien.jpg/512px-FPbeachTsien.jpg" alt="FPbeachTsien" width="512" height="512" /></a> <span style="font-size: small">Bacteria expressing various GFP derivatives on agar from the lab of Nobel Laureate <span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="http://www.tsienlab.ucsd.edu/" target="_blank">Roger Tsien</a></span></span></span>.[/caption]While commercial organisms like GloFish are a novelty, directed insertion of GFP and the variants into the genome under different promoter systems allow scientists to understand the cell-specific functioning or contribution to the organism. An example of this can be found in developmental neurobiology where individual axons can be traced.
+
+[caption id="" align="aligncenter" width="512"]<a title="By Jeff W. Lichtman and Joshua R. Sanes [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ABrainbow_(Lichtman_2008).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Brainbow_%28Lichtman_2008%29.jpg" alt="Brainbow (Lichtman 2008)" width="512" height="252" /></a> <span style="font-size: small">A "brainbow" is a system where a cassette of GFP variant genes are placed downstream of neuronal promoter to permit the tracing of individual neurons and their axons in mice.</span>[/caption][caption id="" align="aligncenter" width="512"]<a title="By National Institutes of Health (https://www.flickr.com/photos/nihgov/29229314884/) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AYoung_zebrafish_brain.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Young_zebrafish_brain.jpg/512px-Young_zebrafish_brain.jpg" alt="Young zebrafish brain" width="512" height="361" /></a> <span style="font-size: small">Brain of a 10-day old double transgenic zebrafish. Blood vessels are shown in magenta (Kdrl:mcherry) and a novel population of perivascular endothelial cells are shown in  green (MRC1a:eGFP).</span>[/caption]
+<h4></h4>
 &nbsp;
 
 &nbsp;]]></content:encoded>
@@ -12937,7 +12962,7 @@ Transgenic and KO models permit scientists to study the roles of genes inside th
 		<wp:post_date_gmt><![CDATA[2015-09-14 23:25:49]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[genetically-modified-organisms-and-transgenesis]]></wp:post_name>
+		<wp:post_name><![CDATA[genetic-modification]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>21</wp:menu_order>
@@ -12958,7 +12983,7 @@ Transgenic and KO models permit scientists to study the roles of genes inside th
 	</item>
 	<item>
 		<title>GMO Food (activity)</title>
-		<link>http://openlab.citytech.cuny.edu/bio1-oer/genetically-modified-organisms-and-transgenesis/gmo-activity/</link>
+		<link>http://openlab.citytech.cuny.edu/bio1-oer/genetic-modification/gmo-activity/</link>
 		<pubDate>Mon, 14 Sep 2015 23:35:22 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=427</guid>
@@ -15223,7 +15248,7 @@ https://youtu.be/Ad-HCdo5flo
 	</item>
 	<item>
 		<title>Protein Production and Purification</title>
-		<link>http://openlab.citytech.cuny.edu/bio1-oer/genetically-modified-organisms-and-transgenesis/protein-production-and-purification/</link>
+		<link>http://openlab.citytech.cuny.edu/bio1-oer/genetic-modification/protein-production-and-purification/</link>
 		<pubDate>Sun, 20 Nov 2016 00:55:03 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=973</guid>
@@ -15233,17 +15258,23 @@ https://youtu.be/Ad-HCdo5flo
 
 Recombinant DNA technology has many uses in basic scientific research to better understand the nature of of living things. As a tool, recombinant DNA technology can be used to express proteins towards medical applications. Prior to biotechnology, type I diabetes (insulin-dependent) was treated by injection of insulin isolated from the pancreas of pigs. With the ability to express human proteins inside bacteria, yeast and other cells, sacrificing pigs for porcine insulin is no longer necessary.
 
-<a title="By Stewart EJ, Madden R, Paul G, Taddei F [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AE.-coli-growth.gif"><img class="alignright" src="https://upload.wikimedia.org/wikipedia/commons/2/27/E.-coli-growth.gif" alt="E.-coli-growth" width="64" /></a>Bacteria or other cells can be engineered to express proteins through the process of cloning and transformation. Bacteria are advantageous because of their rapid life cycle and ease of growth. A bacterial expression vector contains the basic plasmid features: origin of replication as well as antibiotic resistance gene. Often, an <strong><span style="color: #ff0000">affinity tag</span></strong> will be used to aid in purification of the protein. An example in the vector above shows the <span style="color: #ff0000"><strong>GST</strong></span> (glutathione-s-transferase) tag that can be purified with glutathione resin. Expression is only the first problem since bacteria are also synthesizing proteins that are required for the bacteria to grow and divide. Injecting these proteins in addition to insulin would cause an immune reaction that could be deadly. Therefore, it is required that overexpressed proteins be purified and isolated from other undesirable proteins.
-
-[caption id="" align="aligncenter" width="512"]<a title="By Miropiro, www.bioreactors.eu, www.bioreactor.ch (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AAutoclavable_bench-top_laboratory_bioreactor_%26_fermenter%2C_Lambda_MINIFOR.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Autoclavable_bench-top_laboratory_bioreactor_%26_fermenter%2C_Lambda_MINIFOR.jpg/512px-Autoclavable_bench-top_laboratory_bioreactor_%26_fermenter%2C_Lambda_MINIFOR.jpg" alt="Autoclavable bench-top laboratory bioreactor &amp; fermenter, Lambda MINIFOR" width="512" height="770" /></a> <span style="font-size: small">A bioreactor or fermenter that is used to grow large amounts of bacteria for the production of protein.</span>[/caption]
+<a title="By Stewart EJ, Madden R, Paul G, Taddei F [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AE.-coli-growth.gif"><img class="alignright" src="https://upload.wikimedia.org/wikipedia/commons/2/27/E.-coli-growth.gif" alt="E.-coli-growth" width="64" /></a>Bacteria or other cells can be engineered to express proteins through the <a href="propagating-dna-in-bacteria/3/" target="_blank">process of cloning</a> and transformation. Bacteria are advantageous because of their rapid life cycle and ease of growth. A bacterial expression vector contains the basic plasmid features: origin of replication as well as antibiotic resistance gene. Often, an <strong><span style="color: #ff0000">affinity tag</span></strong> will be used to aid in purification of the protein. An example in the vector above shows the <span style="color: #ff0000"><strong>GST</strong></span> (glutathione-s-transferase) tag that can be purified with glutathione resin. Expression is only the first problem since bacteria are also synthesizing proteins that are required for the bacteria to grow and divide. Injecting these proteins in addition to insulin would cause an immune reaction that could be deadly. Therefore, it is required that overexpressed proteins be purified and isolated from other undesirable proteins.
 <h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Criteria for Choosing an Expression System</span></h3>
 <img class="alignnone" src="https://github.com/jeremyseto/bio-oer/blob/master/figures/molecular/expression-table.png?raw=true" width="2467" height="1244" />
+Protein expression systems have inherent advantages and disadvantages. The table above summarizes the comparison of the various cellular systems of production (<a href="#expression-systems">Fernandez &amp; Hoeffler, 1999</a>).
 
-Protein purification systems have inherent advantages and disadvantages. The table above summarizes the comparison of the various cellular systems of production.
-<h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Purification</span></h3>
+[caption id="" align="aligncenter" width="512"]<a title="By Miropiro, www.bioreactors.eu, www.bioreactor.ch (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AAutoclavable_bench-top_laboratory_bioreactor_%26_fermenter%2C_Lambda_MINIFOR.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Autoclavable_bench-top_laboratory_bioreactor_%26_fermenter%2C_Lambda_MINIFOR.jpg/512px-Autoclavable_bench-top_laboratory_bioreactor_%26_fermenter%2C_Lambda_MINIFOR.jpg" alt="Autoclavable bench-top laboratory bioreactor &amp; fermenter, Lambda MINIFOR" width="512" height="770" /></a> <span style="font-size: small">A bioreactor or fermenter that is used to grow large amounts of bacteria for the production of protein.</span>[/caption]
+<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Purification</span></h2>
+Different methods of isolation can be applied depending on the properties of the protein. <span style="color: #ff0000"><strong>Ion exchange chromatography</strong></span> is useful if the protein of interest has a specific charge that will interact with a resin packed with the opposite charge.
+
 <a title="By No machine-readable author provided. Wobble assumed (based on copyright claims). [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AAffinity-column.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Affinity-column.png/256px-Affinity-column.png" alt="Affinity-column" width="256" /></a><a title="By Pdcook (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ANickel_resin.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Nickel_resin.jpg/256px-Nickel_resin.jpg" alt="Nickel resin" width="256" /></a>
-<span style="font-size: medium">Different methods of isolation can be applied depending on the properties of the protein. <strong><span style="color: #ff0000">Ion exchange chromatography</span></strong> is useful if the protein of interest has a specific charge that will interact with a resin packed with the opposite charge. <strong><span style="color: #ff0000">Affinity purification</span></strong> employs the use of specific antibodies that bind to the protein of interest very tightly to retain it on a column. With these techniques, the protein retained on the resin is washed numerous times to remove other proteins that are unspecifically sticking. A change in pH or ionic conditions then is used to disrupt the interaction with the resin and <span style="color: #ff0000"><b>elute</b></span> the proteins from the column. Proteins that are engineered to contain tags can be purified by antibodies specific to those tags. Also, the addition of 6 or more consecutive Histidine residues to the end of a protein make them susceptible to purification with Nickel-NTA resin or Cobalt purification. In these cases, the 6XHis tag associates with these metal ions on the resin and are selectively adhered.</span>
-<a title="By RaihaT (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 4.0-3.0-2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/4.0-3.0-2.5-2.0-1.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AProtein_Purification_MetalBinding.tif"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Protein_Purification_MetalBinding.tif/lossy-page1-800px-Protein_Purification_MetalBinding.tif.jpg" alt="Protein Purification MetalBinding" width="512" /></a>
+<h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Immunoprecipitation</span></h3>
+[caption id="" align="alignnone" width="2980"]<img class="" src="https://github.com/jeremyseto/bio-oer/blob/master/figures/molecular/immunoprecipitation.png?raw=true" width="2980" height="2050" /> <span style="font-size: small"> Immunoprecitation: Column is packed with Protein-A agarose which binds to antibodies. Cell lysates are then loaded onto the columns where they flow through and are allowed to interact with the antibody. Washes are performed to remove the non-specifically bound proteins. An elution buffer is used to disrupt the interaction of the antibody to the protein target.</span>[/caption]
+<h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Affinity Purification</span></h3>
+<strong><span style="color: #ff0000">Affinity purification</span></strong> employs the use of specific antibodies that bind to the protein of interest very tightly to retain it on a column. With these techniques, the protein retained on the resin is washed numerous times to remove other proteins that are non-specifically sticking. A change in pH or ionic conditions then is used to disrupt the interaction with the resin and <span style="color: #ff0000"><b>elute</b></span> the proteins from the column. Proteins that are engineered to contain tags can be purified by antibodies specific to those tags. Also, the addition of 6 or more consecutive Histidine residues to the end of a protein make them susceptible to purification with Nickel-NTA resin or Cobalt purification. In these cases, the 6XHis tag associates with these metal ions on the resin and are selectively adhered.
+
+[caption id="" align="aligncenter" width="512"]<a title="By Jeremy Seto Creative Commons With attribution Share-Alike" href="https://github.com/jeremyseto/bio-oer/blob/master/figures/molecular/nickel-NTA.png?raw=true"><img src="https://github.com/jeremyseto/bio-oer/blob/master/figures/molecular/nickel-NTA.png?raw=true" alt="Nickel NTA Protein Prification" width="512" height="676" /></a> <span style="font-size: small">Nickel NTA resin coordinating the capture of a 6His tagged protein</span>[/caption]
+<h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Size Exclusion</span></h3>
 <span style="font-size: medium">Most of you are familiar with water purification filters. Before using these filters, you soak them in water and dark residue leaks out. This dark residue is activated charcoal. The activated charcoal has tiny microscopic pores that trap small items like ions and other particles. The primary goal of these filters is to remove metals and chlorine that are found in tap water. The porous nature of activated charcoal renders it useful for trapping molecules in water purification systems .
 <a title="By Mydriatic (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AActivated_Charcoal.jpg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Activated_Charcoal.jpg/512px-Activated_Charcoal.jpg" alt="Activated Charcoal" width="512" /></a>The process used to trap these small particles is called <span style="color: #ff0000"><b>size exclusion</b></span>. Unlike agarose gel electrophoresis where the smaller particles navigate through the matrix faster, size exclusion resins trap the smaller molecules. </span>
 <a title="By Chem538grp2w09 (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APore_size_schematic.jpg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Pore_size_schematic.jpg" alt="Pore size schematic" width="256" /></a>
@@ -15255,7 +15286,7 @@ All injectible drugs must be clean of endotoxins from bacteria. Purification of 
 The horseshoe crab (<em>Limulus polyphemus</em>) performs a special function in the ecosystem by providing eggs for migratory birds to feed on. This organism also houses a special cell type in its hemolymph. The limulus amoebocyte lysate (<strong><span style="color: #ff0000">LAL</span></strong>) test is the most sensitive assay of detecting endotoxins from bacteria. Amoebocytes are collected from these organisms for use on testing batches of injectible drugs to ensure proper purification and safety.
 <h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">References</span></h2>
 <ul>
- 	<li>Joseph M. Fernandez and James P. Hoeffler. <a href="http://www.sciencedirect.com/science/article/pii/B9780122538407500018" target="_blank">Introduction: SO MANY POSSIBILITIES: HOW TO CHOOSE A SYSTEM TO ACHIEVE YOUR SPECIFIC GOAL, In Gene Expression Systems</a>. Academic Press, San Diego.  1999, Pages 1-5, ISBN 9780122538407. <a href="http://dx.doi.org/10.1016/B978-012253840-7/50001-8" target="_blank">http://dx.doi.org/10.1016/B978-012253840-7/50001-8</a>.</li>
+ 	<li><a id="expression-systems"></a>Joseph M. Fernandez and James P. Hoeffler. <a href="http://www.sciencedirect.com/science/article/pii/B9780122538407500018" target="_blank">Introduction: SO MANY POSSIBILITIES: HOW TO CHOOSE A SYSTEM TO ACHIEVE YOUR SPECIFIC GOAL, In Gene Expression Systems</a>. Academic Press, San Diego.  1999, Pages 1-5, ISBN 9780122538407. <a href="http://dx.doi.org/10.1016/B978-012253840-7/50001-8" target="_blank">http://dx.doi.org/10.1016/B978-012253840-7/50001-8</a>.</li>
 </ul>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>973</wp:post_id>
@@ -15286,40 +15317,58 @@ The horseshoe crab (<em>Limulus polyphemus</em>) performs a special function in
 			<wp:meta_key><![CDATA[_oembed_4b281674263d3873f0d5a1daca9c9467]]></wp:meta_key>
 			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_d76ee999d9366388742354f4ec69913f]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Protein Purification (activity)</title>
-		<link>http://openlab.citytech.cuny.edu/bio1-oer/genetically-modified-organisms-and-transgenesis/protein-production-and-purification/protein-purification-activity/</link>
+		<link>http://openlab.citytech.cuny.edu/bio1-oer/genetic-modification/protein-production-and-purification/protein-purification-activity/</link>
 		<pubDate>Sun, 20 Nov 2016 01:03:13 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=975</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2><span style="font-family: Arial, sans-serif">Size-exclusion of dye molecules</span></h2>
 As a demonstration, the instructor may illustrate the concept of size exclusion on a set of mixed food coloring.
-<a title="By quantockgoblin (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AColumn_chromatography_sequence.png"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Column_chromatography_sequence.png/512px-Column_chromatography_sequence.png" alt="Column chromatography sequence" width="512" /></a>
+
+[caption id="" align="aligncenter" width="600"]<img class="" src="https://github.com/jeremyseto/bio-oer/blob/master/figures/molecular/sizeexclusiondyes.png?raw=true" width="600" height="374" /> <span style="font-size: small">Size exclusion chromatography of food coloring</span>[/caption]
+<ol>
+ 	<li>Pack column with 3 ml sepharose slurry</li>
+ 	<li>Let the column empty over a beaker</li>
+ 	<li>Carefully load 0.2 ml of food coloring mixture onto the column</li>
+ 	<li>Place 10 tubes on a rack under the column</li>
+ 	<li>Place 1 ml buffer on column and collect 0.5 ml fractions</li>
+ 	<li>Continue to add buffer 1 ml at a time until all fractions have been collected</li>
+</ol>
 <h2><span style="font-family: Arial, sans-serif">Size-exclusion of Proteins</span></h2>
-This exercise seeks to purify Green Fluorescent Protein (GFP) or Blue Fluorescent Protein (BFP) from bacterial lysate. These proteins have a specific size of 238 amino acids and are 40,000 daltons (40kD). Based on their specific size, they will have a specific rate of migration through the size exclusion resin. Drops of fluid will be collected in fractions. The fractions containing the fluorescent proteins will be found only in specific fractions that will be visible under UV illumination.
+This exercise seeks to purify Green Fluorescent Protein (GFP) or Blue Fluorescent Protein (BFP) from bacterial lysate. These proteins have a specific size of 238 amino acids and are 40,000 daltons (40kD). Based on their specific size, they will have a specific rate of migration through the size exclusion resin. Remember that the bacterial lysate is full of additional proteins that are not your protein of interest that we are attempting to isolate.
+
+[caption id="" align="aligncenter" width="822"]<img class="" src="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/molecular/BFP-GFP-montage.png" width="822" height="1362" /> <span style="font-size: small"> 3D model of <span style="text-decoration: underline"><span style="color: #0000ff"><strong><a style="color: #0000ff;text-decoration: underline" href="http://www.rcsb.org/pdb/explore.do?structureId=1ema" target="_blank">GFP</a></strong></span></span> (Top Left), <span style="text-decoration: underline"><span style="color: #0000ff"><strong><a style="color: #0000ff;text-decoration: underline" href="http://www.rcsb.org/pdb/explore.do?structureId=1bfp" target="_blank">BFP</a></strong></span></span> (Top Right), structural alignment of GFP and BFP (Center) and the sequence alignment  (Bottom) illustrating the 3 amino acid changes to produce the alternative protein. Red asterisks indicate location of mutations.</span>[/caption]
+
+Drops of fluid will be collected in fractions. The fractions containing the fluorescent proteins will be found only in specific fractions that will be visible under UV illumination.
 <ol>
  	<li>Vertically mount the column on a ring stand. Make sure it is straight.</li>
- 	<li>Slide the cap onto the spout at the bottom of the column. Fill about one-third of the column with the elution buffer.</li>
+ 	<li>Slide the cap onto the spout at the bottom of the column.</li>
  	<li>Mix the slurry (molecular sieve) thoroughly by swirling or gently stirring.</li>
  	<li>Carefully pipet 2 ml of the mixed slurry into the column by letting it stream down the inside walls of the column.</li>
  	<li>Place an empty beaker under the column to collect wash buffer.</li>
  	<li>Remove the cap from the bottom of the column and allow the matrix to pack into the column.</li>
  	<li>Label eight microcentrifuge tubes #1-8.</li>
- 	<li>Slowly load the column with 0.2ml of the gfp extract. Allow the extract to completely enter the column.</li>
+ 	<li>Slowly load the column with 0.2ml of the GFP extract. Allow the extract to completely enter the column.</li>
  	<li>Add 1ml of elution buffer on top of resin without disturbing the resin</li>
 </ol>
 <ul>
 <ul>
  	<li>Add buffer slowly (several drops at a time) to avoid diluting the protein sample.</li>
  	<li>Using the graduated marks on the sides of the tubes, collect 0.5ml fractions in the labeled microcentrifuge tubes.</li>
+ 	<li>Continue to add 1ml buffer and collect fractions until all tubes are full</li>
 </ul>
 </ul>
 <ol start="10">
  	<li>Check all fractions by using long wave U.V. light to identify tubes that contain the fluorescent GFP or BFP proteins.</li>
  	<li>Further purification may be performed with a different resin with the few fractions containing the protein of interest</li>
- 	<li>Protein samples should be run on an acrylamide gel and stained against all proteins to check the purity of the sample</li>
+ 	<li>Protein samples should be run on an acrylamide gel and stained against all proteins to check the purity of the sample or fluorescence measurements taken</li>
 </ol>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>975</wp:post_id>
@@ -15336,8 +15385,16 @@ This exercise seeks to purify Green Fluorescent Protein (GFP) or Blue Fluorescen
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="post_tag" nicename="analysis"><![CDATA[analysis]]></category>
 		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_9bf61d65cd77d6ab896dc0c5f228eaae]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[975]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_87d57da2cbbddbff5d88489130c44ffb]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -15630,52 +15687,6 @@ While RFLPs can arise from SNPs, they may also be caused by the expansion or con
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[975]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>RFLP analysis</title>
-		<link>http://openlab.citytech.cuny.edu/bio1-oer/rflp-analysis__trashed/</link>
-		<pubDate>Mon, 21 Nov 2016 18:23:12 +0000</pubDate>
-		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
-		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=1006</guid>
-		<description></description>
-		<content:encoded><![CDATA[<a title="PaleWhaleGail at English Wikipedia [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ARFLPDemo1.gif"><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/RFLPDemo1.gif" alt="RFLPDemo1" width="256" /></a>
-
-<a title="By (unknown) (National Institutes of Health) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ARFLP_genotyping.gif"><img class="alignright" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/RFLP_genotyping.gif" alt="RFLP genotyping" width="256" /></a>
-
-<a title="By Phoenix_src (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ADNA_Profiling_-_RFLP_Analysis.svg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/DNA_Profiling_-_RFLP_Analysis.svg/512px-DNA_Profiling_-_RFLP_Analysis.svg.png" alt="DNA Profiling - RFLP Analysis" width="512" /></a>
-
-<a title="By Retama (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 4.0-3.0-2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/4.0-3.0-2.5-2.0-1.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ARFLP_mapping.svg"><img class="aligncenter" src="https://github.com/jeremyseto/bio-oer/blob/master/figures/RFLP_mapping.png?raw=true" alt="RFLP mapping" width="512" /></a>
-
-ggg]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1006</wp:post_id>
-		<wp:post_date><![CDATA[2016-11-21 13:23:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-11-21 18:23:12]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[rflp-analysis__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[bio1]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[975]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1479752665]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[rflp-analysis]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
