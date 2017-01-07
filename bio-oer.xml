@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.5.4" created="2016-11-21 14:19" -->
+<!-- generator="WordPress/4.5.4" created="2016-11-22 12:03" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Biology OER</title>
 	<link>http://openlab.citytech.cuny.edu/bio1-oer</link>
 	<description>Open Education Resources for General Biology 1 and Molecular &#38; Cell Biology</description>
-	<pubDate>Mon, 21 Nov 2016 14:19:35 +0000</pubDate>
+	<pubDate>Tue, 22 Nov 2016 12:03:54 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://openlab.citytech.cuny.edu/</wp:base_site_url>
@@ -6136,56 +6136,56 @@ In our lab, we look at some pond water. What do we see? Why is this significant?
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=22</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h2><strong><span style="color: #000000">Materials</span></strong></h2>
+		<content:encoded><![CDATA[<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif"><strong><span style="color: #000000">Materials</span></strong></span></h2>
 <table style="width: 682px" border="1" width="682" cellspacing="1" cellpadding="2">
 <tbody>
 <tr valign="top">
 <td width="333">
 <ul>
-	<li>
+ 	<li>
 <p class="western"><span style="color: #000000">potato juice</span></p>
 </li>
-	<li>
+ 	<li>
 <p class="western"><span style="color: #000000">apple juice</span></p>
 </li>
-	<li>
+ 	<li>
 <p class="western"><span style="color: #000000">urine sample 1</span></p>
 </li>
-	<li>
+ 	<li>
 <p class="western"><span style="color: #000000">urine sample 2</span></p>
 </li>
-	<li>
+ 	<li>
 <p class="western"><span style="color: #000000">reducing sugar solution</span></p>
 </li>
-	<li>
+ 	<li>
 <p class="western"><span style="color: #000000">starch solution</span></p>
 </li>
-	<li>
+ 	<li>
 <p class="western"><span style="color: #000000">Benedict's Reagent</span></p>
 </li>
 </ul>
 </td>
 <td width="333">
 <ul>
-	<li>
+ 	<li>
 <p class="western"><span style="color: #000000">Sucrose solution</span></p>
 </li>
-	<li>
+ 	<li>
 <p class="western"><span style="color: #000000">glucose solutions</span></p>
 </li>
-	<li>
+ 	<li>
 <p class="western"><span style="color: #000000">distilled water</span></p>
 </li>
-	<li>
+ 	<li>
 <p class="western"><span style="color: #000000">hot plates</span></p>
 </li>
-	<li>
+ 	<li>
 <p class="western"><span style="color: #000000">beakers of water</span></p>
 </li>
-	<li>
+ 	<li>
 <p class="western"><span style="color: #000000">test tubes</span></p>
 </li>
-	<li>
+ 	<li>
 <p class="western"><span style="color: #000000">test tube rack</span></p>
 </li>
 </ul>
@@ -6193,172 +6193,172 @@ In our lab, we look at some pond water. What do we see? Why is this significant?
 </tr>
 </tbody>
 </table>
-<h2 class="western"><span style="color: #000000"><b>Stop and Think</b>: </span></h2>
+<h2 class="western"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><b>Stop and Think</b>: </span></h2>
 <ul>
-	<li>
+ 	<li>
 <p class="western"><span style="color: #000000">Use your senses and previous observations/experiences about the qualities of the experimentals.</span></p>
 </li>
-	<li>
+ 	<li>
 <p class="western"><span style="color: #000000">Formulate some hypotheses about the carbohydrate content of the experimentals or unknowns.</span></p>
 
 <ul>
-	<li>
+ 	<li>
 <p class="western"><span style="color: #000000">Identify if the sample is experimental or <a href="https://en.wikipedia.org/wiki/Scientific_control#Controlled_experiments" target="_blank">control</a> before making hypothesis</span></p>
 </li>
 </ul>
 </li>
 </ul>
-<h2 class="western"><span style="font-size: medium;color: #000000"><b>QUESTION: <span style="color: #008000">Are there simple reducing sugars in my juice? Are there simple reducing sugars in my urine?</span></b></span></h2>
+<h2 class="western"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium;color: #000000"><b>QUESTION: <span style="color: #008000">Are there simple reducing sugars in my juice? Are there simple reducing sugars in my urine?</span></b></span></span></h2>
 <p class="western"><span style="color: #000000">Diabetes mellitus is a disease that refers to the inability of the cells to take in glucose. The word diabetes refers to urination and mellitus refers to sweetness. Since the cells of diabetics cannot remove glucose from the blood, there is an excess of glucose circulating that is eliminated in the urine. The traditional method of diagnosing someone with diabetes mellitus was to taste the sweetness of the patient's urine. Let's use Benedict's test for the detection process instead of the unhygienic alternative. </span></p>
 <p class="western"><span style="color: #000000">Make a hypothesis and ask what we would predict from a Benedict's test if testing a urine sample of someone with diabetes mellitus.</span></p>
 <p class="western"><span style="font-family: Arial, sans-serif;color: #008000"><b>Activity: Benedict's Test For Reducing Sugars</b></span></p>
 
 <ol>
-	<li>
+ 	<li>
 <p class="western"><span style="font-family: Arial, sans-serif;color: #000000">Obtain 9 test-tubes and number them 1-9.</span></p>
 </li>
-	<li>
+ 	<li>
 <p class="western"><span style="font-family: Arial, sans-serif;color: #000000">Add to each tube the materials to be tested. Your instructor may ask you to test some additional materials. If so, include additional numbered test tubes. </span></p>
 </li>
-	<li>
+ 	<li>
 <p class="western"><span style="font-family: Arial, sans-serif;color: #000000">Indicate in the table whether the the sample you are testing is positive control, a negative control or an experimental.</span></p>
 </li>
-	<li>
+ 	<li>
 <p class="western"><span style="font-family: Arial, sans-serif;color: #000000">Before you begin the heating of the samples, use predict the color change (if any) for each sample. (use the sample type to aid in your prediction)</span></p>
 </li>
-	<li>
+ 	<li>
 <p class="western"><span style="font-family: Arial, sans-serif;color: #000000">Add 2 ml Benedict's solution to each tube.</span></p>
 </li>
-	<li>
+ 	<li>
 <p class="western"><span style="font-family: Arial, sans-serif;color: #000000">Place all of the tubes in a boiling water bath for 3 min or until a noticeable color change and observe colors during this time.</span></p>
 </li>
-	<li>
+ 	<li>
 <p class="western"><span style="font-family: Arial, sans-serif;color: #000000">After 3 min, remove the tubes from the water bath and let them cool to room temperature. Record the color of their contents in the Table.</span></p>
 </li>
 </ol>
 <a href="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/06/boil.png"><img class="alignnone size-full wp-image-23" src="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/06/boil.png" alt="boil" width="1000" height="765" /></a>
 <p class="western" style="text-align: center"><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small"><b>Table:Solution And Color Reactions For Benedict’s Test For Reducing Sugars</b></span></span></span></p>
 
-<table width="604" cellspacing="0" cellpadding="7">
+<table style="width: 603px" cellspacing="0" cellpadding="7">
 <tbody>
 <tr valign="top">
-<td style="border-style: solid none solid solid;border-color: #000000 -moz-use-text-color #000000 #000000;border-width: 1pt medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="45" height="31">
+<td style="border-style: solid none solid solid;border-width: 1pt medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 49.4px" height="31">
 <p class="western" align="center"><span style="font-family: Arial, sans-serif"><span style="font-size: small"><b>TUBE</b></span></span></p>
 </td>
-<td style="border-style: solid none solid solid;border-color: #000000 -moz-use-text-color #000000 #000000;border-width: 1pt medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="155">
+<td style="border-style: solid none solid solid;border-width: 1pt medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 156.6px">
 <p class="western" align="center"><span style="font-family: Arial, sans-serif"><span style="font-size: small"><b>SOLUTION</b></span></span></p>
 </td>
-<td style="border-style: solid none solid solid;border-color: #000000 -moz-use-text-color #000000 #000000;border-width: 1pt medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="113">
+<td style="border-style: solid none solid solid;border-width: 1pt medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 117px">
 <p class="western" style="margin-bottom: 0in" align="center"><span style="font-family: Arial, sans-serif"><span style="font-size: small"><b>TYPE
 OF SAMPLE</b></span></span></p>
 <p class="western" style="font-weight: normal" align="center"><span style="font-family: Arial, sans-serif"><span style="font-size: small">(experimental,
 + control, - control)</span></span></p>
 </td>
-<td style="border-style: solid none solid solid;border-color: #000000 -moz-use-text-color #000000 #000000;border-width: 1pt medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="116">
+<td style="border-style: solid none solid solid;border-width: 1pt medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 121px">
 <p class="western" align="center"><span style="font-family: Arial, sans-serif"><span style="font-size: small"><b>HYPOTHESIZED COLOR</b></span></span></p>
 </td>
-<td style="border: 1pt solid #000000;padding: 0in 0.08in" width="103">
+<td style="border: 1pt solid #000000;padding: 0in 0.08in;width: 107px">
 <p class="western" align="center"><span style="font-family: Arial, sans-serif"><span style="font-size: small"><b>ACTUAL COLOR</b></span></span></p>
 </td>
 </tr>
 <tr valign="top">
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="45" height="15">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 49.4px" height="15">
 <p class="western" align="center"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small">1</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="155">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 156.6px">
 <p class="western"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small">10 drops apple juice</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="113"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="116"></td>
-<td style="border-style: none solid solid;border-color: -moz-use-text-color #000000 #000000;border-width: medium 1pt 1pt;padding: 0in 0.08in" width="103"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 117px"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 121px"></td>
+<td style="border-style: none solid solid;border-width: medium 1pt 1pt;padding: 0in 0.08in;width: 107px"></td>
 </tr>
 <tr valign="top">
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="45" height="6">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 49.4px" height="6">
 <p class="western" align="center"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small">2</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="155">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 156.6px">
 <p class="western"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small">10 drops potato juice</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="113"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="116"></td>
-<td style="border-style: none solid solid;border-color: -moz-use-text-color #000000 #000000;border-width: medium 1pt 1pt;padding: 0in 0.08in" width="103"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 117px"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 121px"></td>
+<td style="border-style: none solid solid;border-width: medium 1pt 1pt;padding: 0in 0.08in;width: 107px"></td>
 </tr>
 <tr valign="top">
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="45">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 49.4px">
 <p class="western" align="center"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small">3</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="155">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 156.6px">
 <p class="western"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small">10 drops sucrose solution</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="113"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="116"></td>
-<td style="border-style: none solid solid;border-color: -moz-use-text-color #000000 #000000;border-width: medium 1pt 1pt;padding: 0in 0.08in" width="103"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 117px"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 121px"></td>
+<td style="border-style: none solid solid;border-width: medium 1pt 1pt;padding: 0in 0.08in;width: 107px"></td>
 </tr>
 <tr valign="top">
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="45" height="6">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 49.4px" height="6">
 <p class="western" align="center"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small">4</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="155">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 156.6px">
 <p class="western"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small">10 drops glucose solution</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="113"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="116"></td>
-<td style="border-style: none solid solid;border-color: -moz-use-text-color #000000 #000000;border-width: medium 1pt 1pt;padding: 0in 0.08in" width="103"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 117px"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 121px"></td>
+<td style="border-style: none solid solid;border-width: medium 1pt 1pt;padding: 0in 0.08in;width: 107px"></td>
 </tr>
 <tr valign="top">
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="45" height="7">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 49.4px" height="7">
 <p class="western" align="center"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small">5</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="155">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 156.6px">
 <p class="western"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small">10 drops distilled water</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="113"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="116"></td>
-<td style="border-style: none solid solid;border-color: -moz-use-text-color #000000 #000000;border-width: medium 1pt 1pt;padding: 0in 0.08in" width="103"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 117px"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 121px"></td>
+<td style="border-style: none solid solid;border-width: medium 1pt 1pt;padding: 0in 0.08in;width: 107px"></td>
 </tr>
 <tr valign="top">
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="45" height="15">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 49.4px" height="15">
 <p class="western" align="center"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small">6</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="155">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 156.6px">
 <p class="western"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small">10 drops reducing-sugar solution</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="113"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="116"></td>
-<td style="border-style: none solid solid;border-color: -moz-use-text-color #000000 #000000;border-width: medium 1pt 1pt;padding: 0in 0.08in" width="103"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 117px"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 121px"></td>
+<td style="border-style: none solid solid;border-width: medium 1pt 1pt;padding: 0in 0.08in;width: 107px"></td>
 </tr>
 <tr valign="top">
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="45" height="13">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 49.4px" height="13">
 <p class="western" align="center"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small">7</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="155">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 156.6px">
 <p class="western"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small">10 drops starch solution</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="113"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="116"></td>
-<td style="border-style: none solid solid;border-color: -moz-use-text-color #000000 #000000;border-width: medium 1pt 1pt;padding: 0in 0.08in" width="103"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 117px"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 121px"></td>
+<td style="border-style: none solid solid;border-width: medium 1pt 1pt;padding: 0in 0.08in;width: 107px"></td>
 </tr>
 <tr valign="top">
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="45" height="13">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 49.4px" height="13">
 <p class="western" align="center"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small">8</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="155">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 156.6px">
 <p class="western"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small">10 drops Urine sample 1</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="113"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="116"></td>
-<td style="border-style: none solid solid;border-color: -moz-use-text-color #000000 #000000;border-width: medium 1pt 1pt;padding: 0in 0.08in" width="103"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 117px"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 121px"></td>
+<td style="border-style: none solid solid;border-width: medium 1pt 1pt;padding: 0in 0.08in;width: 107px"></td>
 </tr>
 <tr valign="top">
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="45" height="11">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 49.4px" height="11">
 <p class="western" align="center"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small">9</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="155">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 156.6px">
 <p class="western"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small">10 drops Urine sample 2</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="113"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="116"></td>
-<td style="border-style: none solid solid;border-color: -moz-use-text-color #000000 #000000;border-width: medium 1pt 1pt;padding: 0in 0.08in" width="103"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 117px"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 121px"></td>
+<td style="border-style: none solid solid;border-width: medium 1pt 1pt;padding: 0in 0.08in;width: 107px"></td>
 </tr>
 </tbody>
 </table>
@@ -6366,184 +6366,157 @@ OF SAMPLE</b></span></span></p>
 <p class="western"><span style="font-family: Arial, sans-serif;color: #000000"><b>Iodine Test for Starch</b></span></p>
 
 
-[caption id="attachment_25" align="alignleft" width="300" class=" "]<a href="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/06/storage-carbs.png"><img class="wp-image-25 size-medium" src="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/06/storage-carbs-300x250.png" alt="storage-carbs" width="300" height="250" /></a> <span style="color: #000000">Plants store carbohydrates as a simple repeating polymer of glucose called starch. Amylose is a type of starch. Animal cells store glucose into a storage polymer called glycogen which is slightly more complicated than amylose.</span>[/caption]
-<p class="western" align="justify"><span style="color: #000000"><span style="font-family: Arial, sans-serif">Carbohydrates that are used for energy storage are not reducing sugars since they are polymers that lack free aldehydes. Plant cells store energy in the form of starches like amylose or pectin. Since these molecules are larger than monosaccharides or disaccharides, they are not sweet to the taste and are not very soluble in water.</span></span><b> </b><span style="color: #ff0000"><span style="font-family: Arial, sans-serif"><b>Iodine</b></span></span><span style="color: #000000"><span style="font-family: Arial, sans-serif"> (iodine-potassium iodide, I</span></span><span style="color: #000000"><sub><span style="font-family: Arial, sans-serif">2</span></sub></span><span style="color: #000000"><span style="font-family: Arial, sans-serif">KI) staining distinguishes starch from monosaccharides, disaccharides, and other polysaccharides. The basis for this test is that starch is a coiled polymer of glucose --- iodine interacts with these coiled molecules and becomes bluish black. Iodine does not react with other carbohydrates that are not coiled, and remains yellowish brown. Therefore, a <span style="color: #000080">bluish black color</span> is a positive test for starch, and a <span style="color: #ffcc00">yellowish brown</span> color (i.e., no color change) is a negative test for starch. Notably, glycogen, a common energy storage polysaccharide in animals, has a slightly different structure than does starch and produces only an intermediate color reaction.</span></span></p>
+[caption id="attachment_25" align="alignleft" width="300" class=" "]<a href="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/06/storage-carbs.png"><img class="wp-image-25 size-medium" src="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/06/storage-carbs-300x250.png" alt="storage-carbs" width="300" height="250" /></a> <span style="font-size: small">Plants store carbohydrates as a simple repeating polymer of glucose called starch. Amylose is a type of starch. Animal cells store glucose into a storage polymer called glycogen which is slightly more complicated than amylose.</span>[/caption]
+
+<span style="color: #000000"><span style="font-family: Arial, sans-serif">Carbohydrates that are used for energy storage are not reducing sugars since they are polymers that lack free aldehydes. Plant cells store energy in the form of starches like amylose or pectin. Since these molecules are larger than monosaccharides or disaccharides, they are not sweet to the taste and are not very soluble in water.</span></span><b> </b><span style="color: #ff0000"><span style="font-family: Arial, sans-serif"><b>Iodine</b></span></span><span style="color: #000000"><span style="font-family: Arial, sans-serif"> (iodine-potassium iodide, I</span></span><span style="color: #000000"><sub><span style="font-family: Arial, sans-serif">2</span></sub></span><span style="color: #000000"><span style="font-family: Arial, sans-serif">KI) staining distinguishes starch from monosaccharides, disaccharides, and other polysaccharides. The basis for this test is that starch is a coiled polymer of glucose --- iodine interacts with these coiled molecules and becomes bluish black. Iodine does not react with other carbohydrates that are not coiled, and remains yellowish brown. Therefore, a <span style="color: #000080">bluish black color</span> is a positive test for starch, and a <span style="color: #ffcc00">yellowish brown</span> color (i.e., no color change) is a negative test for starch. Notably, glycogen, a common energy storage polysaccharide in animals, has a slightly different structure than does starch and produces only an intermediate color reaction.</span></span>
 <p class="western"><span style="font-family: Arial, sans-serif;color: #008000"><b>Activity: Iodine Test For Starch</b></span></p>
 
 <ol>
-	<li>
-<p class="western" align="justify"><span style="font-family: Arial, sans-serif;color: #000000">Obtain 7 test-tubes and number them 1-7. </span></p>
-</li>
-	<li>
-<p class="western" align="justify"><span style="font-family: Arial, sans-serif;color: #000000">Hypothesis Testing: </span><span style="color: #000000">Indicate in the table if the sample is experimental or control. Predict your expected color changes for each sample.</span></p>
-</li>
-	<li>
-<p class="western" align="justify"><span style="font-family: Arial, sans-serif;color: #000000">Add to each tube the materials to be tested as indicated in the table below. Your instructor may ask you to test some additional materials. If so, include additional numbered test tubes.</span></p>
-</li>
-	<li>
-<p class="western" align="justify"><span style="font-family: Arial, sans-serif;color: #000000">Add 5 drops of iodine to each tube. This test does <strong>NOT</strong> require boiling.</span></p>
-</li>
-	<li>
-<p class="western" align="justify"><span style="font-family: Arial, sans-serif;color: #000000">Record the color of the tubes' contents in the table below.</span></p>
-</li>
+ 	<li><span style="font-family: Arial, sans-serif;color: #000000">Obtain 7 test-tubes and number them 1-7. </span></li>
+ 	<li><span style="font-family: Arial, sans-serif;color: #000000">Hypothesis Testing: </span><span style="color: #000000">Indicate in the table if the sample is experimental or control. Predict your expected color changes for each sample.</span></li>
+ 	<li><span style="font-family: Arial, sans-serif;color: #000000">Add to each tube the materials to be tested as indicated in the table below. Your instructor may ask you to test some additional materials. If so, include additional numbered test tubes.</span></li>
+ 	<li><span style="font-family: Arial, sans-serif;color: #000000">Add 5 drops of iodine to each tube. This test does <strong>NOT</strong> require boiling.</span></li>
+ 	<li><span style="font-family: Arial, sans-serif;color: #000000">Record the color of the tubes' contents in the table below.</span></li>
 </ol>
 <p class="western" style="text-align: center"><span style="font-family: Arial, sans-serif;color: #000000"><span style="font-size: small"><b>Table: Solution And Color Reactions For Iodine Test For Starch</b></span></span></p>
 
-<dl><dd>
-<table style="width: 594px" border="1" width="594" cellspacing="0" cellpadding="7">
+<dl>
+ 	<dd>
+<table style="width: 592px" border="1" cellspacing="0" cellpadding="7">
 <tbody>
 <tr valign="top">
-<td style="border-style: solid none solid solid;border-color: #000000 -moz-use-text-color #000000 #000000;border-width: 1pt medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="41" height="31">
+<td style="border-style: solid none solid solid;border-width: 1pt medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 44.4px" height="31">
 <p class="western" align="center"><span style="font-family: Arial, sans-serif"><span style="font-size: small"><b>TUBE</b></span></span></p>
 </td>
-<td style="border-style: solid none solid solid;border-color: #000000 -moz-use-text-color #000000 #000000;border-width: 1pt medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="168">
+<td style="border-style: solid none solid solid;border-width: 1pt medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 169.6px">
 <p class="western" align="center"><span style="font-family: Arial, sans-serif"><span style="font-size: small"><b>SOLUTION</b></span></span></p>
 </td>
-<td style="border-style: solid none solid solid;border-color: #000000 -moz-use-text-color #000000 #000000;border-width: 1pt medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="108">
+<td style="border-style: solid none solid solid;border-width: 1pt medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 112px">
 <p class="western" style="margin-bottom: 0in" align="center"><span style="font-family: Arial, sans-serif"><span style="font-size: small"><b>TYPE
 OF SAMPLE</b></span></span></p>
 <p class="western" style="font-weight: normal" align="center"><span style="font-family: Arial, sans-serif"><span style="font-size: small">(experimental,
 + control, - control)</span></span></p>
 </td>
-<td style="border-style: solid none solid solid;border-color: #000000 -moz-use-text-color #000000 #000000;border-width: 1pt medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="108">
+<td style="border-style: solid none solid solid;border-width: 1pt medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 112px">
 <p class="western" align="center"><span style="font-family: Arial, sans-serif"><span style="font-size: small"><b>HYPOTHESIZED
 COLOR</b></span></span></p>
 </td>
-<td style="border: 1pt solid #000000;padding: 0in 0.08in" width="98">
+<td style="border: 1pt solid #000000;padding: 0in 0.08in;width: 102px">
 <p class="western" align="center"><span style="font-family: Arial, sans-serif"><span style="font-size: small"><b>Iodine
 Starch Test</b></span></span></p>
 </td>
 </tr>
 <tr valign="top">
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="41" height="12">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 44.4px" height="12">
 <p class="western" align="center"><span style="font-family: Arial, sans-serif"><span style="font-size: small">1</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="168">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 169.6px">
 <p class="western"><span style="font-family: Arial, sans-serif"><span style="font-size: small">20 drops apple juice</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="108"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="108"></td>
-<td style="border-style: none solid solid;border-color: -moz-use-text-color #000000 #000000;border-width: medium 1pt 1pt;padding: 0in 0.08in" width="98"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 112px"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 112px"></td>
+<td style="border-style: none solid solid;border-width: medium 1pt 1pt;padding: 0in 0.08in;width: 102px"></td>
 </tr>
 <tr valign="top">
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="41" height="11">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 44.4px" height="11">
 <p class="western" align="center"><span style="font-family: Arial, sans-serif"><span style="font-size: small">2</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="168">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 169.6px">
 <p class="western"><span style="font-family: Arial, sans-serif"><span style="font-size: small">20 drops potato juice</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="108"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="108"></td>
-<td style="border-style: none solid solid;border-color: -moz-use-text-color #000000 #000000;border-width: medium 1pt 1pt;padding: 0in 0.08in" width="98"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 112px"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 112px"></td>
+<td style="border-style: none solid solid;border-width: medium 1pt 1pt;padding: 0in 0.08in;width: 102px"></td>
 </tr>
 <tr valign="top">
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="41" height="14">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 44.4px" height="14">
 <p class="western" align="center"><span style="font-family: Arial, sans-serif"><span style="font-size: small">3</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="168">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 169.6px">
 <p class="western"><span style="font-family: Arial, sans-serif"><span style="font-size: small">20 drops sucrose solution</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="108"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="108"></td>
-<td style="border-style: none solid solid;border-color: -moz-use-text-color #000000 #000000;border-width: medium 1pt 1pt;padding: 0in 0.08in" width="98"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 112px"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 112px"></td>
+<td style="border-style: none solid solid;border-width: medium 1pt 1pt;padding: 0in 0.08in;width: 102px"></td>
 </tr>
 <tr valign="top">
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="41" height="11">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 44.4px" height="11">
 <p class="western" align="center"><span style="font-family: Arial, sans-serif"><span style="font-size: small">4</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="168">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 169.6px">
 <p class="western"><span style="font-family: Arial, sans-serif"><span style="font-size: small">20 drops glucose solution</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="108"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="108"></td>
-<td style="border-style: none solid solid;border-color: -moz-use-text-color #000000 #000000;border-width: medium 1pt 1pt;padding: 0in 0.08in" width="98"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 112px"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 112px"></td>
+<td style="border-style: none solid solid;border-width: medium 1pt 1pt;padding: 0in 0.08in;width: 102px"></td>
 </tr>
 <tr valign="top">
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="41" height="13">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 44.4px" height="13">
 <p class="western" align="center"><span style="font-family: Arial, sans-serif"><span style="font-size: small">5</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="168">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 169.6px">
 <p class="western"><span style="font-family: Arial, sans-serif"><span style="font-size: small">20 drops distilled water</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="108"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="108"></td>
-<td style="border-style: none solid solid;border-color: -moz-use-text-color #000000 #000000;border-width: medium 1pt 1pt;padding: 0in 0.08in" width="98"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 112px"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 112px"></td>
+<td style="border-style: none solid solid;border-width: medium 1pt 1pt;padding: 0in 0.08in;width: 102px"></td>
 </tr>
 <tr valign="top">
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="41" height="28">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 44.4px" height="28">
 <p class="western" align="center"><span style="font-family: Arial, sans-serif"><span style="font-size: small">6</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="168">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 169.6px">
 <p class="western"><span style="font-family: Arial, sans-serif"><span style="font-size: small">20 drops reducing-sugar solution</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="108"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="108"></td>
-<td style="border-style: none solid solid;border-color: -moz-use-text-color #000000 #000000;border-width: medium 1pt 1pt;padding: 0in 0.08in" width="98"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 112px"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 112px"></td>
+<td style="border-style: none solid solid;border-width: medium 1pt 1pt;padding: 0in 0.08in;width: 102px"></td>
 </tr>
 <tr valign="top">
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="41" height="14">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 44.4px" height="14">
 <p class="western" align="center"><span style="font-family: Arial, sans-serif"><span style="font-size: small">7</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="168">
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 169.6px">
 <p class="western"><span style="font-family: Arial, sans-serif"><span style="font-size: small">20 drops starch solution</span></span></p>
 </td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="108"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in" width="108"></td>
-<td style="border-style: none solid solid;border-color: -moz-use-text-color #000000 #000000;border-width: medium 1pt 1pt;padding: 0in 0.08in" width="98"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 112px"></td>
+<td style="border-style: none none solid solid;border-width: medium medium 1pt 1pt;padding: 0in 0in 0in 0.08in;width: 112px"></td>
+<td style="border-style: none solid solid;border-width: medium 1pt 1pt;padding: 0in 0.08in;width: 102px"></td>
 </tr>
 </tbody>
 </table>
-</dd></dl>
-<h2 class="western" align="justify"><span style="font-size: medium;color: #000000"><b>Questions:</b></span></h2>
+</dd>
+</dl>
+<h2 class="western" align="justify"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium;color: #000000"><b>Questions:</b></span></span></h2>
 <ol>
-	<li>
-<p class="western" align="justify"><span style="font-family: Arial, sans-serif;color: #000000">In the Benedict’s test, which of the solutions is a positive control? Which is a negative control?</span></p>
-</li>
+ 	<li><span style="font-family: Arial, sans-serif;color: #000000">In the Benedict’s test, which of the solutions is a positive control? Which is a negative control?</span></li>
 </ol>
 <ol start="2">
-	<li>
-<p class="western" align="justify"><span style="font-family: Arial, sans-serif;color: #000000">Which is a reducing sugar, sucrose or glucose?</span></p>
-</li>
+ 	<li><span style="font-family: Arial, sans-serif;color: #000000">Which is a reducing sugar, sucrose or glucose?</span></li>
 </ol>
 <ol start="3">
-	<li>
-<p class="western" align="justify"><span style="font-family: Arial, sans-serif;color: #000000">Which contains more reducing sugars, potato juice or onion juice?</span></p>
-</li>
+ 	<li><span style="font-family: Arial, sans-serif;color: #000000">Which contains more reducing sugars, potato juice or onion juice?</span></li>
 </ol>
 <ol start="4">
-	<li>
-<p class="western" align="justify"><span style="font-family: Arial, sans-serif;color: #000000">Is there a difference between the storage of sugars in onions and potatoes?</span></p>
-</li>
+ 	<li><span style="font-family: Arial, sans-serif;color: #000000">Is there a difference between the storage of sugars in onions and potatoes?</span></li>
 </ol>
 <ol start="5">
-	<li>
-<p class="western" align="justify"><span style="font-family: Arial, sans-serif;color: #000000">Which patient sample likely comes from a diabetic patient and how do we know this?</span></p>
-</li>
+ 	<li><span style="font-family: Arial, sans-serif;color: #000000">Which patient sample likely comes from a diabetic patient and how do we know this?</span></li>
 </ol>
 <ol start="6">
-	<li>
-<p class="western" align="justify"><span style="font-family: Arial, sans-serif;color: #000000">In the Iodine test, which of the solutions is a positive control? Which is a negative control?</span></p>
-</li>
+ 	<li><span style="font-family: Arial, sans-serif;color: #000000">In the Iodine test, which of the solutions is a positive control? Which is a negative control?</span></li>
 </ol>
 <ol start="7">
-	<li>
-<p class="western" align="justify"><span style="font-family: Arial, sans-serif;color: #000000">Which is more positive for the iodine test: onion juice or potato juice?</span></p>
-</li>
+ 	<li><span style="font-family: Arial, sans-serif;color: #000000">Which is more positive for the iodine test: onion juice or potato juice?</span></li>
 </ol>
 <ol start="8">
-	<li>
-<p class="western" align="justify"><span style="font-family: Arial, sans-serif;color: #000000">What can you infer about the storage of carbohydrates in onions? In potatoes?</span></p>
-</li>
+ 	<li><span style="font-family: Arial, sans-serif;color: #000000">What can you infer about the storage of carbohydrates in onions? In potatoes?</span></li>
 </ol>
 <ol start="9">
-	<li>
-<p class="western" align="justify"><span style="color: #000000"><span style="font-family: Arial, sans-serif">Describe the half reaction </span><span style="font-family: Arial, sans-serif"><b>Cu</b></span><sup><span style="font-family: Arial, sans-serif"><b>2+</b></span></sup><span style="font-family: Arial, sans-serif"> → </span><span style="font-family: Arial, sans-serif"><b>Cu</b></span><sup><span style="font-family: Arial, sans-serif"><b>+</b></span></sup><span style="font-family: Arial, sans-serif"> as oxidation or reduction.</span></span></p>
-</li>
+ 	<li><span style="color: #000000"><span style="font-family: Arial, sans-serif">Describe the half reaction </span><span style="font-family: Arial, sans-serif"><b>Cu</b></span><sup><span style="font-family: Arial, sans-serif"><b>2+</b></span></sup><span style="font-family: Arial, sans-serif"> → </span><span style="font-family: Arial, sans-serif"><b>Cu</b></span><sup><span style="font-family: Arial, sans-serif"><b>+</b></span></sup><span style="font-family: Arial, sans-serif"> as oxidation or reduction.</span></span></li>
 </ol>
 <ol start="10">
-	<li>
-<p class="western" align="justify"><span style="color: #000000"><span style="font-family: Arial, sans-serif">Describe the half reaction </span><span style="font-family: Arial, sans-serif"><b>Cu</b></span><sup><span style="font-family: Arial, sans-serif"><b>+</b></span></sup><span style="font-family: Arial, sans-serif"> → </span><span style="font-family: Arial, sans-serif"><b>Cu</b></span><span style="font-family: Arial, sans-serif"> as oxidation or reduction.</span></span></p>
-</li>
+ 	<li><span style="color: #000000"><span style="font-family: Arial, sans-serif">Describe the half reaction </span><span style="font-family: Arial, sans-serif"><b>Cu</b></span><sup><span style="font-family: Arial, sans-serif"><b>+</b></span></sup><span style="font-family: Arial, sans-serif"> → </span><span style="font-family: Arial, sans-serif"><b>Cu</b></span><span style="font-family: Arial, sans-serif"> as oxidation or reduction.</span></span></li>
 </ol>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>22</wp:post_id>
@@ -9539,147 +9512,152 @@ The NYCCT General Biology 1 Lab will follow the sequence below:
 <table style="width: 638px" border="2" width="638" cellspacing="0" cellpadding="7"><colgroup> <col width="65" /> <col width="545" /> </colgroup>
 <tbody>
 <tr valign="top">
-<td bgcolor="#ffffff" width="65"><span style="font-family: Arial, sans-serif"><span style="font-size: medium"><u><b>WEEK</b></u> </span></span></td>
-<td bgcolor="#ffffff" width="545"><span style="font-family: Arial, sans-serif"><span style="font-size: medium"><u><b>EXERCISE</b></u> </span></span></td>
+<td bgcolor="#ffffff" width="65"><u><b>WEEK</b></u></td>
+<td bgcolor="#ffffff" width="545"><u><b>EXERCISE</b></u></td>
 </tr>
 <tr valign="top">
-<td bgcolor="#ffffff" width="65"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">I </span></span></td>
+<td bgcolor="#ffffff" width="65"><span style="font-family: 'Liberation Sans', Arial, sans-serif">I </span></td>
 <td bgcolor="#ffffff" width="545">
 <ul>
- 	<li> <strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="microscopy" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Microscope</span></span></a></u></span></strong> : Basics</li>
- 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="biology-basics" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Scientific Method</span></span></a></u> </strong></span></li>
- 	<li><strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="reporting-on-science" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Reporting in Science</span></span></a></u> </span></strong></li>
+ 	<li> <strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="microscopy" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Microscope</span></a></u></span></strong> : Basics</li>
+ 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="biology-basics" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Scientific Method</span></a></u></strong></span></li>
+ 	<li><strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="reporting-on-science" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Reporting in Science</span></a></u></span> </strong></li>
 </ul>
 </td>
 </tr>
 <tr valign="top">
-<td bgcolor="#ffffff" width="65" height="9"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">II </span></span></td>
-<td bgcolor="#ffffff" width="545"><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="chromatography" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Chromatography</span></span></a></u></strong></span>
+<td bgcolor="#ffffff" width="65" height="9"><span style="font-family: 'Liberation Sans', Arial, sans-serif">II </span></td>
+<td bgcolor="#ffffff" width="545"><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="chromatography" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Chromatography</span></a></u></strong></span>
 <ul>
- 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Measurements</span></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">in</span></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Science:</span></span> <strong><span style="color: #0000ff"><a class="western" style="color: #0000ff" href="units-of-measure" target="_blank"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Metric</span></span></u><u> </u><u><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">System</span></span></u></a></span></strong></li>
- 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="quantitative-skills" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Quantitative Skills</span></span></a></u> </strong></span></li>
+ 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif">Measurements</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif">in</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif">Science:</span> <strong><span style="color: #0000ff"><a class="western" style="color: #0000ff" href="units-of-measure" target="_blank"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif">Metric</span></u></a></span><u> </u><u><span style="font-family: 'Liberation Sans', Arial, sans-serif">System</span></u></strong></li>
+ 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="quantitative-skills" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Quantitative Skills</span></a></u></strong></span></li>
 </ul>
 </td>
 </tr>
 <tr valign="top">
-<td bgcolor="#ffffff" width="65" height="5"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">III </span></span></td>
-<td bgcolor="#ffffff" width="545"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Chemistry of Water</span></span></span>
+<td bgcolor="#ffffff" width="65" height="5"><span style="font-family: 'Liberation Sans', Arial, sans-serif">III </span></td>
+<td bgcolor="#ffffff" width="545"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Chemistry of Water</span></span>
 <ul>
- 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="chemistry" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Atoms</span></span></a></u> </strong></span></li>
- 	<li><strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="water" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Water</span></span></a></u> </span></strong></li>
- 	<li><strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="ph" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">pH</span></span></a></u></span></strong><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">: Acids, Bases and Buffers (</span></span><strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="ph-activity" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">activity</span></span></a></u></span></strong><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">) </span></span></li>
+ 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="chemistry" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Atoms</span></a></u></strong></span></li>
+ 	<li><strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="water" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Water</span></a></u></span> </strong></li>
+ 	<li><strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="ph" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">pH</span></a></u></span></strong><span style="font-family: 'Liberation Sans', Arial, sans-serif">: Acids, Bases and Buffers (</span><strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="ph-activity" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">activity</span></a></u></span></strong><span style="font-family: 'Liberation Sans', Arial, sans-serif">) </span></li>
 </ul>
 </td>
 </tr>
 <tr valign="top">
-<td bgcolor="#ffffff" width="65"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">IV </span></span></td>
-<td bgcolor="#ffffff" width="545"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Biologically</span></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Important</span></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Molecules</span></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">I:</span></span> <span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="carbohydrates" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Carbohydrates</span></span></a></u></strong></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">&amp;</span></span> <span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="lipids" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Lipids</span></span></a></u></strong></span>
+<td bgcolor="#ffffff" width="65"><span style="font-family: 'Liberation Sans', Arial, sans-serif">IV </span></td>
+<td bgcolor="#ffffff" width="545"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Biologically</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif">Important</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif">Molecules</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif">I:</span> <span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="carbohydrates" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Carbohydrates</span></a></u></strong></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif">&amp;</span> <span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="lipids" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Lipids</span></a></u></strong></span>
 <ul>
- 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="biologically-important-macromolecules" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Basic Organic Chemistry</span></span></a></u> </strong></span></li>
- 	<li><strong><a href="detection-of-reducing-sugars-activity" target="_blank"><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Carbohydrates Activity</span></span></u> </span></a></strong></li>
+ 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="biologically-important-macromolecules" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Basic Organic Chemistry</span></a></u></strong></span></li>
+ 	<li><strong><a href="detection-of-reducing-sugars-activity" target="_blank"><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif">Carbohydrates Activity</span></u></span> </a></strong></li>
 </ul>
 </td>
 </tr>
 <tr valign="top">
-<td bgcolor="#ffffff" width="65"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">V </span></span></td>
-<td bgcolor="#ffffff" width="545"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Biologically</span></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Important</span></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Molecules</span></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">II:</span></span> <strong><a href="proteins" target="_blank"><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Proteins</span></span></u></span></a></strong><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium"> &amp;</span></span> <strong><a href="nucleic-acids" target="_blank"><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Nucleic</span></span></u></span><u> </u><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Acids</span></span></u></span></a></strong>
+<td bgcolor="#ffffff" width="65"><span style="font-family: 'Liberation Sans', Arial, sans-serif">V </span></td>
+<td bgcolor="#ffffff" width="545"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Biologically</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif">Important</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif">Molecules</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif">II:</span> <strong><a href="proteins" target="_blank"><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif">Proteins</span></u></span></a></strong><span style="font-family: 'Liberation Sans', Arial, sans-serif"> &amp;</span> <strong><a href="nucleic-acids" target="_blank"><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif">Nucleic</span></u></span><u> </u><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif">Acids</span></u></span></a></strong>
 <ul>
- 	<li><strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="protein-detection" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Protein Activity</span></span></a></u> </span></strong></li>
- 	<li><strong><span style="text-decoration: underline;color: #0000ff"><a style="color: #0000ff" href="nucleic-acids-dna-extraction-and-disches-diphenylamine-test-activity" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Purification of DNA, Dische’s Test</span></span></a></span></strong></li>
- 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Review (</span></span><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="biological-macromolecules-concept" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">concept map</span></span></a></u></strong></span><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">) </span></span></li>
+ 	<li><strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="protein-detection" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Protein Activity</span></a></u></span> </strong></li>
+ 	<li><strong><span style="text-decoration: underline;color: #0000ff"><a style="color: #0000ff" href="nucleic-acids-dna-extraction-and-disches-diphenylamine-test-activity" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Purification of DNA, Dische’s Test</span></a></span></strong></li>
+ 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif">Review (</span><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="biological-macromolecules-concept" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">concept map</span></a></u></strong></span><span style="font-family: 'Liberation Sans', Arial, sans-serif">) </span></li>
 </ul>
 </td>
 </tr>
 <tr valign="top">
-<td bgcolor="#ffffff" width="65"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">VI </span></span></td>
-<td bgcolor="#ffffff" width="545"><strong><a class="western" href="quantitative-determination" target="_blank"><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Quantitative</span></span></u></span><u> </u><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Determination</span></span></u></span></a></strong> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">of</span></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Proteins</span></span></span>
+<td bgcolor="#ffffff" width="65"><span style="font-family: 'Liberation Sans', Arial, sans-serif">VI </span></td>
+<td bgcolor="#ffffff" width="545"><strong><a class="western" href="quantitative-determination" target="_blank"><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif">Quantitative</span></u></span><u> </u><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif">Determination</span></u></span></a></strong> <span style="font-family: 'Liberation Sans', Arial, sans-serif">of</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Proteins</span></span>
 <ul>
- 	<li><strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="exploring-beers-law-virtual" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Beer's Law</span></span></a></u></span></strong><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium"> (virtual) </span></span></li>
- 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Protein Assay (</span></span><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="protein-assay" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">large spec</span></span></a></u></strong></span><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">) </span></span></li>
- 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Protein Assay (</span></span><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="quantitative-detection-of-protein-spectrovis-plus" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">SpectroVis</span></span></a></u></strong></span><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">) </span></span></li>
+ 	<li><strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="exploring-beers-law-virtual" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Beer's Law</span></a></u></span></strong><span style="font-family: 'Liberation Sans', Arial, sans-serif"> (virtual) </span></li>
+ 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif">Protein Assay (</span><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="protein-assay" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">large spec</span></a></u></strong></span><span style="font-family: 'Liberation Sans', Arial, sans-serif">) </span></li>
+ 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif">Protein Assay (</span><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="quantitative-detection-of-protein-spectrovis-plus" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">SpectroVis</span></a></u></strong></span><span style="font-family: 'Liberation Sans', Arial, sans-serif">) </span></li>
 </ul>
 </td>
 </tr>
 <tr valign="top">
-<td bgcolor="#ffffff" width="65"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">VII </span></span></td>
-<td bgcolor="#ffffff" width="545"><a class="western" href="enzymes" target="_blank"><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Enzyme</span></span></u></span><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium"> and Energy</span></span></u></span></a>
+<td bgcolor="#ffffff" width="65"><span style="font-family: 'Liberation Sans', Arial, sans-serif">VII </span></td>
+<td bgcolor="#ffffff" width="545"><a class="western" href="enzymes" target="_blank"><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif">Enzyme</span></u></span><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif"> and Energy</span></u></span></a>
 <ul>
- 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="enzyme-kinetics-activity" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Enzyme Kinetics activity</span></span></a></u> </strong></span></li>
+ 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="enzyme-kinetics-activity" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Enzyme Kinetics activity</span></a></u></strong></span></li>
 </ul>
 </td>
 </tr>
 <tr valign="top">
-<td bgcolor="#ffffff" width="65"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">VIII </span></span></td>
-<td bgcolor="#ffffff" width="545"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Membranes</span></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">and</span></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Biological</span></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Transport: </span></span><strong><a class="western" href="osmosis-and-diffusion" target="_blank"><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Diffusion</span></span></u></span><u> </u><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">and</span></span></u></span><u> </u><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Osmosis</span></span></u></span></a></strong>
+<td bgcolor="#ffffff" width="65"><span style="font-family: 'Liberation Sans', Arial, sans-serif">VIII </span></td>
+<td bgcolor="#ffffff" width="545"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Membranes</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif">and</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif">Biological</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif">Transport: </span><strong><a class="western" href="osmosis-and-diffusion" target="_blank"><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif">Diffusion</span></u></span><u> </u><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif">and</span></u></span><u> </u><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif">Osmosis</span></u></span></a></strong>
 <ul>
- 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="https://openlab.citytech.cuny.edu/bio1-oer/osmosis-and-diffusion/larger-diffuse/"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Size</span></span></a></u> </strong></span></li>
- 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="https://openlab.citytech.cuny.edu/bio1-oer/osmosis-and-diffusion/gummy-bears-tonicity-activity/"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Gummy</span></span></a></u> </strong></span></li>
- 	<li><strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="https://openlab.citytech.cuny.edu/bio1-oer/osmosis-and-diffusion/why-are-cells-small-activity/"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Cell Models</span></span></a></u> </span></strong></li>
- 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="https://openlab.citytech.cuny.edu/bio1-oer/osmosis-and-diffusion/observing-osmosis/"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Dialysis</span></span></a></u> </strong></span></li>
+ 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="https://openlab.citytech.cuny.edu/bio1-oer/osmosis-and-diffusion/larger-diffuse/"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Size</span></a></u></strong></span></li>
+ 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="https://openlab.citytech.cuny.edu/bio1-oer/osmosis-and-diffusion/gummy-bears-tonicity-activity/"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Gummy</span></a></u></strong></span></li>
+ 	<li><strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="https://openlab.citytech.cuny.edu/bio1-oer/osmosis-and-diffusion/why-are-cells-small-activity/"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Cell Models</span></a></u></span> </strong></li>
+ 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="https://openlab.citytech.cuny.edu/bio1-oer/osmosis-and-diffusion/observing-osmosis/"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Dialysis</span></a></u></strong></span></li>
 </ul>
 </td>
 </tr>
 <tr valign="top">
-<td bgcolor="#ffffff" width="65"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">IX </span></span></td>
-<td bgcolor="#ffffff" width="545"><strong><a class="western" href="https://openlab.citytech.cuny.edu/bio1-oer/cellular-energy/"><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Cellular</span></span></u></span><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium"> Energy</span></span></u></span></a></strong>
+<td bgcolor="#ffffff" width="65"><span style="font-family: 'Liberation Sans', Arial, sans-serif">IX </span></td>
+<td bgcolor="#ffffff" width="545"><strong><a class="western" href="https://openlab.citytech.cuny.edu/bio1-oer/cellular-energy/"><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif">Cellular</span></u></span><span style="color: #0000ff"><u><span style="font-family: 'Liberation Sans', Arial, sans-serif"> Energy</span></u></span></a></strong>
 <ul>
- 	<li><span style="color: #0000ff"><strong><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium"><a style="color: #0000ff" href="https://openlab.citytech.cuny.edu/bio1-oer/cellular-energy/fermentation/" target="_blank">Anaerobic</a></span></span></strong></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">and</span></span> <span style="color: #000000"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Aerobic</span></span> </span></li>
- 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Review (</span></span><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="cell-respiration-concept" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">concept</span></span></a></u></strong></span><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">) </span></span></li>
+ 	<li><span style="color: #0000ff"><strong><span style="font-family: 'Liberation Sans', Arial, sans-serif"><a style="color: #0000ff" href="https://openlab.citytech.cuny.edu/bio1-oer/cellular-energy/fermentation/" target="_blank">Anaerobic</a></span></strong></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif">and</span> <span style="color: #000000"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Aerobic</span></span></li>
+ 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif">Review (</span><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="cell-respiration-concept" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">concept</span></a></u></strong></span><span style="font-family: 'Liberation Sans', Arial, sans-serif">) </span></li>
 </ul>
 </td>
 </tr>
 <tr valign="top">
-<td bgcolor="#ffffff" width="65"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">X </span></span></td>
-<td bgcolor="#ffffff" width="545"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Photosynthesis</span></span></span>
+<td bgcolor="#ffffff" width="65"><span style="font-family: 'Liberation Sans', Arial, sans-serif">X </span></td>
+<td bgcolor="#ffffff" width="545"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Photosynthesis</span></span>
 <ul>
- 	<li><span style="color: #0000ff"><u><a class="western" href="photosynthetic-pigments" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Pigments</span></span></a></u> </span></li>
- 	<li><span style="color: #0000ff"><u><a class="western" href="absorbance-spectra-of-photosynthetic-pigments" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Absorbance Spectra</span></span></a></u> </span></li>
- 	<li><span style="color: #0000ff"><u><a class="western" href="the-role-of-light-in-carbohydrate-synthesis" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Light in Carbohydrate Synthesis</span></span></a></u> </span></li>
- 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Review (</span></span><strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="photosynthesis-concept" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">concept</span></span></a></u></span></strong><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">) </span></span></li>
+ 	<li><span style="color: #0000ff"><u><a class="western" href="photosynthetic-pigments" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Pigments</span></a></u></span></li>
+ 	<li><span style="color: #0000ff"><u><a class="western" href="absorbance-spectra-of-photosynthetic-pigments" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Absorbance Spectra</span></a></u></span></li>
+ 	<li><span style="color: #0000ff"><u><a class="western" href="the-role-of-light-in-carbohydrate-synthesis" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Light in Carbohydrate Synthesis</span></a></u></span></li>
+ 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif">Review (</span><strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="photosynthesis-concept" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">concept</span></a></u></span></strong><span style="font-family: 'Liberation Sans', Arial, sans-serif">) </span></li>
 </ul>
 </td>
 </tr>
 <tr valign="top">
-<td bgcolor="#ffffff" width="65" height="25"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">XI </span></span></td>
-<td bgcolor="#ffffff" width="545"><span style="color: #0000ff"><span style="color: #0000ff"><u><a class="western" href="cell-division" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Cell Division</span></span></a></u></span></span>
+<td bgcolor="#ffffff" width="65" height="25"><span style="font-family: 'Liberation Sans', Arial, sans-serif">XI </span></td>
+<td bgcolor="#ffffff" width="545"><span style="color: #0000ff"><span style="color: #0000ff"><u><a class="western" href="cell-division" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Cell Division</span></a></u></span></span>
 <ul>
- 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Mitosis:</span></span> <span style="color: #0000ff"><span style="color: #0000ff"><u><a class="western" href="mitosis-activity" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Estimating time of phases</span></span></a></u></span></span>
+ 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif">Mitosis:</span> <span style="color: #0000ff"><span style="color: #0000ff"><u><a class="western" href="mitosis-activity" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Estimating time of phases</span></a></u></span></span>
 <ul>
- 	<li><span style="color: #0000ff"><u><a class="western" href="modeling-mitosis-and-meiosis-activity" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Chromosome Modeling</span></span></a></u> </span></li>
+ 	<li><span style="color: #0000ff"><u><a class="western" href="modeling-mitosis-and-meiosis-activity" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Chromosome Modeling</span></a></u></span></li>
 </ul>
 </li>
- 	<li><span style="color: #000000"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Meiosis</span></span></span><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">:</span></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Reductional</span></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Division</span></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">and</span></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Gametogenesis </span></span></li>
- 	<li><span style="color: #000000"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Comparing Cell Division</span></span> </span></li>
- 	<li><span style="color: #0000ff"><u><a class="western" href="chromosomes-and-karyotypes" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Chromosomes and Karyotypes</span></span></a></u> </span></li>
+ 	<li><span style="color: #000000"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Meiosis</span></span><span style="font-family: 'Liberation Sans', Arial, sans-serif">:</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif">Reductional</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif">Division</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif">and</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif">Gametogenesis </span></li>
+ 	<li><span style="color: #000000"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Comparing Cell Division</span></span></li>
+ 	<li><span style="color: #0000ff"><u><a class="western" href="chromosomes-and-karyotypes" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Chromosomes and Karyotypes</span></a></u></span></li>
 </ul>
 </td>
 </tr>
 <tr valign="top">
-<td bgcolor="#ffffff" width="65"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">XII </span></span></td>
-<td bgcolor="#ffffff" width="545"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Principles</span></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">of</span></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Gel</span></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Electrophoresis </span></span></td>
-</tr>
-<tr valign="top">
-<td bgcolor="#ffffff" width="65"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">XIII </span></span></td>
-<td bgcolor="#ffffff" width="545"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">DNA</span></span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Fingerprinting</span></span></span>
+<td bgcolor="#ffffff" width="65"><span style="font-family: 'Liberation Sans', Arial, sans-serif">XII </span></td>
+<td bgcolor="#ffffff" width="545"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Principles</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif">of</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif">Gel</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif">Electrophoresis </span>
 <ul>
- 	<li><span style="color: #0000ff"><u><a class="western" href="dna-fingerprinting" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Analyzing DNA</span></span></a></u> </span></li>
- 	<li><span style="color: #0000ff"><u><a class="western" href="pcr" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">PCR Technology</span></span></a></u> </span></li>
- 	<li><span style="color: #0000ff"><u><a class="western" href="variable-number-tandem-repeats" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Forensics</span></span></a></u> </span></li>
+ 	<li><span style="color: #0000ff"><u><a class="western" href="dna-fingerprinting" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Analyzing DNA</span></a></u></span></li>
+ 	<li>Restriction Enzymes</li>
 </ul>
 </td>
 </tr>
 <tr valign="top">
-<td bgcolor="#ffffff" width="65" height="20"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">XIV </span></span></td>
-<td bgcolor="#ffffff" width="545"><span style="color: #0000ff"><span style="color: #0000ff"><u><a class="western" href="genetics" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Genetics</span></span></a></u></span></span>
+<td bgcolor="#ffffff" width="65"><span style="font-family: 'Liberation Sans', Arial, sans-serif">XIII </span></td>
+<td bgcolor="#ffffff" width="545"><span style="font-family: 'Liberation Sans', Arial, sans-serif">DNA</span> <span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Fingerprinting</span></span>
 <ul>
- 	<li><span style="color: #0000ff"><u><a class="western" href="bitter-taste-activity" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Genetics of Taste Activity</span></span></a></u> </span></li>
- 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Counting Corn </span></span></li>
+ 	<li><a href="rflp-analysis" target="_blank">RFLP</a></li>
+ 	<li><span style="color: #0000ff"><u><a class="western" href="pcr" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">PCR Technology</span></a></u></span></li>
+ 	<li><span style="color: #0000ff"><u><a class="western" href="variable-number-tandem-repeats" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Forensics</span></a></u></span></li>
 </ul>
 </td>
 </tr>
 <tr valign="top">
-<td bgcolor="#ffffff" width="65"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">XV </span></span></td>
-<td bgcolor="#ffffff" width="545"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Statistics of genetics </span></span></td>
+<td bgcolor="#ffffff" width="65" height="20"><span style="font-family: 'Liberation Sans', Arial, sans-serif">XIV </span></td>
+<td bgcolor="#ffffff" width="545"><span style="color: #0000ff"><span style="color: #0000ff"><u><a class="western" href="genetics" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Genetics</span></a></u></span></span>
+<ul>
+ 	<li><span style="color: #0000ff"><u><a class="western" href="bitter-taste-activity" target="_blank"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Genetics of Taste Activity</span></a></u></span></li>
+ 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif">Counting Corn </span></li>
+</ul>
+</td>
+</tr>
+<tr valign="top">
+<td bgcolor="#ffffff" width="65"><span style="font-family: 'Liberation Sans', Arial, sans-serif">XV </span></td>
+<td bgcolor="#ffffff" width="545"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Statistics of genetics </span></td>
 </tr>
 </tbody>
 </table>
@@ -12924,16 +12902,20 @@ Rice is a staple in many cultures, therefore it is a good delivery system. Many 
 
 [caption id="" align="aligncenter" width="1024"]<a title="GFP in HEK293T" href="https://www.flickr.com/photos/jamescastle/17207460150/in/dateposted/"><img src="https://c7.staticflickr.com/9/8730/17207460150_e8d7147120_b.jpg" alt="GFP in HEK293T" width="1024" height="771" /></a> <span style="font-size: small">Higher magnification of HEK293T expressing green fluorescent protein.</span>[/caption]
 <h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Plasmid Structure</span></h3>
-&nbsp;
+[caption id="" align="aligncenter" width="3485"]<img class="" src="https://github.com/jeremyseto/bio-oer/blob/master/figures/molecular/pTargeT.png?raw=true" alt="pTarget mammalian expression vector" width="3485" height="1983" /> <span style="font-size: small"><span style="text-decoration: underline;color: #0000ff"><strong><a style="color: #0000ff;text-decoration: underline" href="http://www.ncbi.nlm.nih.gov/nuccore/AY540613" target="_blank">pTarget</a></strong> </span>mammalian expression vector. The MCS is inside the LacZ gene which permits for blue/white screening of the bacteria after cloning. The LacZ runs in the opposite orientation as the CMV promoter which will drive the gene transcription when inside a mammalian cell.</span>[/caption]
+
+Mammalian expression vectors contain the same hallmark features as bacterial plasmids; bacterial replication of origin and bacterial antibiotic resistance gene (β-lactamase or <strong>Amp<sub>R</sub></strong>). General bacterial plasmid features allow for the carrying and propogation of the plasmid in a bacterial cell. Mammalian expression vectors additionally include a strong mammalian promoter (like <span style="color: #ff0000"><strong>CMV</strong></span> from the cytomegalovirus immediate early promoter) upstream of a multiple cloning site (<strong><span style="color: #ff0000">MCS</span></strong>). Plasmids transfected into cells are transient in nature unless the DNA is selected for. The inclusion of a mammalian antibiotic resistance gene, like neomycin phosphotransferase (<span style="color: #ff0000"><strong>Neo<sub>R</sub></strong></span>), allows for the integration of the plasmid into the genome of the cell by using high concentrations of Neomycin or the analog G418.
 <h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Lipofection</span></h3>
 Cationic lipids can encapsulate plasmid DNA in liposomes. The cationic portions interact with the negatively charged plasma membrane to deliver the DNA into cells.
 
 &nbsp;
 <h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Calcium Phosphate Transfection</span></h3>
+Calcium chloride solution can be used to incubate with plasmid DNA. When this solution is mixed with a HEPES-buffered saline solution (HeBS) containing phosphate ions, the solution precipitates onto the surface of mammalian cells where they are taken up with the DNA.
+
 <!--nextpage-->
 <h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Knock-Out &amp; Transgenesis</span></h2>
 In the laboratory, model organisms are modified in order to understand the basic mechanisms of genes. The transformation of recombinant DNA into bacteria is an example of a genetic modification. Other model organisms, like mice, are used to study genes. Through recombinant DNA scientists can selectively ablate a gene, or create a <span style="color: #ff0000"><b>knock-out</b></span> (KO).
-<a title="By Kjaergaard (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AKnockout_mouse_production_2.svg"><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Knockout_mouse_production_2.svg/256px-Knockout_mouse_production_2.svg.png" alt="Knockout mouse production 2" width="256" /></a>Embryonic Stem (<strong><span style="color: #ff0000">ES</span></strong>) cells are pluripotent cells with the capacity to differentiate into other cell types.  Cultured ES cells can be transfected with plasmid DNA in order to genetically alter them. Linearized vectors containing a disrupted gene can homologously recombine with the native gene to replace it. Selection of cells with the disrupted gene with an antibiotic enables the isolation and propagation of engineered ES cells.
+<a title="By Kjaergaard (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AKnockout_mouse_production_2.svg"><img class="alignright" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Knockout_mouse_production_2.svg/256px-Knockout_mouse_production_2.svg.png" alt="Knockout mouse production 2" width="256" /></a>Embryonic Stem (<strong><span style="color: #ff0000">ES</span></strong>) cells are pluripotent cells with the capacity to differentiate into other cell types.  Cultured ES cells can be transfected with plasmid DNA in order to genetically alter them. Linearized vectors containing a disrupted gene can homologously recombine with the native gene to replace it. Selection of cells with the disrupted gene by an antibiotic (like G418) enables the isolation and propagation of engineered ES cells.
 
 <a title="By Kjaergaard (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AKnockout_mouse_breeding_scheme.svg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Knockout_mouse_breeding_scheme.svg/512px-Knockout_mouse_breeding_scheme.svg.png" alt="Knockout mouse breeding scheme" width="512" /></a>
 
@@ -12968,6 +12950,10 @@ Transgenic and KO models permit scientists to study the roles of genes inside th
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[975]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_77f7b0fb15ed82e85eeac833ca84cdd4]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -13214,7 +13200,9 @@ Prior knowledge requires demonstration of strength or validity. The references s
 		<content:encoded><![CDATA[<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Energy and catalysts</span></h2>
 In Biological systems, <strong><span style="color: #ff0000">energy</span></strong> is roughly defined as the capacity to do work. Molecules are held together by electrons. Breaking and building these bonds requires an input of energy. The energy needed to initiate such reactions is referred to as <span style="color: #ff0000"><strong>activation energy</strong></span> (<span style="color: #ff0000"><em><strong>E<sub>A</sub></strong></em></span>). Sometimes the necessary energy to initiate a reaction is so great, that it greatly limits the likelihood of the reaction ever occurring. <strong><span style="color: #ff0000">Catalysts</span></strong> are chemicals that take part in facilitating reactions by reducing the energy of activation. If the activation energy is reduced, the likelihood of a reaction occurring is greatly enhanced. In cells, the catalysts are often made of proteins and called <strong><span style="color: #ff0000">enzymes</span></strong>.
 
-[caption id="" align="aligncenter" width="613"]<img title="By Originally uploaded by Jerry Crimson Mann, vectorized by Tutmosis, corrected by Fvasconcellos (en:Image:Activation2.png) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons" src="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/09/Activation2_updated.svg.png" alt="reaction coordinates" width="613" height="480" /> <span style="font-size: small">Reaction coordinate of an <strong><span style="color: #ff0000">exothermic</span></strong> reaction <span style="text-decoration: underline"><span style="color: #000080;text-decoration: underline">with</span></span> and <span style="text-decoration: underline"><span style="color: #800000;text-decoration: underline">without</span></span> an enzyme. The enzyme reduced the <strong><span style="color: #ff0000">E<sub>A</sub></span></strong> to facilitate the likelihood that the reaction occurs. This <strong><span style="color: #ff0000">catabolic</span></strong> reaction breaks complex things down, thus increasing entropy and releasing energy into the system.</span>[/caption] Reactants in enzymatic reactions are called <span style="color: #ff0000"><strong>substrates</strong></span>. They have an imperfect fit to a binding domain of the enzyme called the <span style="color: #ff0000"><strong>active site</strong></span>. Substrate binding to this active site induces a change in the shape of the protein that coordinates the substrate into a transition state that will reduce the amount of E<sub>A</sub> required for the reaction to go to completion. The<strong><span style="color: #ff0000"> induced fit</span></strong> of the protein also aids in coordinating other cofactors or <strong><span style="color: #ff0000">coenzymes</span></strong> that will aid in the reaction.
+[caption id="" align="aligncenter" width="613"]<img title="By Originally uploaded by Jerry Crimson Mann, vectorized by Tutmosis, corrected by Fvasconcellos (en:Image:Activation2.png) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons" src="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/09/Activation2_updated.svg.png" alt="reaction coordinates" width="613" height="480" /> <span style="font-size: small">Reaction coordinate of an <strong><span style="color: #ff0000">exothermic</span></strong> reaction <span style="text-decoration: underline"><span style="color: #000080;text-decoration: underline">with</span></span> and <span style="text-decoration: underline"><span style="color: #800000;text-decoration: underline">without</span></span> an enzyme. The enzyme reduced the <strong><span style="color: #ff0000">E<sub>A</sub></span></strong> to facilitate the likelihood that the reaction occurs. This <strong><span style="color: #ff0000">catabolic</span></strong> reaction breaks complex things down, thus increasing entropy and releasing energy into the system.</span>[/caption]&nbsp;
+<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Enzymes</span></h2>
+Reactants in enzymatic reactions are called <span style="color: #ff0000"><strong>substrates</strong></span>. They have an imperfect fit to a binding domain of the enzyme called the <span style="color: #ff0000"><strong>active site</strong></span>. Substrate binding to this active site induces a change in the shape of the protein that coordinates the substrate into a transition state that will reduce the amount of E<sub>A</sub> required for the reaction to go to completion. The<strong><span style="color: #ff0000"> induced fit</span></strong> of the protein also aids in coordinating other cofactors or <strong><span style="color: #ff0000">coenzymes</span></strong> that will aid in the reaction.
 
 [caption id="" align="aligncenter" width="512"]<a title="By Vectorized version Srhat (talk · contribs) PNG version IMeowbot (talk · contribs) and Jerry Crimson Mann (talk · contribs) (File:Two substrates.png) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ATwo_substrates.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Two_substrates.svg/512px-Two_substrates.svg.png" alt="Two substrates" width="512" height="191" /></a> <span style="font-size: small"><span style="color: #ff0000"><strong>Induced fit</strong></span> model of enzymes and substrates. The active site of the protein is an imperfect match for the substrate. Intermolecular interactions between the enzyme and substrate induce a new fit that facilitates the formation of a <strong><span style="color: #ff0000">transition state</span></strong> and results in the catalysis of the reaction.</span>[/caption][caption id="" align="aligncenter" width="512"]<a title="By Thomas Shafee (Own work) [CC BY 4.0 (http://creativecommons.org/licenses/by/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AHexokinase_induced_fit.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hexokinase_induced_fit.svg/512px-Hexokinase_induced_fit.svg.png" alt="Hexokinase induced fit" width="512" height="571" /></a> <span style="font-size: small">Hexokinase enzyme interacts with an ATP and a hexose. These interactions alter slightly the structure of the enzyme (induced fit). This pulling on the enzyme and the substrates aids in catalyzing the reaction through coordinating the molecules, sometimes with the aid of cofactors and coenzymes. The yellow sphere represents the cofactor Mg<sup>2+</sup></span>[/caption]Coenzymes can be covalently linked to amino acid side chains of the enzyme and are also referred to as <span style="color: #ff0000"><strong>prosthetic groups</strong></span>. While prosthetic groups are organic in nature, they may also involve the coordination of metal ions, like the heme group which binds to iron. These prosthetic groups enhance the repertoire of the amino acids to provide additional functioning to the entire protein. Early coenzymes were described as being vital to normal functioning and were characterized as organic molecules with amine groups. Because of this coincidence, they were referred to as <span style="color: #ff0000"><strong>vitamins</strong></span> (for <em>vital amines</em>) though not all vitamins have amine groups. The trace metal ions that work with these groups are also required and represent the minerals on food items.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -15096,7 +15084,7 @@ Silicone Ice-cube trays can be used. It is difficult to find them in the appropr
 		<wp:post_parent>92</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:post_password><![CDATA[bio1]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -15240,10 +15228,19 @@ https://youtu.be/Ad-HCdo5flo
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=973</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="parent-word">
+		<content:encoded><![CDATA[<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Protein Expression</span></h2>
+[caption id="" align="aligncenter" width="2940"]<img class="" src="https://github.com/jeremyseto/bio-oer/blob/master/figures/molecular/pGEX-3X.png?raw=true" width="2940" height="1910" /> <span style="font-size: small">Bacterial expression vector <strong><span style="color: #0000ff"><a style="color: #0000ff" href="https://www.ncbi.nlm.nih.gov/nuccore/U13852.1" target="_blank">pGEX-3X</a></span></strong> contains the AmpR gene, origin of replication, MCS downstream of the hybrid lac/trp promoter (tac) and the coding sequence for glutathione-S-transferase (GST). GST acts as a tag that is fused directly with the protein from the gene of interest and used to purify the protein with a glutathione resin.</span>[/caption]
 
-<span style="font-size: medium">Recombinant DNA technology has many uses in basic scientific research to better understand the nature of of living things. As a tool, recombinant DNA technology can be used to express proteins towards medical applications. Prior to biotechnology, type I diabetes (insulin-dependent) was treated by injection of insulin isolated from the pancreas of pigs. With the ability to express human proteins inside bacteria, yeast and other cells, sacrificing pigs for porcine insulin is no longer necessary. Bacteria or other cells can be engineered to express proteins through the process of cloning and transformation. Expression is only the first problem since bacteria are also synthesizing proteins that are required for the bacteria to grow and divide. Injecting these proteins in addition to insulin would cause an immune reaction that could be deadly. Therefore, it is required that overexpressed proteins be purified and isolated from other undesirable proteins.</span>
-<h2>Purification</h2>
+Recombinant DNA technology has many uses in basic scientific research to better understand the nature of of living things. As a tool, recombinant DNA technology can be used to express proteins towards medical applications. Prior to biotechnology, type I diabetes (insulin-dependent) was treated by injection of insulin isolated from the pancreas of pigs. With the ability to express human proteins inside bacteria, yeast and other cells, sacrificing pigs for porcine insulin is no longer necessary.
+
+<a title="By Stewart EJ, Madden R, Paul G, Taddei F [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AE.-coli-growth.gif"><img class="alignright" src="https://upload.wikimedia.org/wikipedia/commons/2/27/E.-coli-growth.gif" alt="E.-coli-growth" width="64" /></a>Bacteria or other cells can be engineered to express proteins through the process of cloning and transformation. Bacteria are advantageous because of their rapid life cycle and ease of growth. A bacterial expression vector contains the basic plasmid features: origin of replication as well as antibiotic resistance gene. Often, an <strong><span style="color: #ff0000">affinity tag</span></strong> will be used to aid in purification of the protein. An example in the vector above shows the <span style="color: #ff0000"><strong>GST</strong></span> (glutathione-s-transferase) tag that can be purified with glutathione resin. Expression is only the first problem since bacteria are also synthesizing proteins that are required for the bacteria to grow and divide. Injecting these proteins in addition to insulin would cause an immune reaction that could be deadly. Therefore, it is required that overexpressed proteins be purified and isolated from other undesirable proteins.
+
+[caption id="" align="aligncenter" width="512"]<a title="By Miropiro, www.bioreactors.eu, www.bioreactor.ch (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AAutoclavable_bench-top_laboratory_bioreactor_%26_fermenter%2C_Lambda_MINIFOR.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Autoclavable_bench-top_laboratory_bioreactor_%26_fermenter%2C_Lambda_MINIFOR.jpg/512px-Autoclavable_bench-top_laboratory_bioreactor_%26_fermenter%2C_Lambda_MINIFOR.jpg" alt="Autoclavable bench-top laboratory bioreactor &amp; fermenter, Lambda MINIFOR" width="512" height="770" /></a> <span style="font-size: small">A bioreactor or fermenter that is used to grow large amounts of bacteria for the production of protein.</span>[/caption]
+<h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Criteria for Choosing an Expression System</span></h3>
+<img class="alignnone" src="https://github.com/jeremyseto/bio-oer/blob/master/figures/molecular/expression-table.png?raw=true" width="2467" height="1244" />
+
+Protein purification systems have inherent advantages and disadvantages. The table above summarizes the comparison of the various cellular systems of production.
+<h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Purification</span></h3>
 <a title="By No machine-readable author provided. Wobble assumed (based on copyright claims). [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AAffinity-column.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Affinity-column.png/256px-Affinity-column.png" alt="Affinity-column" width="256" /></a><a title="By Pdcook (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ANickel_resin.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Nickel_resin.jpg/256px-Nickel_resin.jpg" alt="Nickel resin" width="256" /></a>
 <span style="font-size: medium">Different methods of isolation can be applied depending on the properties of the protein. <strong><span style="color: #ff0000">Ion exchange chromatography</span></strong> is useful if the protein of interest has a specific charge that will interact with a resin packed with the opposite charge. <strong><span style="color: #ff0000">Affinity purification</span></strong> employs the use of specific antibodies that bind to the protein of interest very tightly to retain it on a column. With these techniques, the protein retained on the resin is washed numerous times to remove other proteins that are unspecifically sticking. A change in pH or ionic conditions then is used to disrupt the interaction with the resin and <span style="color: #ff0000"><b>elute</b></span> the proteins from the column. Proteins that are engineered to contain tags can be purified by antibodies specific to those tags. Also, the addition of 6 or more consecutive Histidine residues to the end of a protein make them susceptible to purification with Nickel-NTA resin or Cobalt purification. In these cases, the 6XHis tag associates with these metal ions on the resin and are selectively adhered.</span>
 <a title="By RaihaT (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 4.0-3.0-2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/4.0-3.0-2.5-2.0-1.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AProtein_Purification_MetalBinding.tif"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Protein_Purification_MetalBinding.tif/lossy-page1-800px-Protein_Purification_MetalBinding.tif.jpg" alt="Protein Purification MetalBinding" width="512" /></a>
@@ -15252,10 +15249,14 @@ https://youtu.be/Ad-HCdo5flo
 <a title="By Chem538grp2w09 (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APore_size_schematic.jpg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Pore_size_schematic.jpg" alt="Pore size schematic" width="256" /></a>
 The smaller the molecule, the longer they spend within the pores as they traverse through the matrix.
 <a title="By The original uploader was Takometer at English Wikipedia [CC BY 2.5 (http://creativecommons.org/licenses/by/2.5)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASizeExChrom.png"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SizeExChrom.png/512px-SizeExChrom.png" alt="SizeExChrom" width="512" /></a>
+<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Significance of Purification</span></h2>
+All injectible drugs must be clean of endotoxins from bacteria. Purification of the protein of interest from bacterial lysates removes the dangerous pathogenic materials from that would otherwise activate host immune reactivity.<a title="© Hans Hillewaert / , via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ALimulus_polyphemus_(aq.).jpg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Limulus_polyphemus_%28aq.%29.jpg/512px-Limulus_polyphemus_%28aq.%29.jpg" alt="Limulus polyphemus (aq.)" width="512" /></a>
 
-&nbsp;
-
-</div>]]></content:encoded>
+The horseshoe crab (<em>Limulus polyphemus</em>) performs a special function in the ecosystem by providing eggs for migratory birds to feed on. This organism also houses a special cell type in its hemolymph. The limulus amoebocyte lysate (<strong><span style="color: #ff0000">LAL</span></strong>) test is the most sensitive assay of detecting endotoxins from bacteria. Amoebocytes are collected from these organisms for use on testing batches of injectible drugs to ensure proper purification and safety.
+<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">References</span></h2>
+<ul>
+ 	<li>Joseph M. Fernandez and James P. Hoeffler. <a href="http://www.sciencedirect.com/science/article/pii/B9780122538407500018" target="_blank">Introduction: SO MANY POSSIBILITIES: HOW TO CHOOSE A SYSTEM TO ACHIEVE YOUR SPECIFIC GOAL, In Gene Expression Systems</a>. Academic Press, San Diego.  1999, Pages 1-5, ISBN 9780122538407. <a href="http://dx.doi.org/10.1016/B978-012253840-7/50001-8" target="_blank">http://dx.doi.org/10.1016/B978-012253840-7/50001-8</a>.</li>
+</ul>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>973</wp:post_id>
 		<wp:post_date><![CDATA[2016-11-19 19:55:03]]></wp:post_date>
@@ -15276,6 +15277,14 @@ The smaller the molecule, the longer they spend within the pores as they travers
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[975]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_77f7b0fb15ed82e85eeac833ca84cdd4]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_4b281674263d3873f0d5a1daca9c9467]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -15563,21 +15572,46 @@ When there is too much ambiguity in the signal because of multiple peaks, you wi
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>RFLP analysis</title>
+		<title>DNA fingerprinting (RFLP)</title>
 		<link>http://openlab.citytech.cuny.edu/bio1-oer/dna-fingerprinting/rflp-analysis/</link>
 		<pubDate>Mon, 21 Nov 2016 18:22:55 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=1005</guid>
 		<description></description>
-		<content:encoded><![CDATA[<a title="PaleWhaleGail at English Wikipedia [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ARFLPDemo1.gif"><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/RFLPDemo1.gif" alt="RFLPDemo1" width="256" /></a>
+		<content:encoded><![CDATA[<span style="color: #ff0000"><strong>Restriction fragment length polymorphism</strong></span> (<strong><span style="color: #ff0000">RFLP</span></strong>) is a technique that exploits variations in DNA sequences. DNA from differing sources will have variations or <span style="color: #ff0000"><strong>polymorphisms</strong></span> throughout the sequence. Using <span style="text-decoration: underline"><a href="restriction-enzymes" target="_blank"><strong><span style="color: #ff0000;text-decoration: underline">Restriction Enzymes</span></strong></a></span>, these differences in sequences may be teased out. However, if one were to take the entirety of the human genome and chop it up with a restriction enzyme, many indecipherable fragments would be made. In fact, the resulting agarose gel would simply show a large smear of DNA. RFLP analysis requires that a <span style="color: #ff0000"><strong>probe</strong></span> to a specific area of DNA be used to identify specific locations. Agarose gels would be transferred to a membrane or filter where they would be <strong><span style="color: #ff0000">hybridized</span></strong> to these radioactive probes.
 
-<a title="By (unknown) (National Institutes of Health) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ARFLP_genotyping.gif"><img class="alignright" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/RFLP_genotyping.gif" alt="RFLP genotyping" width="256" /></a>
+[caption id="" align="alignright" width="256"]<a title="PaleWhaleGail at English Wikipedia [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ARFLPDemo1.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/RFLPDemo1.gif" alt="RFLPDemo1" width="256" height="150" /></a> <span style="font-size: small">Homologous chromosomes with restriction sites noted by triangles. the rectangle sitting on the chromosomes correspond to a probe locus.</span>[/caption]RFLP analysis was designed for forensic science to discriminate between people. Since people are 2N, they have pairs of homologous chromosomes with the same loci. However, these loci may contain different alleles. In this case, the phenotype for these alleles is the actual sequence that may or may not contain restriction sites. The presence or absence of a restriction site may arise from <span style="color: #ff0000"><strong>single nucleotide polymorphisms</strong></span> (<strong><span style="color: #ff0000">SNPs</span></strong>) that reveal the natural variation between people.
+The schemtaic below illustrates a comparison of restriction profiles between two sources. Note that the probe overlaps a restriction site in one of the alleles. This probe will be able to bind to both fragments given sufficient sequence overlap. Upon resolving on an agarose gel, genomic DNA that does not hybridize with the probe will obscure the locus of interest as a large smear. A filter is placed on top of the agarose and pressed against it to transfer the DNA in a process called <strong><span style="color: #ff0000">Southern Blotting</span></strong>. Following a lengthy transfer,  the filter is denatured to and incubated with the radioactive probe. To visualize this probe hybridization, film is exposed to the filter and processed.
 
-<a title="By Phoenix_src (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ADNA_Profiling_-_RFLP_Analysis.svg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/DNA_Profiling_-_RFLP_Analysis.svg/512px-DNA_Profiling_-_RFLP_Analysis.svg.png" alt="DNA Profiling - RFLP Analysis" width="512" /></a>
+[caption id="" align="aligncenter" width="512"]<a title="By Retama (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 4.0-3.0-2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/4.0-3.0-2.5-2.0-1.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ARFLP_mapping.svg"><img src="https://github.com/jeremyseto/bio-oer/blob/master/figures/RFLP_mapping.png?raw=true" alt="RFLP mapping" width="512" height="1626" /></a> <span style="font-size: small">Sample A only reveals one band after processing because this person is homologous for the same allele. Sample B is heterozygous and reveals three bands.</span>[/caption]
+<a title="By Oder Zeichner: abigail (Self-photographed) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASouthern-Blot-Agarosegel.jpg"><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Southern-Blot-Agarosegel.jpg" alt="Southern-Blot-Agarosegel" width="128" /></a><a title="By de:User:abigail (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASouthern-Blot-Autoradiogramm.jpg"><img class="alignright" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Southern-Blot-Autoradiogramm.jpg" alt="Southern-Blot-Autoradiogramm" width="128" /></a>
 
-<a title="By Retama (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 4.0-3.0-2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/4.0-3.0-2.5-2.0-1.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ARFLP_mapping.svg"><img class="aligncenter" src="https://github.com/jeremyseto/bio-oer/blob/master/figures/RFLP_mapping.png?raw=true" alt="RFLP mapping" width="512" /></a>
+&nbsp;
 
-&nbsp;]]></content:encoded>
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<a title="By (unknown) (National Institutes of Health) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ARFLP_genotyping.gif"><img class="alignright" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/RFLP_genotyping.gif" alt="RFLP genotyping" width="256" /></a>RFLPs represent inheritable markers and can reveal relationships between different individuals. A pedigree can illustrate the relationship of the inherited alleles. The technique can be more informative if using multiple probes simultaneously for different loci or to use <strong><span style="color: #ff0000">multi-locus probes</span></strong> that hybridize to multiple locations.
+
+While RFLPs can arise from SNPs, they may also be caused by the expansion or contraction of repeated elements between restriction sites. These repeated elements of DNA are referred to as Variable Number Tandem Repeats (VNTR) and illustrate polymorphisms that normally occur in non-coding regions of the genome.
+<a title="By RFLPDemo2.gif: PaleWhaleGail (talk). derivative work:Miguelferig (vector version and translation to Galician) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ARFLPDemo2_gl.svg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/RFLPDemo2_gl.svg/256px-RFLPDemo2_gl.svg.png" alt="RFLPDemo2 gl" width="256" /></a>
+<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Related Pages</span></h2>
+<ul>
+ 	<li><span style="text-decoration: underline"><strong><span style="color: #0000ff;text-decoration: underline"><a style="color: #0000ff;text-decoration: underline" href="restriction-enzymes" target="_blank">Restriction Enzymes</a></span></strong></span></li>
+ 	<li><span style="text-decoration: underline"><strong><span style="color: #0000ff;text-decoration: underline"><a style="color: #0000ff;text-decoration: underline" href="dna-fingerprinting" target="_blank">Analyzing DNA</a></span></strong></span></li>
+ 	<li><span style="text-decoration: underline"><strong><span style="color: #0000ff;text-decoration: underline"><a style="color: #0000ff;text-decoration: underline" href="variable-number-tandem-repeats" target="_blank">VNTR</a></span></strong></span></li>
+ 	<li><span style="text-decoration: underline"><strong><span style="color: #0000ff;text-decoration: underline"><a style="color: #0000ff;text-decoration: underline" href="http://genetics" target="_blank">Genetics</a></span></strong></span></li>
+</ul>
+<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">External Resources</span></h2>
+<ul>
+ 	<li><a href="https://www.dnalc.org/view/15102-Using-tandem-repeats-for-DNA-fingerprinting-Alec-Jeffreys.html" target="_blank">Using Tandem Repeats for DNA Fingerprinting</a> (interview)</li>
+ 	<li><a href="https://www.dnalc.org/view/15985-The-first-DNA-fingerprint-.html" target="_blank">The first DNA fingerprint</a> (flash simulation)</li>
+</ul>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1005</wp:post_id>
 		<wp:post_date><![CDATA[2016-11-21 13:22:55]]></wp:post_date>
@@ -15589,7 +15623,7 @@ When there is too much ambiguity in the signal because of multiple peaks, you wi
 		<wp:post_parent>60</wp:post_parent>
 		<wp:menu_order>1</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[bio1]]></wp:post_password>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="post_tag" nicename="integration-of-knowledge"><![CDATA[integration of knowledge]]></category>
 		<category domain="post_tag" nicename="visual-communication"><![CDATA[visual communication]]></category>
