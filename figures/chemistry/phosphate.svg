@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0  555  214"
+   id="svg4071"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="100%"
+   height="100%"
+   sodipodi:docname="phosphate.svg">
+  <metadata
+     id="metadata4141">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4139">
+    <defs
+       id="defs4075">
+      <path
+         d="M230 260v-260h-150v729h322c152 0 235 -80 235 -226c0 -148 -86 -243 -220 -243h-187zM230 385h140c80 0 117 35 117 109c0 75 -37 110 -117 110h-140v-219z"
+         transform="scale(0.030,-0.030)"
+         id="Atom-P" />
+      <path
+         d="M40 359c0 222 138 382 350 382c211 0 352 -155 352 -387c0 -209 -132 -377 -351 -377c-214 0 -351 160 -351 382zM391 613c-121 0 -201 -101 -201 -254s80 -254 201 -254c120 0 201 101 201 250c0 158 -78 258 -201 258z"
+         transform="scale(0.030,-0.030)"
+         id="Atom-O" />
+      <path
+         d="M519 331h-289v-331h-150v729h150v-273h288v273h151v-729h-150v331z"
+         transform="scale(0.030,-0.030)"
+         id="Atom-H" />
+      <path
+         d="M493 125c0 54 2 46 2 77c0 61 -28 87 -93 87h-172v-289h-150v729h391c157 0 196 -116 196 -197c0 -89 -41 -148 -123 -180c93 -40 97 -50 101 -265c0 -32 9 -47 32 -60v-27h-161c-19 35 -23 57 -23 125zM517 511c0 81 -43 93 -106 93h-181v-190h181c62 0 106 12 106 97z"
+         transform="scale(0.030,-0.030)"
+         id="Atom-R" />
+    </defs>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     id="namedview4137"
+     showgrid="false"
+     inkscape:zoom="1.9531532"
+     inkscape:cx="364.37033"
+     inkscape:cy="86.554949"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4071" />
+  <use
+     height="214"
+     width="555"
+     id="use4081"
+     y="232.46001"
+     x="-118.96"
+     xlink:href="#Atom-P"
+     transform="translate(250,-110)" />
+  <use
+     height="214"
+     width="555"
+     id="use4083"
+     y="187.98"
+     x="-120.53"
+     xlink:href="#Atom-O"
+     transform="translate(250,-110)" />
+  <use
+     height="214"
+     width="555"
+     id="use4085"
+     y="232.98"
+     x="-75.529999"
+     xlink:href="#Atom-O"
+     transform="translate(250,-110)" />
+  <use
+     height="214"
+     width="555"
+     id="use4087"
+     y="232.98"
+     x="-53.27"
+     xlink:href="#Atom-H"
+     transform="translate(250,-110)" />
+  <use
+     height="214"
+     width="555"
+     id="use4089"
+     y="232.98"
+     x="-165.53"
+     xlink:href="#Atom-O"
+     transform="translate(250,-110)" />
+  <use
+     height="214"
+     width="555"
+     id="use4091"
+     y="277.98001"
+     x="-120.53"
+     xlink:href="#Atom-O"
+     transform="translate(250,-110)" />
+  <use
+     height="214"
+     width="555"
+     id="use4093"
+     y="277.98001"
+     x="-98.269997"
+     xlink:href="#Atom-H"
+     transform="translate(250,-110)" />
+  <use
+     height="214"
+     width="555"
+     id="use4095"
+     y="232.46001"
+     x="-209.56"
+     xlink:href="#Atom-R"
+     transform="translate(250,-109.53001)" />
+  <use
+     height="214"
+     width="555"
+     id="use4097"
+     y="230.92999"
+     x="172.45"
+     xlink:href="#Atom-P"
+     transform="translate(250,-108)" />
+  <use
+     height="214"
+     width="555"
+     id="use4099"
+     y="186.46001"
+     x="170.87"
+     xlink:href="#Atom-O"
+     transform="translate(250,-108)" />
+  <use
+     height="214"
+     width="555"
+     id="use4101"
+     y="231.46001"
+     x="215.87"
+     xlink:href="#Atom-O"
+     transform="translate(250,-108)" />
+  <use
+     height="214"
+     width="555"
+     id="use4103"
+     y="231.46001"
+     x="125.87"
+     xlink:href="#Atom-O"
+     transform="translate(250,-108)" />
+  <use
+     height="214"
+     width="555"
+     id="use4105"
+     y="276.45999"
+     x="170.87"
+     xlink:href="#Atom-O"
+     transform="translate(250,-108)" />
+  <use
+     height="214"
+     width="555"
+     id="use4107"
+     y="230.92999"
+     x="81.849998"
+     xlink:href="#Atom-R"
+     transform="translate(250,-108)" />
+  <use
+     height="214"
+     width="555"
+     id="use4109"
+     y="278.14001"
+     x="214.53999"
+     xlink:href="#Atom-H"
+     transform="translate(254.09594,-82.400369)" />
+  <use
+     height="214"
+     width="555"
+     id="use4111"
+     y="174.08"
+     x="240.94"
+     xlink:href="#Atom-H"
+     transform="translate(267.91974,-78.816421)" />
+  <line
+     id="line4113"
+     style="stroke:#000000;stroke-width:3px"
+     y2="96"
+     x2="139"
+     y1="81"
+     x1="139" />
+  <line
+     id="line4115"
+     style="stroke:#000000;stroke-width:3px"
+     y2="96"
+     x2="143"
+     y1="81"
+     x1="143" />
+  <line
+     id="line4117"
+     style="stroke:#000000;stroke-width:3px"
+     y2="111"
+     x2="155"
+     y1="111"
+     x1="175" />
+  <line
+     id="line4119"
+     style="stroke:#000000;stroke-width:3px"
+     y2="111"
+     x2="132"
+     y1="111"
+     x1="111" />
+  <line
+     id="line4121"
+     style="stroke:#000000;stroke-width:3px"
+     y2="126"
+     x2="141"
+     y1="141"
+     x1="141" />
+  <line
+     id="line4123"
+     style="stroke:#000000;stroke-width:3px"
+     y2="111"
+     x2="85"
+     y1="111"
+     x1="65" />
+  <line
+     id="line4125"
+     style="stroke:#000000;stroke-width:3px"
+     y2="97"
+     x2="429"
+     y1="82"
+     x1="429" />
+  <line
+     id="line4127"
+     style="stroke:#000000;stroke-width:3px"
+     y2="97"
+     x2="434"
+     y1="82"
+     x1="434" />
+  <line
+     id="line4129"
+     style="stroke:#000000;stroke-width:3px"
+     y2="111"
+     x2="445"
+     y1="111"
+     x1="465" />
+  <line
+     id="line4131"
+     style="stroke:#000000;stroke-width:3px"
+     y2="111"
+     x2="422"
+     y1="111"
+     x1="402" />
+  <line
+     id="line4133"
+     style="stroke:#000000;stroke-width:3px"
+     y2="126"
+     x2="432"
+     y1="141"
+     x1="432" />
+  <line
+     id="line4135"
+     style="stroke:#000000;stroke-width:3px"
+     y2="111"
+     x2="375"
+     y1="111"
+     x1="356" />
+  <line
+     x1="506.71738"
+     y1="173.04059"
+     x2="491.66821"
+     y2="173.04059"
+     style="stroke:#000000;stroke-width:1.95353162px"
+     id="line3619" />
+  <line
+     id="line3621"
+     style="stroke:#000000;stroke-width:1.95353162px"
+     y2="180.56517"
+     x2="499.19281"
+     y1="165.51601"
+     x1="499.19281" />
+  <g
+     transform="matrix(0.76076212,0,0,0.76076212,283.09613,3.9148576)"
+     id="g4212">
+    <line
+       x1="340.38071"
+       y1="83"
+       x2="320.599"
+       y2="83"
+       style="stroke:#000000;stroke-width:2.56786132px"
+       id="line4214" />
+    <line
+       id="line4216"
+       style="stroke:#000000;stroke-width:2.56786132px"
+       y2="92.890854"
+       x2="330.48987"
+       y1="73.109146"
+       x1="330.48987" />
+  </g>
+  <line
+     id="line4220"
+     style="stroke:#000000;stroke-width:1.63312864px"
+     y2="145.90498"
+     x2="441.71082"
+     y1="145.90498"
+     x1="452.2283" />
+  <line
+     x1="497.76624"
+     y1="97.265686"
+     x2="486.79559"
+     y2="97.265686"
+     style="stroke:#000000;stroke-width:1.66794086px"
+     id="line4222" />
+  <g
+     style="fill:#000000"
+     id="g2852"
+     transform="matrix(0.46699461,0,0,-0.46699461,231.28939,122.50379)">
+    <g
+       id="g2820">
+      <path
+         inkscape:connector-curvature="0"
+         id="path35-8"
+         d="m 186.42,21.953 -35.055,0 c 0,2.9489 -4.9406,14.604 -4.9406,14.604 l 39.995,-14.604" />
+      <path
+         inkscape:connector-curvature="0"
+         id="text2961"
+         d="m 161.79,26.142 0,-4.173 -161.79,0 0,4.173 161.79,0 z" />
+    </g>
+    <g
+       id="g2820-1"
+       transform="matrix(-1,0,0,-1,186.94283,34.990078)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path35-8-9"
+         d="m 186.42,21.953 -35.055,0 c 0,2.9489 -4.9406,14.604 -4.9406,14.604 l 39.995,-14.604" />
+      <path
+         inkscape:connector-curvature="0"
+         id="text2961-4"
+         d="m 161.79,26.142 0,-4.173 -161.79,0 0,4.173 161.79,0 z" />
+    </g>
+  </g>
+</svg>
