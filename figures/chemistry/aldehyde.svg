@@ -11,7 +11,7 @@
    viewBox="0 0  262  173"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r"
    width="100%"
    height="100%"
    sodipodi:docname="aldehyde.svg">
@@ -23,7 +23,19 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <defs
@@ -53,15 +65,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="692"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
      id="namedview39"
      showgrid="false"
      inkscape:zoom="2.2366412"
-     inkscape:cx="108.8355"
-     inkscape:cy="81.585253"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:cx="33.499322"
+     inkscape:cy="80.691055"
+     inkscape:window-x="1680"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <use
@@ -71,7 +83,9 @@
      y="0.52999997"
      x="-212.13"
      xlink:href="#Atom-O"
-     transform="translate(255,52)" />
+     transform="translate(255,52)"
+     inkscape:export-xdpi="74.223289"
+     inkscape:export-ydpi="74.223289" />
   <use
      height="173"
      width="262"
@@ -80,7 +94,9 @@
      x="-242.98"
      xlink:href="#Atom-R"
      transform="translate(249,76)"
-     style="fill:#ff0000" />
+     style="fill:#ff0000"
+     inkscape:export-xdpi="74.223289"
+     inkscape:export-ydpi="74.223289" />
   <use
      height="173"
      width="262"
@@ -88,7 +104,9 @@
      y="61.529999"
      x="-180.09"
      xlink:href="#Atom-H"
-     transform="translate(261,76)" />
+     transform="translate(261,76)"
+     inkscape:export-xdpi="74.223289"
+     inkscape:export-ydpi="74.223289" />
   <use
      height="173"
      width="262"
@@ -96,7 +114,9 @@
      y="1.5"
      x="-115.49"
      xlink:href="#Atom-O"
-     transform="translate(307.14334,48.211604)" />
+     transform="translate(307.14334,48.211604)"
+     inkscape:export-xdpi="74.223289"
+     inkscape:export-ydpi="74.223289" />
   <use
      height="173"
      width="262"
@@ -105,7 +125,9 @@
      x="-146.33"
      xlink:href="#Atom-R"
      transform="translate(299.14334,76.211604)"
-     style="fill:#ff0000" />
+     style="fill:#ff0000"
+     inkscape:export-xdpi="74.223289"
+     inkscape:export-ydpi="74.223289" />
   <use
      height="173"
      width="262"
@@ -114,70 +136,90 @@
      x="-85.510002"
      xlink:href="#Atom-R"
      transform="translate(317.14334,74.211604)"
-     style="fill:#ff0000" />
+     style="fill:#ff0000"
+     inkscape:export-xdpi="74.223289"
+     inkscape:export-ydpi="74.223289" />
   <line
      id="line23"
      style="stroke:#000000;stroke-width:3px"
      y2="78"
      x2="48.089996"
      y1="56"
-     x1="49" />
+     x1="49"
+     inkscape:export-xdpi="74.223289"
+     inkscape:export-ydpi="74.223289" />
   <line
      id="line25"
      style="stroke:#000000;stroke-width:3px"
      y2="78"
      x2="57.910004"
      y1="56"
-     x1="58" />
+     x1="58"
+     inkscape:export-xdpi="74.223289"
+     inkscape:export-ydpi="74.223289" />
   <line
      id="line27"
      style="stroke:#000000;stroke-width:3px"
      y2="100.25938"
      x2="42.211601"
      y1="112.25938"
-     x1="25.211605" />
+     x1="25.211605"
+     inkscape:export-xdpi="74.223289"
+     inkscape:export-ydpi="74.223289" />
   <line
      id="line29"
      style="stroke:#000000;stroke-width:2.60036969px"
      y2="99.63636"
      x2="62.247284"
      y1="113.80051"
-     x1="80.070122" />
+     x1="80.070122"
+     inkscape:export-xdpi="74.223289"
+     inkscape:export-ydpi="74.223289" />
   <line
      id="line31"
      style="stroke:#000000;stroke-width:3px"
      y2="74.211601"
      x2="197.76755"
      y1="53.211601"
-     x1="198.03754" />
+     x1="198.03754"
+     inkscape:export-xdpi="74.223289"
+     inkscape:export-ydpi="74.223289" />
   <line
      id="line33"
      style="stroke:#000000;stroke-width:3px"
      y2="74.211601"
      x2="208.69334"
      y1="53.211601"
-     x1="209.14334" />
+     x1="209.14334"
+     inkscape:export-xdpi="74.223289"
+     inkscape:export-ydpi="74.223289" />
   <line
      id="line35"
      style="stroke:#000000;stroke-width:3px"
      y2="98.73037"
      x2="190.71167"
      y1="110.73037"
-     x1="173.07167" />
+     x1="173.07167"
+     inkscape:export-xdpi="74.223289"
+     inkscape:export-ydpi="74.223289" />
   <line
      id="line37"
      style="stroke:#000000;stroke-width:2.61377501px"
      y2="97.854668"
      x2="213.7438"
      y1="112.0054"
-     x1="230.36034" />
+     x1="230.36034"
+     inkscape:export-xdpi="74.223289"
+     inkscape:export-ydpi="74.223289" />
   <text
      xml:space="preserve"
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
      x="42.194534"
      y="101.32423"
      id="text3038"
-     sodipodi:linespacing="125%"><tspan
+     sodipodi:linespacing="125%"
+     inkscape:export-xdpi="74.223289"
+     inkscape:export-ydpi="74.223289"><tspan
        sodipodi:role="line"
        id="tspan3040"
        x="42.194534"
@@ -189,7 +231,9 @@
      x="192.92726"
      y="96.826942"
      id="text3038-0"
-     sodipodi:linespacing="125%"><tspan
+     sodipodi:linespacing="125%"
+     inkscape:export-xdpi="74.223289"
+     inkscape:export-ydpi="74.223289"><tspan
        sodipodi:role="line"
        id="tspan3040-8"
        x="192.92726"
@@ -201,7 +245,9 @@
      x="12.518771"
      y="162.71672"
      id="text3063"
-     sodipodi:linespacing="125%"><tspan
+     sodipodi:linespacing="125%"
+     inkscape:export-xdpi="74.223289"
+     inkscape:export-ydpi="74.223289"><tspan
        sodipodi:role="line"
        id="tspan3065"
        x="12.518771"
@@ -212,7 +258,9 @@
      y="162.71672"
      x="172.51877"
      style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-     xml:space="preserve"><tspan
+     xml:space="preserve"
+     inkscape:export-xdpi="74.223289"
+     inkscape:export-ydpi="74.223289"><tspan
        y="162.71672"
        x="172.51877"
        id="tspan3069"
