@@ -10,7 +10,7 @@ This is an Open Education Resource for General Biology. It requires Wordpress wi
 This uses the theme: Twenty Thirteen
 
 ## Images
-Many images point to Wikimedia Commons. Other images are modifications of SVG files that are derived from Public Domain or Creative Commons licensed imagery. Github repository has the SVG files, but not the raster images. Please check the SVG files for the appropriate attributions within the XML.
+Many images point to Wikimedia Commons. Other images are modifications of SVG files that are derived from Public Domain or Creative Commons licensed imagery. Github repository has the SVG files and host some of the raster images used directly at the OER. Please check the SVG files for the appropriate attributions within the XML or the exif of the raster files.
 
 ##Install
 To install, download the Wordpress XML file. In your Wordpress dashboard: Tools --> Import
