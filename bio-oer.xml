@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.2" created="2017-03-06 00:40" -->
+<!-- generator="WordPress/4.7.3" created="2017-04-10 20:03" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Biology OER</title>
 	<link>http://openlab.citytech.cuny.edu/bio1-oer</link>
 	<description>Open Education Resources for General Biology 1 and Molecular &#38; Cell Biology</description>
-	<pubDate>Mon, 06 Mar 2017 00:40:13 +0000</pubDate>
+	<pubDate>Mon, 10 Apr 2017 20:03:48 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://openlab.citytech.cuny.edu/</wp:base_site_url>
@@ -110,7 +110,7 @@
 		<wp:tag_name><![CDATA[breadth of knowledge]]></wp:tag_name>
 	</wp:tag>
 
-	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
 
 	<item>
 		<title>redbluecitytech3.png</title>
@@ -7062,21 +7062,20 @@ Starch Test</b></span></span></p>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=45</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h2 class="western" align="justify"><span style="font-family: Arial, sans-serif;color: #008000"><span style="font-size: large"><b>Activity: Do larger things diffuse faster?</b></span></span></h2>
+		<content:encoded><![CDATA[<h2 class="western" align="justify"><span style="font-family: Arial, sans-serif;color: #008000"><b>Activity: Do larger things diffuse faster?</b></span></h2>
 <p class="western" align="justify"><span style="font-family: Arial, sans-serif"><span style="font-size: medium">Agar is a gelatinous substance derived from a structural carbohydrate found in seaweed. It is often used in cooking as a vegetarian alternative to gelatin and can be used as a thickener. Microbiologists pour plates of agar containing nutrients in order to isolate and grow bacteria and other microbes. As with gelatin, the long fibery nature of this structural carbohydrate permits it to be melted and tangled together in a mesh-like network where the spaces between molecules are filled with solution. Altering the amount of fluid solution will change the pores between fibers. More fluid will create a looser gel that has larger spaces between molecules. Reducing the fluid solution volume will conversely create a stiffer gel with smaller spaces between fibers.</span></span></p>
-
-
-[caption id="attachment_46" align="alignleft" width="208"]<a href="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/06/tube-diffusion.png"><img class="wp-image-46 size-medium" src="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/06/tube-diffusion-208x300.png" alt="tube-diffusion" width="208" height="300" /></a> <span style="color: #000000">Diffusion of Malachite Green and Potassium Permanaganate through agar. Place the dye solutions on top of the agar as depicted. Hypothesize which will diffuse faster</span>.[/caption]
+<a href="https://github.com/jeremyseto/bio-oer/blob/master/figures/osmosis/tube-diffusion.png?raw=true"><img class="size-large alignright" src="https://github.com/jeremyseto/bio-oer/blob/master/figures/osmosis/tube-diffusion.png?raw=true" /></a>
 <ol>
-	<li><span style="font-family: Arial, sans-serif"><span style="font-size: medium">Take 2 tubes of agar and a solution of Malachite green (365 g/mole) and a solution of Potassium permanganate (164 g/mole)</span></span></li>
-	<li><span style="font-family: Arial, sans-serif"><span style="font-size: medium">Mark the top of the agar on the outside of the tube (the starting point)</span></span></li>
-	<li><span style="font-family: Arial, sans-serif"><span style="font-size: medium">Add 10 drops of malachite green to one tube and 10 drops of Potassium permanganate to the other</span></span></li>
-	<li><span style="font-family: Arial, sans-serif"><span style="font-size: medium">Take note of the time</span></span></li>
-	<li><span style="font-family: Arial, sans-serif"><span style="font-size: medium">At 20 minute intervals, measure the distance from the top that the agar has moved</span></span></li>
+ 	<li><span style="font-family: Arial, sans-serif"><span style="font-size: medium">Take 2 tubes of agar and a solution of Malachite green (365 g/mole) and a solution of Potassium permanganate (164 g/mole)</span></span></li>
+ 	<li><span style="font-family: Arial, sans-serif"><span style="font-size: medium">Mark the top of the agar on the outside of the tube (the starting point)</span></span></li>
+ 	<li><span style="font-family: Arial, sans-serif"><span style="font-size: medium">Add 10 drops of malachite green to one tube and 10 drops of Potassium permanganate to the other</span></span></li>
+ 	<li><span style="font-family: Arial, sans-serif"><span style="font-size: medium">Take note of the time</span></span></li>
+ 	<li><span style="font-family: Arial, sans-serif"><span style="font-size: medium">At 20 minute intervals, measure the distance from the top that the agar has moved. Do this for at least 1 hour.</span></span></li>
+ 	<li>Plot the data and compare the trends. Describe the rate of diffusion for each.</li>
 </ol>
-<h2 class="western" align="justify"><span style="font-family: Arial, sans-serif"><span style="font-size: medium"><b>Stop and Think:</b></span></span></h2>
+<h2 class="western" align="justify"><span style="font-family: Arial, sans-serif"><b>Stop and Think:</b></span></h2>
 <ul>
-	<li>
+ 	<li>
 <p class="western" align="justify"><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: medium"><b>Hypothesize</b></span></span></span><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: medium"> which solution will move faster through the agar and provide a reason.</span></span></span></p>
 </li>
 </ul>
@@ -7117,12 +7116,12 @@ Starch Test</b></span></span></p>
 </tbody>
 </table>
 </div>
-&nbsp;
-<span style="font-family: Arial, sans-serif"><span style="font-size: large"><b>Conclude:</b></span></span>
+<h2><span style="font-family: Arial, sans-serif"><b>Conclude:</b></span></h2>
 <ul>
-	<li><span style="font-family: Arial, sans-serif"><span style="font-size: medium">Which solution actually moved faster?</span></span></li>
-	<li><span style="font-family: Arial, sans-serif"><span style="font-size: medium">Did this meet your expectations?</span></span></li>
-	<li><span style="font-family: Arial, sans-serif"><span style="font-size: medium">Propose a reason why a certain dye moved faster.</span></span></li>
+ 	<li><span style="font-family: Arial, sans-serif"><span style="font-size: medium">Which solution actually moved faster?</span></span></li>
+ 	<li><span style="font-family: Arial, sans-serif"><span style="font-size: medium">Did this meet your expectations?</span></span></li>
+ 	<li><span style="font-family: Arial, sans-serif"><span style="font-size: medium">Propose a reason why a certain dye moved faster.</span></span></li>
+ 	<li><span style="text-decoration: underline"><strong><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="http://lab.concord.org/embeddable.html#interactives/sam/diffusion/3-mass.json" target="_blank">Review through simulation</a></span></strong></span></li>
 </ul>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>45</wp:post_id>
@@ -7137,7 +7136,12 @@ Starch Test</b></span></span></p>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="post_tag" nicename="quantitative-reasoning"><![CDATA[quantitative reasoning]]></category>
 		<category domain="post_tag" nicename="visual-communication"><![CDATA[visual communication]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_1ccf17d5b808513d332ebcef269d2b0d]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[975]]></wp:meta_value>
@@ -7151,7 +7155,7 @@ Starch Test</b></span></span></p>
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=54</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Understanding Membranes</span></h2>
-The cell membrane is the barrier that separates the cytoplasm from the internal cytoplasm with the external world. The cell membrane consists primarily of phospholipids in a bilayer. Phospholipids are amphipathic with a polar head (phosphate group) and a hydrophobic tail (2 hydrocarbon chains).  Due to the chemical properties of the heads being attracted to water and the tails having a desire to avoid water, phospholipids self assemble into micelles. Cell membranes form from a phospholipid bilayer where the lipid tails interact with each other and the phosphate heads face the external water environment or the internal cytoplasm of the cell.
+The cell membrane is the barrier that separates the cytoplasm from the external world. The cell membrane consists primarily of phospholipids in a bilayer. Phospholipids are amphipathic with a polar head (phosphate group) and a hydrophobic tail (2 hydrocarbon chains).  Due to the chemical properties of the heads being attracted to water and the tails having a desire to avoid water, phospholipids self assemble into micelles. Cell membranes form from a phospholipid bilayer where the lipid tails interact with each other and the phosphate heads face the external water environment or the internal cytoplasm of the cell.
 <a title="By Bensaccount [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ALipid_bilayer_section.gif"><img class=" alignright" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Lipid_bilayer_section.gif" alt="Lipid bilayer section" width="256" /></a>The cell membrane does not solely consist of phospholipids but also have proteins and cholesterol inserted into the bilayer. As the image of the bilayer above indicates, the molecules are constantly moving and flow in a lateral motion. Cholesterol modulates the fluidity of this motion. Proteins associated with the membrane may sit on either side (<strong><span style="color: #ff0000">peripheral proteins</span></strong>) of the membrane or pass through both layers of the membrane (<strong><span style="color: #ff0000">transmembrane proteins</span></strong>). The model that describes the components of the cellular membrane is referred to as the <strong><span style="color: #ff0000">Fluid Mosaic Model</span></strong>. This model states that the cell membrane is a mosaic of 1)Phospholipids 2)Proteins 3) cholesterol that move about in a side to side motion.
 
 [caption id="" align="aligncenter" width="512"]<a title="By LadyofHats Mariana Ruiz [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACell_membrane_detailed_diagram_en.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cell_membrane_detailed_diagram_en.svg/512px-Cell_membrane_detailed_diagram_en.svg.png" alt="Cell membrane detailed diagram from Wikimedia Commons" width="512" height="211" /></a> <span style="font-size: small">The fluid mosaic of phospholipids, proteins and cholesterol that create the selective barrier between the interior and the exterior of the cell.</span>[/caption]Small uncharged molecules pass through the double layer of phospholipids. Polar, charged or large molecules have great difficulty passing through the membrane and require the aid of transmembrane proteins.  An example of a transmembrane protein that facilitates movement of a polar substance is aquaporin, which permits the free movement of water.
@@ -7780,18 +7784,18 @@ All living things on Earth share a relationship. The rules that govern life proc
 		<description></description>
 		<content:encoded><![CDATA[<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif"> Why are cells so small?</span></h2>
 <ol>
-	<li>Take 3 blocks of agar of different size (1cm, 2cm, 3cm) → these are our cell models</li>
-	<li>Measure the length, width and height of each cube using a ruler</li>
-	<li>Calculate the area of each face of the cubes and add all the areas together for a single cube</li>
+ 	<li>Take 3 blocks of agar of different size (1cm, 2cm, 3cm) → these are our cell models</li>
+ 	<li>Measure the length, width and height of each cube using a ruler</li>
+ 	<li>Calculate the area of each face of the cubes and add all the areas together for a single cube</li>
 </ol>
 <ul>
 <ul>
-	<li>a cube has 6 faces → the total surface area is the same as the area of one side multiplied by 6</li>
+ 	<li>a cube has 6 faces → the total surface area is the same as the area of one side multiplied by 6</li>
 </ul>
 </ul>
 <ol start="4">
-	<li>Calculate the volume of each cube</li>
-	<li>Report the surface area-to-volume in the table below</li>
+ 	<li>Calculate the volume of each cube</li>
+ 	<li>Report the surface area-to-volume in the table below</li>
 </ol>
 <p class="western" align="center"><span style="font-size: medium"><b>Data Table: Calculating Surface Area-to-Volume Ratio</b></span></p>
 
@@ -7857,23 +7861,23 @@ All living things on Earth share a relationship. The rules that govern life proc
 </table>
 <h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Stop and think:</span></h2>
 <ul>
-	<li>Which cube has the greatest surface area:volume ratio?</li>
-	<li>Which cube has the smallest surface area:volume ratio?</li>
-	<li><b>Hypothesize</b>: In an osmosis or diffusion experiment, which cube size would have the greatest diffusion rate?</li>
+ 	<li>Which cube has the greatest surface area:volume ratio?</li>
+ 	<li>Which cube has the smallest surface area:volume ratio?</li>
+ 	<li><b>Hypothesize</b>: In an osmosis or diffusion experiment, which cube size would have the greatest diffusion rate?</li>
 </ul>
 &nbsp;
 <h2 style="text-align: left"><span style="font-family: 'Liberation Sans', Arial, sans-serif">Procedures</span>:</h2>
 <ol>
-	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Each group will cut three agar cubes: A 3cm cube, a 2cm cube, and a 1cm cube. </span></span><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium"><b>CUT AS ACCURATELY AS POSSIBLE</b></span></span><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">. </span></span><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium"><i>(This may be already completed for you.)</i></span></span></li>
-	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Pour 200mL of “diffusion solution” into your plastic cup.</span></span></li>
-	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Immerse your 3 cubes in the “diffusion solution”, noting the time.</span></span></li>
-	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Let the cubes soak for approximately 10 minutes.</span></span></li>
-	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Periodically, gently stir the solution, or turn the cubes over.</span></span></li>
-	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">After 10 minutes, remove the diffusion solution</span></span></li>
-	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Blot the cubes with a paper towel.</span></span></li>
-	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Promptly cut each cube in half and measure the depth to which the clear color has penetrated. Sketch each block’s cross-section. </span></span></li>
-	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Record the volume that has remained pink in color.</span></span></li>
-	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Do the following calculations for each cube and complete the following data table:</span></span></li>
+ 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Each group will cut three agar cubes: A 3cm cube, a 2cm cube, and a 1cm cube. </span></span><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium"><b>CUT AS ACCURATELY AS POSSIBLE</b></span></span><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">. </span></span><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium"><i>(This may be already completed for you.)</i></span></span></li>
+ 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Pour 200mL of 0.1M NaOH into your plastic cup.</span></span></li>
+ 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Immerse your 3 cubes in the NaOH, noting the time.</span></span></li>
+ 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Let the cubes soak for approximately 10 minutes.</span></span></li>
+ 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Periodically, gently stir the solution, or turn the cubes over.</span></span></li>
+ 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">After 10 minutes, remove the diffusion solution</span></span></li>
+ 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Blot the cubes with a paper towel.</span></span></li>
+ 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Promptly cut each cube in half and measure the depth to which the pink color has penetrated. Sketch each block’s cross-section. </span></span></li>
+ 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Record the volume that has remained white in color.</span></span></li>
+ 	<li><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: medium">Do the following calculations for each cube and complete the following data table:</span></span></li>
 </ol>
 <p style="text-align: center"><span style="font-size: medium"><b>Data Table: Calculation of Diffusion Area-to-Volume</b></span></p>
 
@@ -7939,9 +7943,9 @@ All living things on Earth share a relationship. The rules that govern life proc
 </table>
 <h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Conclude:</span></h2>
 <ul>
-	<li>Which cube had the greatest percentage of diffusion?</li>
-	<li>Did this meet your expectations with your hypothesis?</li>
-	<li>If you designed a large cell, would it be a large sphere or something long and flat?</li>
+ 	<li>Which cube had the greatest percentage of diffusion?</li>
+ 	<li>Did this meet your expectations with your hypothesis?</li>
+ 	<li>If you designed a large cell, would it be a large sphere or something long and flat?</li>
 </ul>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>113</wp:post_id>
@@ -7972,38 +7976,37 @@ All living things on Earth share a relationship. The rules that govern life proc
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=124</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p class="western" align="justify"><span style="font-family: Arial, sans-serif"><span style="font-size: small"><b>Observe Osmosis Along A Free Energy Gradient</b></span></span></p>
-
+		<content:encoded><![CDATA[<h2 class="western" align="justify"><span style="font-family: Arial, sans-serif"><b>Observe Osmosis Along A Free Energy Gradient</b></span></h2>
 <ol>
-	<li><span style="font-family: Arial, sans-serif"><span style="font-size: small">Obtain four pieces of water-soaked dialysis tubing 15 cm long and eight pieces of string. Seal one end of each tube by tying it into a knot.</span></span></li>
-	<li><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Open the other end of the tube by rolling it between your thumb and finger.</span></span></span>
+ 	<li><span style="font-family: Arial, sans-serif"><span style="font-size: small">Obtain four pieces of water-soaked dialysis tubing 15 cm long and eight pieces of string. Seal one end of each tube by tying it into a knot.</span></span></li>
+ 	<li><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Open the other end of the tube by rolling it between your thumb and finger.</span></span></span>
 <ol>
-	<li>write A, B, C, D on 4 pieces of paper</li>
-	<li>insert the labels into individual bags</li>
+ 	<li>write A, B, C, D on 4 pieces of paper</li>
+ 	<li>insert the labels into individual bags</li>
 </ol>
 </li>
-	<li><span style="font-family: Arial, sans-serif"><span style="font-size: small">Fill the bags with the contents shown in the figure below with 10 ml of solution.</span></span>
+ 	<li><span style="font-family: Arial, sans-serif"><span style="font-size: small">Fill the bags with the contents shown in the figure below with 10 ml of solution.</span></span>
 <ol type="A">
-	<li><span style="font-family: Arial, sans-serif"><span style="font-size: small"><strong><span style="color: #0000ff">Bag A</span></strong> 10ml 1% Sucrose</span></span></li>
-	<li><span style="font-family: Arial, sans-serif"><span style="font-size: small"><strong><span style="color: #0000ff">Bag B</span></strong> 10 ml 1% Sucrose</span></span></li>
-	<li><span style="font-family: Arial, sans-serif"><span style="font-size: small"><span style="color: #0000ff"><strong>Bag C</strong></span> 10 ml 25% Sucrose</span></span></li>
-	<li><span style="font-family: Arial, sans-serif"><span style="font-size: small"><span style="color: #0000ff"><strong>Bag D</strong></span> 10 ml 50% Sucrose</span></span></li>
+ 	<li><span style="font-family: Arial, sans-serif"><span style="font-size: small"><strong><span style="color: #0000ff">Bag A</span></strong> 10ml 1% Sucrose</span></span></li>
+ 	<li><span style="font-family: Arial, sans-serif"><span style="font-size: small"><strong><span style="color: #0000ff">Bag B</span></strong> 10 ml 1% Sucrose</span></span></li>
+ 	<li><span style="font-family: Arial, sans-serif"><span style="font-size: small"><span style="color: #0000ff"><strong>Bag C</strong></span> 10 ml 25% Sucrose</span></span></li>
+ 	<li><span style="font-family: Arial, sans-serif"><span style="font-size: small"><span style="color: #0000ff"><strong>Bag D</strong></span> 10 ml 50% Sucrose</span></span></li>
 </ol>
 </li>
-	<li><span style="font-family: Arial, sans-serif"><span style="font-size: small">For each bag, loosely fold the open end and press on the sides to push the fluid up slightly and remove most of the air bubbles. Tie the folded ends securely, rinse the bags, and check for leaks.</span></span></li>
-	<li><span style="font-family: Arial, sans-serif"><span style="font-size: small">Blot excess water from the outside of the bags and weigh each bag to the nearest 0.1 gram.</span></span></li>
-	<li><span style="font-family: 'Times New Roman', serif"><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Record the weights in </span></span></span><span style="color: #000000"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small"><b>Data Table 1: Weight of Dialysis Bags</b></span></span></span><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">.</span></span></span></span></li>
-	<li><span style="font-family: 'Times New Roman', serif"><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Place bags B, C, and D in a beaker or large bowl filled with 1% sucrose</span></span></span><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">. Record the time.</span></span></span></span></li>
-	<li><span style="font-family: Arial, sans-serif"><span style="font-size: small">Place bag A in an empty beaker and fill the beaker with just enough 50% sucrose to cover the bag. Record the time.</span></span></li>
-	<li><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Remove the bags from the beakers at 15-minute intervals for the next hour, blot them dry, and weigh them to the nearest 0.1 g. Handle the bags delicately to avoid leaks, and quickly return the bags to their respective containers. </span></span></span><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">For each 15-minute interval record the total weight of each bag and its contents in <strong>Data Table 1</strong></span></span></span><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">. </span></span></span><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Then calculate and record in </span></span></span><span style="color: #000000"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small"><b>Data table 2: Change in Weight of Dialysis Bags</b></span></span></span><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small"> the change in weight from the initial weight.</span></span></span></li>
+ 	<li><span style="font-family: Arial, sans-serif"><span style="font-size: small">For each bag, loosely fold the open end and press on the sides to push the fluid up slightly and remove most of the air bubbles. Tie the folded ends securely, rinse the bags, and check for leaks.</span></span></li>
+ 	<li><span style="font-family: Arial, sans-serif"><span style="font-size: small">Blot excess water from the outside of the bags and weigh each bag to the nearest 0.1 gram.</span></span></li>
+ 	<li><span style="font-family: 'Times New Roman', serif"><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Record the weights in </span></span></span><span style="color: #000000"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small"><b>Data Table 1: Weight of Dialysis Bags</b></span></span></span><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">.</span></span></span></span></li>
+ 	<li><span style="font-family: 'Times New Roman', serif"><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Place bags B, C, and D in a beaker or large bowl filled with 1% sucrose</span></span></span><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">. Record the time.</span></span></span></span></li>
+ 	<li><span style="font-family: Arial, sans-serif"><span style="font-size: small">Place bag A in an empty beaker and fill the beaker with just enough 50% sucrose to cover the bag. Record the time.</span></span></li>
+ 	<li><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Remove the bags from the beakers at 15-minute intervals for the next hour, blot them dry, and weigh them to the nearest 0.1 g. Handle the bags delicately to avoid leaks, and quickly return the bags to their respective containers. </span></span></span><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">For each 15-minute interval record the total weight of each bag and its contents in <strong>Data Table 1</strong></span></span></span><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">. </span></span></span><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Then calculate and record in </span></span></span><span style="color: #000000"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small"><b>Data table 2: Change in Weight of Dialysis Bags</b></span></span></span><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small"> the change in weight from the initial weight.</span></span></span></li>
 </ol>
-[caption id="attachment_128" align="aligncenter" width="604"]<a href="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/06/beakers-bags.png"><img class="wp-image-128 size-large" src="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/06/beakers-bags-1024x618.png" alt="beakers-bags" width="604" height="364" /></a> Osmosis through a semi-permeable membrane.[/caption]
-<h3 class="western" align="justify"><span style="font-family: Arial, sans-serif"><span style="font-size: small"><b>Stop and Think:</b></span></span></h3>
+<a href="https://github.com/jeremyseto/bio-oer/blob/master/figures/osmosis/beakers-bags.png?raw=true"><img class="size-large aligncenter" src="https://github.com/jeremyseto/bio-oer/blob/master/figures/osmosis/beakers-bags.png?raw=true" alt="Osmosis bags" width="2000" height="1334" /></a>
+<h3 class="western" align="justify"><span style="font-family: Arial, sans-serif"><b>Stop and Think:</b></span></h3>
 <ul>
-	<li>
+ 	<li>
 <p class="western" align="left"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Define the tonicity of the solution inside the bag relative to the outside</span></span></p>
 </li>
-	<li>
+ 	<li>
 <p class="western" align="left"><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Based on your definitions, </span></span></span><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small"><b>hypothesize</b></span></span></span><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small"> the direction the solution will move (in or out of the bag) and fill in the table below</span></span></span></p>
 </li>
 </ul>
@@ -8062,7 +8065,8 @@ All living things on Earth share a relationship. The rules that govern life proc
 <p style="text-align: center"><span style="color: #000000"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small"><b>Data Table 1: Weight of Dialysis Bags</b></span></span></span><span style="color: #000000"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small"><b>
 </b></span></span></span></p>
 
-<dl><dd>
+<dl>
+ 	<dd>
 <table style="width: 615px" border="2" cellspacing="0" cellpadding="4">
 <tbody>
 <tr valign="top">
@@ -8128,9 +8132,10 @@ All living things on Earth share a relationship. The rules that govern life proc
 </tbody>
 </table>
 &nbsp;
-<p class="western" style="margin-bottom: 0in;font-style: normal;line-height: 100%" align="center"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small"><b>Data table 2: Change in Weight of Dialysis Bags</b></span></span></p>
+<p class="western" style="margin-bottom: 0in;font-style: normal;line-height: 100%" align="center"><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: small"><b>Data table 2: Net Weight Change of Dialysis Bags</b></span></span></p>
 
-<dl><dd>
+<dl>
+ 	<dd>
 <table style="width: 615px" border="2" cellspacing="0" cellpadding="4">
 <tbody>
 <tr valign="top">
@@ -8208,31 +8213,34 @@ All living things on Earth share a relationship. The rules that govern life proc
 </tr>
 </tbody>
 </table>
-</dd></dl></dd></dl>
+</dd>
+</dl>
+</dd>
+</dl>
 <h3><span style="font-family: Arial, sans-serif"><span style="font-size: small"><b>Present your data:</b></span></span></h3>
 <ul>
-	<li>
+ 	<li>
 <p class="western" style="margin-bottom: 0in;font-style: normal;font-weight: normal;line-height: 100%" align="justify"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Plot your data using only the Change in Weight. (subtract the Initial Weight at 0 minutes from the Total Weight at each time point)</span></span></p>
 
 <ul>
-	<li>
+ 	<li>
 <p class="western" style="margin-bottom: 0in;line-height: 100%" align="justify"><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small"><span style="font-style: normal"><span style="font-weight: normal">Change in Weight = Total Weight</span></span></span></span></span><span style="color: #000000"><sub><span style="font-family: Arial, sans-serif"><span style="font-size: small"><span style="font-style: normal"><span style="font-weight: normal">current_time</span></span></span></span></sub></span><span style="color: #000000"><span style="font-family: Arial, sans-serif"><span style="font-size: small"><span style="font-style: normal"><span style="font-weight: normal"> – Initial Weight</span></span></span></span></span><span style="color: #000000"><sub><span style="font-family: Arial, sans-serif"><span style="font-size: small"><span style="font-style: normal"><span style="font-weight: normal">time_0</span></span></span></span></sub></span></p>
 </li>
 </ul>
 </li>
-	<li>
-<p class="western" style="margin-bottom: 0in;font-style: normal;font-weight: normal;line-height: 100%" align="justify"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Using a computer, create a scatter plot of the data and calculate the equation of the line</span></span></p>
+ 	<li>
+<p class="western" style="margin-bottom: 0in;font-style: normal;font-weight: normal;line-height: 100%" align="justify"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Using a computer, create a scatter plot of the data from Table 2 and calculate the equation of the line</span></span></p>
 </li>
 </ul>
 <h3 class="western" style="margin-right: 3in;margin-bottom: 0in;font-style: normal;line-height: 100%" align="justify"><span style="font-family: Arial, sans-serif"><span style="font-size: small"><b>Conclude:</b></span></span></h3>
 <ul>
-	<li>
+ 	<li>
 <p class="western" style="margin-bottom: 0in;font-style: normal;font-weight: normal;line-height: 100%" align="justify"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Did your results match your hypotheses?</span></span></p>
 </li>
-	<li>
+ 	<li>
 <p class="western" style="margin-bottom: 0in;font-style: normal;font-weight: normal;line-height: 100%" align="justify"><span style="font-family: Arial, sans-serif"><span style="font-size: small">What do the slopes of the lines generated from plotting Change Weight indicate to you?</span></span></p>
 </li>
-	<li>
+ 	<li>
 <p class="western" style="margin-bottom: 0in;font-style: normal;font-weight: normal;line-height: 100%" align="justify"><span style="font-family: Arial, sans-serif"><span style="font-size: small">Can you analyze and articulate in words what has occurred with respect to these slopes?</span></span></p>
 </li>
 </ul>]]></content:encoded>
@@ -8249,6 +8257,10 @@ All living things on Earth share a relationship. The rules that govern life proc
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_0cf4b886f3709a081d6f0d5baf895845]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[975]]></wp:meta_value>
@@ -8267,88 +8279,8 @@ All living things on Earth share a relationship. The rules that govern life proc
 <a title="By Independent_assortment_%26_segregation.svg: LadyofHats derivative work: Giac83 (Independent_assortment_%26_segregation.svg) [Public domain], via Wikimedia Commons" href="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/06/wrinkle.png"><img class="size-large wp-image-813 aligncenter" src="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/06/dihyb-1024x845.png" alt="dihyb" width="604" height="498" /></a>
 
 <!--nextpage-->
-<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Non-Mendelian Genetics</span></h2>
-&nbsp;
-<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Sex-linked Genes</span></h2>
-<a title="XX" href="https://www.flickr.com/photos/jamescastle/29393509031/in/dateposted/"><img src="https://c8.staticflickr.com/9/8677/29393509031_1d0de21940_z.jpg" alt="XX" width="480" height="640" /></a><a title="XY" href="https://www.flickr.com/photos/jamescastle/29364535332/in/dateposted/"><img src="https://c5.staticflickr.com/9/8300/29364535332_c3b9fd903e_z.jpg" alt="XY" width="480" height="640" /></a>
-For the most part, mammals have gender determined by the presence of the Y chromosome. This chromosome is gene poor and a specific area called sex determining region on Y (<strong><span style="color: #ff0000"><a href="https://en.wikipedia.org/wiki/Testis_determining_factor" target="_blank">SRY</a></span></strong>) is responsible for the initiation of the male sex determination. The X-chromosome is rich in genes while the Y-chromosome is a gene desert. The presence of an X-chromosome is absolutely necessary to produce a viable life form and the default gender of mammals is traditionally female.
-
-[caption id="" align="alignleft" width="256"]<a title="By National Center for Biotechnology Information, U.S. National Library of Medicine [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AHuman_chromosome_X_-_550_bphs.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Human_chromosome_X_-_550_bphs.png/256px-Human_chromosome_X_-_550_bphs.png" alt="Human chromosome X - 550 bphs" width="256" height="482" /></a> The human X-chromosome[/caption][caption id="" align="alignright" width="256"]<a title="By National Center for Biotechnology Information, U.S. National Library of Medicine [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AHuman_chromosome_Y_-_550_bphs.png"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Human_chromosome_Y_-_550_bphs.png" alt="Human chromosome Y - 550 bphs" width="256" height="368" /></a> The minuscule human Y-chromosome[/caption]&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-Chromosomal painting techniques can reveal the gender origin of mammalian cells. By using fluorescent marker sequences that can hybridize specifically to X or Y chromosomes through Fluorescence In Situ Hybridization (FISH), gender can be identified in cells.
-
-[caption id="" align="aligncenter" width="512"]<a title="By Janice Y Ahn, Jeannie T Lee [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AX_Y_chromosome.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/X_Y_chromosome.jpg" alt="X Y chromosome" width="512" height="285" /></a> The male cells have an X and a Y while the female cells have X and X combination.[/caption]<!--nextpage-->
-<h3><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="color: #008000">Ishahara tests (Activity)</span></span></h3>
-&nbsp;
-
-[caption id="" align="aligncenter" width="256"]<a title="By Barbarossa at Dutch Wikipedia (Transferred from nl.wikipedia to Commons.) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AIshihara-12.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Ishihara-12.gif" alt="Ishihara-12" width="256" height="322" /></a> Monochromatic representation of Ishahara test to a color blind individual as it emerges to something visible to a color-sighted individual[/caption]The genes encoding photoreceptor proteins for the long wave-length (reds) and middle wave-lengths (greens) reside on the X chromosome at Xq25. Since the Y-chromosome is not homologous, any mutation to either of these genes that render them non-functional results in an inability to perceive either of those colors. Men are more susceptible to the condition of red-green colorblindness since they are <span style="color: #ff0000"><strong>hemizygous</strong></span>. This means that there is no corresponding gene that could complement a deficient red or green photoreceptor gene.
-
-Dr. Shinobu Ishihara published his test for color perception in  1917 and this test is widely used to detect deficits in color perception. Below are  examples of Ishahara plates. Record the number that you perceive in each plate and discuss with the rest of the class.
-<a title="By Nicoguaro (Own work) [CC0], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AIshihara_1.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ishihara_1.svg/512px-Ishihara_1.svg.png" alt="Ishihara 1" width="512" /></a>
-<a title="Public Domain image, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AIshihara_1.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ishihara_23.PNG/600px-Ishihara_23.PNG" alt="Ishihara 23" width="512" /></a>
-<a title="Public Domain image, via Wikimedia Commons" href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ishihara_11.PNG/600px-Ishihara_11.PNG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ishihara_11.PNG/600px-Ishihara_11.PNG" alt="Ishihara 11" width="512" /></a><a title="Public Domain image, via Wikimedia Commons" href="https://upload.wikimedia.org/wikipedia/commons/a/ae/Ishihara_19.PNG"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Ishihara_19.PNG" alt="Ishihara 19" width="500" /></a>
-<ol>
- 	<li> As you go through the plates above, note the number that you see (if any).</li>
- 	<li>The genes for the Red and Green receptors are on the X-chromosome, who are most affected by mutation? Create a Punnet Square to illustrate how this works.</li>
- 	<li>Can women be color-blind for red/green?</li>
- 	<li>Humans have 3 color light receptors and have trichromatic vision. Some women are described as possibly having tetrachromatic vision (seeing 4 colors) and being able to discriminate colors invisible to the rest of us. Describe a mechanism for why this could happen. Why is there a possible gender bias?</li>
-</ol>
-<h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Sequence links</span></h3>
-<ul>
- 	<li>Opsin 1 Long Wave sensitive gene (OPN1LW) - <a href="http://www.ncbi.nlm.nih.gov/nuccore/NM_020061.5" target="_blank">red photoreceptor (human)</a></li>
- 	<li>Opsin 1 Medium Wave sensitive gene (OPN1MW) - <a href="http://www.ncbi.nlm.nih.gov/nuccore/NM_000513.2" target="_blank">green photoreceptor (human)</a></li>
-</ul>
-&nbsp;
-
-<!--nextpage-->
-<h3><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="color: #008000">The case of Queen Victoria</span></span></h3>
-<span style="color: #000000"><span style="color: #ff0000"><strong>Hemophilia</strong></span> literally translates to <em>blood loving</em>. This is a description of a series of disorders where an individual has an inability to clot blood after a cut. In modern times, clotting factors may be administered to an afflicted individual, but a prior treatment involved blood transfusions. A very famous family had a genetic predisposition to hemophilia and due to the proliferative nature of this family, we have some statistical power to verify predictions on the probabilities of passing the disease state. Below is a partial pedigree for Victoria, Queen of the United Kingdom of Great Britain and Ireland and Empress of India.</span><span style="color: #008000"> <span style="color: #000000">The filled in shapes represent individuals who suffered from hemophilia.</span></span>
-
-<a title="By CKRobinson (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AVictoria_pedigree.PNG"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Victoria_pedigree.PNG" alt="Victoria pedigree" width="512" /></a>
-<ol>
- 	<li>From the pedigree above, what can you say about this form of hemophilia with respect to dominance?</li>
- 	<li>From this pedigree, can you comment on the probable chromosome where the deficiency occurs?</li>
- 	<li>Assign genotypes for Prince Albert and Queen Victoria and perform a Punnet Square to illustrate if their offspring reflect your statements on dominance and chromosome location.</li>
- 	<li>Albert and Victoria were 1st cousins. Do you believe this had anything to do with the propagation of this disease? What does your Punnet Square tell you?</li>
- 	<li>Highlight the definitive carriers of the disease gene in the pedigree above.</li>
-</ol>
-<h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Additional Resources</span></h3>
-<ul>
- 	<li>Full case study can be acquired at the <a href="http://sciencecases.lib.buffalo.edu/cs/files/hemo.pdf" target="_blank">National Center for Case Study Teaching in Science</a>.</li>
- 	<li>Human<a href="http://www.ncbi.nlm.nih.gov/nuccore/NM_000133.3" target="_blank"> Factor IX mRNA</a> sequence</li>
-</ul>
-<!--nextpage-->
-<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Co-Dominance and multiple alleles</span></h2>
-Co-dominance is said to occur when there is an expression of two dominant alleles. The prototypical case for this is the human ABO blood grouping.
-<a title="By InvictaHOG (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AABO_blood_type.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ABO_blood_type.svg/512px-ABO_blood_type.svg.png" alt="ABO blood type" width="512" /></a>
-Three alleles exist in the ABO system: A, B and O. This results in four blood types: A, B, O and the blended AB.
-<a title="By GYassineMrabetTalk✉ This vector image was created with Inkscape. (Own work based on Codominant.jpg) [Public domain or Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AABO_system_codominance.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ABO_system_codominance.svg/512px-ABO_system_codominance.svg.png" alt="ABO system codominance" width="512" /></a>
-<!--nextpage-->
-<h2>Modern Study of Genetics</h2>
+<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Modern Study of Genetics</span></h2>
 https://www.youtube.com/watch?v=ubq4eu_TDFc&amp;list=PLF9969C74FAAD2BF9
-
 <!--nextpage-->
 <h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Additional Resources</span></h2>
 <ul>
@@ -8393,7 +8325,7 @@ https://www.youtube.com/watch?v=ubq4eu_TDFc&amp;list=PLF9969C74FAAD2BF9
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_f9e89b0b81868453201fc9c505140feb]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1483664505]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1489261329]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_717937665fe669d763754eca1f5694d2]]></wp:meta_key>
@@ -8514,7 +8446,7 @@ The longer primer ends with the sequence "GG". Both alleles at this locus will a
 <h2></h2>
 <!--nextpage-->
 <h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Hardy-Weinberg Principle</span></h2>
-The <strong><span style="color: #ff0000">Hardy-Weinberg principle</span></strong> is a mathematical model used to describe the equilibrium of two alleles in a population when there are no selective pressures. This model was derived independently by G.H. Hardy and Wilhelm Weinberg. It states that the allele and genotype frequencies across a population will remain constant across generations in the absence of evolutionary forces. This equilibrium makes several assumptions in order to be true:
+The <strong><span style="color: #ff0000">Hardy-Weinberg principle</span></strong> is a mathematical model used to describe the equilibrium of two alleles in a population in the absence of evolutionary forces. This model was derived independently by G.H. Hardy and Wilhelm Weinberg. It states that the allele and genotype frequencies across a population will remain constant across generations in the absence of evolutionary forces. This equilibrium makes several assumptions in order to be true:
 <ol>
  	<li>An infinitely large population size</li>
  	<li>The organism involved is diploid</li>
@@ -8563,13 +8495,20 @@ With the PTC tasting exercise, one can test for selection for one  allele withi
  	<li>Using an aggregate of multiple section, compare the local allelic and genotypic frequencies with what the Hardy-Weinberg would predict.</li>
  	<li>With this small number in mind, we can see that there are problems with the assumptions required for this principle. The instructor will perform the following simulation in class to illustrate the effects on multiple populations with the effects of selection and /or population limitations. A coefficient of fitness can be applied to illustrate a selective pressure against an allele.
 <ul>
- 	<li><a href="http://www.radford.edu/~rsheehy/Gen_flash/popgen2/index.html" target="_blank">Population Genetics Simulation of Alleles</a></li>
+ 	<li><strong><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="http://popgensimulator.pitt.edu/graphs/allele#!" target="_blank">Population Genetics Simulation of Alleles</a></span></span></strong></li>
+</ul>
+</li>
+ 	<li>In the case of a selective pressure, a fitness coefficient (<span style="color: #ff0000"><strong><em>w</em></strong></span>) can be introduced. A research article <span style="text-decoration: underline"><strong><span style="color: #0000ff;text-decoration: underline"><a style="color: #0000ff;text-decoration: underline" href="http://www.jci.org/articles/view/64240" target="_blank">http://www.jci.org/articles/view/64240</a></span></strong></span> has shown that the Tas2R38 receptor aids in the immune response against <em>Pseudomonas</em>. Imagine a situation where there is an epidemic of antibiotic resistant <em>Pseudomonas</em>. This would
+show that the dominant allele will have a selective advantage.
+<ul>
+ 	<li>Modify the fitness coefficient in the Population Genetics Simulator and describe the effects this would have over many successive generations.</li>
 </ul>
 </li>
 </ol>
 <h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Additional Resources/Experiments</span></h2>
 <ul>
- 	<li><a href="http://www.radford.edu/~rsheehy/Gen_flash/popgen2/index.html" target="_blank">Population Genetics Simulation of Alleles</a></li>
+ 	<li><a href="http://www.radford.edu/~rsheehy/Gen_flash/popgen2/index.html" target="_blank">Population Genetics Simulation of Alleles (Schaffer)</a></li>
+ 	<li><a href="http://www.radford.edu/~rsheehy/Gen_flash/popgen2/index.html" target="_blank">Population Genetics Simulation of Alleles (Sheehy)</a></li>
  	<li>
 <div class="article-authors"><i><i><a id="pseudomonas"></a> <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Lee%20RJ%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=23041624">Lee RJ</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Xiong%20G%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=23041624">Xiong G</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Kofonow%20JM%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=23041624">Kofonow JM</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Chen%20B%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=23041624">Chen B</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Lysenko%20A%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=23041624">Lysenko A</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Jiang%20P%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=23041624">Jiang P</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Abraham%20V%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=23041624">Abraham V</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Doghramji%20L%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=23041624">Doghramji L</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Adappa%20ND%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=23041624">Adappa ND</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Palmer%20JN%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=23041624">Palmer JN</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Kennedy%20DW%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=23041624">Kennedy DW</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Beauchamp%20GK%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=23041624">Beauchamp GK</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Doulias%20PT%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=23041624">Doulias PT</a>,<a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Ischiropoulos%20H%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=23041624">Ischiropoulos H</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Kreindler%20JL%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=23041624">Kreindler JL</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Reed%20DR%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=23041624">Reed DR</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Cohen%20NA%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=23041624">Cohen NA</a>. </i></i><strong>T2R38 taste receptor polymorphisms underlie susceptibility to upper respiratory infection.</strong> <i>J Clin Invest.</i> 2012;<a id="article_metadata" href="http://www.jci.org/122/11">122(11)</a>:4145-4159. doi:<a href="http://dx.doi.org/10.1172/JCI64240">10.1172/JCI64240</a>.</div></li>
 </ul>
@@ -8729,8 +8668,8 @@ For more review, visit the <a href="http://www.mathsisfun.com/equation_of_line.h
 <ol>
  	<li>Use the following data from the <a href="http://www.census.gov/compendia/statab/2012/tables/12s0217.xls" target="_blank">USDA</a> to plot a <strong><span style="text-decoration: underline"><span style="color: #ff0000;text-decoration: underline"><a style="color: #ff0000;text-decoration: underline" href="https://www.mathsisfun.com/data/scatter-xy-plots.html" target="_blank">scatterplot</a> </span></span></strong>and generate a trend-line.
 <ul>
- 	<li>Use the info from the table below or <a href="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/data/cheeseconsumption.tsv" target="_blank">download</a> (a text file that can be opened in notepad/textedit)</li>
- 	<li>follow a <span style="text-decoration: underline"><a href="http://lmgtfy.com/?q=excel+scatterplot+with+line+of+best+fit" target="_blank">tutorial</a></span> on how to graph a scatterplot with line of best fit (trend-line)</li>
+ 	<li>Use the info from the table below or <span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/data/cheeseconsumption.tsv" target="_blank">download</a></span></span> (a text file that can be opened in notepad/textedit)</li>
+ 	<li>follow a <span style="text-decoration: underline;color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="http://lmgtfy.com/?q=excel+scatterplot+with+line+of+best+fit" target="_blank">tutorial</a></span> on how to graph a scatterplot with line of best fit (trend-line)</li>
  	<li>remember <strong>NOT</strong> to make a line graph</li>
 </ul>
 </li>
@@ -8798,7 +8737,7 @@ For more review, visit the <a href="http://www.mathsisfun.com/equation_of_line.h
 </li>
 </ol>
 <h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Scatterplot Tutorial</span></h2>
-https://youtu.be/bxGFS-RukZY]]></content:encoded>
+https://youtu.be/jeRMxXvbI7g]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>147</wp:post_id>
 		<wp:post_date><![CDATA[2015-06-15 00:06:21]]></wp:post_date>
@@ -8816,6 +8755,14 @@ https://youtu.be/bxGFS-RukZY]]></content:encoded>
 		<category domain="post_tag" nicename="analysis"><![CDATA[analysis]]></category>
 		<category domain="post_tag" nicename="inquiry"><![CDATA[inquiry]]></category>
 		<category domain="post_tag" nicename="visual-communication"><![CDATA[visual communication]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_e7f12e39dfed19ecf893fb2ce8299041]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1489948798]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_e7f12e39dfed19ecf893fb2ce8299041]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="604" height="340" src="https://www.youtube.com/embed/jeRMxXvbI7g?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[975]]></wp:meta_value>
@@ -10406,7 +10353,8 @@ Run the simulation below to understand how white light, specific wavelengths of 
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=232</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p align="left"><span style="color: #000000"><span style="font-family: 'Liberation Sans', sans-serif"><span style="font-size: medium">Bacteria are equipped with all the necessary capacities to replicate DNA. Common bacterial species have bee adapted for use in the lab to carry DNA and propagate it for uses in biotechnology. In addition to chromosomal DNA of the bacterial genome, bacteria also have extrachromosomal DNA called <span style="color: #ff0000"><b>plasmids</b></span>. These plasmids replicate independently of the bacterial chromosome and can occur in high copy. These circular pieces of DNA are modified in labs to carry specific pieces of DNA so they can be studied or used for expression into proteins. Plasmids can naturally carry important traits, including antibiotic resistance. Plasmids are relatively small, ranging in size from 1000 bases to 1,000,000 bases long (1kb-1000kb).</span></span></span></p>
+		<content:encoded><![CDATA[<p align="left">George Beadle and Edward Tatum first described the concept that each gene corresponded to an enzyme in a metabolic pathway by exposing the yeast <em>Neurospoara crassa</em> to mutagenic conditions (<a href="#beadle">Beadle &amp; Tatum, 1941</a>). Following these procedures Josua lederberg continued these studies with Tatum where they generated two mutants strains in <em>Escherichia coli</em> . These bacteria were <strong><span style="color: #ff0000">auxotrophs</span></strong><span style="color: #ff0000"><span style="color: #000000">,</span></span> unable to generate some basic nutrients necessary to sustain their growth.  The two strains were described as <em>met<sup>−</sup> bio<sup>−</sup> Thr<sup>+</sup> Leu<sup>+</sup> Thi<sup>+</sup></em> (Strain A) and <em>Met<sup>+</sup> Bio<sup>+</sup> thr<sup>−</sup> leu<sup>−</sup> thi<sup>−</sup></em> (Strain B). Strain A can sufficiently synthesize the amino acids threonine, leucine and the cofactor thiamine while deficient in producing the cofactor biotin and the amino acid methionine while the converse was true of Strain B. When either of these two strains were plated onto minimal media, no growth occurred. Supplementing minimal media with methionine and biotin permitted Strain A to grow as normal. When the two strains were mixed together and plated on minimal media, there was growth of bacteria. The two strains were capable of complementing each other in some way as if a sexual exchange of genetic material had occurred (<a href="#lederberg">Lederberg &amp; Tatum, 1946</a>).</p>
+<p align="left"><span style="color: #000000"><span style="font-family: 'Liberation Sans', sans-serif"><span style="font-size: medium">Bacteria are equipped with all the necessary capacities to replicate DNA. Common bacterial species have bee adapted for use in the lab to carry DNA and propagate it for uses in biotechnology. In addition to chromosomal DNA of the bacterial genome, bacteria also have extrachromosomal DNA called <span style="color: #ff0000"><b>plasmids</b></span>. These plasmids replicate independently of the bacterial chromosome and can occur in high copy. These circular pieces of DNA are modified in labs to carry specific pieces of DNA so they can be studied or used for expression into proteins. Plasmids can naturally carry important traits, including antibiotic resistance. Plasmids are relatively small, ranging in size from 1000 bases to 1,000,000 bases long (1kb-1000kb).</span></span></span></p>
 
 [caption id="" align="aligncenter" width="256"]<a title="By User:Spaully on English wikipedia (Own work) [CC BY-SA 2.5 (http://creativecommons.org/licenses/by-sa/2.5)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APlasmid_(english).svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Plasmid_%28english%29.svg/256px-Plasmid_%28english%29.svg.png" alt="Plasmid (english)" width="256" height="120" /></a> <span style="font-size: small">Bacterial DNA usually exists as a large <strong><span style="color: #ff0000">circular chromosome</span></strong> (<span style="color: #ff0000">red</span>). <strong><span style="color: #0000ff">Plasmids</span></strong> are extrachromosomal and autonomously replicating pieces of DNA (<span style="color: #0000ff">blue</span>).</span>[/caption]
 <p align="left"><span style="color: #000000"><span style="font-family: 'Liberation Sans', sans-serif"><span style="font-size: medium">Through a process called <b><span style="color: #ff0000">conjugation</span></b>, bacteria can “sexually” transfer genetic material to another by passing plasmids through a structure called a <b><span style="color: #ff0000">conjugation pilus</span></b>.</span></span></span></p>
@@ -10416,7 +10364,7 @@ Run the simulation below to understand how white light, specific wavelengths of 
 
 <h2 align="left"><a name="Features"></a><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: x-large"> Features of Plasmids</span></span></h2>
 <p align="left"><span style="color: #000000"><span style="font-family: 'Liberation Sans', sans-serif"><span style="font-size: medium">Plasmids that are designed by Biologists to shuttle pieces of DNA for study are referred to as <span style="color: #ff0000"><b>vectors</b></span>, because they <i>move</i> a piece of DNA. </span></span></span></p>
-<p align="left"><span style="color: #000000"><span style="font-family: 'Liberation Sans', sans-serif"><span style="font-size: medium"><a href="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/07/pUC19.png"><img class=" size-large wp-image-241 aligncenter" title="By jeremy Seto CC-BY-NC-SA" src="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/07/pUC19-1024x582.png" alt="pUC19" width="604" height="343" /></a>These plasmid vectors have the same hallmarks as traditional plasmids with the capacity to replicate independently of the bacterial genome. The feature that allows these DNA's to replicate is called an <span style="color: #ff0000"><b>origin of replication</b></span> (ori) that is usually rich in A's and T's. However, these plasmid vectors have the additional properties that make them easy to work with and distinguishable from bacterial plasmids; a selection marker and a multiple cloning site. A <span style="color: #ff0000"><b>selection marker</b></span> usually comes in the form of a gene that encodes resistance to a specific antibiotic. In the pictured plasmid, Ampicillin resistance granted by the β-lactamase gene. The <span style="color: #ff0000"><b>multiple cloning site</b></span> (<a href="https://openlab.citytech.cuny.edu/bio1-oer/dna-fingerprinting/propagating-dna-in-bacteria/identification-of-dna-activity/#MCS" target="new">MCS</a>), also known as the polylinker, is the location in which the DNA of interest is incorporated into the vector. MCSs are defined by a set of unique sites where the DNA can be cut by <span style="color: #ff0000"><b>restriction endonucleases</b></span> (<span style="color: #ff0000">RE</span>). As the name implies, restriction enzymes are “restricted” in their ability to cut or digest DNA. The restriction that is useful to biologists is usually <span style="color: #ff0000"><b>palindromic</b></span> DNA sequences. Palindromic sequences are the same sequence forwards and backwards. Some examples of palindromes: RACE CAR, CIVIC, A MAN A PLAN A CANAL PANAMA. With respect to DNA, there are 2 strands that run antiparallelel to each other. Therefore, the reverse complement of one strand is identical to the other.</span></span></span></p>
+<p align="left"><span style="color: #000000"><span style="font-family: 'Liberation Sans', sans-serif"><span style="font-size: medium"><a href="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/07/pUC19.png"><img class=" size-large wp-image-241 aligncenter" title="By jeremy Seto CC-BY-NC-SA" src="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/07/pUC19-1024x582.png" alt="pUC19" width="604" height="343" /></a>These plasmid vectors have the same hallmarks as traditional plasmids with the capacity to replicate independently of the bacterial genome. The feature that allows these DNA's to replicate is called an <span style="color: #ff0000"><b>origin of replication</b></span> (ori) that is usually rich in A's and T's. However, these plasmid vectors have the additional properties that make them easy to work with and distinguishable from bacterial plasmids; a selection marker and a multiple cloning site. A <span style="color: #ff0000"><b>selection marker</b></span> usually comes in the form of a gene that encodes resistance to a specific antibiotic. In the pictured plasmid, Ampicillin resistance granted by the β-lactamase gene. The <span style="color: #ff0000"><b>multiple cloning site</b></span> (<span style="color: #ff0000"><strong>MCS</strong></span>), also known as the polylinker, is the location in which the DNA of interest is incorporated into the vector. MCSs are defined by a set of unique sites where the DNA can be cut by <span style="color: #ff0000"><b>restriction endonucleases</b></span> (<strong><span style="color: #ff0000">RE</span></strong>). As the name implies, restriction enzymes are “restricted” in their ability to cut or digest DNA. The restriction that is useful to biologists is usually <span style="color: #ff0000"><b>palindromic</b></span> DNA sequences. Palindromic sequences are the same sequence forwards and backwards. Some examples of palindromes: RACE CAR, CIVIC, A MAN A PLAN A CANAL PANAMA. With respect to DNA, there are 2 strands that run antiparallelel to each other. Therefore, the reverse complement of one strand is identical to the other.</span></span></span></p>
 
 [caption id="" align="alignleft" width="128"]<a title="By User:Bryan Derksen (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AEcoRI_restriction_enzyme_recognition_site.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/EcoRI_restriction_enzyme_recognition_site.svg/128px-EcoRI_restriction_enzyme_recognition_site.svg.png" alt="EcoRI restriction enzyme recognition site" width="128" height="51" /></a> <strong><i>EcoRI</i></strong> generates sticky of cohesive ends[/caption][caption id="" align="alignright" width="128"]<a title="By User:Bryan Derksen (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASmaI_restriction_enzyme_recognition_site.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/SmaI_restriction_enzyme_recognition_site.svg/128px-SmaI_restriction_enzyme_recognition_site.svg.png" alt="SmaI restriction enzyme recognition site" width="128" height="54" /></a> <strong><i>SmaI</i></strong> generates blunt ends[/caption]&nbsp;
 
@@ -10430,16 +10378,21 @@ Run the simulation below to understand how white light, specific wavelengths of 
 <a title="By Kelvinsong (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AGene_cloning.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Gene_cloning.svg/512px-Gene_cloning.svg.png" alt="Gene cloning" width="512" /></a>
 <h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Additional Resources:</span></h3>
 <ol>
-	<li><a href="http://www.dnalc.org/resources/3d/20-mechanism-of-recombination.html">http://www.dnalc.org/resources/3d/20-mechanism-of-recombination.html</a></li>
-	<li><a href="http://www.dnalc.org/view/16705-Animation-34-Genes-can-be-moved-between-species-.html">http://www.dnalc.org/view/16705-Animation-34-Genes-can-be-moved-between-species-.html</a></li>
+ 	<li><span style="color: #0000ff"><a style="color: #0000ff" href="http://www.dnalc.org/resources/3d/20-mechanism-of-recombination.html">http://www.dnalc.org/resources/3d/20-mechanism-of-recombination.html</a></span></li>
+ 	<li><span style="color: #0000ff"><a style="color: #0000ff" href="http://www.dnalc.org/view/16705-Animation-34-Genes-can-be-moved-between-species-.html">http://www.dnalc.org/view/16705-Animation-34-Genes-can-be-moved-between-species-.html</a></span></li>
 </ol>
 <h3><span style="color: #000000"><span style="font-family: 'Liberation Sans', sans-serif"><span style="font-size: large"><b>Questions for thought</b></span></span></span></h3>
 <ol>
-	<li><span style="color: #000000"><span style="font-family: 'Liberation Sans', sans-serif"><span style="font-size: medium">Why do you think that origins of replication are made of A's and T's?</span></span></span></li>
-	<li><span style="color: #000000"><span style="font-family: 'Liberation Sans', sans-serif"><span style="font-size: medium">What is different about the types of bonds holding the double strands together versus phosphodiester bonds of the DNA backbone?</span></span></span></li>
-	<li><span style="color: #000000"><span style="font-family: 'Liberation Sans', sans-serif"><span style="font-size: medium">Can DNA digested with <i>SmaI</i> be ligated to DNA digested with <i>EcoRV</i>?</span></span></span></li>
-	<li><span style="color: #000000"><span style="font-family: 'Liberation Sans', sans-serif"><span style="font-size: medium">If so, which enzyme will be able to digest this new DNA?</span></span></span></li>
-</ol>]]></content:encoded>
+ 	<li><span style="color: #000000"><span style="font-family: 'Liberation Sans', sans-serif"><span style="font-size: medium">Why do you think that origins of replication are made of A's and T's?</span></span></span></li>
+ 	<li><span style="color: #000000"><span style="font-family: 'Liberation Sans', sans-serif"><span style="font-size: medium">What is different about the types of bonds holding the double strands together versus phosphodiester bonds of the DNA backbone?</span></span></span></li>
+ 	<li><span style="color: #000000"><span style="font-family: 'Liberation Sans', sans-serif"><span style="font-size: medium">Can DNA digested with <i>SmaI</i> be ligated to DNA digested with <i>EcoRV</i>?</span></span></span></li>
+ 	<li><span style="color: #000000"><span style="font-family: 'Liberation Sans', sans-serif"><span style="font-size: medium">If so, which enzyme will be able to digest this new DNA?</span></span></span></li>
+</ol>
+<h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">References:</span></h3>
+<ul>
+ 	<li><em><a id="beadle"></a>Beadle, G. W.; Tatum, E. L. (1941)</em>. <a class="external text" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1078370" rel="nofollow">"Genetic Control of Biochemical Reactions in Neurospora"</a>. <i>Proceedings of the National Academy of Sciences</i>. <b>27</b> (11): 499–506. <a title="Digital object identifier" href="https://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a class="external text" href="https://dx.doi.org/10.1073%2Fpnas.27.11.499" rel="nofollow">10.1073/pnas.27.11.499</a>. <a title="PubMed Central" href="https://en.wikipedia.org/wiki/PubMed_Central">PMC</a> <span class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1078370" rel="nofollow">1078370</a></span>. <a class="mw-redirect" title="PubMed Identifier" href="https://en.wikipedia.org/wiki/PubMed_Identifier">PMID</a> <a class="external text" href="https://www.ncbi.nlm.nih.gov/pubmed/16588492" rel="nofollow">16588492</a></li>
+ 	<li><span class="reference-text"><cite class="citation journal"><a id="lederberg"></a>Lederberg J, Tatum EL (1946). "Gene recombination in <i>E. coli</i>". <i>Nature</i>. <b>158</b> (4016): 558. <a title="Digital object identifier" href="https://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a class="external text" href="https://dx.doi.org/10.1038%2F158558a0" rel="nofollow">10.1038/158558a0</a></cite></span></li>
+</ul>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>232</wp:post_id>
 		<wp:post_date><![CDATA[2015-07-21 13:07:11]]></wp:post_date>
@@ -10530,6 +10483,7 @@ Run the simulation below to understand how white light, specific wavelengths of 
 <ul>
  	<li><span style="color: #000000"><span style="font-family: 'Liberation Sans', sans-serif"><span style="font-size: medium">DNA likes to bind to glass under high salt conditions</span></span></span></li>
  	<li><span style="color: #000000"><span style="font-family: 'Liberation Sans', sans-serif"><span style="font-size: medium">the white membrane is made of a glass fiber</span></span></span></li>
+ 	<li><a title="By Squidonius (Own work (Original text: self-made)) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AQiagen_Mini_Spin_Column.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Qiagen_Mini_Spin_Column.svg/500px-Qiagen_Mini_Spin_Column.svg.png" alt="Qiagen Mini Spin Column" width="500" /></a></li>
 </ul>
 </ul>
 <ol start="9">
@@ -11659,17 +11613,15 @@ As in the case of the Lac operon, the <em>LacI</em> (repressor protein) will occ
 <h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Being Human</span></h2>
 [caption id="attachment_441" align="aligncenter" width="604"]<a href="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/09/ape_tree.png"><img class="wp-image-441 size-large" title="By Jeremy Seto CC-BY-NC-SA" src="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/09/ape_tree-1024x723.png" alt="ape_tree" width="604" height="426" /></a> <span style="font-size: small">Phylogenetic tree generated with Cytochrome Oxidase I (COI) genes.</span>[/caption]
 
-<em>Homo sapiens</em> represent a branch of primates in the line of Great Apes. The family of Great Apes consists of four extant genera:<em> Homo, Pan, Gorilla, Pongo</em>. Karyotype analysis (<a href="#yunis">Yunis et al. 1982</a>) reveals a shared genomic structure between Great Apes. While humans have 46 chromosomes, the other Great Apes have 48. Molecular evidence at the DNA level indicates that Human Chromosome 2 is a fusion of 2 individual chromosomes. In the other Great Apes, these 2 Chromosomes are referred to as 2p and 2q to illustrate their synteny to the human counterpart.
+<em>Homo sapiens</em> represent a branch of primates in the line of Great Apes. The family of Great Apes consists of four extant genera:<em> Homo, Pan, Gorilla, Pongo</em>. Karyotype analysis (<a href="#yunis">Yunis <em>et al.</em>, 1982</a>) reveals a shared genomic structure between Great Apes. While humans have 46 chromosomes, the other Great Apes have 48. Molecular evidence at the DNA level indicates that Human Chromosome 2 is a fusion of 2 individual chromosomes. In the other Great Apes, these 2 Chromosomes are referred to as 2p and 2q to illustrate their synteny to the human counterpart.
 
 [caption id="" align="aligncenter" width="640"]<a title="Lines" href="https://www.flickr.com/photos/jamescastle/33047431006/in/dateposted/"><img src="https://c1.staticflickr.com/3/2570/33047431006_2f654c6fe3_z.jpg" alt="Lines" width="640" height="480" /></a> <span style="font-size: small">The Pan-Homo divergence. A display at the Cradle of Humankind illuminates the skulls of two extant Hominini with a series of model fossils from the Hominina subtribe of Austrolopithecina and Homo</span>[/caption]
-
-
 
 Chimpanzees (<em>Pan</em>) are the closest living relatives to modern humans. It is commonly cited that less than 2% differences in their nucleotide sequences exist with humans (<a href="#chimpseq">Chimpanzee Sequencing and Analysis Consortium, 2005</a>). More recent findings in comparing the complement of genes (including duplication and gene loss events) now describes the difference in genomes at about 6% (<a href="#demuth">Demuth JP, et al., 2006</a>).
 
 <a title="John D. Croft at English Wikipedia [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASpread_and_evolution_of_Denisovans.jpg"><img class=" aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Spread_and_evolution_of_Denisovans.jpg/512px-Spread_and_evolution_of_Denisovans.jpg" alt="Spread and evolution of Denisovans" width="512" /></a>
 
-In 2008, a  piece of a finger bone from a Siberian Cave was found that differed from that of modern humans. The cave, called Denisova Cave, maintains an average temperature of 0ºC year round and was suspected to contain viable soft tissue. Similar bones in this cave were discovered that had similarities to modern humans and Neandertals. An initial mitochondrial DNA analysis revealed that these beings represented a distinct line of humans that overlapped with them in time. Analysis of the full nuclear genome followed and indicated that interbreeding existed between these Denisovans, Neandertals and modern humans. Furthermore, analysis of DNA from a 400,000 year old femur in Spain revealed that these three lines diverged from the species <em>Homo heidelbergensis</em> and that Denisovans were closest in sequence.
+In 2008, a  piece of a finger bone from a Siberian Cave was found that differed from that of modern humans. The cave, called Denisova Cave, maintains an average temperature of 0ºC year round and was suspected to contain viable soft tissue. Bones in this cave were discovered that had similarities to modern humans and Neandertals. An initial mitochondrial DNA analysis revealed that these beings represented a distinct line of humans that overlapped with them in time (<a href="#krause">Krause <em>et al.</em>, 2010</a>). Analysis of the full nuclear genome followed and indicated that interbreeding existed between these Denisovans, Neandertals and modern humans (<a href="#reich">Reich <em>et al.</em>, 2010</a>). Furthermore, analysis of DNA from a 400,000 year old femur in Spain revealed that these three lines diverged from the species <em>Homo heidelbergensis</em> and that Denisovans were closest in sequence (<a href="#meyer">Meyer <em>et al.</em>, 2016</a>).
 
 Between modern humans, markers found in the mtDNA can be used to trace the migrations and origins along the maternal line. Similarly, VNTRs found on the Y chromosome have revealed migration patterns along paternal lines within men. Other markers, like the insertion points of transposable elements can be used to further describe the genetics and inheritance of modern humans while providing a snapshot into evolutionary history.
 <h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Other Resources</span></h2>
@@ -11678,7 +11630,10 @@ Between modern humans, markers found in the mtDNA can be used to trace the migra
  	<li><a href="http://media.hhmi.org/biointeractive/click/Origins/01.html" target="_blank">http://media.hhmi.org/biointeractive/click/Origins/01.html</a></li>
  	<li><a id="yunis"></a><a id="yunis" href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Yunis%20JJ%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=7063861" target="new">Yunis JJ</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Prakash%20O%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=7063861" target="new">Prakash O</a>. The origin of man: a chromosomal pictorial legacy. <a title="Science (New York, N.Y.)." href="http://www.ncbi.nlm.nih.gov/pubmed/7063861?dopt=Abstract#" target="new">Science.</a> 1982 Mar 19;215(4539):1525-30.</li>
  	<li><a id="chimpseq"></a>Chimpanzee Sequencing and Analysis Consortium. Initial sequence of the chimpanzee genome and comparison with the human genome. <a title="Nature." href="https://www.ncbi.nlm.nih.gov/pubmed/16136131#">Nature.</a> 2005 Sep 1;437(7055):69-87.</li>
- 	<li><a id="demuth"></a>Demuth JP, <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=De%20Bie%20T%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=17183716"><span class="highlight">De Bie T</span></a>, <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Stajich%20JE%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=17183716"><span class="highlight">Stajich JE</span></a>, <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Cristianini%20N%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=17183716"><span class="highlight">Cristianini N</span></a>, <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Hahn%20MW%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=17183716">Hahn MW</a>.<span style="color: #0000ff"><strong><span style="text-decoration: underline"> <a style="color: #0000ff;text-decoration: underline" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000085" target="_blank">The evolution of mammalian gene families</a></span></strong></span>. <a title="PloS one." href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Demuth+JP%2C+De+Bie+T%2C+Stajich+JE%2C+Cristianini+N%2C+Hahn+MW.#">PLoS One.</a> 2006 Dec 20;1:e85.</li>
+ 	<li><a id="demuth"></a>Demuth JP, <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=De%20Bie%20T%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=17183716"><span class="highlight">De Bie T</span></a>, <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Stajich%20JE%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=17183716"><span class="highlight">Stajich JE</span></a>, <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Cristianini%20N%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=17183716"><span class="highlight">Cristianini N</span></a>, <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Hahn%20MW%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=17183716">Hahn MW</a>.<span style="color: #0000ff"><strong><span style="text-decoration: underline"> <a style="color: #0000ff;text-decoration: underline" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000085" target="_blank">The evolution of mammalian gene families</a></span></strong></span>. PLoS One. 2006 Dec 20;1:e85.</li>
+ 	<li><a id="krause"></a>Krause, Johannes; Fu, Qiaomei; Good, Jeffrey M.; Viola, Bence; Shunkov, Michael V.; Derevianko, Anatoli P. &amp; Pääbo, Svante (2010), "The complete mitochondrial DNA genome of an unknown hominin from southern Siberia", Nature, <b>464</b> (7290): 894–897, doi:<a class="external text" href="https://dx.doi.org/10.1038%2Fnature08976" rel="nofollow">10.1038/nature08976</a>, PMID <a class="external text" href="https://www.ncbi.nlm.nih.gov/pubmed/20336068" rel="nofollow">20336068</a></li>
+ 	<li><a id="reich"></a>Reich, David; Green, Richard E.; Kircher, Martin; Krause, Johannes; Patterson, Nick; Durand, Eric Y.; Viola, Bence; Briggs, Adrian W. &amp; Stenzel, Udo (2010), "Genetic history of an archaic hominin group from Denisova Cave in Siberia", <i>Nature</i>, <b>468</b> (7327): 1053–1060, doi:<a class="external text" href="https://dx.doi.org/10.1038%2Fnature09710" rel="nofollow">10.1038/nature09710</a>, PMID <a class="external text" href="https://www.ncbi.nlm.nih.gov/pubmed/21179161" rel="nofollow">21179161</a></li>
+ 	<li><a id="meyer"></a>Meyer M, Arsuaga JL, de Filippo C, Nagel S, Aximu-Petri A, Nickel B, Martínez I, Gracia A, Bermúdez de Castro JM, Carbonell E, Viola B, Kelso J, Prüfer K, Pääbo S. <strong><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="http://www.nature.com/nature/journal/v505/n7483/full/nature12788.html" target="_blank">Nuclear DNA sequences from the Middle Pleistocene Sima de los Huesos hominins.</a></span><span style="color: #0000ff"> </span></strong>Nature. 2016 Mar 24;531(7595):504-7. doi: 10.1038/nature17405. <a href="https://www.ncbi.nlm.nih.gov/pubmed/26976447" target="_blank">PMID:26976447</a></li>
 </ul>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>369</wp:post_id>
@@ -12240,9 +12195,9 @@ Run the simulation below to understand how you can use the standard dilution ser
 <h2></h2>
 <h2></h2>
 <h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Scatterplot Tutorial</span></h2>
-Click on "<a class="workspace-header__goback" href="https://plot.ly/plot" target="_blank">(Switch back to Plotly 1.0)</a>" to follow this tutorial.
+Use the tutorial below and watch at 1.25X to plot your own data.
 
-https://youtu.be/bxGFS-RukZY]]></content:encoded>
+https://youtu.be/jeRMxXvbI7g]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>403</wp:post_id>
 		<wp:post_date><![CDATA[2015-09-13 20:26:53]]></wp:post_date>
@@ -12257,6 +12212,14 @@ https://youtu.be/bxGFS-RukZY]]></content:encoded>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="post_tag" nicename="quantitative-reasoning"><![CDATA[quantitative reasoning]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_e7f12e39dfed19ecf893fb2ce8299041]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="604" height="340" src="https://www.youtube.com/embed/jeRMxXvbI7g?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_e7f12e39dfed19ecf893fb2ce8299041]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1489948582]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[975]]></wp:meta_value>
@@ -12347,7 +12310,9 @@ https://youtu.be/bxGFS-RukZY]]></content:encoded>
 		<content:encoded><![CDATA[<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Cryptozoology</span></h2>
 Cryptozoology is a pseudoscience centered around the description of animals that have little or no evidence of existing. These mythical beasts include: Bigfoot, Yeti, Sasquatch, jackelope, Loch Ness Monster and chupacabra. Little evidence exist to illustrate their existence other than folklore.
 
-[caption id="" align="aligncenter" width="512"]<a title="By —User:Fiziker [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ABigfoot_Sightings_in_USA.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bigfoot_Sightings_in_USA.png/512px-Bigfoot_Sightings_in_USA.png" alt="Bigfoot Sightings in North America" width="512" height="521" /></a> <span style="font-size: small">Sightings of Bigfoot in North America.</span>[/caption]Sometimes, physical evidence is left behind like hair or feces. With DNA evidence, we can help to confirm the existence of these unknown creatures. Below features a table from <a href="#sykes">Sykes et al.</a> displaying results on supposed cryptic Apes (Bigfoot/Yeti) and what DNA evidence has revealed them to be.
+[caption id="" align="aligncenter" width="800"]<a title="Creative Commons Non-Commercial Share-Alike by Elia Machado http://www.lehman.edu/academics/eggs/fac-Machado.php" href="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/DNAanalysis/bigfoot.jpg"><img src="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/DNAanalysis/bigfoot.jpg" alt="" width="800" height="463" /></a> <span style="font-size: small">Sightings of Bigfoot in North America.</span>[/caption]
+
+Sometimes, physical evidence is left behind like hair or feces. With DNA evidence, we can help to confirm the existence of these unknown creatures. Below features a table from <a href="#sykes">Sykes et al.</a> displaying results on supposed cryptic Apes (Bigfoot/Yeti) and what DNA evidence has revealed them to be.
 
 [caption id="attachment_417" align="aligncenter" width="700"]<a href="http://rspb.royalsocietypublishing.org/content/281/1789/20140161"><img class="wp-image-417" title="By http://rspb.royalsocietypublishing.org/content/281/1789/20140161 CC-BY" src="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/09/crypto.png" alt="crypto" width="700" height="666" /></a> <span style="font-size: small">Cryptozoological samples of hair believed to arise from legendary animals like Bigfoot, Sasquatch, Yeti, etc. Table taken from: <a href="http://rspb.royalsocietypublishing.org/content/281/1789/20140161" target="_blank">http://rspb.royalsocietypublishing.org/content/281/1789/20140161</a> <a href="#sykes">CC-BY</a></span>[/caption]
 <h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">The Need for Barcoding</span></h2>
@@ -12392,6 +12357,10 @@ Students wanted to check some food items. These included, breakfast sausage from
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="post_tag" nicename="visual-communication"><![CDATA[visual communication]]></category>
 		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_159f9b081a64a77ed60cc3e0b067bd8b]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[975]]></wp:meta_value>
 		</wp:postmeta>
@@ -12405,7 +12374,7 @@ Students wanted to check some food items. These included, breakfast sausage from
 		<description></description>
 		<content:encoded><![CDATA[<h2><span style="color: #000000"><span style="font-family: 'Liberation Sans', sans-serif"><b>DNA barcoding of samples</b></span></span></h2>
 <ol>
- 	<li><span style="color: #000000"><span style="font-family: 'Liberation Sans', sans-serif"><span style="font-size: medium">Place sample in a clean 1.5 mL</span></span></span></li>
+ 	<li><span style="color: #000000"><span style="font-family: 'Liberation Sans', sans-serif"><span style="font-size: medium">Place sample in a clean 1.5 mL tube</span></span></span></li>
  	<li><span style="color: #000000"><span style="font-family: 'Liberation Sans', sans-serif"><span style="font-size: medium">Add 100 μl of nuclear lysis solution to tube.</span></span></span></li>
 </ol>
 <ul>
@@ -12729,93 +12698,8 @@ Briefly, genomic DNA will be isolated from food items derived from vegetation. G
 
 Download the <a href="https://www.dropbox.com/s/q2y51z4743bz50v/macromolecules-concept.pdf?dl=0" target="_blank">PDF</a>
 <h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Summarizing Macromolecule Detection</span></h2>
-[caption id="attachment_399" align="aligncenter" width="610"]<a title="By Trounce [Public domain], via Wikimedia Commons" href="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/06/US_Nutritional_Fact_Label_2.svg.png"><img class="wp-image-399 size-full" src="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/06/US_Nutritional_Fact_Label_2.svg.png" alt="US_Nutritional_Fact_Label_2.svg" width="610" height="600" /></a> <span style="font-size: small">A nutrition label illustrates the breakdown of chemical components of Macaroni and Cheese. This is not limited to the macromolecules discussed here. Items like Iron and Sodium are ions that are important for the function of the cell.</span>[/caption]
-
-Fill in the table below to illustrate how molecules in the above nutrition table were detected. What would you use as a Positive control? What would be the outcome of that Positive Control (color)? What about negative controls? Using the nutrition label above or a similar one, indicate what the test result would be if using the individual tests and indicate if that molecule is absent or present. Remember, if the sugars (simple reducing sugars) and the dietary fiber don't add up to the total carbohydrates, the remainder is starch.
-<table style="width: 665px;text-align: left;margin-left: auto;margin-right: auto" border="4" cellspacing="0" cellpadding="4">
-<tbody>
-<tr>
-<td style="border: 1px solid #000000;padding: 0.04in" colspan="8" valign="top" width="655">
-<p class="western" style="background: #b3b3b3 none repeat scroll 0%" align="center"><span style="font-size: small"><b>Table 1.
-Determination of Biological Macromolecules in ***Some Food Item***</b></span></p>
-</td>
-</tr>
-<tr valign="top">
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" bgcolor="#e6e6e6" width="75">
-<p class="western" align="center"><b>Test</b></p>
-</td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" bgcolor="#e6e6e6" width="76">
-<p class="western" align="center"><b>Test Purpose</b></p>
-</td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" bgcolor="#e6e6e6" width="76">
-<p class="western" align="center"><b>+ Control</b></p>
-</td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" bgcolor="#e6e6e6" width="82">
-<p class="western" align="center"><b>+ Control color</b></p>
-</td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" bgcolor="#e6e6e6" width="70">
-<p class="western" align="center"><b>- Control </b></p>
-</td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" bgcolor="#e6e6e6" width="76">
-<p class="western" align="center"><b>- Control color</b></p>
-</td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" bgcolor="#e6e6e6" width="82">
-<p class="western" align="center"><b>Test Color Result</b></p>
-</td>
-<td style="border-style: none solid solid;border-color: -moz-use-text-color #000000 #000000;border-width: medium 1px 1px;padding: 0in 0.04in 0.04in" bgcolor="#e6e6e6" width="62">
-<p class="western" align="center"><b>Present or Absent</b></p>
-</td>
-</tr>
-<tr valign="top">
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="75">
-<p class="western">Benedict's</p>
-</td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="76"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="76"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="82"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="70"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="76"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="82"></td>
-<td style="border-style: none solid solid;border-color: -moz-use-text-color #000000 #000000;border-width: medium 1px 1px;padding: 0in 0.04in 0.04in" width="62"></td>
-</tr>
-<tr valign="top">
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="75">
-<p class="western">Iodine</p>
-</td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="76"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="76"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="82"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="70"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="76"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="82"></td>
-<td style="border-style: none solid solid;border-color: -moz-use-text-color #000000 #000000;border-width: medium 1px 1px;padding: 0in 0.04in 0.04in" width="62"></td>
-</tr>
-<tr valign="top">
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="75">
-<p class="western">Biuret</p>
-</td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="76"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="76"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="82"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="70"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="76"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="82"></td>
-<td style="border-style: none solid solid;border-color: -moz-use-text-color #000000 #000000;border-width: medium 1px 1px;padding: 0in 0.04in 0.04in" width="62"></td>
-</tr>
-<tr valign="top">
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="75">
-<p class="western">Oil Red O</p>
-</td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="76"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="76"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="82"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="70"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="76"></td>
-<td style="border-style: none none solid solid;border-color: -moz-use-text-color -moz-use-text-color #000000 #000000;border-width: medium medium 1px 1px;padding: 0in 0in 0.04in 0.04in" width="82"></td>
-<td style="border-style: none solid solid;border-color: -moz-use-text-color #000000 #000000;border-width: medium 1px 1px;padding: 0in 0.04in 0.04in" width="62"></td>
-</tr>
-</tbody>
-</table>]]></content:encoded>
+[caption id="attachment_399" align="aligncenter" width="610"]<a title="By Trounce [Public domain], via Wikimedia Commons" href="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/06/US_Nutritional_Fact_Label_2.svg.png"><img class="wp-image-399 size-full" src="https://openlab.citytech.cuny.edu/bio1-oer/files/2015/06/US_Nutritional_Fact_Label_2.svg.png" alt="US_Nutritional_Fact_Label_2.svg" width="610" height="600" /></a> <span style="font-size: small">A nutrition label illustrates the breakdown of chemical components of Macaroni and Cheese. This is not limited to the macromolecules discussed here. Items like Iron and Sodium are ions that are important for the function of the cell.</span>[/caption]Fill in the table below to illustrate how molecules in the above nutrition table were detected. What would you use as a Positive control? What would be the outcome of that Positive Control (color)? What about negative controls? Using the nutrition label above or a similar one, indicate what the test result would be if using the individual tests and indicate if that molecule is absent or present. Remember, if the sugars (simple reducing sugars) and the dietary fiber don't add up to the total carbohydrates, the remainder is starch.
+<img class="aligncenter size-large" src="https://github.com/jeremyseto/bio-oer/blob/master/figures/chemistry/macromolecules/table1.png?raw=true" width="599" height="303" />]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>462</wp:post_id>
 		<wp:post_date><![CDATA[2015-09-27 16:19:04]]></wp:post_date>
@@ -12829,6 +12713,10 @@ Determination of Biological Macromolecules in ***Some Food Item***</b></span></p
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_1ea49450d4d80bd0ce29596171c5afb1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[975]]></wp:meta_value>
@@ -13158,6 +13046,7 @@ Standard Dilution</span></b></span></span></p>
 </table>
 <ol start="3">
  	<li>Place tube 6 (<strong>1mg/ml</strong>) into a cuvette and measure absorbance (<strong>A</strong>) in the SpectroVis Plus. This will find the peak absorbance value.</li>
+ 	<li>The instructor will begin to set-up the units for distribution</li>
  	<li>Enter the LabQuest 2 application and press on the green Start button to generate a full spectrum
 <ul>
  	<li>tap on the file cabinet icon to store this data</li>
@@ -13248,15 +13137,26 @@ Standard Dilution</span></b></span></span></p>
 </tr>
 </tbody>
 </table>
-<ol start="7">
+<ol>
  	<li>Plot each BSA dilution in <a href="http://plot.ly" target="_blank">plot.ly</a> as a scatterplot</li>
  	<li>Generate best-fit line for these standards with the equation of the line</li>
  	<li>Use the equation of the line to estimate the concentration of the unknown sample.</li>
 </ol>
-<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Scatterplot Tutorial</span></h2>
-Click on "<a class="workspace-header__goback" href="https://plot.ly/plot" target="_blank">(Switch back to Plotly 1.0)</a>" to follow this tutorial.
+<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Curve Fitting</span></h2>
+Run the simulation below to understand how you can use the standard dilution series to estimate your sample concentrations.
+<div style="width: 300px;height: 197px">
 
-https://youtu.be/bxGFS-RukZY]]></content:encoded>
+[caption id="" align="aligncenter" width="300"]<a href="http://phet.colorado.edu/sims/curve-fitting/curve-fitting_en.html" target="new" rel="external"><img style="border: none" src="http://phet.colorado.edu/sims/curve-fitting/curve-fitting-600.png" alt="Curve Fitting" width="300" height="197" /></a> Click on image above to begin simulation on curve fitting[/caption]
+
+<div></div>
+</div>
+<h2></h2>
+<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">LabQuest2 and SpectroVis Tutorial</span></h2>
+https://youtu.be/8ZVYkMW03Rs
+<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Scatterplot Tutorial</span></h2>
+You can watch this tutorial at 1.25X and pause when needed.
+
+https://youtu.be/jeRMxXvbI7g]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>498</wp:post_id>
 		<wp:post_date><![CDATA[2015-10-04 13:57:31]]></wp:post_date>
@@ -13272,6 +13172,22 @@ https://youtu.be/bxGFS-RukZY]]></content:encoded>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="post_tag" nicename="quantitative-reasoning"><![CDATA[quantitative reasoning]]></category>
 		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_89dbbe6e087a8770b5617e7995baef83]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="604" height="340" src="https://www.youtube.com/embed/8ZVYkMW03Rs?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_89dbbe6e087a8770b5617e7995baef83]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1489948531]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_e7f12e39dfed19ecf893fb2ce8299041]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="604" height="340" src="https://www.youtube.com/embed/jeRMxXvbI7g?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_e7f12e39dfed19ecf893fb2ce8299041]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1489948521]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[975]]></wp:meta_value>
 		</wp:postmeta>
@@ -13281,7 +13197,7 @@ https://youtu.be/bxGFS-RukZY]]></content:encoded>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_304a534aa2e7dbd5017e8362ef854656]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1475188702]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1489361509]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -13315,8 +13231,8 @@ https://youtu.be/bxGFS-RukZY]]></content:encoded>
 <ol>
 <ol>
 <ol>
- 	<li>Add 2.5 ml of buffer to a tube (this is the BLANK)</li>
- 	<li>Add 2.5 ml of starch (substrate) to each tube
+ 	<li>Add 5 ml of H<sub>2</sub>O to a tube (this is the BLANK)</li>
+ 	<li>Add 5 ml of starch (substrate) to 3 separate tubes
 <ul>
  	<li>one on ice (0°C), one on the bench (25°C) and one in a 40°C water bath</li>
 </ul>
@@ -13610,7 +13526,7 @@ https://youtu.be/bxGFS-RukZY]]></content:encoded>
 <ol>
 <ol>
 <ol start="4">
- 	<li>In 4 separate tubes, ADD 2.5 ml of starch solution
+ 	<li>In 4 separate tubes, ADD 4 ml of starch solution
 <ul>
  	<li>label them 1x, 1/5x, 1/25x, 1/125x</li>
 </ul>
@@ -13618,7 +13534,7 @@ https://youtu.be/bxGFS-RukZY]]></content:encoded>
  	<li>Add 2 drops of iodine to each starch tube and the Blank</li>
  	<li>Read the Blank in the spectrophotometer and calibrate it to 100% transmittance at 560nm</li>
  	<li><span style="line-height: 1.5">Read each tube in the spectrophotometer. This is time 0 min</span></li>
- 	<li>Add 35 drops of amylase solutions to each tube simultaneously and mix.
+ 	<li>Add 35 drops of diluted amylase solutions to the appropriately labeld tubes simultaneously and mix.
 <ul>
  	<li>Each tube receives a different Amylase dilution</li>
 </ul>
@@ -13782,7 +13698,7 @@ https://youtu.be/bxGFS-RukZY]]></content:encoded>
 <ol>
 <ol>
 <ol start="4">
- 	<li>In 4 separate tubes, ADD 2.5 ml of starch solution
+ 	<li>In 4 cuvettes, ADD 4 ml of the diluted starch solution
 <ul>
  	<li>label them 1x, 1/2x, 1/4x, 1/8x</li>
 </ul>
@@ -13978,10 +13894,14 @@ Yeast are single-celled fungi. The species called <em>Saccharomyces cerevisiae</
 <a title="By Ronhjones (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ABY-reduction_of_carbonyls.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/BY-reduction_of_carbonyls.svg/256px-BY-reduction_of_carbonyls.svg.png" alt="BY-reduction of carbonyls" width="256" /></a>
 <h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Fermentation Set-up</span></h2>
 <ol>
-	<li>Mix the solutions in the table below in a fermentation tube</li>
-	<li>Eliminate the air bubble in the sealed end of the fermentation tube</li>
-	<li>Place rubber stopper into the open end of the fermentation tube and place at the appropriate temperature</li>
-	<li>Predict the amount of CO<sub>2</sub> generated in the last column of the table</li>
+ 	<li>Mix the solutions in the table below in a fermentation tube</li>
+ 	<li>Eliminate the air bubble in the sealed end of the fermentation tube</li>
+ 	<li>Place rubber stopper into the open end of the fermentation tube and place at the appropriate temperature for an hour</li>
+ 	<li>Predict the amount of CO<sub>2</sub> generated in the last column of the table using +, - or +++
+<ul>
+ 	<li><del></del>after an hour, measure the head space created by the bubbles and compare with your predictions</li>
+</ul>
+</li>
 </ol>
 <table width="627" cellspacing="0" cellpadding="2">
 <tbody>
@@ -14172,11 +14092,11 @@ generation</b></span></span></p>
 </table>
 <h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Questions to direct hypothesis formation</span></h2>
 <ol>
-	<li>What is the preferred energy source of the cell?</li>
-	<li>What types of sugars are being used in each tube (monosaccharide, disaccharide, etc)?</li>
-	<li>What effect should temperature have on the fermentation reactions?</li>
-	<li>What does CO2 indicate in these tubes?</li>
-	<li>What do you think the additives do? What effect will they have?</li>
+ 	<li>What is the preferred energy source of the all cells?</li>
+ 	<li>What types of sugars are being used in each tube (monosaccharide, disaccharide, etc)?</li>
+ 	<li>What effect should temperature have on the fermentation reactions?</li>
+ 	<li>What does CO<sub>2</sub> indicate in these tubes?</li>
+ 	<li>What do you think the additives do? What effect will they have?</li>
 </ol>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>512</wp:post_id>
@@ -14204,13 +14124,16 @@ generation</b></span></span></p>
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=515</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Extract and separate the pigments</span></h2>
-<img class="size-large alignleft" src="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/chromatography/photosynthesis_chromatography.png" width="330" height="524" />
+<a href="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/chromatography/photosynthesis_chromatography.png"><img class="aligncenter" src="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/chromatography/photosynthesis_chromatography.png" alt="" width="330" height="524" /></a>
 <ol>
- 	<li>Use a mortar and pestle to grind a handful of spinach leaves in 20 ml of acetone and a pinch of sand.</li>
- 	<li>Decant off the spinach extract and pour through cheese cloth if necessary.</li>
- 	<li>Place a spoonful of <em>Spirulina</em> powder into 10 ml of acetone and shake vigorously to extract the pigments</li>
- 	<li>Using an applicator, spot the pigment extract to a filter paper strip. Apply the extract about 2 cm from the bottom of the strip. Remember to keep the spot small. Apply and dry at <i>least 10</i> times in the same place<i>,</i> remembering to let the spot dry after each application.</li>
- 	<li>Place the filter paper strips in test tubes with about 3 ml chromatography solution <i>(2 isooctane: 1 acetone: 1 diethyl ether</i>).</li>
+ 	<li>Lay a strip of filter paper on the bench</li>
+ 	<li>about 2 cm from the bottom of the strip, place a fresh spinach leaf and rub a coin across the leaf to transfer pigment to the strip</li>
+ 	<li>Place a spoonful of <em>Spirulina</em> powder into 10 ml of acetone and shake vigorously to extract the pigments.
+<ul>
+ 	<li>on a separate strip, the instructor will apply the Spirulina extract approximately 2cm from the bottom of the strip</li>
+</ul>
+</li>
+ 	<li>Suspend the strips by a dowel or paper clip in a tube with about 3ml chromatography solution <i>(2 isooctane: 1 acetone: 1 diethyl ether</i>).</li>
  	<li>Develop the strips until the solvent reaches about 2 cm from the top</li>
 </ol>
 <h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Chromatography Analysis</span></h2>
@@ -14818,14 +14741,19 @@ Below are images of skull landmarks of the lizard family Varanidae. This family 
 <h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Landmarks Standardize measurements</span></h3>
 Having a set of shared landmarks provides the opportunity to make systematic measurements of morphometric features.
 
-[caption id="attachment_908" align="aligncenter" width="604"]<a href="http://openlab.citytech.cuny.edu/bio1-oer/bioinformatics/morphometric-analysis/journal-pone-0130625-g002/" rel="attachment wp-att-908"><img class="wp-image-908 size-large" src="https://openlab.citytech.cuny.edu/bio1-oer/files/2016/09/journal.pone_.0130625.g002-1024x829.png" alt="Landmarks and measurement metrics for the morphometric analysis of fossils." width="604" height="489" /></a> Landmarks and measurement metrics for the morphometric analysis of fossils. <a href="#McCurry-2015">McCurry et al. (2015)</a> (CC-BY)[/caption]
+[caption id="attachment_908" align="aligncenter" width="604"]<a href="http://openlab.citytech.cuny.edu/bio1-oer/bioinformatics/morphometric-analysis/journal-pone-0130625-g002/" rel="attachment wp-att-908"><img class="wp-image-908 size-large" src="https://openlab.citytech.cuny.edu/bio1-oer/files/2016/09/journal.pone_.0130625.g002-1024x829.png" alt="Landmarks and measurement metrics for the morphometric analysis of fossils." width="604" height="489" /></a> Landmarks and measurement metrics for the morphometric analysis of skulls. <a href="#McCurry-2015">McCurry et al. (2015)</a> (CC-BY)[/caption]
 
 &nbsp;
 <h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Euclidean distance to measure relatedness</span></h3>
-<p style="text-align: left">Euclidean distance is a measurement derived from Pythagorean geometry that describes the shortest distance between 2 points as a straight line using triangulation.</p>
-<p style="text-align: center">[latex]x^2 + y^2 = z^2[/latex]</p>
-<p style="text-align: left">To find the distance between the 2 points, we utilize algebra to calculate for [latex]z[/latex].</p>
-<p style="text-align: center">[latex]z = \sqrt{x^2 + y^2}[/latex]</p>
+<p style="text-align: left">Euclidean distance is a measurement derived from Pythagorean geometry that describes the shortest distance (d) between 2 points (A &amp; B) as a straight line using triangulation. In a cartesian space, the points can be defined:</p>
+<p style="text-align: center">[latex]A=(x_A, y_A)[/latex] and [latex]B=(x_B, y_B)[/latex]</p>
+<p style="text-align: left">Standard pythagorean theorem can be expressed as:</p>
+<p style="text-align: center">[latex]x^2 + y^2 = d^2[/latex]</p>
+<p style="text-align: left">To find the distance between the 2 points, we utilize algebra to calculate for [latex]d[/latex].</p>
+<p style="text-align: center">[latex]d = \sqrt{x^2 + y^2}[/latex]</p>
+<p style="text-align: left">In this case, we expand to comparing the coordinates of the two points:</p>
+<p style="text-align: center">[latex]\Delta x = x_B - x_A[/latex] and [latex]\Delta y = y_B - y_A[/latex]</p>
+<p style="text-align: center"><a href="https://github.com/jeremyseto/bio-oer/blob/master/figures/bioinformatics/distance.png?raw=true"><img class="alignnone size-large" src="https://github.com/jeremyseto/bio-oer/blob/master/figures/bioinformatics/distance.png?raw=true" width="399" height="246" /></a></p>
 <p style="text-align: left">We can then expand this idea to include the differences of data points that describe the comparisons of multiple measurements.</p>
 <p style="text-align: center">[latex]d(\mathbf{X_i, X_j}) = \sqrt{\sum_{k=1}^{p}(X_{ik} - X_{jk})^2}\[/latex]</p>
 
@@ -14869,19 +14797,17 @@ Before starting this activity, review <strong><span style="text-decoration: unde
  	<li>Find the sequences and identify/extract elements that are common to all</li>
  	<li>Assemble the shared sequences in a text editor as a single FASTA file where each species is separated by a header ("&gt;Species A")
 <ul>
- 	<li>Notepad on Windows</li>
- 	<li>Textedit on Mac</li>
+ 	<li>Notepad on Windows (but it's better to download <a href="https://notepad-plus-plus.org/download/v7.3.3.html" target="_blank">notepad++</a>)</li>
+ 	<li>Textedit on Mac (but probably better to download <a href="http://www.barebones.com/products/textwrangler/download.html" target="_blank">TextWrangler</a>)</li>
  	<li>Gedit on Linux</li>
 </ul>
 </li>
  	<li>Save the file as "something.fasta"</li>
  	<li>Perform a multiple sequence analysis using <strong><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://ugene.net" target="_blank">UGENE</a></span></span></strong></li>
+ 	<li>Generate a phylogenetic tree using UGENE. For this exercise, use Maximum Likelihood (PhyML) as the algorithm. File the tutorial below.</li>
+ 	<li>Compare the DNA with the morphometric analyses. What problems could we imagine arise if we rely solely on morphometry.</li>
 </ol>
-https://youtu.be/2pZszPGKnT8
-<ol start="6">
- 	<li>Generate a phylogenetic tree using UGENE. For this exercise, use Maximum Likelihood (PhyML) as the algorithm.</li>
-</ol>
-https://youtu.be/Ad-HCdo5flo
+https://youtu.be/Z-dlww1V9Y8
 <h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">References</span></h2>
 <ul>
  	<li><a id="McCurry-2015"></a><a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=McCurry%20MR%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=26106889" target="_blank">McCurry MR</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Mahony%20M%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=26106889" target="_blank">Mahony M</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Clausen%20PD%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=26106889" target="_blank">Clausen PD</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Quayle%20MR%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=26106889" target="_blank">Quayle MR</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Walmsley%20CW%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=26106889" target="_blank">Walmsley CW</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Jessop%20TS%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=26106889" target="_blank">Jessop TS</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Wroe%20S%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=26106889" target="_blank">Wroe S</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Richards%20H%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=26106889" target="_blank">Richards H</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=McHenry%20CR%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=26106889" target="_blank">McHenry CR</a>. (2015)<strong> The Relationship between Cranial Structure, Biomechanical Performance and Ecological Diversity in Varanoid Lizards.</strong> <em>PLoS ONE</em> 10(6): e0130625. <a href="http://dx.doi.org/10.1371/journal.pone.0130625" target="_blank">doi: 10.1371/journal.pone.0130625</a></li>
@@ -14906,6 +14832,18 @@ https://youtu.be/Ad-HCdo5flo
 		<category domain="post_tag" nicename="visual-communication"><![CDATA[visual communication]]></category>
 		<category domain="post_tag" nicename="integration-of-knowledge"><![CDATA[integration of knowledge]]></category>
 		<category domain="post_tag" nicename="breadth-of-knowledge"><![CDATA[breadth of knowledge]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_32055252bf0b569eaed7e420c001463c]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="604" height="340" src="https://www.youtube.com/embed/Z-dlww1V9Y8?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_e815154e8963da3bcc7df5c2f2515103]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_32055252bf0b569eaed7e420c001463c]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1489622487]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_syntaxhighlighter_encoded]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -15228,7 +15166,12 @@ RNA purification occurs similar to DNA preparations. A silica based column is us
 </ul>
 <ol start="2">
  	<li>Add 1 volume of 70% ethanol to the lysate, and mix well by pipetting. Do not centrifuge. Proceed immediately to next step.</li>
- 	<li>Transfer up to 700 μl of the sample, including any precipitate, to an spin column placed in a 2 ml collection tube (supplied). Close the lid, and centrifuge for 15 s at ≥8000 x g. Discard the flow-through.</li>
+ 	<li>Transfer up to 700 μl of the sample, including any precipitate, to an spin column placed in a 2 ml collection tube (supplied). <a href="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/molecular/RNAspin.png"><img class="alignnone size-large" src="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/molecular/RNAspin.png" width="601" height="372" /></a>
+<ol>
+ 	<li>Close the lid, and centrifuge for 15 s at ≥8000 x g.</li>
+ 	<li>Discard the flow-through.</li>
+</ol>
+</li>
  	<li><b>Wash</b>: Add 350 μl Buffer RW1 to spin column, close lid, centrifuge for 15 s at ≥8000 x g (≥10,000 rpm). Discard flow-through.</li>
  	<li>Add 10 μl DNase I stock solution (see above) to 70 μl Buffer RDD. Mix by gently inverting the tube</li>
  	<li><b>Remove DNA</b> (optional): Add DNase I incubation mix (70 μl) directly to spin column membrane, and place on benchtop (20–30°C) for 15 min.</li>
@@ -15280,6 +15223,10 @@ RNA purification occurs similar to DNA preparations. A silica based column is us
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="post_tag" nicename="integration-of-knowledge"><![CDATA[integration of knowledge]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_d13b01758aa9ab04735dc85866fcd7be]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[975]]></wp:meta_value>
@@ -15511,6 +15458,145 @@ https://youtu.be/BNz880V52rQ
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_e188347da552731c70b5b878efccad73]]></wp:meta_key>
 			<wp:meta_value><![CDATA[<iframe width="604" height="340" src="https://www.youtube.com/embed/womKfikWlxM?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Sex-linked Genes</title>
+		<link>http://openlab.citytech.cuny.edu/bio1-oer/genetics/sex-linked-genes/</link>
+		<pubDate>Sat, 11 Mar 2017 19:36:05 +0000</pubDate>
+		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
+		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=1141</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Sex Chromosomes</span></h2>
+<a title="XX" href="https://www.flickr.com/photos/jamescastle/29393509031/in/dateposted/"><img src="https://c8.staticflickr.com/9/8677/29393509031_1d0de21940_z.jpg" alt="XX" width="480" height="640" /></a><a title="XY" href="https://www.flickr.com/photos/jamescastle/29364535332/in/dateposted/"><img src="https://c5.staticflickr.com/9/8300/29364535332_c3b9fd903e_z.jpg" alt="XY" width="480" height="640" /></a>
+For the most part, mammals have gender determined by the presence of the Y chromosome. This chromosome is gene poor and a specific area called sex determining region on Y (<strong><a href="https://en.wikipedia.org/wiki/Testis_determining_factor" target="_blank">SRY</a></strong>) is responsible for the initiation of the male sex determination. The X-chromosome is rich in genes while the Y-chromosome is a gene desert. The presence of an X-chromosome is absolutely necessary to produce a viable life form and the default gender of mammals is traditionally female.
+
+[caption id="" align="alignleft" width="256"]<a title="By National Center for Biotechnology Information, U.S. National Library of Medicine [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AHuman_chromosome_X_-_550_bphs.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Human_chromosome_X_-_550_bphs.png/256px-Human_chromosome_X_-_550_bphs.png" alt="Human chromosome X - 550 bphs" width="256" height="482" /></a> The human X-chromosome[/caption][caption id="" align="alignright" width="256"]<a title="By National Center for Biotechnology Information, U.S. National Library of Medicine [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AHuman_chromosome_Y_-_550_bphs.png"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Human_chromosome_Y_-_550_bphs.png" alt="Human chromosome Y - 550 bphs" width="256" height="368" /></a> The minuscule human Y-chromosome[/caption]&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+Chromosomal painting techniques can reveal the gender origin of mammalian cells. By using fluorescent marker sequences that can hybridize specifically to X or Y chromosomes through Fluorescence In Situ Hybridization (FISH), gender can be identified in cells.
+
+[caption id="" align="aligncenter" width="512"]<a title="By Janice Y Ahn, Jeannie T Lee [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AX_Y_chromosome.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/X_Y_chromosome.jpg" alt="X Y chromosome" width="512" height="285" /></a> The male cells have an X and a Y while the female cells have X and X combination.[/caption]<!--nextpage-->
+<h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Ishahara tests (Activity)</span></h3>
+&nbsp;
+
+[caption id="" align="aligncenter" width="256"]<a title="By Barbarossa at Dutch Wikipedia (Transferred from nl.wikipedia to Commons.) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AIshihara-12.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Ishihara-12.gif" alt="Ishihara-12" width="256" height="322" /></a> Monochromatic representation of Ishahara test to a color blind individual as it emerges to something visible to a color-sighted individual[/caption]The genes encoding photoreceptor proteins for the long wave-length (reds) and middle wave-lengths (greens) reside on the X chromosome at Xq25. Since the Y-chromosome is not homologous, any mutation to either of these genes that render them non-functional results in an inability to perceive either of those colors. Men are more susceptible to the condition of red-green colorblindness since they are <span style="color: #ff0000"><strong>hemizygous</strong></span>. This means that there is no corresponding gene that could complement a deficient red or green photoreceptor gene.
+
+Dr. Shinobu Ishihara published his test for color perception in  1917 and this test is widely used to detect deficits in color perception. Below are  examples of Ishahara plates. Record the number that you perceive in each plate and discuss with the rest of the class.
+<a title="By Nicoguaro (Own work) [CC0], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AIshihara_1.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ishihara_1.svg/512px-Ishihara_1.svg.png" alt="Ishihara 1" width="512" /></a>
+<a title="Public Domain image, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AIshihara_1.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ishihara_23.PNG/600px-Ishihara_23.PNG" alt="Ishihara 23" width="512" /></a>
+<a title="Public Domain image, via Wikimedia Commons" href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ishihara_11.PNG/600px-Ishihara_11.PNG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ishihara_11.PNG/600px-Ishihara_11.PNG" alt="Ishihara 11" width="512" /></a><a title="Public Domain image, via Wikimedia Commons" href="https://upload.wikimedia.org/wikipedia/commons/a/ae/Ishihara_19.PNG"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Ishihara_19.PNG" alt="Ishihara 19" width="500" /></a>
+<ol>
+ 	<li> As you go through the plates above, note the number that you see (if any).</li>
+ 	<li>The genes for the Red and Green receptors are on the X-chromosome, who are most affected by mutation? Create a Punnet Square to illustrate how this works.</li>
+ 	<li>Can women be color-blind for red/green?</li>
+ 	<li>Humans have 3 color light receptors and have trichromatic vision. Some women are described as possibly having tetrachromatic vision (seeing 4 colors) and being able to discriminate colors invisible to the rest of us. Describe a mechanism for why this could happen. Why is there a possible gender bias?</li>
+</ol>
+<h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Sequence links</span></h3>
+<ul>
+ 	<li>Opsin 1 Long Wave sensitive gene (OPN1LW) - <a href="http://www.ncbi.nlm.nih.gov/nuccore/NM_020061.5" target="_blank">red photoreceptor (human)</a></li>
+ 	<li>Opsin 1 Medium Wave sensitive gene (OPN1MW) - <a href="http://www.ncbi.nlm.nih.gov/nuccore/NM_000513.2" target="_blank">green photoreceptor (human)</a></li>
+</ul>
+&nbsp;
+
+<!--nextpage-->
+<h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">The case of Queen Victoria</span></h3>
+<span style="color: #ff0000"><strong>Hemophilia</strong></span> literally translates to <em>blood loving</em>. This is a description of a series of disorders where an individual has an inability to clot blood after a cut. In modern times, clotting factors may be administered to an afflicted individual, but a prior treatment involved blood transfusions. A very famous family had a genetic predisposition to hemophilia and due to the proliferative nature of this family, we have some statistical power to verify predictions on the probabilities of passing the disease state. Below is a partial pedigree for Victoria, Queen of the United Kingdom of Great Britain and Ireland and Empress of India. The filled in shapes represent individuals who suffered from hemophilia.
+
+<a title="By CKRobinson (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AVictoria_pedigree.PNG"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Victoria_pedigree.PNG" alt="Victoria pedigree" width="512" /></a>
+<ol>
+ 	<li>From the pedigree above, what can you say about this form of hemophilia with respect to dominance?</li>
+ 	<li>From this pedigree, can you comment on the probable chromosome where the deficiency occurs?</li>
+ 	<li>Assign genotypes for Prince Albert and Queen Victoria and perform a Punnet Square to illustrate if their offspring reflect your statements on dominance and chromosome location.</li>
+ 	<li>Albert and Victoria were 1st cousins. Do you believe this had anything to do with the propagation of this disease? What does your Punnet Square tell you?</li>
+ 	<li>Highlight the definitive carriers of the disease gene in the pedigree above.</li>
+</ol>
+<h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Additional Resources</h3>
+<ul>
+ 	<li>Full case study can be acquired at the <a href="http://sciencecases.lib.buffalo.edu/cs/files/hemo.pdf" target="_blank">National Center for Case Study Teaching in Science</a>.</li>
+ 	<li>Human<a href="http://www.ncbi.nlm.nih.gov/nuccore/NM_000133.3" target="_blank"> Factor IX mRNA</a> sequence</li>
+</ul>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1141</wp:post_id>
+		<wp:post_date><![CDATA[2017-03-11 14:36:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-03-11 19:36:05]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sex-linked-genes]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>131</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="post_tag" nicename="visual-communication"><![CDATA[visual communication]]></category>
+		<category domain="post_tag" nicename="integration-of-knowledge"><![CDATA[integration of knowledge]]></category>
+		<category domain="post_tag" nicename="cultural-awareness"><![CDATA[cultural awareness]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[975]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Co-Dominance and multiple alleles</title>
+		<link>http://openlab.citytech.cuny.edu/bio1-oer/genetics/co-dominance-and-multiple-alleles/</link>
+		<pubDate>Sat, 11 Mar 2017 19:43:11 +0000</pubDate>
+		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
+		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=1144</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Non-Mendelian Genetics</span></h2>
+<h2><span style="font-family: 'Liberation Sans', Arial, sans-serif">Co-Dominance and multiple alleles</span></h2>
+Co-dominance is said to occur when there is an expression of two dominant alleles. The prototypical case for this is the human ABO blood grouping.
+<a title="By InvictaHOG (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AABO_blood_type.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ABO_blood_type.svg/512px-ABO_blood_type.svg.png" alt="ABO blood type" width="512" /></a>
+Three alleles exist in the ABO system: A, B and O. This results in four blood types: A, B, O and the blended AB.
+<a title="By GYassineMrabetTalk✉ This vector image was created with Inkscape. (Own work based on Codominant.jpg) [Public domain or Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AABO_system_codominance.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ABO_system_codominance.svg/512px-ABO_system_codominance.svg.png" alt="ABO system codominance" width="512" /></a>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1144</wp:post_id>
+		<wp:post_date><![CDATA[2017-03-11 14:43:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-03-11 19:43:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[co-dominance-and-multiple-alleles]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>131</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="post_tag" nicename="integration-of-knowledge"><![CDATA[integration of knowledge]]></category>
+		<category domain="post_tag" nicename="cultural-awareness"><![CDATA[cultural awareness]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_f9e89b0b81868453201fc9c505140feb]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1489261255]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_f9e89b0b81868453201fc9c505140feb]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="604" height="453" src="https://www.youtube.com/embed/videoseries?list=PLF9969C74FAAD2BF9" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[975]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
