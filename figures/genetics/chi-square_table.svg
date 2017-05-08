@@ -8,9 +8,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.2"
-   width="8.5in"
-   height="11in"
-   viewBox="0 0 21590 27940"
+   width="360"
+   height="480"
+   viewBox="0 0 10160 13546.666"
    preserveAspectRatio="xMidYMid"
    xml:space="preserve"
    id="svg2"
@@ -38,10 +38,10 @@
      inkscape:window-height="997"
      id="namedview1068"
      showgrid="false"
-     units="in"
+     units="px"
      inkscape:zoom="0.75833274"
-     inkscape:cx="493.33353"
-     inkscape:cy="425.94905"
+     inkscape:cx="296.19052"
+     inkscape:cy="423.31169"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -484,7 +484,9 @@
      id="defs219" /><g
      class="SlideGroup"
      id="g249"
-     transform="translate(0,6939.9997)"><g
+     transform="matrix(0.96296164,0,0,0.96698989,-2855.5095,-172.2669)"
+     inkscape:export-xdpi="99.989258"
+     inkscape:export-ydpi="99.989258"><g
        id="g251"><g
          id="id1"
          class="Slide"
