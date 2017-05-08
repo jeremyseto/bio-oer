@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   height="240"
+   width="655">
+  <title
+     id="title4146">Dice-3</title>
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Dice-3</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Handige Harry converted to svg (with Adobe) by Amada44</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>https://commons.wikimedia.org/wiki/File:Dice-3a.svg</dc:source>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <g
+     transform="matrix(0.3833284,0,0,0.3833284,140.43987,-8.2079232)"
+     id="g4201">
+    <g
+       id="g4148"
+       transform="matrix(0.61679212,0,0,0.61679212,-363.8084,213.25519)">
+      <rect
+         id="rect4"
+         rx="68"
+         height="549"
+         width="549"
+         y="4"
+         x="4"
+         style="fill:none;stroke:#000000;stroke-width:7" />
+      <path
+         d="M 117,440 442,115"
+         id="path8"
+         style="stroke:#740000;stroke-width:120;stroke-linecap:round;stroke-dasharray:0, 228.4" />
+      <path
+         d="M 117,440 442,115"
+         id="path10"
+         style="stroke:#ff724c;stroke-width:110;stroke-linecap:round;stroke-dasharray:0, 228.4" />
+    </g>
+    <g
+       id="g4153"
+       transform="matrix(0,0.61679212,-0.61679212,0,440.53207,213.25519)">
+      <rect
+         x="4"
+         y="4"
+         width="549"
+         height="549"
+         rx="68"
+         id="rect4155"
+         style="fill:none;stroke:#000000;stroke-width:7" />
+      <path
+         style="stroke:#740000;stroke-width:120;stroke-linecap:round;stroke-dasharray:0, 228.4"
+         id="path4157"
+         d="M 117,440 442,115" />
+      <path
+         style="stroke:#ff724c;stroke-width:110;stroke-linecap:round;stroke-dasharray:0, 228.4"
+         id="path4159"
+         d="M 117,440 442,115" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-231.13751"
+       y="637.10687"
+       id="text4161"><tspan
+         id="tspan4163"
+         x="-231.13751"
+         y="637.10687"
+         style="font-size:50px">1/6</tspan></text>
+    <text
+       id="text4165"
+       y="637.10687"
+       x="230.86249"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:50px"
+         y="637.10687"
+         x="230.86249"
+         id="tspan4167">1/6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="19.249657"
+       y="405.43524"
+       id="text4169"><tspan
+         id="tspan4171"
+         x="19.249657"
+         y="405.43524"
+         style="font-size:60px">X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="470.37653"
+       y="397.75302"
+       id="text4173"><tspan
+         id="tspan4175"
+         x="470.37653"
+         y="397.75302"
+         style="font-size:70px">=</tspan></text>
+    <g
+       transform="matrix(0.61679212,0,0,0.61679212,557.66217,213.25519)"
+       id="g4177">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:7"
+         x="4"
+         y="4"
+         width="549"
+         height="549"
+         rx="68"
+         id="rect4179" />
+      <path
+         style="stroke:#740000;stroke-width:120;stroke-linecap:round;stroke-dasharray:0, 228.4"
+         id="path4181"
+         d="M 117,440 442,115" />
+      <path
+         style="stroke:#ff724c;stroke-width:110;stroke-linecap:round;stroke-dasharray:0, 228.4"
+         id="path4183"
+         d="M 117,440 442,115" />
+    </g>
+    <g
+       transform="matrix(0,0.61679212,-0.61679212,0,1272.997,213.25519)"
+       id="g4185">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:7"
+         id="rect4187"
+         rx="68"
+         height="549"
+         width="549"
+         y="4"
+         x="4" />
+      <path
+         d="M 117,440 442,115"
+         id="path4189"
+         style="stroke:#740000;stroke-width:120;stroke-linecap:round;stroke-dasharray:0, 228.4" />
+      <path
+         d="M 117,440 442,115"
+         id="path4191"
+         style="stroke:#ff724c;stroke-width:110;stroke-linecap:round;stroke-dasharray:0, 228.4" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="512.86249"
+       y="637.10687"
+       id="text4193"><tspan
+         id="tspan4195"
+         x="512.86249"
+         y="637.10687"
+         style="font-size:50px">1/36 chance of  both being three</tspan></text>
+    <text
+       id="text4197"
+       y="90.102379"
+       x="170.91481"
+       style="font-style:normal;font-weight:normal;font-size:65.40171051px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:81.75213623px"
+         y="90.102379"
+         x="170.91481"
+         id="tspan4199">1/6 X 1/6 = 1/36</tspan></text>
+  </g>
+</svg>
