@@ -11,7 +11,7 @@
    viewBox="0 0 726 701"
    id="svg6129"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r"
    width="100%"
    height="100%"
    sodipodi:docname="functional.svg">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -242,6 +242,24 @@
          d="m 493,125 c 0,54 2,46 2,77 0,61 -28,87 -93,87 H 230 V 0 H 80 v 729 h 391 c 157,0 196,-116 196,-197 0,-89 -41,-148 -123,-180 93,-40 97,-50 101,-265 0,-32 9,-47 32,-60 V 0 H 516 c -19,35 -23,57 -23,125 z m 24,386 c 0,81 -43,93 -106,93 H 230 V 414 h 181 c 62,0 106,12 106,97 z"
          inkscape:connector-curvature="0" />
     </defs>
+    <defs
+       id="defs7797">
+      <path
+         inkscape:connector-curvature="0"
+         id="Atom-R-01"
+         transform="scale(0.03,-0.03)"
+         d="m 493,125 c 0,54 2,46 2,77 0,61 -28,87 -93,87 l -172,0 0,-289 -150,0 0,729 391,0 c 157,0 196,-116 196,-197 0,-89 -41,-148 -123,-180 93,-40 97,-50 101,-265 0,-32 9,-47 32,-60 L 677,0 516,0 c -19,35 -23,57 -23,125 z m 24,386 c 0,81 -43,93 -106,93 l -181,0 0,-190 181,0 c 62,0 106,12 106,97 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="Atom-S"
+         transform="scale(0.03,-0.03)"
+         d="m 615,507 -140,0 c -5,74 -58,114 -153,114 -77,0 -126,-35 -126,-90 0,-53 31,-74 138,-95 L 448,414 C 583,388 641,328 641,213 641,65 530,-23 342,-23 156,-23 49,62 40,218 l 146,0 c 5,-78 62,-121 164,-121 91,0 147,37 147,98 0,59 -37,87 -137,106 L 258,321 C 110,349 53,404 53,517 c 0,142 101,224 276,224 113,0 286,-35 286,-234 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="Atom-H-1"
+         transform="scale(0.03,-0.03)"
+         d="m 519,331 -289,0 0,-331 -150,0 0,729 150,0 0,-273 288,0 0,273 151,0 0,-729 -150,0 0,331 z" />
+    </defs>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -253,1241 +271,1222 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1030"
+     inkscape:window-height="1028"
      id="namedview6146"
      showgrid="false"
      units="px"
      width="8.5in"
-     inkscape:zoom="0.63452297"
-     inkscape:cx="132.02235"
-     inkscape:cy="420.68296"
+     inkscape:zoom="0.89735099"
+     inkscape:cx="386.72466"
+     inkscape:cy="350.05621"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6129" />
+  <rect
+     style="fill:#000000;fill-opacity:0.26442339;stroke:#000000;stroke-width:1.04247212;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect8152"
+     width="723.95813"
+     height="65.634529"
+     x="0.52123833"
+     y="1.7691956" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.96507901;stroke-opacity:1"
+     id="rect6152"
+     width="724.03485"
+     height="699.03491"
+     x="0.48254013"
+     y="0.92331696" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.93599212px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 128.468,1.467994 0.78751,699.064006 0,0"
+     id="path6664"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path6666"
+     d="m 442.51001,1.467994 0.78751,699.064006 0,0"
+     style="fill:none;stroke:#000000;stroke-width:0.93599212px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.93599212px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 610.53249,1.467994 611.32,700.532 l 0,0"
+     id="path6668"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.98198378px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 0.490992,377.41567 724.018018,-0.83691 0,0"
+     id="path6672"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path6674"
+     d="M 0.490992,67.43391 724.50901,66.597 l 0,0"
+     style="fill:none;stroke:#000000;stroke-width:0.98198378px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path6676"
+     d="m 0.490992,497.40879 724.018018,-0.83691 0,0"
+     style="fill:none;stroke:#000000;stroke-width:0.98198378px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.98198378px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 0.490992,159.42703 724.018018,-0.83691 0,0"
+     id="path6678"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.98198378px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 0.490992,583.403 724.018018,-0.83691 0,0"
+     id="path6680"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path6682"
+     d="m 0.490992,279.42124 724.018018,-0.83691 0,0"
+     style="fill:none;stroke:#000000;stroke-width:0.98198378px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <use
+     transform="matrix(0.78317302,0,0,0.78317302,326.50355,106.13482)"
+     xlink:href="#Atom-O-8"
+     x="-64.129997"
+     y="119.36"
+     id="use5993"
+     width="175"
+     height="161" />
+  <line
+     x1="278.73001"
+     y1="222.82761"
+     x2="264.63287"
+     y2="229.09299"
+     style="stroke:#000000;stroke-width:2.34951901px"
+     id="line5997" />
+  <line
+     x1="283.38931"
+     y1="202.42537"
+     x2="283.38931"
+     y2="213.83347"
+     style="stroke:#000000;stroke-width:2.27005434px"
+     id="line5999" />
+  <line
+     x1="286.60147"
+     y1="202.42537"
+     x2="286.60147"
+     y2="213.83347"
+     style="stroke:#000000;stroke-width:2.27005434px"
+     id="line6001" />
+  <line
+     x1="303.00836"
+     y1="230.65933"
+     x2="289.69443"
+     y2="222.82761"
+     style="stroke:#000000;stroke-width:2.34951901px"
+     id="line6003" />
   <g
-     id="g8573"
-     transform="translate(-20,-89)">
-    <rect
-       y="90.769196"
-       x="20.521238"
-       height="65.634529"
-       width="723.95813"
-       id="rect8152"
-       style="fill:#000000;fill-opacity:0.26442339;stroke:#000000;stroke-width:1.04247212;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
-       y="89.923317"
-       x="20.48254"
-       height="699.03491"
-       width="724.03485"
-       id="rect6152"
-       style="fill:none;stroke:#000000;stroke-width:0.96507901;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path6664"
-       d="m 148.468,90.467994 0.78751,699.064006 0,0"
-       style="fill:none;stroke:#000000;stroke-width:0.93599212px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.93599212px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 462.51001,90.467994 0.78751,699.064006 0,0"
-       id="path6666"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path6668"
-       d="M 630.53249,90.467994 631.32,789.532 l 0,0"
-       style="fill:none;stroke:#000000;stroke-width:0.93599212px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path6672"
-       d="m 20.490992,466.41567 724.018018,-0.83691 0,0"
-       style="fill:none;stroke:#000000;stroke-width:0.98198378px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.98198378px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 20.490992,156.43391 724.018018,-0.83691 0,0"
-       id="path6674"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.98198378px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 20.490992,586.40879 724.018018,-0.83691 0,0"
-       id="path6676"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path6678"
-       d="m 20.490992,248.42703 724.018018,-0.83691 0,0"
-       style="fill:none;stroke:#000000;stroke-width:0.98198378px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path6680"
-       d="m 20.490992,672.403 724.018018,-0.83691 0,0"
-       style="fill:none;stroke:#000000;stroke-width:0.98198378px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.98198378px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 20.490992,368.42124 724.018018,-0.83691 0,0"
-       id="path6682"
-       inkscape:connector-curvature="0" />
+     transform="matrix(0.78317302,0,0,0.78317302,243.37322,107.37678)"
+     id="g5848">
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path5078"
+       transform="matrix(2.2652043,0,0,2.4067796,24.692155,-195.49998)"
+       cx="12.360916"
+       cy="143.55281"
+       rx="5.2975354"
+       ry="4.9859157" />
+    <use
+       transform="translate(217.96487,-214.69703)"
+       xlink:href="#Atom-C-7"
+       x="-176.22"
+       y="375.45999"
+       id="use4760"
+       width="639"
+       height="391" />
+  </g>
+  <g
+     id="g7335"
+     transform="matrix(0.71831069,0,0,0.71831069,161.80783,265.38944)">
+    <use
+       transform="translate(-8,42)"
+       xlink:href="#Atom-R-0"
+       x="14.24"
+       y="86.889999"
+       id="use3108-3"
+       width="339"
+       height="177" />
+    <use
+       transform="translate(-8,42)"
+       xlink:href="#Atom-O-2"
+       x="49.639999"
+       y="24.42"
+       id="use3110"
+       width="339"
+       height="177" />
+    <use
+       transform="translate(-8,42)"
+       xlink:href="#Atom-O-2"
+       x="86.010002"
+       y="87.419998"
+       id="use3112"
+       width="339"
+       height="177" />
+    <use
+       transform="translate(-8,42)"
+       xlink:href="#Atom-H-6"
+       x="108.27"
+       y="87.419998"
+       id="use3114"
+       width="339"
+       height="177" />
+    <use
+       transform="translate(32,48)"
+       xlink:href="#Atom-R-0"
+       x="175.07001"
+       y="83.800003"
+       id="use3116"
+       width="339"
+       height="177" />
+    <use
+       transform="translate(32,48)"
+       xlink:href="#Atom-O-2"
+       x="210.46001"
+       y="21.32"
+       id="use3118"
+       width="339"
+       height="177" />
+    <use
+       transform="translate(32,48)"
+       xlink:href="#Atom-O-2"
+       x="246.84"
+       y="84.32"
+       id="use3120"
+       width="339"
+       height="177" />
+    <use
+       transform="translate(36.183099,0.3943662)"
+       xlink:href="#Atom-H-6"
+       x="269.10001"
+       y="84.32"
+       id="use3122"
+       width="339"
+       height="177" />
+    <line
+       x1="50.770004"
+       y1="98.959999"
+       x2="28"
+       y2="111"
+       style="stroke:#000000;stroke-width:3px"
+       id="line3124" />
     <g
-       transform="matrix(0.78317302,0,0,0.78317302,239.99202,242.1252)"
-       id="g7033">
-      <use
-         transform="translate(136,-60)"
-         xlink:href="#Atom-O-8"
-         x="-64.129997"
-         y="119.36"
-         id="use5993"
-         width="175"
-         height="161" />
-      <use
-         transform="translate(142,-52)"
-         xlink:href="#Atom-R1-6"
-         x="-36.25"
-         y="169.74001"
-         id="use5995"
-         width="175"
-         height="161" />
+       transform="matrix(0.99912284,0.04187566,-0.04187566,0.99912284,3.3081717,-2.1288718)"
+       id="g6042">
       <line
-         x1="75"
-         y1="89"
-         x2="57"
-         y2="97"
-         style="stroke:#000000;stroke-width:3px"
-         id="line5997" />
+         id="line3126"
+         style="stroke:#000000;stroke-width:2.46099591px"
+         y2="86.065178"
+         x2="50.474651"
+         y1="69.730499"
+         x1="49.730499" />
       <line
-         x1="80.949265"
-         y1="62.949268"
-         x2="80.949265"
-         y2="77.515778"
-         style="stroke:#000000;stroke-width:2.89853477px"
-         id="line5999" />
-      <line
-         x1="85.050735"
-         y1="62.949268"
-         x2="85.050735"
-         y2="77.515778"
-         style="stroke:#000000;stroke-width:2.89853477px"
-         id="line6001" />
-      <line
-         x1="106"
-         y1="99"
-         x2="89"
-         y2="89"
-         style="stroke:#000000;stroke-width:3px"
-         id="line6003" />
-      <g
-         transform="translate(29.854455,-58.414191)"
-         id="g5848">
-        <path
-           sodipodi:type="arc"
-           style="fill:#ffffff;fill-opacity:1;stroke:none"
-           id="path5078"
-           sodipodi:cx="12.360916"
-           sodipodi:cy="143.55281"
-           sodipodi:rx="5.2975354"
-           sodipodi:ry="4.9859157"
-           d="m 17.658452,143.55281 a 5.2975354,4.9859157 0 1 1 -10.5950713,0 5.2975354,4.9859157 0 1 1 10.5950713,0 z"
-           transform="matrix(2.2652043,0,0,2.4067796,24.692155,-195.49998)" />
-        <use
-           transform="translate(217.96487,-214.69703)"
-           xlink:href="#Atom-C-7"
-           x="-176.22"
-           y="375.45999"
-           id="use4760"
-           width="639"
-           height="391" />
-      </g>
-      <use
-         transform="translate(22.159238,30.850001)"
-         xlink:href="#Atom-R-1"
-         x="14.24"
-         y="86.889999"
-         id="use3108"
-         width="339"
-         height="177" />
+         id="line3128"
+         style="stroke:#000000;stroke-width:2.46099591px"
+         y2="86.065178"
+         x2="55.139496"
+         y1="69.730499"
+         x1="54.173214" />
     </g>
+    <line
+       x1="80"
+       y1="113"
+       x2="54.770004"
+       y2="98.959999"
+       style="stroke:#000000;stroke-width:3px"
+       id="line3130" />
+    <line
+       x1="253.59"
+       y1="99.860001"
+       x2="231"
+       y2="112"
+       style="stroke:#000000;stroke-width:3px"
+       id="line3132" />
+    <line
+       x1="278"
+       y1="114"
+       x2="253.59"
+       y2="99.860001"
+       style="stroke:#000000;stroke-width:3px"
+       id="line3138" />
     <g
-       transform="matrix(0.71831069,0,0,0.71831069,181.80783,354.38944)"
-       id="g7335">
-      <use
-         height="177"
-         width="339"
-         id="use3108-3"
-         y="86.889999"
-         x="14.24"
-         xlink:href="#Atom-R-0"
-         transform="translate(-8,42)" />
-      <use
-         height="177"
-         width="339"
-         id="use3110"
-         y="24.42"
-         x="49.639999"
-         xlink:href="#Atom-O-2"
-         transform="translate(-8,42)" />
-      <use
-         height="177"
-         width="339"
-         id="use3112"
-         y="87.419998"
-         x="86.010002"
-         xlink:href="#Atom-O-2"
-         transform="translate(-8,42)" />
-      <use
-         height="177"
-         width="339"
-         id="use3114"
-         y="87.419998"
-         x="108.27"
-         xlink:href="#Atom-H-6"
-         transform="translate(-8,42)" />
-      <use
-         height="177"
-         width="339"
-         id="use3116"
-         y="83.800003"
-         x="175.07001"
-         xlink:href="#Atom-R-0"
-         transform="translate(32,48)" />
-      <use
-         height="177"
-         width="339"
-         id="use3118"
-         y="21.32"
-         x="210.46001"
-         xlink:href="#Atom-O-2"
-         transform="translate(32,48)" />
-      <use
-         height="177"
-         width="339"
-         id="use3120"
-         y="84.32"
-         x="246.84"
-         xlink:href="#Atom-O-2"
-         transform="translate(32,48)" />
-      <use
-         height="177"
-         width="339"
-         id="use3122"
-         y="84.32"
-         x="269.10001"
-         xlink:href="#Atom-H-6"
-         transform="translate(36.183099,0.3943662)" />
-      <line
-         id="line3124"
-         style="stroke:#000000;stroke-width:3px"
-         y2="111"
-         x2="28"
-         y1="98.959999"
-         x1="50.770004" />
+       transform="matrix(0.4582605,0,0,-0.4582605,120.86997,104.41165)"
+       id="g2852"
+       style="fill:#000000">
       <g
-         id="g6042"
-         transform="matrix(0.99912284,0.04187566,-0.04187566,0.99912284,3.3081717,-2.1288718)">
-        <line
-           x1="49.730499"
-           y1="69.730499"
-           x2="50.474651"
-           y2="86.065178"
-           style="stroke:#000000;stroke-width:2.46099591px"
-           id="line3126" />
-        <line
-           x1="54.173214"
-           y1="69.730499"
-           x2="55.139496"
-           y2="86.065178"
-           style="stroke:#000000;stroke-width:2.46099591px"
-           id="line3128" />
-      </g>
-      <line
-         id="line3130"
-         style="stroke:#000000;stroke-width:3px"
-         y2="98.959999"
-         x2="54.770004"
-         y1="113"
-         x1="80" />
-      <line
-         id="line3132"
-         style="stroke:#000000;stroke-width:3px"
-         y2="112"
-         x2="231"
-         y1="99.860001"
-         x1="253.59" />
-      <line
-         id="line3138"
-         style="stroke:#000000;stroke-width:3px"
-         y2="99.860001"
-         x2="253.59"
-         y1="114"
-         x1="278" />
-      <g
-         style="fill:#000000"
-         id="g2852"
-         transform="matrix(0.4582605,0,0,-0.4582605,120.86997,104.41165)">
-        <g
-           id="g2820">
-          <path
-             inkscape:connector-curvature="0"
-             id="path35-8"
-             d="m 186.42,21.953 -35.055,0 c 0,2.9489 -4.9406,14.604 -4.9406,14.604 l 39.995,-14.604" />
-          <path
-             inkscape:connector-curvature="0"
-             id="text2961"
-             d="m 161.79,26.142 0,-4.173 -161.79,0 0,4.173 161.79,0 z" />
-        </g>
-        <g
-           id="g2820-1"
-           transform="matrix(-1,0,0,-1,186.94283,34.990078)">
-          <path
-             inkscape:connector-curvature="0"
-             id="path35-8-9"
-             d="m 186.42,21.953 -35.055,0 c 0,2.9489 -4.9406,14.604 -4.9406,14.604 l 39.995,-14.604" />
-          <path
-             inkscape:connector-curvature="0"
-             id="text2961-4"
-             d="m 161.79,26.142 0,-4.173 -161.79,0 0,4.173 161.79,0 z" />
-        </g>
-      </g>
-      <g
-         transform="matrix(0.76076212,0,0,0.76076212,77.731258,-7.9344734)"
-         id="g4212">
-        <line
-           x1="340.38071"
-           y1="83"
-           x2="320.599"
-           y2="83"
-           style="stroke:#000000;stroke-width:2.56786132px"
-           id="line4214" />
-        <line
-           id="line4216"
-           style="stroke:#000000;stroke-width:2.56786132px"
-           y2="92.890854"
-           x2="330.48987"
-           y1="73.109146"
-           x1="330.48987" />
-      </g>
-      <line
-         x1="312.34503"
-         y1="111.17692"
-         x2="301.37439"
-         y2="111.17692"
-         style="stroke:#000000;stroke-width:1.66794086px"
-         id="line4222" />
-      <g
-         id="g5848-2"
-         transform="translate(0.41549297,-50.066903)">
+         id="g2820">
         <path
-           transform="matrix(2.2652043,0,0,2.4067796,24.692155,-195.49998)"
-           d="m 17.658452,143.55281 a 5.2975354,4.9859157 0 1 1 -10.5950713,0 5.2975354,4.9859157 0 1 1 10.5950713,0 z"
-           sodipodi:ry="4.9859157"
-           sodipodi:rx="5.2975354"
-           sodipodi:cy="143.55281"
-           sodipodi:cx="12.360916"
-           id="path5078-6"
-           style="fill:#ffffff;fill-opacity:1;stroke:none"
-           sodipodi:type="arc" />
-        <use
-           height="391"
-           width="639"
-           id="use4760-1"
-           y="375.45999"
-           x="-176.22"
-           xlink:href="#Atom-C-5"
-           transform="translate(217.96487,-214.69703)" />
-      </g>
-      <g
-         transform="translate(201.37325,-49.479307)"
-         id="g5852">
+           d="m 186.42,21.953 -35.055,0 c 0,2.9489 -4.9406,14.604 -4.9406,14.604 l 39.995,-14.604"
+           id="path35-8"
+           inkscape:connector-curvature="0" />
         <path
-           sodipodi:type="arc"
-           style="fill:#ffffff;fill-opacity:1;stroke:none"
-           id="path5854"
-           sodipodi:cx="12.360916"
-           sodipodi:cy="143.55281"
-           sodipodi:rx="5.2975354"
-           sodipodi:ry="4.9859157"
-           d="m 17.658452,143.55281 a 5.2975354,4.9859157 0 1 1 -10.5950713,0 5.2975354,4.9859157 0 1 1 10.5950713,0 z"
-           transform="matrix(2.2652043,0,0,2.4067796,24.692155,-195.49998)" />
-        <use
-           transform="translate(217.96487,-214.69703)"
-           xlink:href="#Atom-C-5"
-           x="-176.22"
-           y="375.45999"
-           id="use5856"
-           width="639"
-           height="391" />
+           d="m 161.79,26.142 0,-4.173 -161.79,0 0,4.173 161.79,0 z"
+           id="text2961"
+           inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="matrix(0.99912284,0.04187566,-0.04187566,0.99912284,203.96363,-0.1288718)"
-         id="g6046">
-        <line
-           id="line6048"
-           style="stroke:#000000;stroke-width:2.46099591px"
-           y2="86.065178"
-           x2="50.474651"
-           y1="69.730499"
-           x1="49.730499" />
-        <line
-           id="line6050"
-           style="stroke:#000000;stroke-width:2.46099591px"
-           y2="86.065178"
-           x2="55.139496"
-           y1="69.730499"
-           x1="54.173214" />
+         transform="matrix(-1,0,0,-1,186.94283,34.990078)"
+         id="g2820-1">
+        <path
+           d="m 186.42,21.953 -35.055,0 c 0,2.9489 -4.9406,14.604 -4.9406,14.604 l 39.995,-14.604"
+           id="path35-8-9"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 161.79,26.142 0,-4.173 -161.79,0 0,4.173 161.79,0 z"
+           id="text2961-4"
+           inkscape:connector-curvature="0" />
       </g>
     </g>
     <g
-       transform="matrix(0.75062715,0,0,0.75062715,144.21452,444.68724)"
-       id="g7465">
-      <g
-         id="g3627">
-        <use
-           transform="translate(112,-244)"
-           xlink:href="#Atom-R-5"
-           x="-75.809998"
-           y="361.04999"
-           id="use3557"
-           width="414"
-           height="205" />
-        <use
-           transform="translate(116,-242)"
-           xlink:href="#Atom-N"
-           x="-29.629999"
-           y="358.79999"
-           id="use3559"
-           width="414"
-           height="205" />
-        <use
-           transform="translate(116,-242)"
-           xlink:href="#Atom-H-7"
-           x="4.9200001"
-           y="326.56"
-           id="use3561"
-           width="414"
-           height="205" />
-        <use
-           transform="translate(116,-242)"
-           xlink:href="#Atom-H-7"
-           x="2.8599999"
-           y="392.34"
-           id="use3563"
-           width="414"
-           height="205" />
-        <line
-           x1="120"
-           y1="82"
-           x2="111"
-           y2="92"
-           style="stroke:#000000;stroke-width:3px"
-           id="line3577" />
-        <line
-           x1="118"
-           y1="128"
-           x2="111"
-           y2="120"
-           style="stroke:#000000;stroke-width:3px"
-           id="line3579" />
-        <line
-           id="line3615"
-           style="stroke:#000000;stroke-width:3px"
-           y2="105.29151"
-           x2="60.180813"
-           y1="105.29151"
-           x1="87.180809" />
-      </g>
+       id="g4212"
+       transform="matrix(0.76076212,0,0,0.76076212,77.731258,-7.9344734)">
+      <line
+         id="line4214"
+         style="stroke:#000000;stroke-width:2.56786132px"
+         y2="83"
+         x2="320.599"
+         y1="83"
+         x1="340.38071" />
+      <line
+         x1="330.48987"
+         y1="73.109146"
+         x2="330.48987"
+         y2="92.890854"
+         style="stroke:#000000;stroke-width:2.56786132px"
+         id="line4216" />
+    </g>
+    <line
+       id="line4222"
+       style="stroke:#000000;stroke-width:1.66794086px"
+       y2="111.17692"
+       x2="301.37439"
+       y1="111.17692"
+       x1="312.34503" />
+    <g
+       transform="translate(0.41549297,-50.066903)"
+       id="g5848-2">
+      <ellipse
+         ry="4.9859157"
+         rx="5.2975354"
+         cy="143.55281"
+         cx="12.360916"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path5078-6"
+         transform="matrix(2.2652043,0,0,2.4067796,24.692155,-195.49998)" />
+      <use
+         transform="translate(217.96487,-214.69703)"
+         xlink:href="#Atom-C-5"
+         x="-176.22"
+         y="375.45999"
+         id="use4760-1"
+         width="639"
+         height="391" />
+    </g>
+    <g
+       id="g5852"
+       transform="translate(201.37325,-49.479307)">
+      <ellipse
+         ry="4.9859157"
+         rx="5.2975354"
+         cy="143.55281"
+         cx="12.360916"
+         transform="matrix(2.2652043,0,0,2.4067796,24.692155,-195.49998)"
+         id="path5854"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <use
+         height="391"
+         width="639"
+         id="use5856"
+         y="375.45999"
+         x="-176.22"
+         xlink:href="#Atom-C-5"
+         transform="translate(217.96487,-214.69703)" />
+    </g>
+    <g
+       id="g6046"
+       transform="matrix(0.99912284,0.04187566,-0.04187566,0.99912284,203.96363,-0.1288718)">
+      <line
+         x1="49.730499"
+         y1="69.730499"
+         x2="50.474651"
+         y2="86.065178"
+         style="stroke:#000000;stroke-width:2.46099591px"
+         id="line6048" />
+      <line
+         x1="54.173214"
+         y1="69.730499"
+         x2="55.139496"
+         y2="86.065178"
+         style="stroke:#000000;stroke-width:2.46099591px"
+         id="line6050" />
+    </g>
+  </g>
+  <g
+     id="g7465"
+     transform="matrix(0.75062715,0,0,0.75062715,124.21452,355.68724)">
+    <g
+       id="g3627">
       <use
          height="205"
          width="414"
-         id="use3565"
-         y="356.32001"
-         x="131"
+         id="use3557"
+         y="361.04999"
+         x="-75.809998"
          xlink:href="#Atom-R-5"
-         transform="translate(116,-242)" />
+         transform="translate(112,-244)" />
       <use
          height="205"
          width="414"
-         id="use3567"
-         y="356.32001"
-         x="182.92999"
+         id="use3559"
+         y="358.79999"
+         x="-29.629999"
          xlink:href="#Atom-N"
          transform="translate(116,-242)" />
       <use
          height="205"
          width="414"
-         id="use3569"
-         y="358.04001"
-         x="234.16"
-         xlink:href="#Atom-H-7"
-         transform="translate(116,-243.72001)" />
-      <use
-         height="205"
-         width="414"
-         id="use3571"
-         y="403.14001"
-         x="182.60001"
+         id="use3561"
+         y="326.56"
+         x="4.9200001"
          xlink:href="#Atom-H-7"
          transform="translate(116,-242)" />
       <use
          height="205"
          width="414"
-         id="use3573"
-         y="308"
-         x="184.32001"
+         id="use3563"
+         y="392.34"
+         x="2.8599999"
          xlink:href="#Atom-H-7"
-         transform="translate(114,-242)" />
+         transform="translate(116,-242)" />
       <line
-         id="line3581"
+         id="line3577"
          style="stroke:#000000;stroke-width:3px"
-         y2="103"
-         x2="271"
-         y1="103"
-         x1="298" />
-      <line
-         id="line3585"
-         style="stroke:#000000;stroke-width:3px"
-         y2="118"
-         x2="308"
-         y1="135"
-         x1="308" />
-      <line
-         id="line3587"
-         style="stroke:#000000;stroke-width:3px"
-         y2="88"
-         x2="309"
-         y1="69"
-         x1="309" />
-      <line
-         x1="349.82306"
-         y1="103"
-         x2="324.88544"
-         y2="103"
-         style="stroke:#000000;stroke-width:2.88314867px"
-         id="line3617" />
-      <g
-         id="g3623"
-         transform="matrix(0.76076212,0,0,0.76076212,76.392259,20.620582)">
-        <line
-           id="line3619"
-           style="stroke:#000000;stroke-width:2.56786132px"
-           y2="83"
-           x2="320.599"
-           y1="83"
-           x1="340.38071" />
-        <line
-           x1="330.48987"
-           y1="73.109146"
-           x2="330.48987"
-           y2="92.890854"
-           style="stroke:#000000;stroke-width:2.56786132px"
-           id="line3621" />
-      </g>
-      <g
-         style="fill:#000000"
-         id="g2852-8"
-         transform="matrix(0.4582605,0,0,-0.4582605,151.60706,111.12793)">
-        <g
-           id="g2820-2">
-          <path
-             inkscape:connector-curvature="0"
-             id="path35-8-0"
-             d="m 186.42,21.953 -35.055,0 c 0,2.9489 -4.9406,14.604 -4.9406,14.604 l 39.995,-14.604" />
-          <path
-             inkscape:connector-curvature="0"
-             id="text2961-48"
-             d="m 161.79,26.142 0,-4.173 -161.79,0 0,4.173 161.79,0 z" />
-        </g>
-        <g
-           id="g2820-1-5"
-           transform="matrix(-1,0,0,-1,186.94283,34.990078)">
-          <path
-             inkscape:connector-curvature="0"
-             id="path35-8-9-3"
-             d="m 186.42,21.953 -35.055,0 c 0,2.9489 -4.9406,14.604 -4.9406,14.604 l 39.995,-14.604" />
-          <path
-             inkscape:connector-curvature="0"
-             id="text2961-4-5"
-             d="m 161.79,26.142 0,-4.173 -161.79,0 0,4.173 161.79,0 z" />
-        </g>
-      </g>
-    </g>
-    <g
-       transform="matrix(0.95640099,0,0,0.95640099,285.77381,451.03216)"
-       id="g7795">
-      <defs
-         id="defs7797">
-        <path
-           inkscape:connector-curvature="0"
-           id="Atom-R-01"
-           transform="scale(0.03,-0.03)"
-           d="m 493,125 c 0,54 2,46 2,77 0,61 -28,87 -93,87 H 230 V 0 H 80 v 729 h 391 c 157,0 196,-116 196,-197 0,-89 -41,-148 -123,-180 93,-40 97,-50 101,-265 0,-32 9,-47 32,-60 V 0 H 516 c -19,35 -23,57 -23,125 z m 24,386 c 0,81 -43,93 -106,93 H 230 V 414 h 181 c 62,0 106,12 106,97 z" />
-        <path
-           inkscape:connector-curvature="0"
-           id="Atom-S"
-           transform="scale(0.03,-0.03)"
-           d="M 615,507 H 475 c -5,74 -58,114 -153,114 -77,0 -126,-35 -126,-90 0,-53 31,-74 138,-95 L 448,414 C 583,388 641,328 641,213 641,65 530,-23 342,-23 156,-23 49,62 40,218 h 146 c 5,-78 62,-121 164,-121 91,0 147,37 147,98 0,59 -37,87 -137,106 L 258,321 C 110,349 53,404 53,517 c 0,142 101,224 276,224 113,0 286,-35 286,-234 z" />
-        <path
-           inkscape:connector-curvature="0"
-           id="Atom-H-1"
-           transform="scale(0.03,-0.03)"
-           d="M 519,331 H 230 V 0 H 80 V 729 H 230 V 456 H 518 V 729 H 669 V 0 H 519 v 331 z" />
-      </defs>
-      <use
-         height="1"
-         width="1"
-         xlink:href="#Atom-R-01"
-         x="-20.16"
-         y="197.94"
-         id="use7802" />
-      <use
-         height="1"
-         width="1"
-         xlink:href="#Atom-S"
-         x="26.379999"
-         y="197.46001"
-         id="use7804" />
-      <use
-         height="1"
-         width="1"
-         xlink:href="#Atom-H-1"
-         x="45.610001"
-         y="197.46001"
-         id="use7806" />
-      <line
-         x1="26"
-         y1="186"
-         x2="4"
-         y2="186"
-         style="stroke:#000000;stroke-width:3px"
-         id="line7808" />
-    </g>
-    <g
-       transform="matrix(0.61808911,0,0,0.61808911,126.06191,650.93871)"
-       id="g7986">
-      <use
-         height="214"
-         width="555"
-         id="use4081"
-         y="232.46001"
-         x="-118.96"
-         xlink:href="#Atom-P"
-         transform="translate(250,-110)" />
-      <use
-         height="214"
-         width="555"
-         id="use4083"
-         y="187.98"
-         x="-120.53"
-         xlink:href="#Atom-O-44"
-         transform="translate(250,-110)" />
-      <use
-         height="214"
-         width="555"
-         id="use4085"
-         y="232.98"
-         x="-75.529999"
-         xlink:href="#Atom-O-44"
-         transform="translate(250,-110)" />
-      <use
-         height="214"
-         width="555"
-         id="use4087"
-         y="232.98"
-         x="-53.27"
-         xlink:href="#Atom-H-43"
-         transform="translate(250,-110)" />
-      <use
-         height="214"
-         width="555"
-         id="use4089"
-         y="232.98"
-         x="-165.53"
-         xlink:href="#Atom-O-44"
-         transform="translate(250,-110)" />
-      <use
-         height="214"
-         width="555"
-         id="use4091"
-         y="277.98001"
-         x="-120.53"
-         xlink:href="#Atom-O-44"
-         transform="translate(250,-110)" />
-      <use
-         height="214"
-         width="555"
-         id="use4093"
-         y="277.98001"
-         x="-98.269997"
-         xlink:href="#Atom-H-43"
-         transform="translate(250,-110)" />
-      <use
-         height="214"
-         width="555"
-         id="use4095"
-         y="232.46001"
-         x="-209.56"
-         xlink:href="#Atom-R-75"
-         transform="translate(250,-109.53001)" />
-      <use
-         height="214"
-         width="555"
-         id="use4097"
-         y="230.92999"
-         x="172.45"
-         xlink:href="#Atom-P"
-         transform="translate(250,-108)" />
-      <use
-         height="214"
-         width="555"
-         id="use4099"
-         y="186.46001"
-         x="170.87"
-         xlink:href="#Atom-O-44"
-         transform="translate(250,-108)" />
-      <use
-         height="214"
-         width="555"
-         id="use4101"
-         y="231.46001"
-         x="215.87"
-         xlink:href="#Atom-O-44"
-         transform="translate(250,-108)" />
-      <use
-         height="214"
-         width="555"
-         id="use4103"
-         y="231.46001"
-         x="125.87"
-         xlink:href="#Atom-O-44"
-         transform="translate(250,-108)" />
-      <use
-         height="214"
-         width="555"
-         id="use4105"
-         y="276.45999"
-         x="170.87"
-         xlink:href="#Atom-O-44"
-         transform="translate(250,-108)" />
-      <use
-         height="214"
-         width="555"
-         id="use4107"
-         y="230.92999"
-         x="81.849998"
-         xlink:href="#Atom-R-75"
-         transform="translate(250,-108)" />
-      <use
-         height="214"
-         width="555"
-         id="use4109"
-         y="278.14001"
-         x="214.53999"
-         xlink:href="#Atom-H-43"
-         transform="translate(254.09594,-82.400369)" />
-      <use
-         height="214"
-         width="555"
-         id="use4111"
-         y="174.08"
-         x="240.94"
-         xlink:href="#Atom-H-43"
-         transform="translate(267.91974,-78.816421)" />
-      <line
-         id="line4113"
-         style="stroke:#000000;stroke-width:3px"
-         y2="96"
-         x2="139"
-         y1="81"
-         x1="139" />
-      <line
-         id="line4115"
-         style="stroke:#000000;stroke-width:3px"
-         y2="96"
-         x2="143"
-         y1="81"
-         x1="143" />
-      <line
-         id="line4117"
-         style="stroke:#000000;stroke-width:3px"
-         y2="111"
-         x2="155"
-         y1="111"
-         x1="175" />
-      <line
-         id="line4119"
-         style="stroke:#000000;stroke-width:3px"
-         y2="111"
-         x2="132"
-         y1="111"
-         x1="111" />
-      <line
-         id="line4121"
-         style="stroke:#000000;stroke-width:3px"
-         y2="126"
-         x2="141"
-         y1="141"
-         x1="141" />
-      <line
-         id="line4123"
-         style="stroke:#000000;stroke-width:3px"
-         y2="111"
-         x2="85"
-         y1="111"
-         x1="65" />
-      <line
-         id="line4125"
-         style="stroke:#000000;stroke-width:3px"
-         y2="97"
-         x2="429"
+         y2="92"
+         x2="111"
          y1="82"
-         x1="429" />
+         x1="120" />
       <line
-         id="line4127"
+         id="line3579"
          style="stroke:#000000;stroke-width:3px"
-         y2="97"
-         x2="434"
-         y1="82"
-         x1="434" />
+         y2="120"
+         x2="111"
+         y1="128"
+         x1="118" />
       <line
-         id="line4129"
+         x1="87.180809"
+         y1="105.29151"
+         x2="60.180813"
+         y2="105.29151"
          style="stroke:#000000;stroke-width:3px"
-         y2="111"
-         x2="445"
-         y1="111"
-         x1="465" />
+         id="line3615" />
+    </g>
+    <use
+       transform="translate(116,-242)"
+       xlink:href="#Atom-R-5"
+       x="131"
+       y="356.32001"
+       id="use3565"
+       width="414"
+       height="205" />
+    <use
+       transform="translate(116,-242)"
+       xlink:href="#Atom-N"
+       x="182.92999"
+       y="356.32001"
+       id="use3567"
+       width="414"
+       height="205" />
+    <use
+       transform="translate(116,-243.72001)"
+       xlink:href="#Atom-H-7"
+       x="234.16"
+       y="358.04001"
+       id="use3569"
+       width="414"
+       height="205" />
+    <use
+       transform="translate(116,-242)"
+       xlink:href="#Atom-H-7"
+       x="182.60001"
+       y="403.14001"
+       id="use3571"
+       width="414"
+       height="205" />
+    <use
+       transform="translate(114,-242)"
+       xlink:href="#Atom-H-7"
+       x="184.32001"
+       y="308"
+       id="use3573"
+       width="414"
+       height="205" />
+    <line
+       x1="298"
+       y1="103"
+       x2="271"
+       y2="103"
+       style="stroke:#000000;stroke-width:3px"
+       id="line3581" />
+    <line
+       x1="308"
+       y1="135"
+       x2="308"
+       y2="118"
+       style="stroke:#000000;stroke-width:3px"
+       id="line3585" />
+    <line
+       x1="309"
+       y1="69"
+       x2="309"
+       y2="88"
+       style="stroke:#000000;stroke-width:3px"
+       id="line3587" />
+    <line
+       id="line3617"
+       style="stroke:#000000;stroke-width:2.88314867px"
+       y2="103"
+       x2="324.88544"
+       y1="103"
+       x1="349.82306" />
+    <g
+       transform="matrix(0.76076212,0,0,0.76076212,76.392259,20.620582)"
+       id="g3623">
       <line
-         id="line4131"
-         style="stroke:#000000;stroke-width:3px"
-         y2="111"
-         x2="422"
-         y1="111"
-         x1="402" />
+         x1="340.38071"
+         y1="83"
+         x2="320.599"
+         y2="83"
+         style="stroke:#000000;stroke-width:2.56786132px"
+         id="line3619" />
       <line
-         id="line4133"
-         style="stroke:#000000;stroke-width:3px"
-         y2="126"
-         x2="432"
-         y1="141"
-         x1="432" />
-      <line
-         id="line4135"
-         style="stroke:#000000;stroke-width:3px"
-         y2="111"
-         x2="375"
-         y1="111"
-         x1="356" />
-      <line
-         x1="506.71738"
-         y1="173.04059"
-         x2="491.66821"
-         y2="173.04059"
-         style="stroke:#000000;stroke-width:1.95353162px"
-         id="line3619-7" />
-      <line
-         id="line3621-7"
-         style="stroke:#000000;stroke-width:1.95353162px"
-         y2="180.56517"
-         x2="499.19281"
-         y1="165.51601"
-         x1="499.19281" />
-      <g
-         transform="matrix(0.76076212,0,0,0.76076212,283.09613,3.9148576)"
-         id="g4212-4">
-        <line
-           x1="340.38071"
-           y1="83"
-           x2="320.599"
-           y2="83"
-           style="stroke:#000000;stroke-width:2.56786132px"
-           id="line4214-4" />
-        <line
-           id="line4216-9"
-           style="stroke:#000000;stroke-width:2.56786132px"
-           y2="92.890854"
-           x2="330.48987"
-           y1="73.109146"
-           x1="330.48987" />
-      </g>
-      <line
-         id="line4220"
-         style="stroke:#000000;stroke-width:1.63312864px"
-         y2="145.90498"
-         x2="441.71082"
-         y1="145.90498"
-         x1="452.2283" />
-      <line
-         x1="497.76624"
-         y1="97.265686"
-         x2="486.79559"
-         y2="97.265686"
-         style="stroke:#000000;stroke-width:1.66794086px"
-         id="line4222-9" />
-      <g
-         style="fill:#000000"
-         id="g2852-7"
-         transform="matrix(0.46699461,0,0,-0.46699461,231.28939,122.50379)">
-        <g
-           id="g2820-3">
-          <path
-             inkscape:connector-curvature="0"
-             id="path35-8-8"
-             d="m 186.42,21.953 -35.055,0 c 0,2.9489 -4.9406,14.604 -4.9406,14.604 l 39.995,-14.604" />
-          <path
-             inkscape:connector-curvature="0"
-             id="text2961-3"
-             d="m 161.79,26.142 0,-4.173 -161.79,0 0,4.173 161.79,0 z" />
-        </g>
-        <g
-           id="g2820-1-3"
-           transform="matrix(-1,0,0,-1,186.94283,34.990078)">
-          <path
-             inkscape:connector-curvature="0"
-             id="path35-8-9-1"
-             d="m 186.42,21.953 -35.055,0 c 0,2.9489 -4.9406,14.604 -4.9406,14.604 l 39.995,-14.604" />
-          <path
-             inkscape:connector-curvature="0"
-             id="text2961-4-6"
-             d="m 161.79,26.142 0,-4.173 -161.79,0 0,4.173 161.79,0 z" />
-        </g>
-      </g>
+         id="line3621"
+         style="stroke:#000000;stroke-width:2.56786132px"
+         y2="92.890854"
+         x2="330.48987"
+         y1="73.109146"
+         x1="330.48987" />
     </g>
     <g
-       id="g6131"
-       transform="matrix(0.92299942,0,0,0.92299942,276.36386,39.57068)">
-      <defs
-         id="defs6133">
+       transform="matrix(0.4582605,0,0,-0.4582605,151.60706,111.12793)"
+       id="g2852-8"
+       style="fill:#000000">
+      <g
+         id="g2820-2">
         <path
-           inkscape:connector-curvature="0"
-           d="m 493,125 c 0,54 2,46 2,77 0,61 -28,87 -93,87 H 230 V 0 H 80 v 729 h 391 c 157,0 196,-116 196,-197 0,-89 -41,-148 -123,-180 93,-40 97,-50 101,-265 0,-32 9,-47 32,-60 V 0 H 516 c -19,35 -23,57 -23,125 z m 24,386 c 0,81 -43,93 -106,93 H 230 V 414 h 181 c 62,0 106,12 106,97 z"
-           transform="scale(0.03,-0.03)"
-           id="Atom-R" />
+           d="m 186.42,21.953 -35.055,0 c 0,2.9489 -4.9406,14.604 -4.9406,14.604 l 39.995,-14.604"
+           id="path35-8-0"
+           inkscape:connector-curvature="0" />
         <path
-           inkscape:connector-curvature="0"
-           d="M 40,359 C 40,581 178,741 390,741 601,741 742,586 742,354 742,145 610,-23 391,-23 177,-23 40,137 40,359 z M 391,613 C 270,613 190,512 190,359 c 0,-153 80,-254 201,-254 120,0 201,101 201,250 0,158 -78,258 -201,258 z"
-           transform="scale(0.03,-0.03)"
-           id="Atom-O" />
+           d="m 161.79,26.142 0,-4.173 -161.79,0 0,4.173 161.79,0 z"
+           id="text2961-48"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(-1,0,0,-1,186.94283,34.990078)"
+         id="g2820-1-5">
         <path
-           inkscape:connector-curvature="0"
-           d="M 519,331 H 230 V 0 H 80 V 729 H 230 V 456 H 518 V 729 H 669 V 0 H 519 v 331 z"
-           transform="scale(0.03,-0.03)"
-           id="Atom-H" />
-      </defs>
-      <use
-         height="111"
-         width="151"
-         id="use6138"
-         y="197.94"
-         x="-20.16"
-         xlink:href="#Atom-R" />
-      <use
-         height="111"
-         width="151"
-         id="use6140"
-         y="197.46001"
-         x="24.870001"
-         xlink:href="#Atom-O" />
-      <use
-         height="111"
-         width="151"
-         id="use6142"
-         y="197.46001"
-         x="47.130001"
-         xlink:href="#Atom-H" />
-      <line
-         id="line6144"
-         style="stroke:#000000;stroke-width:3px"
-         y2="186"
-         x2="4"
-         y1="186"
-         x1="24" />
+           d="m 186.42,21.953 -35.055,0 c 0,2.9489 -4.9406,14.604 -4.9406,14.604 l 39.995,-14.604"
+           id="path35-8-9-3"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 161.79,26.142 0,-4.173 -161.79,0 0,4.173 161.79,0 z"
+           id="text2961-4-5"
+           inkscape:connector-curvature="0" />
+      </g>
     </g>
-    <text
-       sodipodi:linespacing="125%"
-       id="text8030"
-       y="211.95572"
-       x="35.321037"
-       style="font-size:18px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       xml:space="preserve"><tspan
-         y="211.95572"
-         x="35.321037"
-         id="tspan8032"
-         sodipodi:role="line">Hydroxyl</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       x="35.321037"
-       y="309.95572"
-       id="text8034"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan8036"
-         x="35.321037"
-         y="309.95572">Carbonyl</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text8038"
-       y="429.95572"
-       x="35.321037"
-       style="font-size:18px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       xml:space="preserve"><tspan
-         y="429.95572"
-         x="35.321037"
-         id="tspan8040"
-         sodipodi:role="line">Carboxyl</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       x="35.321037"
-       y="531.95569"
-       id="text8042"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan8044"
-         x="35.321037"
-         y="531.95569">Amino</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text8046"
-       y="639.95569"
-       x="35.321037"
-       style="font-size:18px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       xml:space="preserve"><tspan
-         y="639.95569"
-         x="35.321037"
-         id="tspan8048"
-         sodipodi:role="line">Sulfhydryl</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       x="33.321037"
-       y="721.95569"
-       id="text8050"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan8052"
-         x="33.321037"
-         y="721.95569">Phosphate</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text8054"
-       y="114.74539"
-       x="83.115692"
-       style="font-size:18px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       xml:space="preserve"><tspan
-         style="font-size:20px"
-         y="114.74539"
-         x="83.115692"
-         id="tspan8056"
-         sodipodi:role="line">Group</tspan><tspan
-         style="font-size:20px"
-         id="tspan8058"
-         y="139.74539"
-         x="83.115692"
-         sodipodi:role="line">Name</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       x="305.11569"
-       y="124.74539"
-       id="text8060"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="305.11569"
-         y="124.74539"
-         id="tspan8064"
-         style="font-size:20px">Structure</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text8068"
-       y="114.74539"
-       x="537.11572"
-       style="font-size:18px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       xml:space="preserve"><tspan
-         style="font-size:20px"
-         id="tspan8070"
-         y="114.74539"
-         x="537.11572"
-         sodipodi:role="line">Compound</tspan><tspan
-         id="tspan8072"
-         style="font-size:20px"
-         y="139.74539"
-         x="537.11572"
-         sodipodi:role="line">Name</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text8074"
-       y="126.54613"
-       x="636.00366"
-       style="font-size:18px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       xml:space="preserve"><tspan
-         style="font-size:20px"
-         y="126.54613"
-         x="636.00366"
-         id="tspan8076"
-         sodipodi:role="line">Property</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text8084"
-       y="210.61255"
-       x="516.69739"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       xml:space="preserve"><tspan
-         y="210.61255"
-         x="516.69739"
-         id="tspan8086"
-         sodipodi:role="line">alcohol</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text8088"
-       y="288.19189"
-       x="467.09595"
-       style="font-size:18px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       xml:space="preserve"><tspan
-         style="font-size:18px;font-weight:normal;-inkscape-font-specification:Sans"
-         y="288.19189"
-         x="467.09595"
-         id="tspan8090"
-         sodipodi:role="line">Aldehyde (R1=H)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       x="479.09595"
-       y="330.19189"
-       id="text8092"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan8094"
-         x="479.09595"
-         y="330.19189"
-         style="font-size:18px;font-weight:normal;-inkscape-font-specification:Sans">Ketone (R1=C)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="516.69739"
-       y="422.61255"
-       id="text8096"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan8098"
-         x="516.69739"
-         y="422.61255">acid</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text8100"
-       y="524.61255"
-       x="516.69739"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       xml:space="preserve"><tspan
-         y="524.61255"
-         x="516.69739"
-         id="tspan8102"
-         sodipodi:role="line">amine</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="516.69739"
-       y="630.61255"
-       id="text8104"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan8106"
-         x="516.69739"
-         y="630.61255">thiol</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text8116"
-       y="208.61255"
-       x="652.69739"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       xml:space="preserve"><tspan
-         y="208.61255"
-         x="652.69739"
-         id="tspan8118"
-         sodipodi:role="line">polar</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="652.69739"
-       y="310.61255"
-       id="text8120"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan8122"
-         x="652.69739"
-         y="310.61255">polar</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text8124"
-       y="420.61255"
-       x="652.69739"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       xml:space="preserve"><tspan
-         y="420.61255"
-         x="652.69739"
-         id="tspan8126"
-         sodipodi:role="line">polar</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="652.69739"
-       y="526.61255"
-       id="text8128"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan8130"
-         x="652.69739"
-         y="526.61255">polar</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="652.69739"
-       y="444.61255"
-       id="text8132"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan8134"
-         x="652.69739"
-         y="444.61255">acidic</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text8136"
-       y="548.61255"
-       x="652.69739"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       xml:space="preserve"><tspan
-         y="548.61255"
-         x="652.69739"
-         id="tspan8138"
-         sodipodi:role="line">basic</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text8140"
-       y="628.61255"
-       x="652.69739"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       xml:space="preserve"><tspan
-         y="628.61255"
-         x="652.69739"
-         id="tspan8142"
-         sodipodi:role="line">polar</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="652.69739"
-       y="714.61255"
-       id="text8144"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan8146"
-         x="652.69739"
-         y="714.61255">polar</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text8148"
-       y="744.61255"
-       x="652.69739"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       xml:space="preserve"><tspan
-         y="744.61255"
-         x="652.69739"
-         id="tspan8150"
-         sodipodi:role="line">acidic</tspan></text>
   </g>
+  <use
+     height="1"
+     width="1"
+     xlink:href="#Atom-R-01"
+     x="-20.16"
+     y="197.94"
+     id="use7802"
+     transform="matrix(0.95640099,0,0,0.95640099,265.77381,362.03216)" />
+  <use
+     height="1"
+     width="1"
+     xlink:href="#Atom-S"
+     x="26.379999"
+     y="197.46001"
+     id="use7804"
+     transform="matrix(0.95640099,0,0,0.95640099,265.77381,362.03216)" />
+  <use
+     height="1"
+     width="1"
+     xlink:href="#Atom-H-1"
+     x="45.610001"
+     y="197.46001"
+     id="use7806"
+     transform="matrix(0.95640099,0,0,0.95640099,265.77381,362.03216)" />
+  <line
+     x1="290.64023"
+     y1="539.92273"
+     x2="269.59943"
+     y2="539.92273"
+     style="stroke:#000000;stroke-width:2.86920285px"
+     id="line7808" />
+  <g
+     id="g7986"
+     transform="matrix(0.61808911,0,0,0.61808911,106.06191,561.93871)">
+    <use
+       transform="translate(250,-110)"
+       xlink:href="#Atom-P"
+       x="-118.96"
+       y="232.46001"
+       id="use4081"
+       width="555"
+       height="214" />
+    <use
+       transform="translate(250,-110)"
+       xlink:href="#Atom-O-44"
+       x="-120.53"
+       y="187.98"
+       id="use4083"
+       width="555"
+       height="214" />
+    <use
+       transform="translate(250,-110)"
+       xlink:href="#Atom-O-44"
+       x="-75.529999"
+       y="232.98"
+       id="use4085"
+       width="555"
+       height="214" />
+    <use
+       transform="translate(250,-110)"
+       xlink:href="#Atom-H-43"
+       x="-53.27"
+       y="232.98"
+       id="use4087"
+       width="555"
+       height="214" />
+    <use
+       transform="translate(250,-110)"
+       xlink:href="#Atom-O-44"
+       x="-165.53"
+       y="232.98"
+       id="use4089"
+       width="555"
+       height="214" />
+    <use
+       transform="translate(250,-110)"
+       xlink:href="#Atom-O-44"
+       x="-120.53"
+       y="277.98001"
+       id="use4091"
+       width="555"
+       height="214" />
+    <use
+       transform="translate(250,-110)"
+       xlink:href="#Atom-H-43"
+       x="-98.269997"
+       y="277.98001"
+       id="use4093"
+       width="555"
+       height="214" />
+    <use
+       transform="translate(250,-109.53001)"
+       xlink:href="#Atom-R-75"
+       x="-209.56"
+       y="232.46001"
+       id="use4095"
+       width="555"
+       height="214" />
+    <use
+       transform="translate(250,-108)"
+       xlink:href="#Atom-P"
+       x="172.45"
+       y="230.92999"
+       id="use4097"
+       width="555"
+       height="214" />
+    <use
+       transform="translate(250,-108)"
+       xlink:href="#Atom-O-44"
+       x="170.87"
+       y="186.46001"
+       id="use4099"
+       width="555"
+       height="214" />
+    <use
+       transform="translate(250,-108)"
+       xlink:href="#Atom-O-44"
+       x="215.87"
+       y="231.46001"
+       id="use4101"
+       width="555"
+       height="214" />
+    <use
+       transform="translate(250,-108)"
+       xlink:href="#Atom-O-44"
+       x="125.87"
+       y="231.46001"
+       id="use4103"
+       width="555"
+       height="214" />
+    <use
+       transform="translate(250,-108)"
+       xlink:href="#Atom-O-44"
+       x="170.87"
+       y="276.45999"
+       id="use4105"
+       width="555"
+       height="214" />
+    <use
+       transform="translate(250,-108)"
+       xlink:href="#Atom-R-75"
+       x="81.849998"
+       y="230.92999"
+       id="use4107"
+       width="555"
+       height="214" />
+    <use
+       transform="translate(254.09594,-82.400369)"
+       xlink:href="#Atom-H-43"
+       x="214.53999"
+       y="278.14001"
+       id="use4109"
+       width="555"
+       height="214" />
+    <use
+       transform="translate(267.91974,-78.816421)"
+       xlink:href="#Atom-H-43"
+       x="240.94"
+       y="174.08"
+       id="use4111"
+       width="555"
+       height="214" />
+    <line
+       x1="139"
+       y1="81"
+       x2="139"
+       y2="96"
+       style="stroke:#000000;stroke-width:3px"
+       id="line4113" />
+    <line
+       x1="143"
+       y1="81"
+       x2="143"
+       y2="96"
+       style="stroke:#000000;stroke-width:3px"
+       id="line4115" />
+    <line
+       x1="175"
+       y1="111"
+       x2="155"
+       y2="111"
+       style="stroke:#000000;stroke-width:3px"
+       id="line4117" />
+    <line
+       x1="111"
+       y1="111"
+       x2="132"
+       y2="111"
+       style="stroke:#000000;stroke-width:3px"
+       id="line4119" />
+    <line
+       x1="141"
+       y1="141"
+       x2="141"
+       y2="126"
+       style="stroke:#000000;stroke-width:3px"
+       id="line4121" />
+    <line
+       x1="65"
+       y1="111"
+       x2="85"
+       y2="111"
+       style="stroke:#000000;stroke-width:3px"
+       id="line4123" />
+    <line
+       x1="429"
+       y1="82"
+       x2="429"
+       y2="97"
+       style="stroke:#000000;stroke-width:3px"
+       id="line4125" />
+    <line
+       x1="434"
+       y1="82"
+       x2="434"
+       y2="97"
+       style="stroke:#000000;stroke-width:3px"
+       id="line4127" />
+    <line
+       x1="465"
+       y1="111"
+       x2="445"
+       y2="111"
+       style="stroke:#000000;stroke-width:3px"
+       id="line4129" />
+    <line
+       x1="402"
+       y1="111"
+       x2="422"
+       y2="111"
+       style="stroke:#000000;stroke-width:3px"
+       id="line4131" />
+    <line
+       x1="432"
+       y1="141"
+       x2="432"
+       y2="126"
+       style="stroke:#000000;stroke-width:3px"
+       id="line4133" />
+    <line
+       x1="356"
+       y1="111"
+       x2="375"
+       y2="111"
+       style="stroke:#000000;stroke-width:3px"
+       id="line4135" />
+    <line
+       id="line3619-7"
+       style="stroke:#000000;stroke-width:1.95353162px"
+       y2="173.04059"
+       x2="491.66821"
+       y1="173.04059"
+       x1="506.71738" />
+    <line
+       x1="499.19281"
+       y1="165.51601"
+       x2="499.19281"
+       y2="180.56517"
+       style="stroke:#000000;stroke-width:1.95353162px"
+       id="line3621-7" />
+    <g
+       id="g4212-4"
+       transform="matrix(0.76076212,0,0,0.76076212,283.09613,3.9148576)">
+      <line
+         id="line4214-4"
+         style="stroke:#000000;stroke-width:2.56786132px"
+         y2="83"
+         x2="320.599"
+         y1="83"
+         x1="340.38071" />
+      <line
+         x1="330.48987"
+         y1="73.109146"
+         x2="330.48987"
+         y2="92.890854"
+         style="stroke:#000000;stroke-width:2.56786132px"
+         id="line4216-9" />
+    </g>
+    <line
+       x1="452.2283"
+       y1="145.90498"
+       x2="441.71082"
+       y2="145.90498"
+       style="stroke:#000000;stroke-width:1.63312864px"
+       id="line4220" />
+    <line
+       id="line4222-9"
+       style="stroke:#000000;stroke-width:1.66794086px"
+       y2="97.265686"
+       x2="486.79559"
+       y1="97.265686"
+       x1="497.76624" />
+    <g
+       transform="matrix(0.46699461,0,0,-0.46699461,231.28939,122.50379)"
+       id="g2852-7"
+       style="fill:#000000">
+      <g
+         id="g2820-3">
+        <path
+           d="m 186.42,21.953 -35.055,0 c 0,2.9489 -4.9406,14.604 -4.9406,14.604 l 39.995,-14.604"
+           id="path35-8-8"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 161.79,26.142 0,-4.173 -161.79,0 0,4.173 161.79,0 z"
+           id="text2961-3"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(-1,0,0,-1,186.94283,34.990078)"
+         id="g2820-1-3">
+        <path
+           d="m 186.42,21.953 -35.055,0 c 0,2.9489 -4.9406,14.604 -4.9406,14.604 l 39.995,-14.604"
+           id="path35-8-9-1"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 161.79,26.142 0,-4.173 -161.79,0 0,4.173 161.79,0 z"
+           id="text2961-4-6"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(0.92299942,0,0,0.92299942,256.36386,-49.42932)"
+     id="g6131">
+    <defs
+       id="defs6133">
+      <path
+         id="Atom-R"
+         transform="scale(0.03,-0.03)"
+         d="m 493,125 c 0,54 2,46 2,77 0,61 -28,87 -93,87 l -172,0 0,-289 -150,0 0,729 391,0 c 157,0 196,-116 196,-197 0,-89 -41,-148 -123,-180 93,-40 97,-50 101,-265 0,-32 9,-47 32,-60 L 677,0 516,0 c -19,35 -23,57 -23,125 z m 24,386 c 0,81 -43,93 -106,93 l -181,0 0,-190 181,0 c 62,0 106,12 106,97 z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="Atom-O"
+         transform="scale(0.03,-0.03)"
+         d="M 40,359 C 40,581 178,741 390,741 601,741 742,586 742,354 742,145 610,-23 391,-23 177,-23 40,137 40,359 Z M 391,613 C 270,613 190,512 190,359 c 0,-153 80,-254 201,-254 120,0 201,101 201,250 0,158 -78,258 -201,258 z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="Atom-H"
+         transform="scale(0.03,-0.03)"
+         d="m 519,331 -289,0 0,-331 -150,0 0,729 150,0 0,-273 288,0 0,273 151,0 0,-729 -150,0 0,331 z"
+         inkscape:connector-curvature="0" />
+    </defs>
+    <use
+       xlink:href="#Atom-R"
+       x="-20.16"
+       y="197.94"
+       id="use6138"
+       width="151"
+       height="111" />
+    <use
+       xlink:href="#Atom-O"
+       x="24.870001"
+       y="197.46001"
+       id="use6140"
+       width="151"
+       height="111" />
+    <use
+       xlink:href="#Atom-H"
+       x="47.130001"
+       y="197.46001"
+       id="use6142"
+       width="151"
+       height="111" />
+    <line
+       x1="24"
+       y1="186"
+       x2="4"
+       y2="186"
+       style="stroke:#000000;stroke-width:3px"
+       id="line6144" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:bold;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="15.321037"
+     y="122.95572"
+     id="text8030"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan8032"
+       x="15.321037"
+       y="122.95572">Hydroxyl</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text8034"
+     y="220.95572"
+     x="15.321037"
+     style="font-style:normal;font-weight:bold;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="220.95572"
+       x="15.321037"
+       id="tspan8036"
+       sodipodi:role="line">Carbonyl</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:bold;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="15.321037"
+     y="340.95572"
+     id="text8038"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan8040"
+       x="15.321037"
+       y="340.95572">Carboxyl</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text8042"
+     y="442.95569"
+     x="15.321037"
+     style="font-style:normal;font-weight:bold;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="442.95569"
+       x="15.321037"
+       id="tspan8044"
+       sodipodi:role="line">Amino</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:bold;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="15.321037"
+     y="550.95569"
+     id="text8046"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan8048"
+       x="15.321037"
+       y="550.95569">Sulfhydryl</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text8050"
+     y="632.95569"
+     x="13.321037"
+     style="font-style:normal;font-weight:bold;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="632.95569"
+       x="13.321037"
+       id="tspan8052"
+       sodipodi:role="line">Phosphate</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:bold;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="63.115692"
+     y="25.745392"
+     id="text8054"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan8056"
+       x="63.115692"
+       y="25.745392"
+       style="font-size:20px">Group</tspan><tspan
+       sodipodi:role="line"
+       x="63.115692"
+       y="50.745392"
+       id="tspan8058"
+       style="font-size:20px">Name</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text8060"
+     y="35.745392"
+     x="285.11569"
+     style="font-style:normal;font-weight:bold;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       style="font-size:20px"
+       id="tspan8064"
+       y="35.745392"
+       x="285.11569"
+       sodipodi:role="line">Structure</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:bold;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="517.11572"
+     y="25.745392"
+     id="text8068"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       x="517.11572"
+       y="25.745392"
+       id="tspan8070"
+       style="font-size:20px">Compound</tspan><tspan
+       sodipodi:role="line"
+       x="517.11572"
+       y="50.745392"
+       style="font-size:20px"
+       id="tspan8072">Name</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:bold;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="616.00366"
+     y="37.546127"
+     id="text8074"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan8076"
+       x="616.00366"
+       y="37.546127"
+       style="font-size:20px">Property</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="496.69739"
+     y="121.61255"
+     id="text8084"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan8086"
+       x="496.69739"
+       y="121.61255">alcohol</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:bold;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="447.09595"
+     y="199.19189"
+     id="text8088"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan8090"
+       x="447.09595"
+       y="199.19189"
+       style="font-weight:normal;font-size:18px;-inkscape-font-specification:Sans">Aldehyde (R<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan4596">1</tspan>=H)</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text8092"
+     y="241.19189"
+     x="459.09595"
+     style="font-style:normal;font-weight:bold;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       style="font-weight:normal;font-size:18px;-inkscape-font-specification:Sans"
+       y="241.19189"
+       x="459.09595"
+       id="tspan8094"
+       sodipodi:role="line">Ketone (R<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan4598">1</tspan>=C)</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text8096"
+     y="333.61255"
+     x="496.69739"
+     style="font-style:normal;font-weight:normal;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="333.61255"
+       x="496.69739"
+       id="tspan8098"
+       sodipodi:role="line">acid</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="496.69739"
+     y="435.61255"
+     id="text8100"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan8102"
+       x="496.69739"
+       y="435.61255">amine</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text8104"
+     y="541.61255"
+     x="496.69739"
+     style="font-style:normal;font-weight:normal;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="541.61255"
+       x="496.69739"
+       id="tspan8106"
+       sodipodi:role="line">thiol</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="632.69739"
+     y="119.61255"
+     id="text8116"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan8118"
+       x="632.69739"
+       y="119.61255">polar</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text8120"
+     y="221.61255"
+     x="632.69739"
+     style="font-style:normal;font-weight:normal;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="221.61255"
+       x="632.69739"
+       id="tspan8122"
+       sodipodi:role="line">polar</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="632.69739"
+     y="331.61255"
+     id="text8124"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan8126"
+       x="632.69739"
+       y="331.61255">polar</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text8128"
+     y="437.61255"
+     x="632.69739"
+     style="font-style:normal;font-weight:normal;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="437.61255"
+       x="632.69739"
+       id="tspan8130"
+       sodipodi:role="line">polar</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text8132"
+     y="355.61255"
+     x="632.69739"
+     style="font-style:normal;font-weight:normal;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="355.61255"
+       x="632.69739"
+       id="tspan8134"
+       sodipodi:role="line">acidic</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="632.69739"
+     y="459.61255"
+     id="text8136"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan8138"
+       x="632.69739"
+       y="459.61255">basic</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="632.69739"
+     y="539.61255"
+     id="text8140"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan8142"
+       x="632.69739"
+       y="539.61255">polar</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text8144"
+     y="625.61255"
+     x="632.69739"
+     style="font-style:normal;font-weight:normal;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="625.61255"
+       x="632.69739"
+       id="tspan8146"
+       sodipodi:role="line">polar</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="632.69739"
+     y="655.61255"
+     id="text8148"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan8150"
+       x="632.69739"
+       y="655.61255">acidic</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="316.35318"
+     y="245.73672"
+     id="text4586"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4588"
+       x="316.35318"
+       y="245.73672"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Sans;-inkscape-font-specification:'Sans Bold'">R<tspan
+   style="font-size:64.99999762%;baseline-shift:sub;-inkscape-font-specification:'Sans Bold';font-family:Sans;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan4590">1</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="256.52191"
+     y="246.08382"
+     id="text4592"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4594"
+       x="256.52191"
+       y="246.08382"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Sans;-inkscape-font-specification:'Sans Bold'">R</tspan></text>
 </svg>
