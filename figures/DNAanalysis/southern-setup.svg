@@ -42,9 +42,9 @@
    inkscape:window-height="1028"
    id="namedview38"
    showgrid="false"
-   inkscape:zoom="0.47552276"
-   inkscape:cx="-10.658716"
-   inkscape:cy="-160.99236"
+   inkscape:zoom="0.95104552"
+   inkscape:cx="100.00135"
+   inkscape:cy="202.96043"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
@@ -175,12 +175,12 @@
        y="121.88094"
        x="178.74161">Transfer Buffer</tspan></text>
 <text
-     style="font-style:normal;font-weight:normal;font-size:20px;font-family:'Bitstream Vera Sans';fill:#f9ffed;fill-opacity:0.92941176;stroke:none"
+     style="font-style:normal;font-weight:normal;font-size:20px;font-family:'Bitstream Vera Sans';fill:#ffffff;fill-opacity:0.92941177;stroke:none;"
      xml:space="preserve"
      id="text5343"
      y="89.661011"
      x="54.420486"><tspan
-       style="font-size:12px;fill:#f9ffed;fill-opacity:0.92941176;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:12px;fill:#ffffff;fill-opacity:0.92941177;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        id="tspan5345"
        y="89.661011"
        x="54.420486">Agarose Gel</tspan></text>
@@ -220,12 +220,12 @@
      width="78.067993"
      id="rect4895"
      style="opacity:0.98999999;fill:#f9fff9;fill-opacity:0.91764706;stroke:none;stroke-width:1.39999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /><text
-     style="font-style:normal;font-weight:normal;font-size:12px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-weight:normal;font-size:12px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;"
      xml:space="preserve"
      id="text5351"
      y="59.211868"
      x="48.429779"><tspan
-       style="fill:#666666"
+       style="fill:#000000;fill-opacity:1;"
        id="tspan5353"
        y="59.211868"
        x="48.429779">Paper Towels</tspan></text>
