@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 595.00001 796.00001"
+   height="796"
+   width="595">
+  <title
+     id="title11485">Glycolysis</title>
+  <defs
+     id="defs4">
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9088"
+       style="overflow:visible">
+      <path
+         id="path9090"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7984"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path7986" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7480"
+       style="overflow:visible">
+      <path
+         id="path7482"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7348"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path7350" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6400"
+       style="overflow:visible">
+      <path
+         id="path6402"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5519"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5521" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4811"
+       style="overflow:visible">
+      <path
+         id="path4813"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4524" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-3"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4524-5" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9088-2"
+       style="overflow:visible">
+      <path
+         id="path9090-9"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Glycolysis</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jeremy Seto</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>CC-BY-NC-SA</dc:title>
+          </cc:Agent>
+        </dc:rights>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-256.36216)"
+     id="layer1">
+    <g
+       transform="translate(-42.226407,78.99596)"
+       id="g11335">
+      <rect
+         style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11333"
+         width="593.96967"
+         height="794.78802"
+         x="42.426407"
+         y="178.37822" />
+      <g
+         id="g4431"
+         transform="translate(90,-26)">
+        <g
+           id="g4153">
+          <circle
+             style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.88499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="path4147"
+             cx="273.75134"
+             cy="240.19955"
+             r="21.213203" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="271.73102"
+             y="248.21986"
+             id="text4149"><tspan
+               id="tspan4151"
+               x="271.73102"
+               y="248.21986"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1">C</tspan></text>
+        </g>
+        <g
+           transform="translate(38,22)"
+           id="g4158">
+          <circle
+             r="21.213203"
+             cy="240.19955"
+             cx="273.75134"
+             id="circle4160"
+             style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.88499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text4162"
+             y="248.21986"
+             x="271.73102"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1"
+               y="248.21986"
+               x="271.73102"
+               id="tspan4164">C</tspan></text>
+        </g>
+        <g
+           transform="translate(-36.725884,22.18275)"
+           id="g4158-3">
+          <circle
+             r="21.213203"
+             cy="240.19955"
+             cx="273.75134"
+             id="circle4160-6"
+             style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.88499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text4162-7"
+             y="248.21986"
+             x="271.73102"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1"
+               y="248.21986"
+               x="271.73102"
+               id="tspan4164-5">C</tspan></text>
+        </g>
+        <g
+           id="g4190"
+           transform="translate(38,64)">
+          <circle
+             style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.88499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle4192"
+             cx="273.75134"
+             cy="240.19955"
+             r="21.213203" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="271.73102"
+             y="248.21986"
+             id="text4194"><tspan
+               id="tspan4196"
+               x="271.73102"
+               y="248.21986"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1">C</tspan></text>
+        </g>
+        <g
+           id="g4198"
+           transform="translate(-36.725884,64.18275)">
+          <circle
+             style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.88499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle4200"
+             cx="273.75134"
+             cy="240.19955"
+             r="21.213203" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="271.73102"
+             y="248.21986"
+             id="text4202"><tspan
+               id="tspan4204"
+               x="271.73102"
+               y="248.21986"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1">C</tspan></text>
+        </g>
+        <g
+           transform="translate(0,88)"
+           id="g4206">
+          <circle
+             r="21.213203"
+             cy="240.19955"
+             cx="273.75134"
+             id="circle4208"
+             style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.88499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text4210"
+             y="248.21986"
+             x="271.73102"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1"
+               y="248.21986"
+               x="271.73102"
+               id="tspan4212">C</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4397"
+         transform="translate(90,10)">
+        <g
+           id="g4331">
+          <g
+             transform="translate(-197.34014,341.39095)"
+             id="g4214">
+            <circle
+               r="21.213203"
+               cy="240.19955"
+               cx="273.75134"
+               id="circle4216"
+               style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.88499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <text
+               id="text4218"
+               y="248.21986"
+               x="271.73102"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1"
+                 y="248.21986"
+                 x="271.73102"
+                 id="tspan4220">C</tspan></text>
+          </g>
+          <g
+             id="g4222"
+             transform="translate(-153.34014,341.39095)">
+            <circle
+               style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.88499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle4224"
+               cx="273.75134"
+               cy="240.19955"
+               r="21.213203" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               x="271.73102"
+               y="248.21986"
+               id="text4226"><tspan
+                 id="tspan4228"
+                 x="271.73102"
+                 y="248.21986"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1">C</tspan></text>
+          </g>
+          <g
+             transform="translate(-111.34014,341.39095)"
+             id="g4230">
+            <circle
+               r="21.213203"
+               cy="240.19955"
+               cx="273.75134"
+               id="circle4232"
+               style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.88499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <text
+               id="text4234"
+               y="248.21986"
+               x="271.73102"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1"
+                 y="248.21986"
+                 x="271.73102"
+                 id="tspan4236">C</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g4253">
+          <path
+             style="opacity:0.98999999;fill:#ffff00;fill-opacity:1;stroke:#ffbd00;stroke-width:1.49155903;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="path4249"
+             d="m 217.75168,598.32425 -3.51944,7.16901 -6.02641,-5.24056 -6.44791,4.71228 -2.90072,-7.4409 -7.89925,1.17602 0.8895,-7.93662 -7.54096,-2.62965 4.47595,-6.61416 -5.45513,-5.83289 7.037,-3.77647 -2.11959,-7.6999 7.98597,-0.0736 1.70151,-7.80295 7.10545,3.64607 5.13283,-6.11844 4.59715,6.5305 7.38827,-3.03226 1.0357,7.91886 7.95115,0.74857 -2.76301,7.49312 6.69252,4.35791 -5.92876,5.3508 3.90071,6.9689 -7.73629,1.98266 0.2153,7.98341 z" />
+          <text
+             id="text4242"
+             y="589.61084"
+             x="210.39088"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000;fill-opacity:1"
+               y="589.61084"
+               x="210.39088"
+               id="tspan4244">P<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan4251">i</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4278"
+         transform="translate(354,10)">
+        <g
+           transform="translate(-197.34014,341.39095)"
+           id="g4280">
+          <circle
+             r="21.213203"
+             cy="240.19955"
+             cx="273.75134"
+             id="circle4282"
+             style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.88499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text4284"
+             y="248.21986"
+             x="271.73102"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1"
+               y="248.21986"
+               x="271.73102"
+               id="tspan4286">C</tspan></text>
+        </g>
+        <g
+           id="g4288"
+           transform="translate(-153.34014,341.39095)">
+          <circle
+             style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.88499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle4290"
+             cx="273.75134"
+             cy="240.19955"
+             r="21.213203" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="271.73102"
+             y="248.21986"
+             id="text4292"><tspan
+               id="tspan4294"
+               x="271.73102"
+               y="248.21986"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1">C</tspan></text>
+        </g>
+        <g
+           transform="translate(-111.34014,341.39095)"
+           id="g4296">
+          <circle
+             r="21.213203"
+             cy="240.19955"
+             cx="273.75134"
+             id="circle4298"
+             style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.88499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text4300"
+             y="248.21986"
+             x="271.73102"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1"
+               y="248.21986"
+               x="271.73102"
+               id="tspan4302">C</tspan></text>
+        </g>
+        <g
+           id="g4304">
+          <path
+             d="m 217.75168,598.32425 -3.51944,7.16901 -6.02641,-5.24056 -6.44791,4.71228 -2.90072,-7.4409 -7.89925,1.17602 0.8895,-7.93662 -7.54096,-2.62965 4.47595,-6.61416 -5.45513,-5.83289 7.037,-3.77647 -2.11959,-7.6999 7.98597,-0.0736 1.70151,-7.80295 7.10545,3.64607 5.13283,-6.11844 4.59715,6.5305 7.38827,-3.03226 1.0357,7.91886 7.95115,0.74857 -2.76301,7.49312 6.69252,4.35791 -5.92876,5.3508 3.90071,6.9689 -7.73629,1.98266 0.2153,7.98341 z"
+             id="path4306"
+             style="opacity:0.98999999;fill:#ffff00;fill-opacity:1;stroke:#ffbd00;stroke-width:1.49155903;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="210.39088"
+             y="589.61084"
+             id="text4308"><tspan
+               id="tspan4310"
+               x="210.39088"
+               y="589.61084"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000;fill-opacity:1">P<tspan
+   id="tspan4312"
+   style="font-size:64.99999762%;baseline-shift:sub">i</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4345"
+         transform="translate(112,340)">
+        <g
+           transform="translate(-197.34014,341.39095)"
+           id="g4347">
+          <circle
+             r="21.213203"
+             cy="240.19955"
+             cx="273.75134"
+             id="circle4349"
+             style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.88499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text4351"
+             y="248.21986"
+             x="271.73102"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1"
+               y="248.21986"
+               x="271.73102"
+               id="tspan4353">C</tspan></text>
+        </g>
+        <g
+           id="g4355"
+           transform="translate(-153.34014,341.39095)">
+          <circle
+             style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.88499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle4357"
+             cx="273.75134"
+             cy="240.19955"
+             r="21.213203" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="271.73102"
+             y="248.21986"
+             id="text4359"><tspan
+               id="tspan4361"
+               x="271.73102"
+               y="248.21986"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1">C</tspan></text>
+        </g>
+        <g
+           transform="translate(-111.34014,341.39095)"
+           id="g4363">
+          <circle
+             r="21.213203"
+             cy="240.19955"
+             cx="273.75134"
+             id="circle4365"
+             style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.88499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text4367"
+             y="248.21986"
+             x="271.73102"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1"
+               y="248.21986"
+               x="271.73102"
+               id="tspan4369">C</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="translate(376,340)"
+         id="g4371">
+        <g
+           id="g4373"
+           transform="translate(-197.34014,341.39095)">
+          <circle
+             style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.88499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle4375"
+             cx="273.75134"
+             cy="240.19955"
+             r="21.213203" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="271.73102"
+             y="248.21986"
+             id="text4377"><tspan
+               id="tspan4379"
+               x="271.73102"
+               y="248.21986"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1">C</tspan></text>
+        </g>
+        <g
+           transform="translate(-153.34014,341.39095)"
+           id="g4381">
+          <circle
+             r="21.213203"
+             cy="240.19955"
+             cx="273.75134"
+             id="circle4383"
+             style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.88499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text4385"
+             y="248.21986"
+             x="271.73102"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1"
+               y="248.21986"
+               x="271.73102"
+               id="tspan4387">C</tspan></text>
+        </g>
+        <g
+           id="g4389"
+           transform="translate(-111.34014,341.39095)">
+          <circle
+             style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.88499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle4391"
+             cx="273.75134"
+             cy="240.19955"
+             r="21.213203" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="271.73102"
+             y="248.21986"
+             id="text4393"><tspan
+               id="tspan4395"
+               x="271.73102"
+               y="248.21986"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1">C</tspan></text>
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:86.00000143%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="363.00891"
+         y="472.79077"
+         id="text4417"><tspan
+           id="tspan4419"
+           x="363.00891"
+           y="472.79077"
+           style="font-size:22.5px;line-height:86.00000143%">fructose</tspan><tspan
+           x="363.00891"
+           y="492.14078"
+           id="tspan4421"
+           style="font-size:22.5px;line-height:86.00000143%">diphosphate</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="266.02826"
+         y="364.34732"
+         id="text4423"><tspan
+           id="tspan4425"
+           x="266.02826"
+           y="364.34732">2 ATP</tspan></text>
+      <text
+         id="text4427"
+         y="422.34732"
+         x="266.02826"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="422.34732"
+           x="266.02826"
+           id="tspan4429">2 ADP</tspan></text>
+      <text
+         id="text4457"
+         y="344.77014"
+         x="366.79068"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="344.77014"
+           x="366.79068"
+           id="tspan4459">glucose</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="499.48941"
+         y="636.19867"
+         id="text4461"><tspan
+           id="tspan4463"
+           x="499.48941"
+           y="636.19867"
+           style="font-size:17.5px">glyceraldehyde 3-phosphate</tspan></text>
+      <text
+         id="text4465"
+         y="636.19867"
+         x="235.4894"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:17.5px"
+           y="636.19867"
+           x="235.4894"
+           id="tspan4467">glyceraldehyde 3-phosphate</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="235.4894"
+         y="636.19867"
+         id="text4469"><tspan
+           id="tspan4471"
+           x="235.4894"
+           y="636.19867"
+           style="font-size:17.5px">glyceraldehyde 3-phosphate</tspan></text>
+      <text
+         id="text4473"
+         y="962.19867"
+         x="231.11641"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:17.5px"
+           y="962.19867"
+           x="231.11641"
+           id="tspan4475">pyruvate</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="495.11639"
+         y="962.19867"
+         id="text4477"><tspan
+           id="tspan4479"
+           x="495.11639"
+           y="962.19867"
+           style="font-size:17.5px">pyruvate</tspan></text>
+      <text
+         id="text4481"
+         y="848.84735"
+         x="140.02826"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="848.84735"
+           x="140.02826"
+           id="tspan4483">2 ATP</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="140.02826"
+         y="792.84735"
+         id="text4485"><tspan
+           id="tspan4487"
+           x="140.02826"
+           y="792.84735">2 ADP</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="588.02826"
+         y="848.84735"
+         id="text4489"><tspan
+           id="tspan4491"
+           x="588.02826"
+           y="848.84735">2 ATP</tspan></text>
+      <text
+         id="text4493"
+         y="792.84735"
+         x="588.02826"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="792.84735"
+           x="588.02826"
+           id="tspan4495">2 ADP</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+         d="m 363,350.3622 0,92.5"
+         id="path4497" />
+      <path
+         id="path4809"
+         d="m 378.50825,497.91664 74.013,55.48267"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4811)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5519)"
+         d="m 331.87215,497.91664 -74.013,55.48267"
+         id="path5517" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.85444689;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-3)"
+         d="m 230.83759,646.71193 0,239.14636"
+         id="path4497-6" />
+      <path
+         id="path6398"
+         d="m 497.05663,646.71193 0,239.14636"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.85444689;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6400)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7348)"
+         d="m 175.65673,665.81327 c 0,0 4.59593,0.0425 13.76478,0.48424 9.16885,0.44174 14.78562,1.78274 20.20228,4.37975 5.41666,2.59701 9.18541,5.59549 13.05096,9.45193 3.86555,3.85644 6.70288,8.57084 6.88172,14.5997 0.16106,5.4297 -1.78226,9.80748 -4.8705,13.58277 -3.08825,3.77529 -7.11339,7.27764 -11.74006,9.96779 -6.08728,3.53941 -35.06676,6.01291 -35.06676,6.01291"
+         id="path7340" />
+      <path
+         id="path7478"
+         d="m 180.0939,782.41713 c 0,0 20.94656,-0.68434 29.52989,4.50968 8.58333,5.19402 19.57501,11.99391 19.93268,24.05163 0.32213,10.85939 -7.77328,17.51115 -16.61056,23.55055 -8.83729,6.03941 -35.06675,6.01291 -35.06675,6.01291"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7480)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7984)"
+         d="m 547.77222,782.42808 c 0,0 -21.28534,-0.68465 -30.00749,4.51174 -8.72216,5.1964 -19.89161,11.99939 -20.25506,24.06262 -0.32734,10.86436 7.899,17.51916 16.87921,23.56132 8.98022,6.04216 35.6339,6.01566 35.6339,6.01566"
+         id="path7982" />
+      <path
+         id="path9086"
+         d="m 551.75069,666.47989 c 0,0 -25.26381,-1.03913 -33.98596,4.15727 -8.72216,5.19639 -19.89161,11.99938 -20.25506,24.06262 -0.32734,10.86435 7.899,17.51915 16.87921,23.56131 8.98022,6.04217 35.6339,6.01566 35.6339,6.01566"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9088)" />
+      <path
+         id="path9086-1"
+         d="m 298.91114,355.68442 c 0,0 31.65299,-0.68879 41.14649,4.53903 9.49349,5.22782 21.65071,12.07196 22.04631,24.20815 0.35628,10.93007 -8.59755,17.62512 -18.37193,23.70382 -9.77438,6.07871 -38.78518,6.05204 -38.78518,6.05204"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9088-2)" />
+      <text
+         id="text9835"
+         y="676.84735"
+         x="138.02826"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="676.84735"
+           x="138.02826"
+           id="tspan9837">NAD<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan9839">+</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="138.02826"
+         y="732.84735"
+         id="text9841"><tspan
+           id="tspan9843"
+           x="138.02826"
+           y="732.84735">NADH<tspan
+   id="tspan9845"
+   style="font-size:64.99999762%;baseline-shift:super" /></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="594.02826"
+         y="676.84735"
+         id="text9847"><tspan
+           id="tspan9849"
+           x="594.02826"
+           y="676.84735">NAD<tspan
+   id="tspan9851"
+   style="font-size:64.99999762%;baseline-shift:super">+</tspan></tspan></text>
+      <text
+         id="text9853"
+         y="732.84735"
+         x="594.02826"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="732.84735"
+           x="594.02826"
+           id="tspan9855">NADH<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan9857" /></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-367.38101"
+         y="85.595947"
+         id="text10597"
+         transform="matrix(0,-1,1,0,0,0)"><tspan
+           id="tspan10599"
+           x="-367.38101"
+           y="85.595947"
+           style="font-size:35px">Energy Investment</tspan></text>
+      <text
+         transform="matrix(0,-1,1,0,0,0)"
+         id="text10601"
+         y="86.493164"
+         x="-773.38098"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:35px"
+           y="86.493164"
+           x="-773.38098"
+           id="tspan10603">Energy Payoff</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-366.06265"
+         y="121.83582"
+         id="text10605"
+         transform="matrix(0,-1,1,0,0,0)"><tspan
+           id="tspan10607"
+           x="-366.06265"
+           y="121.83582">(-2 ATP)</tspan></text>
+      <path
+         style="opacity:0.98999999;fill:#ffff00;fill-opacity:1;stroke:#ffbd00;stroke-width:3.18601322;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path10987"
+         d="m 422.60239,832.10415 -28.06269,0.83648 -17.37575,22.05216 -22.03495,-17.39756 -27.48545,5.72401 -5.69681,-27.4911 -24.7344,-13.28245 13.30693,-24.72125 -10.40986,-26.07391 26.08421,-10.38405 8.78558,-26.6651 26.6564,8.81196 23.87014,-14.77939 14.75576,23.88476 27.7856,4.02176 -4.04925,27.78161 18.69986,20.94109 -20.95958,18.67913 z"
+         transform="matrix(1.0416518,-0.33153315,0.33153315,1.0416518,-278.58966,82.740486)" />
+      <text
+         id="text10609"
+         y="764.82874"
+         x="302.75394"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.40555954px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="764.82874"
+           x="302.75394"
+           id="tspan10611"
+           style="text-align:start;text-anchor:start">+4 ATP</tspan><tspan
+           y="802.83569"
+           x="302.75394"
+           id="tspan10625"
+           style="text-align:start;text-anchor:start">+2NADH</tspan></text>
+    </g>
+  </g>
+</svg>
