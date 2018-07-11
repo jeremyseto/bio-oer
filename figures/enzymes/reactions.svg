@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="fill:none;stroke:none;stroke-linecap:square;stroke-miterlimit:10"
+   height="609"
+   width="1367"
+   id="svg2"
+   stroke-miterlimit="10"
+   viewBox="0 0 1367 609"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="reactions.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     id="namedview12973"
+     showgrid="false"
+     inkscape:zoom="0.77249451"
+     inkscape:cx="697.42595"
+     inkscape:cy="381.57605"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title9514">Energy and Reactions</title>
+  <metadata
+     id="metadata89">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Energy and Reactions</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jeremy Seto</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2018-06-29</dc:date>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>CC-BY-NC-SA</dc:title>
+          </cc:Agent>
+        </dc:rights>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs87">
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4930"
+       style="overflow:visible">
+      <path
+         id="path4932"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#455042;fill-opacity:1;fill-rule:evenodd;stroke:#44533f;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4890"
+       style="overflow:visible">
+      <path
+         id="path4892"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#455042;fill-opacity:1;fill-rule:evenodd;stroke:#44533f;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#050000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4412"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4738"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#455042;fill-opacity:1;fill-rule:evenodd;stroke:#44533f;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4740"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#455042;fill-opacity:1;fill-rule:evenodd;stroke:#44533f;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4397"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4394"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <clipPath
+     id="p.0">
+    <path
+       style="clip-rule:nonzero"
+       id="path5"
+       d="M 0,0 956,0 956,600 0,600 0,0 Z"
+       inkscape:connector-curvature="0" />
+  </clipPath>
+  <g
+     id="g13646"
+     transform="translate(0,-50)">
+    <rect
+       y="92.28994"
+       x="683.70001"
+       height="565.01001"
+       width="681.03882"
+       id="rect9494"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9492"
+       width="681.03882"
+       height="565.01001"
+       x="1.7000033"
+       y="92.28994" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#c10000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:18, 3;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 67.9121,324.38514 603.47606,0"
+       id="path4303"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4305"
+       d="m 67.9121,552.38514 605.36784,0"
+       style="fill:none;fill-rule:evenodd;stroke:#c10000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:18, 3;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.0999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 69.87362,325.39654 177.92545,0.63059 c 0,0 6.10335,-0.86228 9.10028,-2.83766 2.99694,-1.97539 4.18034,-4.20401 5.33272,-7.93917 8.17718,-26.50428 13.24424,-51.06623 19.06054,-67.77185 5.69605,-16.36024 21.33153,-64.24608 50.26375,-63.61549 28.93221,0.6306 41.2133,62.37486 43.55674,71.2274 12.43319,46.9675 38.72253,215.26642 55.0441,281.66066 1.21262,4.93278 4.97895,8.53145 5.48067,9.16094 1.26701,1.58966 3.79671,4.97017 17.32584,5.57545 65.8024,2.94394 221.54424,1.42403 221.54424,1.42403"
+       id="path4295"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 66.52544,160.86412 0,430.06339 610.41256,0"
+       id="path4297"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4307"
+       d="m 747.9121,324.38514 605.3678,0"
+       style="fill:none;fill-rule:evenodd;stroke:#c10000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:18, 3;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4299"
+       d="m 1354.5113,325.39654 -124.418,0.63059 c 0,0 -6.1033,-0.86228 -9.1003,-2.83766 -2.9969,-1.97539 -4.1803,-4.20401 -5.3327,-7.93917 -8.1771,-26.50428 -13.2442,-51.06623 -19.0605,-67.77185 -5.696,-16.36024 -21.3315,-64.24608 -50.2637,-63.61549 -28.9323,0.6306 -41.2134,62.37486 -43.5568,71.2274 -12.4332,46.9675 -38.7225,215.26642 -55.0441,281.66066 -1.2126,4.93278 -3.7527,9.20029 -4.2544,9.82978 -1.2671,1.58966 -5.023,4.30133 -18.5521,4.90661 -65.80236,2.94394 -275.05168,1.42403 -275.05168,1.42403"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.0999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#c10000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:18, 3;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 747.9121,552.38514 604.7372,0"
+       id="path4309"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4301"
+       d="m 746.52544,160.86412 0,430.06339 610.41256,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#c10000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="132.86989"
+       y="316.20996"
+       id="text4311"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4313"
+         x="132.86989"
+         y="316.20996"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold'">Reactants</tspan></text>
+    <text
+       id="text4315"
+       y="548.20996"
+       x="558.86987"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#c10000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       sodipodi:linespacing="125%"><tspan
+         y="548.20996"
+         x="558.86987"
+         id="tspan4317"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold'">Products</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#c10000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="820.86987"
+       y="548.20996"
+       id="text4319"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4321"
+         x="820.86987"
+         y="548.20996"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold'">Reactants</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#c10000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1286.87"
+       y="316.72632"
+       id="text4323"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold'"
+         id="tspan4325"
+         x="1286.87"
+         y="316.72632">Products</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="370.45828"
+       y="627.71375"
+       id="text4327"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4329"
+         x="370.45828"
+         y="627.71375"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold'">Reaction</tspan></text>
+    <text
+       id="text4331"
+       y="45.959343"
+       x="-378.70245"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold'"
+         y="45.959343"
+         x="-378.70245"
+         id="tspan4333">Energy</tspan></text>
+    <text
+       id="text4335"
+       y="627.71375"
+       x="1054.4583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold'"
+         y="627.71375"
+         x="1054.4583"
+         id="tspan4337">Reaction</tspan></text>
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-378.70245"
+       y="729.95935"
+       id="text4339"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4341"
+         x="-378.70245"
+         y="729.95935"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold'">Energy</tspan></text>
+    <g
+       id="g4357"
+       style="stroke-width:3;stroke-miterlimit:10;stroke-dasharray:none"
+       transform="matrix(0.9937637,0,0,0.9937637,107.78095,103.21024)">
+      <path
+         id="path4351"
+         d="m 112.24529,82.914974 36.5743,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="m 112.24529,222.91497 36.5743,0"
+         id="path4353"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path4355"
+         d="m 131.09328,222.77239 0,-140.011197"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="254.37956"
+       y="262.54965"
+       id="text4362"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4364"
+         x="254.37956"
+         y="262.54965"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#df0000;fill-opacity:1">E<tspan
+   style="font-size:64.99999762%;baseline-shift:sub;fill:#df0000;fill-opacity:1"
+   id="tspan4366">A</tspan></tspan></text>
+    <g
+       id="g4382"
+       transform="translate(154.96691,102.70251)">
+      <g
+         id="g4368"
+         style="stroke-width:3;stroke-miterlimit:10;stroke-dasharray:none"
+         transform="matrix(0.9937637,0,0,0.9937637,732.81404,0.5077283)">
+        <path
+           id="path4370"
+           d="m 112.24529,82.914974 36.5743,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 112.24529,450.33312 36.5743,0"
+           id="path4372"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4374"
+           d="m 131.09328,449.30629 0,-366.545097"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <text
+       id="text4376"
+       y="373.95255"
+       x="1036.3795"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#df0000;fill-opacity:1"
+         y="373.95255"
+         x="1036.3795"
+         id="tspan4378">E<tspan
+   id="tspan4380"
+   style="font-size:64.99999762%;baseline-shift:sub;fill:#df0000;fill-opacity:1">A</tspan></tspan></text>
+    <path
+       style="fill:#455042;fill-opacity:1;fill-rule:evenodd;stroke:#44533f;stroke-width:2.97111058;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:11.8844425, 5.94222125;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 452.45198,330.67618 0,215.17576"
+       id="path4388"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4888"
+       d="m 1162.452,330.67618 0,215.17576"
+       style="fill:#455042;fill-opacity:1;fill-rule:evenodd;stroke:#44533f;stroke-width:2.97111058;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:11.8844425, 5.94222125;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.34312248px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-433.71622"
+       y="1187.9633"
+       id="text9476"
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan9478"
+         x="-433.71622"
+         y="1187.9633"
+         style="font-size:20.48909569px">Energy taken in</tspan></text>
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       id="text9480"
+       y="478.34973"
+       x="-435.71622"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.34312248px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:20.48909569px"
+         y="478.34973"
+         x="-435.71622"
+         id="tspan9482">Energy released</tspan></text>
+    <rect
+       y="52.223583"
+       x="683.70001"
+       height="89.543991"
+       width="681.66943"
+       id="rect9510"
+       style="opacity:1;fill:#359dff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#f65c2f;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9508"
+       width="681.66943"
+       height="89.543991"
+       x="1.7000033"
+       y="52.223583" />
+    <g
+       id="g9502"
+       transform="translate(200.96691,156.70251)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="169.49138"
+         y="-68.9888"
+         id="text4343"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan4345"
+           x="169.49138"
+           y="-68.9888"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold'">Exergonic Reaction</tspan></text>
+      <text
+         id="text9484"
+         y="-26.9888"
+         x="169.49138"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         sodipodi:linespacing="125%"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold'"
+           y="-26.9888"
+           x="169.49138"
+           id="tspan9486">Reaction is spontaneous</tspan></text>
+    </g>
+    <g
+       id="g9496"
+       transform="translate(200.96691,196.70251)">
+      <text
+         id="text4347"
+         y="-108.9888"
+         x="849.49139"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         sodipodi:linespacing="125%"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold'"
+           y="-108.9888"
+           x="849.49139"
+           id="tspan4349">Endergonic Reaction</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="849.00311"
+         y="-66.9888"
+         id="text9488"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan9490"
+           x="849.00311"
+           y="-66.9888"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold'">Reaction is not spontaneous</tspan></text>
+    </g>
+  </g>
+</svg>
