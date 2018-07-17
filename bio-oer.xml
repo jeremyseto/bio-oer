@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.9.5" created="2018-06-19 16:01" -->
+<!-- generator="WordPress/4.9.5" created="2018-07-17 11:39" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Biology OER</title>
 	<link>https://openlab.citytech.cuny.edu/bio-oer</link>
 	<description>Open Education Resources for General Biology I and Molecular &#38; Cell Biology</description>
-	<pubDate>Tue, 19 Jun 2018 16:01:18 +0000</pubDate>
+	<pubDate>Tue, 17 Jul 2018 11:39:22 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://openlab.citytech.cuny.edu/</wp:base_site_url>
@@ -1836,7 +1836,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1393</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1393</guid>
 		<description></description>
@@ -1894,7 +1894,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1394</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1394</guid>
 		<description></description>
@@ -1952,7 +1952,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1395</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1395</guid>
 		<description></description>
@@ -2134,7 +2134,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1396</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1396</guid>
 		<description></description>
@@ -2192,7 +2192,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1397</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1397</guid>
 		<description></description>
@@ -2250,7 +2250,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1398</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1398</guid>
 		<description></description>
@@ -2308,7 +2308,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1399</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1399</guid>
 		<description></description>
@@ -2366,7 +2366,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1400</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1400</guid>
 		<description></description>
@@ -2424,7 +2424,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1401</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1401</guid>
 		<description></description>
@@ -2482,7 +2482,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1402</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1402</guid>
 		<description></description>
@@ -2540,7 +2540,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1403</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1403</guid>
 		<description></description>
@@ -2598,7 +2598,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1404</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1404</guid>
 		<description></description>
@@ -2656,7 +2656,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1405</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1405</guid>
 		<description></description>
@@ -2714,7 +2714,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1406</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1406</guid>
 		<description></description>
@@ -2772,7 +2772,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1407</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1407</guid>
 		<description></description>
@@ -2830,7 +2830,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1408</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1408</guid>
 		<description></description>
@@ -2888,7 +2888,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1409</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1409</guid>
 		<description></description>
@@ -2946,7 +2946,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1410</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1410</guid>
 		<description></description>
@@ -3004,7 +3004,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1411</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1411</guid>
 		<description></description>
@@ -3062,7 +3062,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1412</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1412</guid>
 		<description></description>
@@ -3120,7 +3120,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1413</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1413</guid>
 		<description></description>
@@ -3178,7 +3178,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1414</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1414</guid>
 		<description></description>
@@ -3236,7 +3236,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1415</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1415</guid>
 		<description></description>
@@ -3294,7 +3294,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1416</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1416</guid>
 		<description></description>
@@ -3352,7 +3352,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1417</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1417</guid>
 		<description></description>
@@ -3410,7 +3410,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1418</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1418</guid>
 		<description></description>
@@ -3468,7 +3468,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1419</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1419</guid>
 		<description></description>
@@ -3526,7 +3526,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1420</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1420</guid>
 		<description></description>
@@ -3584,7 +3584,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1421</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1421</guid>
 		<description></description>
@@ -3642,7 +3642,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1422</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1422</guid>
 		<description></description>
@@ -3700,7 +3700,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1423</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1423</guid>
 		<description></description>
@@ -3758,7 +3758,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title>Exploring Beer&#039;s Law (virtual)</title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1424</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1424</guid>
 		<description></description>
@@ -3816,7 +3816,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1425</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1425</guid>
 		<description></description>
@@ -3874,7 +3874,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1426</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1426</guid>
 		<description></description>
@@ -3932,7 +3932,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1427</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1427</guid>
 		<description></description>
@@ -3990,7 +3990,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1428</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1428</guid>
 		<description></description>
@@ -4048,7 +4048,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1429</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1429</guid>
 		<description></description>
@@ -4106,7 +4106,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1430</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1430</guid>
 		<description></description>
@@ -4164,7 +4164,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1431</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1431</guid>
 		<description></description>
@@ -4222,7 +4222,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1432</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1432</guid>
 		<description></description>
@@ -4280,7 +4280,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1433</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1433</guid>
 		<description></description>
@@ -4338,7 +4338,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1434</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1434</guid>
 		<description></description>
@@ -4396,7 +4396,7 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1435</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1435</guid>
 		<description></description>
@@ -5506,91 +5506,9 @@ https://upload.wikimedia.org/wikipedia/commons/8/84/Agarose_Gel_Electrophoresis_
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Variable Number Tandem Repeats</title>
-		<link>https://openlab.citytech.cuny.edu/bio-oer/analyzing-dna/variable-number-tandem-repeats/</link>
-		<pubDate>Sun, 14 Jun 2015 18:52:22 +0000</pubDate>
-		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
-		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=65</guid>
-		<description></description>
-		<content:encoded><![CDATA[<h2>Polymorphisms</h2>
-<p class="western">The difference in nucleotide sequences between humans lies between 0.1-0.4%. That means that people are greater than 99% similar. But when you look around the room at your classmates, you can see that that small difference amounts to quite a bit of variation within our species. The bulk of these differences aren't even within the coding sequences of genes, but lie outside in regulatory regions that change the expression of those genes. Imagine if there were mutations to the coding sequences, this could be very deleterious to the well-being of the organism. We say that the coding sequences of genes that ultimately lead to proteins has a <b><span style="color: #ff0000">selective pressure</span> </b>to remain the same. The areas outside of the coding sequences have a reduced and sometimes non-existent selection pressure. These areas are allowed to mutate in sequence and even expand or contract. Areas of changes or differences are called <b><span style="color: #ff0000">polymorphic</span> </b>(many forms). If you were to read a repetitive set of sequences and count the repetition, you'd make mistakes and lose count. Likewise, DNA
-polymerase will make errors or stutter in areas of repetitiveness and produce polymorphic regions.</p>
-
-<h2>Tandem Repeats</h2>
-<p class="western">A type of polymorphism occurs due to these repeats expanding and contracting in non-coding regions. These regions are called variable number tandem repeats (<span style="color: #ff0000"><b>VNTRs</b></span>)
-or sometimes short tandem repeats (<span style="color: #ff0000"><b>STRs</b></span>). Any region or location on a chromosome is referred to as <b><span style="color: #ff0000">locus</span> </b>(loci for plural). Scientists use polymorphic loci that are known to
-contain VNTRs/STRs in order to differentiate people based on their DNA. This is often used in forensic science or in maternity/paternity cases. Any variation of a locus is referred to as an <span style="color: #ff0000"><b>allele</b></span>. In standard genetics, we often think of an allele as a variation of gene that would result in a difference in a physical manifestation of that gene. In the case of STRs, these alleles are simply a difference in number of repeats. That means the length of DNA within this locus is either longer or shorter and gives rise to many different alleles. VNTRs are referred to as minisatellites while STRs are called <span style="color: #ff0000"><strong>microsatellites</strong></span>.</p>
-
-<h2>CoDIS</h2>
-[caption id="" align="aligncenter" width="512"]<a title="By The Photographer [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://github.com/jeremyseto/bio-oer/blob/master/figures/DNAanalysis/DNAfingerprint.png?raw=true" target="new"><img src="https://github.com/jeremyseto/bio-oer/blob/master/figures/DNAanalysis/DNAfingerprint.png?raw=true" alt="Dna fingerprinting" width="512" /></a> <span style="font-size: small">DNA fingerprinting. Credit: <a title="User:Helixitta" href="https://commons.wikimedia.org/wiki/User:Helixitta">Helixitta</a>,<a title="User:The Photographer" href="https://commons.wikimedia.org/wiki/User:The_Photographer">The Photographer</a> and Jeremy Seto (CC-BY-SA 3.0)</span>[/caption]The FBI and local law enforcement agencies have developed a database called the  Combined DNA Index System (<a href="https://www.fbi.gov/about-us/lab/biometric-analysis/codis" target="new"><span style="color: #ff0000"><b>CoDIS</b></span></a>) that gathers data on a number of STRs. By establishing the number of repeats of a given locus, law enforcement officials can differentiate individuals based on the repeat length of these alleles. CoDIS uses a
-set of 13 loci that are tested together. As you would imagine, people are bound to have the same alleles of certain loci, especially if they were related. The use of 13 different loci makes it statistically improbable that 2 different people could be confused for each other. Think about this in terms of physical traits. As you increase the number of physical traits used to describe someone, you are less likely to confuse that person with someone else based on those combinations of traits. Using the CoDIS loci increases the stringency since there are many alleles for each locus. The thirteenth locus in CoDIS (called AMEL) discriminates between male and female.
-
-[caption id="attachment_76" align="alignnone" width="604"]<a href="https://github.com/jeremyseto/bio-oer/blob/master/figures/genetics/vntr/codis.png"><img class="wp-image-76 size-large" src="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/genetics/vntr/codis.png" alt="codis" width="604" /></a> <span style="color: #000000"><span style="font-size: small"><strong>CoDIS STRs:</strong> The FBI utilizes 13 different loci to discriminate between people. AMEL discriminates by gender and is located on the X &amp; Y. Credit: Jeremy Seto (CC-BY-NC-SA)</span></span>[/caption]
-<h2>Crime Scene Investigation</h2>
-<p class="western">This lab uses a CoDIS locus called TH01. TH01 is a locus on chromosome 11 that has a repeating sequence of TCAT. There are reported to be between 3-14 repeats in this locus. With the exception of X and Y in a male, all chromosomes have a homologous partner. Therefore, each individual will have 2 alleles for each CoDIS locus.</p>
-
-
-[caption id="attachment_79" align="alignnone" width="604"]<a href="https://github.com/jeremyseto/bio-oer/blob/master/figures/molecular/forensics/th01-cats.png?raw=true"><img class="wp-image-79 size-large" src="https://github.com/jeremyseto/bio-oer/blob/master/figures/molecular/forensics/th01-cats.png?raw=true" alt="tcat-tho1" width="604" /></a> <span style="font-size: small"><strong>TH01 STR:</strong> Outside of the STR, there is flanking areas of known sequence. The primers that amplify TH01 in PCR recognize these flanking sequences to amplify the TCAT repeats. Credit: Jeremy Seto (CC-BY-NC-SA)</span>[/caption]
-<p id="crimescene">At a crime scene, criminals don't often leave massive amounts of tissue behind. Scant evidence in the form of a few cells found within bodily fluids or stray hairs can be enough to use as DNA evidence. DNA is extracted from these few cells and amplified by PCR using the specific primers that flank the STRs used in CoDIS.</p>
-
-
-[caption id="attachment_78" align="alignnone" width="604"]<a href="https://github.com/jeremyseto/bio-oer/blob/master/figures/genetics/vntr/evidence.png"><img class="wp-image-78 size-large" src="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/genetics/vntr/evidence.png" alt="evidence" width="604" /></a> <span style="color: #000000"><span style="font-size: small"><strong>DNA evidence from a crime scene:</strong> DNA can be extracted from cells found from various sources at a crime scene. PCR can amplify this small amount of DNA. Credit: Jeremy Seto (CC-BY-NC-SA)</span></span>[/caption]
-<p class="western">Amplified DNA will be separated by gel electrophoresis and analyzed. Size reference standards and samples from the crime scene and the putative suspects would be analyzed together. In a paternity test, samples from the mother, the child and the suspected father would be analyzed in the same manner. A simple cheek swab will supply enough cells for
-this test.</p>
-
-
-[caption id="attachment_80" align="alignnone" width="604"]<a href="https://github.com/jeremyseto/bio-oer/blob/master/figures/genetics/vntr/TH01PCR.png" target="new"><img class="wp-image-80 size-large" src="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/genetics/vntr/TH01PCR.png" alt="TH01PCR" width="604" /></a> <span style="font-size: small"> <strong>TH01 locus used in a Paternity/Maternity test:</strong> Individual PCR reactions are run for each sample (mom, dad, child). The TH01 primer pair specifically amplifies the locus. Each amplified sample is run on the same gel to resolve the different alleles of TH01 from each individual. From this test the sample could be the offspring from these 2 parents but use of more STRs would make it more definitive. Count the TCATs. Credit: Jeremy Seto (CC-BY-NC-SA)</span>[/caption]
-<h2>External Resources</h2>
-<ul>
- 	<li>Flash animation walking through what a STR is <a href="http://www.dnalc.org/view/15981-DNA-variations.html" target="new">http://www.dnalc.org/view/15981-DNA-variations.html</a></li>
-</ul>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>65</wp:post_id>
-		<wp:post_date><![CDATA[2015-06-14 14:52:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-06-14 18:52:22]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[variable-number-tandem-repeats]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>60</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="post_tag" nicename="quantitative-reasoning"><![CDATA[quantitative reasoning]]></category>
-		<category domain="post_tag" nicename="analysis"><![CDATA[analysis]]></category>
-		<category domain="post_tag" nicename="visual-communication"><![CDATA[visual communication]]></category>
-		<category domain="post_tag" nicename="integration-of-knowledge"><![CDATA[integration of knowledge]]></category>
-		<category domain="post_tag" nicename="breadth-of-knowledge"><![CDATA[breadth of knowledge]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[975]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_9afd8445994f2b5e1a025d6492da3d50]]></wp:meta_key>
-			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_fbacd00af71ee84fe9ce570d43f98380]]></wp:meta_key>
-			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[975]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_9afd8445994f2b5e1a025d6492da3d50]]></wp:meta_key>
-			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_fbacd00af71ee84fe9ce570d43f98380]]></wp:meta_key>
-			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Alignment and Tree</title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?page_id=548</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=548</guid>
 		<description></description>
@@ -5673,7 +5591,7 @@ https://www.youtube.com/watch?v=lo2aC_m2vyo
 
 [caption id="" align="aligncenter" width="500"]<a title="Protozoa by jeremy Seto CC-BY-NC-SA" href="https://www.flickr.com/photos/jamescastle/35518406940/in/photostream/" target="new"><img src="https://farm5.staticflickr.com/4281/35518406940_9cfdd741fd_h.jpg" alt="Microbes" width="500" /></a> <span style="font-size: small">Protozoa. Top: Amoeba Center: Euglena Bottom: Paramecium</span>[/caption]
 <h3 id="scale">Scale</h3>
-[caption id="" align="alignnone" width="512"]<a title="By CNX OpenStax (https://cnx.org/contents/5CvTdmJL@4.4) [CC BY 4.0 (http://creativecommons.org/licenses/by/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AOSC_Microbio_01_03_sizes.jpg" target="new"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OSC_Microbio_01_03_sizes.jpg" alt="OSC Microbio 01 03 sizes" width="512" /></a> <span style="font-size: small">Credit: CNX OpenStax (<a href="https://creativecommons.org/licenses/by/4.0/deed.en" target="new">CC-BY4.0</a>)</span>[/caption]
+[caption id="" align="alignnone" width="600"]<a title="By Ali Zifan https://commons.wikimedia.org/wiki/User:Ali_Zifan , https://commons.wikimedia.org/wiki/File:Prokaryote_cell.svg, https://commons.wikimedia.org/wiki/User:Gringer , https://commons.wikimedia.org/wiki/File:Scheme_TEM_en.svg, https://commons.wikimedia.org/wiki/User:IgniX , https://commons.wikimedia.org/wiki/File:Animal_mitochondrion_diagram_zh.svg , https://commons.wikimedia.org/wiki/User:Jiver , https://commons.wikimedia.org/wiki/File:Influenza_geneticshift.svg , https://commons.wikimedia.org/wiki/User:Ninjatacoshell , https://commons.wikimedia.org/wiki/File:Caudovirales.svg " href="https://github.com/jeremyseto/bio-oer/blob/master/figures/microscopy/resolution.png" target="new"><img src="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/microscopy/resolution.png" alt="Resolution" width="600" /></a> <span style="font-size: small">Credit: Jeremy Seto and derived from works by <a href="https://commons.wikimedia.org/wiki/User:IgniX" target="new">IgniX</a>, <a href="https://commons.wikimedia.org/wiki/User:Gringer" target="new">Gringer</a>, <a href="https://commons.wikimedia.org/wiki/User:Jiver" target="new">Jiver</a>, <a href="https://commons.wikimedia.org/wiki/User:Ninjatacoshell" target="new">Ninjatacoshell</a>, <a href="https://commons.wikimedia.org/wiki/User:Ali_Zifan" target="new">Ali Zifan</a> (<a href="https://creativecommons.org/licenses/by/4.0/deed.en" target="new">CC-BY-SA</a>)</span>[/caption]
 <ul>
  	<li>Discover more about scale and microscopy at this link <a href="http://learn.genetics.utah.edu/content/cells/scale/" target="new noreferrer">http://learn.genetics.utah.edu/content/cells/scale/</a></li>
 </ul>
@@ -5816,7 +5734,7 @@ In our lab, we look at some pond water. What do we see? Why is this significant?
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_355dbeac4f0fe8c42aa245ecf2f12a53]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1529362140]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1530033115]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_cc36c292360be68499fa61afd512694a]]></wp:meta_key>
@@ -5832,7 +5750,7 @@ In our lab, we look at some pond water. What do we see? Why is this significant?
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_a3d8a3ea354ecd5c39a1a89df012333a]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1529362140]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1530033115]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -5856,7 +5774,7 @@ In our lab, we look at some pond water. What do we see? Why is this significant?
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_355dbeac4f0fe8c42aa245ecf2f12a53]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1529362140]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1530033115]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_cc36c292360be68499fa61afd512694a]]></wp:meta_key>
@@ -5872,13 +5790,13 @@ In our lab, we look at some pond water. What do we see? Why is this significant?
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_a3d8a3ea354ecd5c39a1a89df012333a]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1529362140]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1530033115]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1436</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1436</guid>
 		<description></description>
@@ -5936,7 +5854,7 @@ In our lab, we look at some pond water. What do we see? Why is this significant?
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1437</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1437</guid>
 		<description></description>
@@ -5994,7 +5912,7 @@ In our lab, we look at some pond water. What do we see? Why is this significant?
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1438</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1438</guid>
 		<description></description>
@@ -6052,7 +5970,7 @@ In our lab, we look at some pond water. What do we see? Why is this significant?
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1439</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1439</guid>
 		<description></description>
@@ -6110,7 +6028,7 @@ In our lab, we look at some pond water. What do we see? Why is this significant?
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1440</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1440</guid>
 		<description></description>
@@ -6168,7 +6086,7 @@ In our lab, we look at some pond water. What do we see? Why is this significant?
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1441</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1441</guid>
 		<description></description>
@@ -6226,7 +6144,7 @@ In our lab, we look at some pond water. What do we see? Why is this significant?
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1442</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1442</guid>
 		<description></description>
@@ -6284,7 +6202,7 @@ In our lab, we look at some pond water. What do we see? Why is this significant?
 	<item>
 		<title></title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1443</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1443</guid>
 		<description></description>
@@ -6337,6 +6255,45 @@ In our lab, we look at some pond water. What do we see? Why is this significant?
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1509551479]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Common Human Traits</title>
+		<link>https://openlab.citytech.cuny.edu/bio-oer/?page_id=1714</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
+		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?page_id=1714</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>Hairline
+<a title="By Frank Vincentz [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons and Public Domain image of Paul Ryan" href="https://commons.wikimedia.org/wiki/File:Male_forehead-01_ies.jpg"><img src="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/genetics/traits/hairline.png" alt="Male forehead-01 ies" width="500" /></a></h2>
+<h2>Ear Lobes</h2>
+<a title="Author: Hunter Freyer Subject: Michael Kelly's left earlobe. [Public Domain], via Wikimedia Commons" href="https://en.wikipedia.org/wiki/File:Earlobefreephoto.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/1/1c/Earlobefreephoto.jpg" alt="Free Earlobe" width="128" /></a><a title="By Aine from Madison, WI, USA (Crop of File:Ear tattoo (2596093).jpg) [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:TattooedAttachedEarlobe.png"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/TattooedAttachedEarlobe.png" alt="TattooedAttachedEarlobe" width="116" /></a>
+<h2>Thumbs
+<a title="Sam Smith at the English language Wikipedia [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bendable_thumb.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bendable_thumb.jpg/256px-Bendable_thumb.jpg" alt="Bendable thumb" width="223" /></a><a title="By Sarah Reid [CC-BY]" href="https://www.flickr.com/photos/sarahreido/3120877348/in/photostream/"><img src="https://farm4.staticflickr.com/3099/3120877348_5130705a52_m.jpg" alt="thumbs up" width="240" /></a></h2>
+<h2>Chins
+<a title="By User:Tizio cropped the original to show just the cleft chin, to be shown in the en:Cleft chin wikipedia article (Image:Mckinley.jpg) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Cleft-Chin.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Cleft-Chin.jpg" alt="Cleft-Chin" width="235" /></a><a title="Genusfotografen (genusfotografen.se) &amp; Wikimedia Sverige (wikimedia.se) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) or CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Mouth,_chin_%E2%80%93_Juno.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mouth%2C_chin_%E2%80%93_Juno.jpg/256px-Mouth%2C_chin_%E2%80%93_Juno.jpg" alt="Mouth, chin – Juno" width="256" /></a></h2>
+<h2>Dimples
+<a title="Chrisa Hickey [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:MarioLopezAAFeb09.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/MarioLopezAAFeb09.jpg/256px-MarioLopezAAFeb09.jpg" alt="MarioLopezAAFeb09" width="238" /></a><a title="By Gabbot (https://www.flickr.com/photos/tonyshek/5412772664/) [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Alexis_Bledel_TIFF_2010.png"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Alexis_Bledel_TIFF_2010.png" alt="Alexis Bledel TIFF 2010" width="256" /></a></h2>
+<h2>Tongue Rolling
+<a title="By Alberto Cabello from Vitoria Gasteiz (Gene Simmons (KISS)) [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Gene_Simmons_-_Azkena_Rock_Festival_2010_1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gene_Simmons_-_Azkena_Rock_Festival_2010_1.jpg/256px-Gene_Simmons_-_Azkena_Rock_Festival_2010_1.jpg" alt="Gene Simmons - Azkena Rock Festival 2010 1" width="256" /></a><a title="By Z33333t [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], from Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Tongue_rolled.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Tongue_rolled.jpg/256px-Tongue_rolled.jpg" alt="Tongue rolled" width="256" /></a></h2>
+<h2>Hair Texture
+<a title="By Denise Mahoney (Long, curly brown hair with highlights) [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Long,_curly_brown_hair_with_highlights.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Long%2C_curly_brown_hair_with_highlights.jpg/256px-Long%2C_curly_brown_hair_with_highlights.jpg" alt="Long, curly brown hair with highlights" width="200" /></a><a title="By Trixiee the Pixie (Image source) [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Straight_hair_with_highlights.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Straight_hair_with_highlights.jpg/256px-Straight_hair_with_highlights.jpg" alt="Straight hair with highlights" width="256" /></a></h2>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1714</wp:post_id>
+		<wp:post_date><![CDATA[2018-06-21 18:24:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>131</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[975]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -6419,6 +6376,88 @@ PCR is accomplished by cycling rapidly between these three steps: denature, an
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_94669f7dc41ce7aea4c7df9511247b85]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1529358996]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Variable Number Tandem Repeats</title>
+		<link>https://openlab.citytech.cuny.edu/bio-oer/analyzing-dna/variable-number-tandem-repeats/</link>
+		<pubDate>Sun, 14 Jun 2015 18:52:22 +0000</pubDate>
+		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
+		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=65</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>Polymorphisms</h2>
+<p class="western">The difference in nucleotide sequences between humans lies between 0.1-0.4%. That means that people are greater than 99% similar. But when you look around the room at your classmates, you can see that that small difference amounts to quite a bit of variation within our species. The bulk of these differences aren't even within the coding sequences of genes, but lie outside in regulatory regions that change the expression of those genes. Imagine if there were mutations to the coding sequences, this could be very deleterious to the well-being of the organism. We say that the coding sequences of genes that ultimately lead to proteins has a <b><span style="color: #ff0000">selective pressure</span> </b>to remain the same. The areas outside of the coding sequences have a reduced and sometimes non-existent selection pressure. These areas are allowed to mutate in sequence and even expand or contract. Areas of changes or differences are called <b><span style="color: #ff0000">polymorphic</span> </b>(many forms). If you were to read a repetitive set of sequences and count the repetition, you'd make mistakes and lose count. Likewise, DNA
+polymerase will make errors or stutter in areas of repetitiveness and produce polymorphic regions.</p>
+
+<h2>Tandem Repeats</h2>
+<p class="western">A type of polymorphism occurs due to these repeats expanding and contracting in non-coding regions. These regions are called variable number tandem repeats (<span style="color: #ff0000"><b>VNTRs</b></span>)
+or sometimes short tandem repeats (<span style="color: #ff0000"><b>STRs</b></span>). Any region or location on a chromosome is referred to as <b><span style="color: #ff0000">locus</span> </b>(loci for plural). Scientists use polymorphic loci that are known to
+contain VNTRs/STRs in order to differentiate people based on their DNA. This is often used in forensic science or in maternity/paternity cases. Any variation of a locus is referred to as an <span style="color: #ff0000"><b>allele</b></span>. In standard genetics, we often think of an allele as a variation of gene that would result in a difference in a physical manifestation of that gene. In the case of STRs, these alleles are simply a difference in number of repeats. That means the length of DNA within this locus is either longer or shorter and gives rise to many different alleles. VNTRs are referred to as minisatellites while STRs are called <span style="color: #ff0000"><strong>microsatellites</strong></span>.</p>
+
+<h2>CoDIS</h2>
+[caption id="" align="aligncenter" width="512"]<a title="By The Photographer [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://github.com/jeremyseto/bio-oer/blob/master/figures/DNAanalysis/DNAfingerprint.png?raw=true" target="new"><img src="https://github.com/jeremyseto/bio-oer/blob/master/figures/DNAanalysis/DNAfingerprint.png?raw=true" alt="Dna fingerprinting" width="512" /></a> <span style="font-size: small">DNA fingerprinting. Credit: <a title="User:Helixitta" href="https://commons.wikimedia.org/wiki/User:Helixitta">Helixitta</a>,<a title="User:The Photographer" href="https://commons.wikimedia.org/wiki/User:The_Photographer">The Photographer</a> and Jeremy Seto (CC-BY-SA 3.0)</span>[/caption]The FBI and local law enforcement agencies have developed a database called the  Combined DNA Index System (<a href="https://www.fbi.gov/about-us/lab/biometric-analysis/codis" target="new"><span style="color: #ff0000"><b>CoDIS</b></span></a>) that gathers data on a number of STRs. By establishing the number of repeats of a given locus, law enforcement officials can differentiate individuals based on the repeat length of these alleles. CoDIS uses a
+set of 13 loci that are tested together. As you would imagine, people are bound to have the same alleles of certain loci, especially if they were related. The use of 13 different loci makes it statistically improbable that 2 different people could be confused for each other. Think about this in terms of physical traits. As you increase the number of physical traits used to describe someone, you are less likely to confuse that person with someone else based on those combinations of traits. Using the CoDIS loci increases the stringency since there are many alleles for each locus. The thirteenth locus in CoDIS (called AMEL) discriminates between male and female.
+
+[caption id="attachment_76" align="alignnone" width="604"]<a href="https://github.com/jeremyseto/bio-oer/blob/master/figures/genetics/vntr/codis.png"><img class="wp-image-76 size-large" src="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/genetics/vntr/codis.png" alt="codis" width="604" /></a> <span style="color: #000000"><span style="font-size: small"><strong>CoDIS STRs:</strong> The FBI utilizes 13 different loci to discriminate between people. AMEL discriminates by gender and is located on the X &amp; Y. Credit: Jeremy Seto (CC-BY-NC-SA)</span></span>[/caption]
+<h2>Crime Scene Investigation</h2>
+<p class="western">This lab uses a CoDIS locus called TH01. TH01 is a locus on chromosome 11 that has a repeating sequence of TCAT. There are reported to be between 3-14 repeats in this locus. With the exception of X and Y in a male, all chromosomes have a homologous partner. Therefore, each individual will have 2 alleles for each CoDIS locus.</p>
+
+
+[caption id="attachment_79" align="alignnone" width="604"]<a href="https://github.com/jeremyseto/bio-oer/blob/master/figures/molecular/forensics/th01-cats.png?raw=true"><img class="wp-image-79 size-large" src="https://github.com/jeremyseto/bio-oer/blob/master/figures/molecular/forensics/th01-cats.png?raw=true" alt="tcat-tho1" width="604" /></a> <span style="font-size: small"><strong>TH01 STR:</strong> Outside of the STR, there is flanking areas of known sequence. The primers that amplify TH01 in PCR recognize these flanking sequences to amplify the TCAT repeats. Credit: Jeremy Seto (CC-BY-NC-SA)</span>[/caption]
+<p id="crimescene">At a crime scene, criminals don't often leave massive amounts of tissue behind. Scant evidence in the form of a few cells found within bodily fluids or stray hairs can be enough to use as DNA evidence. DNA is extracted from these few cells and amplified by PCR using the specific primers that flank the STRs used in CoDIS.</p>
+
+
+[caption id="attachment_78" align="alignnone" width="604"]<a href="https://github.com/jeremyseto/bio-oer/blob/master/figures/genetics/vntr/evidence.png"><img class="wp-image-78 size-large" src="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/genetics/vntr/evidence.png" alt="evidence" width="604" /></a> <span style="color: #000000"><span style="font-size: small"><strong>DNA evidence from a crime scene:</strong> DNA can be extracted from cells found from various sources at a crime scene. PCR can amplify this small amount of DNA. Credit: Jeremy Seto (CC-BY-NC-SA)</span></span>[/caption]
+<p class="western">Amplified DNA will be separated by gel electrophoresis and analyzed. Size reference standards and samples from the crime scene and the putative suspects would be analyzed together. In a paternity test, samples from the mother, the child and the suspected father would be analyzed in the same manner. A simple cheek swab will supply enough cells for
+this test.</p>
+
+
+[caption id="attachment_80" align="alignnone" width="604"]<a href="https://github.com/jeremyseto/bio-oer/blob/master/figures/genetics/vntr/TH01PCR.png" target="new"><img class="wp-image-80 size-large" src="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/genetics/vntr/TH01PCR.png" alt="TH01PCR" width="604" /></a> <span style="font-size: small"> <strong>TH01 locus used in a Paternity/Maternity test:</strong> Individual PCR reactions are run for each sample (mom, dad, child). The TH01 primer pair specifically amplifies the locus. Each amplified sample is run on the same gel to resolve the different alleles of TH01 from each individual. From this test the sample could be the offspring from these 2 parents but use of more STRs would make it more definitive. Count the TCATs. Credit: Jeremy Seto (CC-BY-NC-SA)</span>[/caption]
+<h2>External Resources</h2>
+<ul>
+ 	<li>Flash animation walking through what a STR is <a href="http://www.dnalc.org/view/15981-DNA-variations.html" target="new">http://www.dnalc.org/view/15981-DNA-variations.html</a></li>
+</ul>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>65</wp:post_id>
+		<wp:post_date><![CDATA[2015-06-14 14:52:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-06-14 18:52:22]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[variable-number-tandem-repeats]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>60</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="post_tag" nicename="quantitative-reasoning"><![CDATA[quantitative reasoning]]></category>
+		<category domain="post_tag" nicename="analysis"><![CDATA[analysis]]></category>
+		<category domain="post_tag" nicename="visual-communication"><![CDATA[visual communication]]></category>
+		<category domain="post_tag" nicename="integration-of-knowledge"><![CDATA[integration of knowledge]]></category>
+		<category domain="post_tag" nicename="breadth-of-knowledge"><![CDATA[breadth of knowledge]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[975]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_9afd8445994f2b5e1a025d6492da3d50]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_fbacd00af71ee84fe9ce570d43f98380]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[975]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_9afd8445994f2b5e1a025d6492da3d50]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_fbacd00af71ee84fe9ce570d43f98380]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -7069,6 +7108,30 @@ https://youtu.be/KtOnBUMuZiY
 		<category domain="post_tag" nicename="integration-of-knowledge"><![CDATA[integration of knowledge]]></category>
 		<category domain="post_tag" nicename="cultural-awareness"><![CDATA[cultural awareness]]></category>
 		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_acd02ed69319f62d4f7577e4d3fa6adc]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="487" height="274" src="https://www.youtube.com/embed/KtOnBUMuZiY?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_acd02ed69319f62d4f7577e4d3fa6adc]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1530212470]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_1ee1f5e0a9cb5e0d6bf09c2a59ec1eba]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="487" height="365" src="https://www.youtube.com/embed/videoseries?list=PLF9969C74FAAD2BF9" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_1ee1f5e0a9cb5e0d6bf09c2a59ec1eba]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1530212470]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_3cc961b3259822d74cd56343afe4c9ce]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="487" height="274" src="https://www.youtube.com/embed/PSLnivqiF8k?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_3cc961b3259822d74cd56343afe4c9ce]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1530212470]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_096c6002faeb3ec1d37f9d174705ed6f]]></wp:meta_key>
 			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
@@ -7110,7 +7173,7 @@ https://youtu.be/KtOnBUMuZiY
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_f9e89b0b81868453201fc9c505140feb]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1529364827]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1530215931]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_717937665fe669d763754eca1f5694d2]]></wp:meta_key>
@@ -7138,7 +7201,7 @@ https://youtu.be/KtOnBUMuZiY
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_e2766580fcc8e681c505645d82bcdecd]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1529364827]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1530215931]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_489c3ef726c8df7030ce5cf588dfa008]]></wp:meta_key>
@@ -7146,7 +7209,7 @@ https://youtu.be/KtOnBUMuZiY
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_489c3ef726c8df7030ce5cf588dfa008]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1529364827]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1530215932]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_b20abbfebf1e3802eb2044b63d2c1bfa]]></wp:meta_key>
@@ -7198,7 +7261,7 @@ https://youtu.be/KtOnBUMuZiY
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_f9e89b0b81868453201fc9c505140feb]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1529364827]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1530215931]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_717937665fe669d763754eca1f5694d2]]></wp:meta_key>
@@ -7226,7 +7289,7 @@ https://youtu.be/KtOnBUMuZiY
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_e2766580fcc8e681c505645d82bcdecd]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1529364827]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1530215931]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_489c3ef726c8df7030ce5cf588dfa008]]></wp:meta_key>
@@ -7234,7 +7297,7 @@ https://youtu.be/KtOnBUMuZiY
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_489c3ef726c8df7030ce5cf588dfa008]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1529364827]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1530215932]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_b20abbfebf1e3802eb2044b63d2c1bfa]]></wp:meta_key>
@@ -7767,23 +7830,23 @@ The namesake of these lizards walked on water but was also able to turn water in
 		<content:encoded><![CDATA[<h2><b>Introduction: The Cell Cycle and Mitosis</b></h2>
 The cell cycle refers to the a series of events that describe the metabolic processes of growth and replication of cells. The bulk of the cell cycle is spent in the “living phase”, known as <span style="color: #ff3333"><b>interphase</b></span>. Interphase is further broken down in to 3 distinct phases: G<sub>1</sub> (Gap 1), S (Synthesis) and G<sub>2</sub> (Gap 2). <span style="color: #ff3333"><b>G<sub>1</sub></b></span> is the phase of growth when the cell is accumulating resources to live and grow. After attaining a certain size and having amassed enough raw materials, a checkpoint is reached where the cell uses biochemical markers to decide if the next phase should be entered. If the cell is in an environment with enough nutrients in the environment, enough space and having reached the appropriate size, the cell will enter the S phase. <span style="color: #ff0000"><b>S phase</b></span> is when metabolism is shifted towards the replication (or synthesis) of the genetic material. During S phase, the amount of DNA in the nucleus is doubled and copied exactly in preparation to divide. The chromosomes at the end of G<sub>1</sub> consist of a single <span style="color: #ff0000"><b>chromatid</b></span>. At the end of S phase, each chromosome consists of two identical <span style="color: #ff0000"><b>sister chromatids</b></span> joined at the <span style="color: #ff0000"><b>centromere</b></span>. When the DNA synthesis is complete, the cell continues on to the second growth phase called <span style="color: #ff0000"><b>G<sub>2</sub></b></span>. Another checkpoint takes place at the end of G<sub>2</sub> to ensure the fidelity of the replicated DNA and to re-establish the success of the cell's capacity to divide in the environment. If conditions are favorable, the cell continues on to mitosis.
 
-<a href="https://openlab.citytech.cuny.edu/bio-oer/files/2015/06/cellcycle.png"><img class="alignnone size-large wp-image-169" src="https://openlab.citytech.cuny.edu/bio-oer/files/2015/06/cellcycle-1024x986.png" alt="cellcycle" width="500" /></a>
-<a title="By TheAlphaWolf (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AUnk.cilliate.jpg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Unk.cilliate.jpg/512px-Unk.cilliate.jpg" alt="Unk.cilliate" width="500" /></a>
+[caption id="" align="aligncenter" width="512"]<a title="Derivative work by Jeremy Seto and Cyclinexpression_waehrend_Zellzyklus.png:WikiMiMa at de.wikipedia (Original text : de:Benutzer:WikiMiMa) derivative work: T4taylor (Cyclinexpression_waehrend_Zellzyklus.png) [Public domain], from Wikimedia Commons" href="https://github.com/jeremyseto/bio-oer/blob/master/figures/celldivision/the-cell-cycle.png"><img src="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/celldivision/the-cell-cycle.png" alt="Cyclin Expression" width="512" /></a> <span style="font-size: small">Eukaryotic cell cycle is governed by expression of cyclin proteins along with their activity. Credit: Jeremy Seto (CC-BY-SA)</span>[/caption]&nbsp;
+
+[caption id="" align="aligncenter" width="256"]<a title="By Erin Rod (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AFar-Red_%26_Near-infrared_Fluorescent_Ubiquitination-based_Cell_Cycle_Indicator_(FUCCI).gif"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Far-Red_%26_Near-infrared_Fluorescent_Ubiquitination-based_Cell_Cycle_Indicator_%28FUCCI%29.gif" alt="Far-Red &amp; Near-infrared Fluorescent Ubiquitination-based Cell Cycle Indicator (FUCCI)" width="256" height="320" /></a> <span style="font-size: small">Mammalian cells in culture going through the Cell Cycle. Green marker proteins expressed during the G1 phase. Red marker proteins are expressed during S/G2/M. During the G1 to S transition, fluorescence disappears as the marker proteins also transition in expression.</span>[/caption]
 <span style="color: #ff0000"><b>Mitosis</b></span> is the process of nuclear division used in conjunction with cytokinesis to produce 2 identical daughter cells. <span style="color: #ff0000"><b>Cytokinesis</b></span> is the actual separation of these two cells enclosed in their own cellular membranes. Unicellular organisms utilize this process of division in order to reproduce asexually. Prokaryotic organisms lack a nucleus, therefore they undergo a different process called binary fission. Multicellular eukaryotes undergo mitosis for repairing tissue and for growth. The process of mitosis is only a short period of the lifespan of cells. <span style="color: #000000">Mitosis is traditionally divided into four stages: </span><span style="color: #ff0000"><b>prophase</b></span><span style="color: #000000">, </span><span style="color: #ff0000"><b>metaphase</b></span><span style="color: #000000">, </span><span style="color: #ff0000"><b>anaphase</b></span><span style="color: #000000"> and </span><span style="color: #ff0000"><b>telophase</b></span><span style="color: #000000">. The actual events of mitosis are not discreet but occur in a continuous sequence—separation of mitosis into four stages is merely convenient for our discussion and organization. During these stages important cellular structures are synthesized and perform the mechanics of mitosis. For example, in animal cells two microtubule organizing centers called </span><span style="color: #ff0000"><b>centrioles</b></span><span style="color: #000000"> replicate. The pairs of centrioles move apart and form an axis of proteinaceous microtubules between them called </span><span style="color: #ff0000"><b>spindle fibers</b></span><span style="color: #000000"><b>. </b></span><span style="color: #000000">These spindle fibers act as motors that pull at the centromeres of chromsomes and separate the sister chromatids into newly recognized chromosomes. The spindles also push against each other to stretch the cell in preparation of forming two new nuclei and separate cells. In animal cells, a contractile ring of actin fibers cinch together around the midline of the cell to coordinate cytokinesis. This cinching of the cell membrane creates a structure called the </span><span style="color: #ff0000"><b>cleavage furrow</b></span><span style="color: #000000">. Eventually, the cinching of the membrane completely separates into two daughter cells. Plant cells require the production of new cell wall material between daughter cells. Instead of a cleavage furrow, the two cells are separated by a series of vesicles derived from the Golgi. These vesicles fuse together along the midline and simultaneously secrete cellulose into the space between the two cells. This series of vesicles is called the </span><span style="color: #ff0000"><b>cell plate</b></span><span style="color: #000000">.</span>
 
 <a title="By Ali Zifan [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AMitosis_Stages.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mitosis_Stages.svg/1024px-Mitosis_Stages.svg.png" alt="Mitosis Stages" width="600" /></a>
-<h2><a title="By LadyofHats [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AProphase_eukaryotic_mitosis.svg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Prophase_eukaryotic_mitosis.svg/1024px-Prophase_eukaryotic_mitosis.svg.png" alt="Prophase eukaryotic mitosis" width="350" /></a>
+
+https://youtu.be/nlMVeW594F4
+
+<a title="By LadyofHats [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AProphase_eukaryotic_mitosis.svg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Prophase_eukaryotic_mitosis.svg/1024px-Prophase_eukaryotic_mitosis.svg.png" alt="Prophase eukaryotic mitosis" width="350" /></a>
 <a title="By LadyofHats [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AMetaphase_eukaryotic_mitosis.svg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Metaphase_eukaryotic_mitosis.svg/512px-Metaphase_eukaryotic_mitosis.svg.png" alt="Metaphase eukaryotic mitosis" width="350" /></a>
+
+https://youtu.be/IvJrDsRuWxQ
+
 <a title="By LadyofHats [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AAnaphase_eukaryotic_mitosis.svg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Anaphase_eukaryotic_mitosis.svg/1024px-Anaphase_eukaryotic_mitosis.svg.png" alt="Anaphase eukaryotic mitosis" width="350" /></a>
 <a title="By LadyofHats [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ATelophase_eukaryotic_mitosis.svg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Telophase_eukaryotic_mitosis.svg/512px-Telophase_eukaryotic_mitosis.svg.png" alt="Telophase eukaryotic mitosis" width="350" /></a>
-<a title="By Cytokinesis_procariotic_mitosis.svg: LadyofHats (Cytokinesis_procariotic_mitosis.svg) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACytokinesis_eukaryotic_mitosis.svg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cytokinesis_eukaryotic_mitosis.svg/512px-Cytokinesis_eukaryotic_mitosis.svg.png" alt="Cytokinesis eukaryotic mitosis" width="350" /></a></h2>
-&nbsp;
-
-[caption id="" align="aligncenter" width="512"]<a title="By Cyclinexpression_waehrend_Zellzyklus.png:WikiMiMa at de.wikipedia (Original text : de:Benutzer:WikiMiMa) derivative work: T4taylor (Cyclinexpression_waehrend_Zellzyklus.png) [Public domain], from Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACyclin_Expression.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cyclin_Expression.svg/1024px-Cyclin_Expression.svg.png" alt="Cyclin Expression" width="512" /></a> <span style="font-size: small">Eukaryotic cell cycle is governed by expression of cyclin proteins along with their activity.</span>[/caption]&nbsp;
-
-&nbsp;
-
-[caption id="" align="aligncenter" width="256"]<a title="By Erin Rod (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AFar-Red_%26_Near-infrared_Fluorescent_Ubiquitination-based_Cell_Cycle_Indicator_(FUCCI).gif"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Far-Red_%26_Near-infrared_Fluorescent_Ubiquitination-based_Cell_Cycle_Indicator_%28FUCCI%29.gif" alt="Far-Red &amp; Near-infrared Fluorescent Ubiquitination-based Cell Cycle Indicator (FUCCI)" width="256" height="320" /></a> <span style="font-size: small">Mammalian cells in culture going through the Cell Cycle. Green marker proteins expressed during the G1 phase. Red marker proteins are expressed during S/G2/M. During the G1 to S transition, fluorescence disappears as the marker proteins also transition in expression.</span>[/caption]
+<a title="By Cytokinesis_procariotic_mitosis.svg: LadyofHats (Cytokinesis_procariotic_mitosis.svg) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACytokinesis_eukaryotic_mitosis.svg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cytokinesis_eukaryotic_mitosis.svg/512px-Cytokinesis_eukaryotic_mitosis.svg.png" alt="Cytokinesis eukaryotic mitosis" width="350" /></a>
 <h2>Mitosis Review</h2>
 <ul>
  	<li><a href="https://www.khanacademy.org/science/biology/cellular-molecular-biology/stem-cells-and-cancer/a/cell-cycle-regulators" target="new">Khan Academy Review</a></li>
@@ -7803,6 +7866,8 @@ As in mitosis, meiosis is preceded by replication of each chromosome to form two
 [caption id="" align="aligncenter" width="300"]<a href="https://github.com/jeremyseto/bio-oer/blob/master/figures/genetics/crossing-over.png?raw=true" target="new"><img src="https://github.com/jeremyseto/bio-oer/blob/master/figures/genetics/crossing-over.png?raw=true" alt="Chromosomal Crossing Over" width="300" height="512" /></a> <span style="font-size: small">Crossing over between chromatids of homologous chromosomes increases genetic diversity during meiosis I. Synapsis occurs during prophase I as the homologous chromosomes begin to pair up. Credit: Jeremy Seto (CC-BY-NC-SA)</span>[/caption]
 
 <span style="color: #000000">Second, during an early stage of meiosis each chromosome (comprised of two chromatids) pairs along its length with its homolog. This pairing of homologous chromosomes results in a physical touching called </span><span style="color: #ff0000"><b>synapsis</b></span><span style="color: #000000">, during which the four chromatids (a tetrad) exchange various segments of genetic material. This exchange of genetic material is called </span><span style="color: #ff0000"><b>crossing-over</b></span><span style="color: #000000"> and produces new genetic combinations. During crossing-over there is no gain or loss of genetic material. But afterward, each chromatid of the chromosomes contains different segments (alleles) that it exchanged with other chromatid.</span>
+
+https://youtu.be/84jlwjvrJwY
 <h3><b>Stages and Events of Meiosis</b></h3>
 [caption id="" align="aligncenter" width="600"]<img src="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/celldivision/Meiosis_Stages.png" alt="Meiosis Stages" width="600" /> <span style="font-size: small">Stages of Meiosis. Credit: <a class="mw-redirect" title="User:Ali Zifan" href="https://commons.wikimedia.org/wiki/User:Ali_Zifan"><strong><span style="color: #088a08"><b>Ali Zifan</b></span></strong></a> (CC-BY 4.0)</span>[/caption]
 
@@ -7927,6 +7992,30 @@ End:_____</p>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_df49e20a7b1fc1a1b629b6719b488c99]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1530374748]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_db5a7158b419c9d12ce2fee2d7813ac2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="604" height="453" src="https://www.youtube.com/embed/84jlwjvrJwY?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_db5a7158b419c9d12ce2fee2d7813ac2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1530376325]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_66662e9522f635e611e97bc0bf27bad3]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="604" height="453" src="https://www.youtube.com/embed/IvJrDsRuWxQ?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_66662e9522f635e611e97bc0bf27bad3]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1530381692]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_df49e20a7b1fc1a1b629b6719b488c99]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="604" height="453" src="https://www.youtube.com/embed/nlMVeW594F4?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[975]]></wp:meta_value>
 		</wp:postmeta>
@@ -7936,7 +8025,7 @@ End:_____</p>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_f54dca40519a22212bd53caa3ff6a47e]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1529363871]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1530382162]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -7948,7 +8037,7 @@ End:_____</p>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_f54dca40519a22212bd53caa3ff6a47e]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1529363871]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1530382162]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -8428,7 +8517,7 @@ The NYCCT General Biology 1 Lab will follow the sequence below:
 </tr>
 <tr style="height: 26px" valign="top">
 <td style="height: 26px" bgcolor="#ffffff" width="65">XV</td>
-<td style="height: 26px" bgcolor="#ffffff" width="545"><a href="hardy-weinberg-population-genetics" target="new"><span style="text-decoration: underline"><strong><span style="font-family: 'color: #0000ff;text-decoration: underline">Hardy-Weinberg and Population Genetics Simulations</span></strong></span></a>
+<td style="height: 26px" bgcolor="#ffffff" width="545"><a href="hardy-weinberg-population-genetics" target="new"><span style="text-decoration: underline"><span style="color: #0000ff"><strong>Hardy-Weinberg and Population Genetics Simulations</strong></span></span></a>
 
 Quiz</td>
 </tr>
@@ -9517,30 +9606,31 @@ Run the simulation below to understand how white light, specific wavelengths of 
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=232</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p align="left">George Beadle and Edward Tatum first described the concept that each gene corresponded to an enzyme in a metabolic pathway by exposing the yeast <em>Neurospoara crassa</em> to mutagenic conditions (<a href="#beadle">Beadle &amp; Tatum, 1941</a>). Following these procedures Josua lederberg continued these studies with Tatum where they generated two mutants strains in <em>Escherichia coli</em> . These bacteria were <strong><span style="color: #ff0000">auxotrophs</span></strong><span style="color: #ff0000"><span style="color: #000000">,</span></span> unable to generate some basic nutrients necessary to sustain their growth.  The two strains were described as <em>met<sup>−</sup> bio<sup>−</sup> Thr<sup>+</sup> Leu<sup>+</sup> Thi<sup>+</sup></em> (Strain A) and <em>Met<sup>+</sup> Bio<sup>+</sup> thr<sup>−</sup> leu<sup>−</sup> thi<sup>−</sup></em> (Strain B). Strain A can sufficiently synthesize the amino acids threonine, leucine and the cofactor thiamine while deficient in producing the cofactor biotin and the amino acid methionine while the converse was true of Strain B. When either of these two strains were plated onto minimal media, no growth occurred. Supplementing minimal media with methionine and biotin permitted Strain A to grow as normal. When the two strains were mixed together and plated on minimal media, there was growth of bacteria. The two strains were capable of complementing each other in some way as if a sexual exchange of genetic material had occurred (<a href="#lederberg">Lederberg &amp; Tatum, 1946</a>).</p>
+		<content:encoded><![CDATA[<h2>Complementation</h2>
+<p align="left">George Beadle and Edward Tatum first described the concept that each gene corresponded to an enzyme in a metabolic pathway by exposing the yeast <em>Neurospoara crassa</em> to mutagenic conditions (<a href="#beadle">Beadle &amp; Tatum, 1941</a>). Following these procedures Josua lederberg continued these studies with Tatum where they generated two mutants strains in <em>Escherichia coli</em> . These bacteria were <strong><span style="color: #ff0000">auxotrophs</span></strong><span style="color: #ff0000"><span style="color: #000000">,</span></span> unable to generate some basic nutrients necessary to sustain their growth.  The two strains were described as <em>met<sup>−</sup> bio<sup>−</sup> Thr<sup>+</sup> Leu<sup>+</sup> Thi<sup>+</sup></em> (Strain A) and <em>Met<sup>+</sup> Bio<sup>+</sup> thr<sup>−</sup> leu<sup>−</sup> thi<sup>−</sup></em> (Strain B). Strain A can sufficiently synthesize the amino acids threonine, leucine and the cofactor thiamine while deficient in producing the cofactor biotin and the amino acid methionine while the converse was true of Strain B. When either of these two strains were plated onto minimal media, no growth occurred. Supplementing minimal media with methionine and biotin permitted Strain A to grow as normal. When the two strains were mixed together and plated on minimal media, there was growth of bacteria. The two strains were capable of complementing each other in some way as if a sexual exchange of genetic material had occurred (<a href="#lederberg">Lederberg &amp; Tatum, 1946</a>).</p>
 <p align="left">Bacteria are equipped with all the necessary capacities to replicate DNA. Common bacterial species have bee adapted for use in the lab to carry DNA and propagate it for uses in biotechnology. In addition to chromosomal DNA of the bacterial genome, bacteria also have extrachromosomal DNA called <span style="color: #ff0000"><b>plasmids</b></span>. These plasmids replicate independently of the bacterial chromosome and can occur in high copy. These circular pieces of DNA are modified in labs to carry specific pieces of DNA so they can be studied or used for expression into proteins. Plasmids can naturally carry important traits, including antibiotic resistance. Plasmids are relatively small, ranging in size from 1000 bases to 1,000,000 bases long (1kb-1000kb).</p>
 
-[caption id="" align="aligncenter" width="256"]<a title="By User:Spaully on English wikipedia (Own work) [CC BY-SA 2.5 (http://creativecommons.org/licenses/by-sa/2.5)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APlasmid_(english).svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Plasmid_%28english%29.svg/256px-Plasmid_%28english%29.svg.png" alt="Plasmid (english)" width="256" height="120" /></a> <span style="font-size: small">Bacterial DNA usually exists as a large <strong><span style="color: #ff0000">circular chromosome</span></strong> (<span style="color: #ff0000">red</span>). <strong><span style="color: #0000ff">Plasmids</span></strong> are extrachromosomal and autonomously replicating pieces of DNA (<span style="color: #0000ff">blue</span>).</span>[/caption]
+[caption id="" align="aligncenter" width="256"]<a title="By User:Spaully on English wikipedia (Own work) [CC BY-SA 2.5 (http://creativecommons.org/licenses/by-sa/2.5)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APlasmid_(english).svg" target="new"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Plasmid_%28english%29.svg/256px-Plasmid_%28english%29.svg.png" alt="Plasmid (english)" width="256" height="120" /></a> <span style="font-size: small">Bacterial DNA usually exists as a large <strong><span style="color: #ff0000">circular chromosome</span></strong> (<span style="color: #ff0000">red</span>). <strong><span style="color: #0000ff">Plasmids</span></strong> are extrachromosomal and autonomously replicating pieces of DNA (<span style="color: #0000ff">blue</span>).</span>[/caption]
 <p align="left">Through a process called <b><span style="color: #ff0000">conjugation</span></b>, bacteria can “sexually” transfer genetic material to another by passing plasmids through a structure called a <b><span style="color: #ff0000">conjugation pilus</span></b>.</p>
 
-[caption id="" align="aligncenter" width="512"]<a title="By Adenosine (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AConjugation.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Conjugation.svg/662px-Conjugation.svg.png" alt="Conjugation" width="512" /></a> <span style="font-size: small">Conjugation process between a plasmid bearing donor and a plasmid-less recipient. The donor creates a conjugation pilus to create a cytosolic bridge with the donor where the plasmid is replicated into the recipient through the rolling circle method of replication. The recipient then becomes competent to act as a donor.</span>[/caption]
+[caption id="" align="aligncenter" width="512"]<a title="By Adenosine (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AConjugation.svg" target="new"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Conjugation.svg/662px-Conjugation.svg.png" alt="Conjugation" width="512" /></a> <span style="font-size: small">Conjugation process between a plasmid bearing donor and a plasmid-less recipient. The donor creates a conjugation pilus to create a cytosolic bridge with the donor where the plasmid is replicated into the recipient through the rolling circle method of replication. The recipient then becomes competent to act as a donor.</span>[/caption]
 <p align="left"><!--nextpage--></p>
 
-<h2 align="left"><a name="Features"></a><span style="font-family: 'Liberation Sans', Arial, sans-serif"><span style="font-size: x-large"> Features of Plasmids</span></span></h2>
+<h2 align="left"><a name="Features"></a>Features of Plasmids</h2>
 <p align="left">Plasmids that are designed by Biologists to shuttle pieces of DNA for study are referred to as <span style="color: #ff0000"><b>vectors</b></span>, because they <i>move</i> a piece of DNA.</p>
-<p align="left"><a href="https://openlab.citytech.cuny.edu/bio-oer/files/2015/07/pUC19.png"><img class=" size-large wp-image-241 aligncenter" title="By jeremy Seto CC-BY-NC-SA" src="https://openlab.citytech.cuny.edu/bio-oer/files/2015/07/pUC19.png" alt="pUC19" width="604" height="343" /></a>These plasmid vectors have the same hallmarks as traditional plasmids with the capacity to replicate independently of the bacterial genome. The feature that allows these DNA's to replicate is called an <span style="color: #ff0000"><b>origin of replication</b></span> (ori) that is usually rich in A's and T's. However, these plasmid vectors have the additional properties that make them easy to work with and distinguishable from bacterial plasmids; a selection marker and a multiple cloning site. A <span style="color: #ff0000"><b>selection marker</b></span> usually comes in the form of a gene that encodes resistance to a specific antibiotic. In the pictured plasmid, Ampicillin resistance granted by the β-lactamase gene. The <span style="color: #ff0000"><b>multiple cloning site</b></span> (<span style="color: #ff0000"><strong>MCS</strong></span>), also known as the polylinker, is the location in which the DNA of interest is incorporated into the vector. MCSs are defined by a set of unique sites where the DNA can be cut by <span style="color: #ff0000"><b>restriction endonucleases</b></span> (<strong><span style="color: #ff0000">RE</span></strong>). As the name implies, restriction enzymes are “restricted” in their ability to cut or digest DNA. The restriction that is useful to biologists is usually <span style="color: #ff0000"><b>palindromic</b></span> DNA sequences. Palindromic sequences are the same sequence forwards and backwards. Some examples of palindromes: RACE CAR, CIVIC, A MAN A PLAN A CANAL PANAMA. With respect to DNA, there are 2 strands that run antiparallelel to each other. Therefore, the reverse complement of one strand is identical to the other.</p>
+<p align="left"><a href="https://openlab.citytech.cuny.edu/bio-oer/files/2015/07/pUC19.png" target="new"><img class=" size-large wp-image-241 aligncenter" title="By jeremy Seto CC-BY-NC-SA" src="https://openlab.citytech.cuny.edu/bio-oer/files/2015/07/pUC19.png" alt="pUC19" width="604" /></a>These plasmid vectors have the same hallmarks as traditional plasmids with the capacity to replicate independently of the bacterial genome. The feature that allows these DNA's to replicate is called an <span style="color: #ff0000"><b>origin of replication</b></span> (ori) that is usually rich in A's and T's. However, these plasmid vectors have the additional properties that make them easy to work with and distinguishable from bacterial plasmids; a selection marker and a multiple cloning site. A <span style="color: #ff0000"><b>selection marker</b></span> usually comes in the form of a gene that encodes resistance to a specific antibiotic. In the pictured plasmid, Ampicillin resistance granted by the β-lactamase gene. The <span style="color: #ff0000"><b>multiple cloning site</b></span> (<span style="color: #ff0000"><strong>MCS</strong></span>), also known as the polylinker, is the location in which the DNA of interest is incorporated into the vector. MCSs are defined by a set of unique sites where the DNA can be cut by <span style="color: #ff0000"><b>restriction endonucleases</b></span> (<strong><span style="color: #ff0000">RE</span></strong>). As the name implies, restriction enzymes are “restricted” in their ability to cut or digest DNA. The restriction that is useful to biologists is usually <span style="color: #ff0000"><b>palindromic</b></span> DNA sequences. Palindromic sequences are the same sequence forwards and backwards. Some examples of palindromes: RACE CAR, CIVIC, A MAN A PLAN A CANAL PANAMA. With respect to DNA, there are 2 strands that run antiparallelel to each other. Therefore, the reverse complement of one strand is identical to the other.</p>
 
-[caption id="" align="alignleft" width="128"]<a title="By User:Bryan Derksen (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AEcoRI_restriction_enzyme_recognition_site.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/EcoRI_restriction_enzyme_recognition_site.svg/128px-EcoRI_restriction_enzyme_recognition_site.svg.png" alt="EcoRI restriction enzyme recognition site" width="128" height="51" /></a> <strong><i>EcoRI</i></strong> generates sticky of cohesive ends[/caption][caption id="" align="alignright" width="128"]<a title="By User:Bryan Derksen (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASmaI_restriction_enzyme_recognition_site.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/SmaI_restriction_enzyme_recognition_site.svg/128px-SmaI_restriction_enzyme_recognition_site.svg.png" alt="SmaI restriction enzyme recognition site" width="128" height="54" /></a> <strong><i>SmaI</i></strong> generates blunt ends[/caption]&nbsp;
+[caption id="" align="alignleft" width="128"]<a title="By User:Bryan Derksen (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AEcoRI_restriction_enzyme_recognition_site.svg" target="new"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/EcoRI_restriction_enzyme_recognition_site.svg/128px-EcoRI_restriction_enzyme_recognition_site.svg.png" alt="EcoRI restriction enzyme recognition site" width="128" /></a> <strong><i>EcoRI</i></strong> generates sticky of cohesive ends[/caption][caption id="" align="alignright" width="128"]<a title="By User:Bryan Derksen (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASmaI_restriction_enzyme_recognition_site.svg" target="new"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/SmaI_restriction_enzyme_recognition_site.svg/128px-SmaI_restriction_enzyme_recognition_site.svg.png" alt="SmaI restriction enzyme recognition site" width="128" /></a> <strong><i>SmaI</i></strong> generates blunt ends[/caption]&nbsp;
 
 &nbsp;
 <p align="left">Restriction enzymes hydrolyze covalent phosphodiester bonds of the DNA to leave either “sticky/cohesive” ends or “blunt” ends. This distinction in cutting is important because an <i>EcoRI</i> sticky end can be used to match up a piece of DNA cut with the same enzyme in order to glue or ligate them back together. While endonucleases cut DNA, <span style="color: #ff0000"><b>ligases</b></span> join them back together. DNA digested with <i>EcoRI </i>can be ligated back together with another piece of DNA digested with <i>EcoRI</i>, but not to a piece digested with <i>SmaI</i>. Another blunt cutter is <i>EcoRV</i> with a recognition sequence of GAT | ATC.</p>
 <p align="left">By “cutting and pasting” DNA into vectors, we can introduce foreign or exogenous DNA into bacteria. This type of DNA is now called <span style="color: #ff0000"><b>Recombinant DNA</b></span> and is the heart of biotechnology.</p>
 <!--nextpage-->
-<h2> <span style="font-family: 'Liberation Sans', sans-serif">Recombinant DNA Technology</span></h2>
+<h2>Recombinant DNA Technology</h2>
 <a title="By CNX OpenStax (https://cnx.org/contents/5CvTdmJL@4.4) [CC BY 4.0 (http://creativecommons.org/licenses/by/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AOSC_Microbio_12_01_MolCloning.jpg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/d/d6/OSC_Microbio_12_01_MolCloning.jpg" alt="OSC Microbio 12 01 MolCloning" width="512" /></a>
 https://youtu.be/8rXizmLjegI
 <a title="By Kelvinsong (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AGene_cloning.svg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Gene_cloning.svg/512px-Gene_cloning.svg.png" alt="Gene cloning" width="512" /></a>
-<h3><span style="font-family: 'Liberation Sans', Arial, sans-serif">Additional Resources:</span></h3>
+<h3>Additional Resources:</h3>
 <ol>
  	<li><span style="color: #0000ff"><a style="color: #0000ff" href="http://www.dnalc.org/resources/3d/20-mechanism-of-recombination.html" target="new">http://www.dnalc.org/resources/3d/20-mechanism-of-recombination.html</a></span></li>
  	<li><span style="color: #0000ff"><a style="color: #0000ff" href="http://www.dnalc.org/view/16705-Animation-34-Genes-can-be-moved-between-species-.html" target="new">http://www.dnalc.org/view/16705-Animation-34-Genes-can-be-moved-between-species-.html</a></span></li>
@@ -14488,19 +14578,19 @@ RNA purification occurs similar to DNA preparations. A silica based column is us
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=995</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2>Radioactive Chain Termination</h2>
-[caption id="" align="alignright" width="325"]<a title="By Jeremy Seto (CC-BY-NC-SA)" href="https://github.com/jeremyseto/bio-oer/blob/master/figures/DNAanalysis/sanger-schemes.png?raw=true" target="new"><img src="https://github.com/jeremyseto/bio-oer/blob/master/figures/DNAanalysis/sanger-schemes.png?raw=true" alt="Sange Sequencing Schemes" width="325" /></a> <span style="font-size: small">Credit: Jeremy Seto (CC-BY-NC-SA)</span>[/caption]
+[caption id="" align="alignright" width="325"]<a title="By Jeremy Seto (CC-BY-NC-SA)" href="https://github.com/jeremyseto/bio-oer/blob/master/figures/DNAanalysis/sanger-schemes.png?raw=true" target="new"><img src="https://github.com/jeremyseto/bio-oer/blob/master/figures/DNAanalysis/sanger-schemes.png?raw=true" alt="Sanger Sequencing Schemes" width="325" /></a> <span style="font-size: small">Credit: Jeremy Seto (CC-BY-NC-SA)</span>[/caption]
 
 The polymerization of nucleic acids occurs in a 5' → 3' direction. The 5' position has a phosphate group while the 3' position of the hexose has a hydroxyl group. Polymerization depends on these 2 functional groups in order for a dehydration synthesis reaction to occur and extend the sugar-phosphate backbone of the nucleic acid. In the 1970’s, Fred Sanger’s group discovered a fundamentally new method of 'reading' the linear DNA sequence using special bases called <strong><span style="color: #ff0000">chain terminators</span></strong> or <span style="color: #ff0000"><strong>dideoxynucleotides</strong></span>. The absence of a hydroxyl group at the 3' position blocks the polymerization resulting in a termination. This method is still in use today it is called: Sanger dideoxynucleotide chain-termination method. This method originally used a radioactively labeled primer to initiate the sequencing reaction. Four reactions take place where each reaction is intentionally “poisoned” with a dideoxy chain terminator. For example, 1 reaction will have all 4 dNTPs (deoxynucleotide triphosphates)with the addition to a small amount of ddATP (dideoxyadenosine triphosphate). This reaction will result in a series of premature terminations of the polymerization specifically at different locations where an Adenine would be incorporated.
 
-[caption id="" align="alignnone" width="256"]<a title="By NEUROtiker (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ADesoxyadenosintriphosphat_protoniert.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Desoxyadenosintriphosphat_protoniert.svg/640px-Desoxyadenosintriphosphat_protoniert.svg.png" alt="dATP" width="256" /></a> <span style="font-size: small">dATP is a natural monomer used in the polymerization of DNA. The 3'-OH is the attachment point of the next subsequent nucleotide.</span>[/caption][caption id="" align="alignnone" width="256"]<a title="By Yikrazuul (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ADideoxyadenosine_triphosphate.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dideoxyadenosine_triphosphate.svg/512px-Dideoxyadenosine_triphosphate.svg.png" alt="Dideoxyadenosine triphosphate" width="256" /></a> <span style="font-size: small">The lack of a 3'-OH in this molecule of ddATP makes it a chain terminator that will prohibit the addition of another nucleotide to the DNA polymer</span>[/caption]The product of these 4 separate sequencing reactions is run on a large polyacrylamide sequencing gels. The smallest fragments run through the gel the fastest and create a ladder-like pattern.  This can be visualized through use of an x-ray film that is sensitive to the radioactivity. Each lane of the gel corresponds to one of the four chain terminating reactions. The bases are read sequentially from the bottom up and reveals the sequence of the DNA.
+[caption id="" align="alignnone" width="256"]<a title="By NEUROtiker (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ADesoxyadenosintriphosphat_protoniert.svg" target="new"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Desoxyadenosintriphosphat_protoniert.svg/640px-Desoxyadenosintriphosphat_protoniert.svg.png" alt="dATP" width="256" /></a> <span style="font-size: small">dATP is a natural monomer used in the polymerization of DNA. The 3'-OH is the attachment point of the next subsequent nucleotide.</span>[/caption][caption id="" align="alignnone" width="256"]<a title="By Yikrazuul (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ADideoxyadenosine_triphosphate.svg" target="new"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dideoxyadenosine_triphosphate.svg/512px-Dideoxyadenosine_triphosphate.svg.png" alt="Dideoxyadenosine triphosphate" width="256" /></a> <span style="font-size: small">The lack of a 3'-OH in this molecule of ddATP makes it a chain terminator that will prohibit the addition of another nucleotide to the DNA polymer</span>[/caption]The product of these 4 separate sequencing reactions is run on a large polyacrylamide sequencing gels. The smallest fragments run through the gel the fastest and create a ladder-like pattern.  This can be visualized through use of an x-ray film that is sensitive to the radioactivity. Each lane of the gel corresponds to one of the four chain terminating reactions. The bases are read sequentially from the bottom up and reveals the sequence of the DNA.
 
-[caption id="" align="aligncenter" width="400"]<a title="By JWSchmidt at English Wikipedia CC-By-SA https://commons.wikimedia.org/wiki/File:Sequencegelnolabel.JPG and modified by Jeremy Seto" href="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/DNAanalysis/ATCG.png"><img src="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/DNAanalysis/ATCG.png" alt="Radioactive Fluorescent Seq" width="400" /></a> <span style="font-size: small">The sequencing gel can be manually scored. The profiles of each lane have been created using ImageJ to illustrate the banding pattern and subsequent sequence. <i><span style="font-size: small">Credit: </span></span><span style="color: #663366"><span style="font-size: small"><a href="https://en.wikipedia.org/wiki/User:JWSchmidt">John Schmidt</a> </span></span></span><span style="color: #000000"><span style="font-size: small">&amp; Jeremy Seto</span></span></span> <span style="color: #000000"><span style="font-size: small">(CC-BY-SA 3.0)</span></span></span></i></span></span>[/caption]
+[caption id="" align="aligncenter" width="400"]<a title="By JWSchmidt at English Wikipedia CC-By-SA https://commons.wikimedia.org/wiki/File:Sequencegelnolabel.JPG and modified by Jeremy Seto" href="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/DNAanalysis/ATCG.png" target="new"><img src="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/DNAanalysis/ATCG.png" alt="Radioactive Fluorescent Seq" width="600" /></a> <span style="font-size: small">The sequencing gel can be manually scored. The profiles of each lane have been created using ImageJ to illustrate the banding pattern and subsequent sequence. <i><span style="font-size: small">Credit: </span></i></span><span style="color: #663366"><span style="font-size: small"><a href="https://en.wikipedia.org/wiki/User:JWSchmidt">John Schmidt</a> </span></span><span style="color: #000000"><span style="font-size: small">&amp; Jeremy Seto</span></span> <span style="color: #000000"><span style="font-size: small">(CC-BY-SA 3.0)</span></span>[/caption]
 <h2>Fluorescent Chain Termination and Capillary Electrophoresis</h2>
-[caption id="" align="aligncenter" width="512"]<a title="By Estevezj (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASanger-sequencing.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sanger-sequencing.svg/1024px-Sanger-sequencing.svg.png" alt="Sanger-sequencing" width="512" /></a> <span style="font-size: small">Credit: <a href="https://commons.wikimedia.org/wiki/User:Estevezj" target="new">Estevezj </a>(CC-BY-SA 3.0)</span>[/caption]Radioactivity is dangerous and undesirable to work with so chain terminators with fluorescent tags were developed. This method synthesizes a series of DNA strands that are specifically fluorescent at the termination that is passed through a capillary electrophoresis system. As the fragments of DNA pass a laser and detector, the different fluorescent signal attributed to each ddNTP is identified and generates a chromatogram to represent the sequence. Fluorescent Chain Terminators are now used in reactions and run through a small capillary. The smallest fragments run through first and are detected to reveal a chromatogram .
+[caption id="" align="aligncenter" width="512"]<a title="By Estevezj (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASanger-sequencing.svg" target="new"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sanger-sequencing.svg/1024px-Sanger-sequencing.svg.png" alt="Sanger-sequencing" width="512" /></a> <span style="font-size: small">Credit: <a href="https://commons.wikimedia.org/wiki/User:Estevezj" target="new">Estevezj </a>(CC-BY-SA 3.0)</span>[/caption]Radioactivity is dangerous and undesirable to work with so chain terminators with fluorescent tags were developed. This method synthesizes a series of DNA strands that are specifically fluorescent at the termination that is passed through a capillary electrophoresis system. As the fragments of DNA pass a laser and detector, the different fluorescent signal attributed to each ddNTP is identified and generates a chromatogram to represent the sequence. Fluorescent Chain Terminators are now used in reactions and run through a small capillary. The smallest fragments run through first and are detected to reveal a chromatogram .
 
 <strong><span style="color: #ff0000">Fluorescent Chromatograms</span></strong> are used to score the the nucleotide chain termination. The amplitude of each peak corresponds to the strength or certainty of the nucleotide call. Chromatogram files are usually provided alongside the sequence file with the extension <strong><span style="color: #ff0000">*.ab1</span></strong> while the sequence files are provided as a text file in the <span style="color: #ff0000"><strong>fasta</strong></span> format. More about these files can be found <a href="sequence-analysis" target="new"><strong><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">here</span></span></strong></a>. The ab1 files are extremely important to analyze when there is ambiguity or sequencing errors. These ab1 files can also be used to ascribe a quality score on the base call.
 
-<a title="See page for author [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ADNA_sequencing_interferogram.png"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/DNA_sequencing_interferogram.png" alt="DNA sequencing interferogram" width="600" /></a>
+<a title="See page for author [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ADNA_sequencing_interferogram.png" target="new"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/DNA_sequencing_interferogram.png" alt="DNA sequencing interferogram" width="600" /></a>
 
 When there is too much ambiguity in the signal because of multiple peaks, you will often find a <strong>N</strong> in place of one of the 4 nucleotides (A,T,C,G).
 
@@ -14508,7 +14598,7 @@ This video (source: <span style="text-decoration: underline"><span style="color:
 
 https://youtu.be/ONGdehkB8jU
 <h2>Sequencing Genomes</h2>
-[caption id="" align="aligncenter" width="400"]<a title="By Jeremy Seto (CC-BY-NC-SA)" href="https://github.com/jeremyseto/bio-oer/blob/master/figures/DNAanalysis/shotgun-sequencing.png?raw=true"><img src="https://github.com/jeremyseto/bio-oer/blob/master/figures/DNAanalysis/shotgun-sequencing.png?raw=true" alt="Shotgun Sequencing" width="400" /></a> <span style="font-size: small">Credit:Jeremy Seto (CC-BY-NC-SA 3.0)</span>[/caption]
+[caption id="" align="aligncenter" width="400"]<a title="By Jeremy Seto (CC-BY-NC-SA)" href="https://github.com/jeremyseto/bio-oer/blob/master/figures/DNAanalysis/shotgun-sequencing.png?raw=true" target="new"><img src="https://github.com/jeremyseto/bio-oer/blob/master/figures/DNAanalysis/shotgun-sequencing.png?raw=true" alt="Shotgun Sequencing" width="400" /></a> <span style="font-size: small">Credit:Jeremy Seto (CC-BY-NC-SA 3.0)</span>[/caption]
 
 Traditional sequencing of genomes was a long and tedious process that cloned fragments of genomic DNA into plasmids to generate a genomic DNA library (<strong><span style="color: #ff0000">gDNA</span></strong>). These plasmids were individually sequenced using Sanger sequencing methodology and computational was performed to identify overlapping pieces, like a jigsaw puzzle. This assembly would result in a draft scaffold.
 
@@ -15525,9 +15615,8 @@ mv oranges.phy_phyml_tree.txt oranges.nwk
 		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?page_id=1378</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2><b>Enzyme kinetics of Turnip Peroxidase</b></h2>
-Hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) is a strong oxidizing agent that can damage cells and is formed as a by-product of oxygen consumption. Fortunately, aerobic cells contain peroxidases that break down peroxide into water and oxygen. This enzyme reduces hydrogen peroxide into H<sub>2</sub>O.
-
-<span style="color: #000000"><span style="font-size: large"><b>2 H<sub>2</sub>O<sub>2 </sub>+ peroxidase → 2 H<sub>2</sub>O + O<sub>2 </sub>+ peroxidase</b></span></span>
+Hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) is a strong oxidizing agent that can damage cells and is formed as a by-product of oxygen consumption. Fortunately, aerobic cells contain peroxidases that break down peroxide into water and oxygen. This enzyme reduces hydrogen peroxide into H<sub>2</sub>O by oxidizing an organic compound (<em>AH<sub>2</sub></em> -&gt; <em>A</em>).
+<p style="text-align: center">[latex]{H_2O_2} + {AH_2} \xrightarrow{\text{peroxidase}} {2H_2O} + {A}[/latex]</p>
 This exercise uses turnip extract as a source of peroxidase. This turnip extract requires a source of electrons (a reducing agent) in order for the reaction to occur. In this case, a colorless organic compound called <span style="color: #ff0000"><b>guaiacol</b></span> is used. Guaiacol is oxidized in the process of converting the peroxide and becomes brown. Enzymatic activity can then be traced using a spectrophotometer to measure the amount of brown being formed.
 <h2 class="western">Set-up and Calibrate LabQuest with SpectroVis Plus</h2>
 <ol>
