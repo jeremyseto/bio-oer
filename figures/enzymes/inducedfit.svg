@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 499.00001 460.00001"
+   height="460"
+   width="499">
+  <title
+     id="title4606">Induced Fit of Enzymes and Substrates</title>
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Induced Fit of Enzymes and Substrates</dc:title>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>TimVickers, Fvasconcellos, Jeremy Seto</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jeremy Seto</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-592.36216)"
+     id="layer1">
+    <g
+       transform="translate(-131.01005,178.0876)"
+       id="g4551">
+      <path
+         style="opacity:1;fill:none;fill-opacity:0.55882353;stroke:#000000;stroke-width:6.57024288;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4136"
+         d="m -266.40226,534.01227 a 169.35008,169.35008 0 0 1 110.96698,16.90169"
+         transform="matrix(0.67070047,-0.7417283,0.7417283,0.67070047,0,0)" />
+      <path
+         id="path2257"
+         d="m 364.51856,782.9232 c -0.70533,7.05734 -7.91338,12.31466 -13.84219,12.31466 -5.92881,0 -12.43153,-3.98771 -13.27793,-10.76292 -0.0804,-0.64347 -0.0927,-0.0179 0.0176,-0.6348 -4.29576,5.72316 -8.58745,12.34707 -8.58745,22.35911 0,18.98579 15.41692,34.38507 34.40271,34.38507 18.98579,0 34.4027,-15.39927 34.4027,-34.38507 0,-11.2024 -3.99224,-19.54161 -11.16565,-24.49631 l -11.3874,13.90905 -10.56239,-12.68879 z"
+         style="opacity:1;fill:#5e5e5e;fill-opacity:1;fill-rule:evenodd;stroke:#b4b4b4;stroke-width:1.8829205;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         id="path2261"
+         d="m 361.85562,781.81945 c 0,6.23328 -5.0589,11.29218 -11.29218,11.29218 -6.23328,0 -11.29217,-5.0589 -11.29217,-11.29218 l 0,-9.33887 22.59523,0 -0.0109,9.33887 z"
+         style="fill:#508888;fill-opacity:1;fill-rule:evenodd;stroke:#286060;stroke-width:1.29781604;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         id="path2263"
+         d="m 363.07767,772.46346 11.68994,18.80702 14.24132,-18.80702 -25.93126,0 z"
+         style="fill:#ff5e00;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.29781604;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.10276127px;line-height:125%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="363.49976"
+         y="858.13977"
+         id="text2336"><tspan
+           x="363.49976"
+           y="858.13977"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.9991703px;line-height:125%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="tspan2338">Enzyme/products</tspan><tspan
+           id="tspan2340"
+           x="363.49976"
+           y="871.88873"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.9991703px;line-height:125%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle">complex</tspan></text>
+      <path
+         id="path2259"
+         d="m 206.59294,626.39903 c 5.50115,6.26734 8.83761,14.48098 8.83761,23.46916 0,19.65155 -15.94908,35.60064 -35.60063,35.60064 -19.65156,0 -35.60064,-15.94909 -35.60064,-35.60064 0,-7.13974 2.10526,-13.79075 5.72847,-19.36573 0,0 1.49985,-0.7913 2.12115,0.86548 0.62129,1.65677 4.14193,6.31645 10.56193,6.52355 6.42001,0.20709 9.11227,-0.10355 10.2513,-0.31065 1.13903,-0.2071 4.97032,-2.7958 7.55903,-7.55903 2.58872,-4.76323 6.31646,0.20709 7.55904,2.27806 1.24258,2.07097 4.14194,6.6271 4.14194,6.6271 0,0 9.11226,-12.32226 10.56194,-12.63291 1.44967,-0.31064 3.21,-0.41419 3.87886,0.10497 z"
+         style="fill:#5e5e5e;fill-opacity:1;fill-rule:evenodd;stroke:#b4b4b4;stroke-width:2.10873032;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         id="path2267"
+         d="m 162.07571,591.198 c 4.57546,4.57547 4.57545,12.00231 0,16.57777 -4.57547,4.57546 -12.00231,4.57546 -16.57777,0 l -6.85509,-6.85509 16.58576,-16.58575 6.8471,6.86307 z"
+         style="fill:#508888;fill-opacity:1;fill-rule:evenodd;stroke:#286060;stroke-width:1.34724474;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         id="path2269"
+         d="m 203.53919,581.39794 -5.2242,22.38592 24.25872,-3.3514 -19.03452,-19.03452 z"
+         style="fill:#ff5e00;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.34724474;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g2304"
+         transform="matrix(0.58575842,0,0,0.58575842,-158.00155,564.36594)">
+        <path
+           id="path2300"
+           d="m 554,114.11218 c 0,0 4.5,-11.625 -3.625,-21.499999"
+           style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:2.875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path2302"
+           d="m 554.72527,88.045308 -8.97142,8.971417 -2.07712,-10.827572 11.04854,1.856155 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <path
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1.68405545;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 189.70673,628.40431 c 0,0 -2.33936,-10.7293 5.40938,-16.95298"
+         id="path2310" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.58575845px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 192.61346,608.01776 5.43629,6.73065 1.29436,-5.95403 -6.73065,-0.77662 z"
+         id="path2312" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.44944763px;line-height:125%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="184.11903"
+         y="696.94745"
+         id="text2342"><tspan
+           id="tspan2346"
+           x="184.11903"
+           y="696.94745"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.41808224px;line-height:125%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle">Products leaving</tspan><tspan
+           x="184.11903"
+           y="711.22003"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.41808224px;line-height:125%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="tspan2350">active site of enzyme</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.02910089px;line-height:135.00000238%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="180.79636"
+         y="587.61578"
+         id="text2352"><tspan
+           x="181.89293"
+           y="587.61578"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.90773869px;line-height:135.00000238%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="tspan2356"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.90773869px;line-height:135.00000238%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+             id="tspan2360">Products </tspan></tspan></text>
+      <path
+         style="fill:#8bfc00;fill-opacity:1;fill-rule:evenodd;stroke:#60b300;stroke-width:1.26881194;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 360.27199,415.62906 -0.0106,9.13017 c 0,6.09397 -4.94583,11.03981 -11.03981,11.03981 -6.09398,0 -11.03981,-4.94584 -11.03981,-11.03981 l 0,-9.13017 22.09026,0 11.91139,18.11088 13.09557,-18.11088 -25.00696,0 z"
+         id="path1354" />
+      <path
+         style="fill:#5e5e5e;fill-opacity:1;fill-rule:evenodd;stroke:#b4b4b4;stroke-width:1.98596656;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 387.62244,457.94021 c 5.18089,5.90248 8.32311,13.63795 8.32311,22.10287 0,18.50749 -15.02058,33.52807 -33.52808,33.52807 -18.5075,0 -33.52808,-15.02058 -33.52808,-33.52807 0,-6.72409 1.98271,-12.98791 5.39498,-18.23832 0,0 1.41254,-0.74524 1.99766,0.81509 0.58512,1.56032 3.9008,5.94872 9.94705,6.14377 6.04626,0.19504 8.58178,-0.0975 9.6545,-0.29256 1.07272,-0.19505 4.68097,-2.63305 7.11897,-7.11898 2.43801,-4.48592 5.94873,0.19504 7.11898,2.14545 1.17024,1.9504 3.9008,6.24129 3.9008,6.24129 0,0 8.58178,-11.6049 9.94706,-11.89746 1.36528,-0.29256 3.02313,-0.39008 3.65305,0.0988 z"
+         id="path2237" />
+      <g
+         id="g2294"
+         transform="matrix(0.5516574,0,0,0.5516574,313.46231,399.5185)">
+        <path
+           id="path2290"
+           d="m 90.75,58.237181 c 0,0 -13.625,15.5 -9.875,31.25"
+           style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:2.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path2292"
+           d="m 74.75,91.174681 11.375,-4.375 -2.5625,10.9375 -8.8125,-6.5625 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <path
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.96540046;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 399.4519,427.50804 -24.20397,-8.41277"
+         id="path2314" />
+      <path
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.96540046;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 394.01397,446.82158 -21.06436,15.70075"
+         id="path2316" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:8.89933014px;line-height:125%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="364.80606"
+         y="528.66089"
+         id="text2320"><tspan
+           id="tspan2322"
+           x="364.80606"
+           y="528.66089"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.75335789px;line-height:125%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle">Substrate entering</tspan><tspan
+           x="364.80606"
+           y="542.1026"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.75335789px;line-height:125%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="tspan2324">active site of enzyme</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.61988878px;line-height:135.00000238%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="418.12784"
+         y="430.26779"
+         id="text2362"><tspan
+           x="418.12784"
+           y="430.26779"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44737482px;line-height:135.00000238%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="tspan2364">Substrate</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.61988878px;line-height:135.00000238%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="402.54407"
+         y="443.4133"
+         id="text2368"><tspan
+           x="402.54407"
+           y="443.4133"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44737482px;line-height:135.00000238%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="tspan2370">Active site</tspan></text>
+      <path
+         style="fill:#8bfc00;fill-opacity:1;fill-rule:evenodd;stroke:#60b300;stroke-width:1.33412969;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 526.7025,616.61051 -0.0112,9.60018 c 0,6.40769 -5.20045,11.60814 -11.60814,11.60814 -6.4077,0 -11.60814,-5.20045 -11.60814,-11.60814 l 0,-9.60018 23.22746,0 12.52459,19.04322 13.76971,-19.04322 -26.2943,0 z"
+         id="path2230" />
+      <path
+         style="opacity:1;fill:#5e5e5e;fill-opacity:1;fill-rule:evenodd;stroke:#b4b4b4;stroke-width:1.93560576;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 529.34382,626.78286 c -0.72506,7.25481 -8.1348,13.06939 -14.2295,13.06939 -6.0947,0 -12.77937,-4.50945 -13.64946,-11.47424 -0.0826,-0.66146 -0.0952,-0.0184 0.0181,-0.65256 -4.41596,5.8833 -8.82773,12.69256 -8.82773,22.98473 0,19.51703 15.84829,35.34719 35.36531,35.34719 19.51703,0 35.36531,-15.83015 35.36532,-35.34719 0,-11.51585 -4.10395,-20.08839 -11.47808,-25.18173 l -11.70602,14.29824 -10.85794,-13.04383 z"
+         id="path2244" />
+      <path
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1.01509869;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 578.27566,605.98879 551.14553,626.8995"
+         id="path2318" />
+      <text
+         id="text2326"
+         y="705.26263"
+         x="529.26263"
+         style="font-style:normal;font-weight:normal;font-size:9.35746288px;line-height:125%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan2330"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.30693436px;line-height:125%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           y="705.26263"
+           x="529.26263">Enzyme/substrate</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.30693436px;line-height:125%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           y="719.3963"
+           x="529.26263"
+           id="tspan2334">complex</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.96067715px;line-height:120.00000477%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="585.32629"
+         y="591.39355"
+         id="text2372"><tspan
+           x="585.32629"
+           y="591.39355"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.83076143px;line-height:120.00000477%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="tspan2374">Enzyme changes shape</tspan><tspan
+           x="585.32629"
+           y="600.79047"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.83076143px;line-height:120.00000477%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="tspan2376">slightly as substrate binds</tspan></text>
+      <path
+         transform="matrix(0.82107337,0.57082266,-0.57082266,0.82107337,0,0)"
+         d="m 636.84899,148.25397 a 169.35008,169.35008 0 0 1 110.96698,16.90169"
+         id="path4488"
+         style="opacity:1;fill:none;fill-opacity:0.55882353;stroke:#000000;stroke-width:6.57024288;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:0.55882353;stroke:#000000;stroke-width:6.57024288;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4490"
+         d="m 221.37438,-870.35846 a 169.35008,169.35008 0 0 1 110.96698,16.90169"
+         transform="matrix(-0.64609854,0.76325401,-0.76325401,-0.64609854,0,0)" />
+      <path
+         transform="matrix(-0.8177338,-0.57559659,0.57559659,-0.8177338,0,0)"
+         d="m -706.68946,-488.66004 a 169.35008,169.35008 0 0 1 110.96698,16.90169"
+         id="path4492"
+         style="opacity:1;fill:none;fill-opacity:0.55882353;stroke:#000000;stroke-width:6.57024288;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         id="path4517"
+         d="m 212.19947,452.54784 -0.0106,9.13017 c 0,6.09397 -4.94583,11.03981 -11.03981,11.03981 -6.09398,0 -11.03981,-4.94584 -11.03981,-11.03981 l 0,-9.13017 22.09026,0 11.91139,18.11088 13.09557,-18.11088 -25.00696,0 z"
+         style="fill:#8bfc00;fill-opacity:1;fill-rule:evenodd;stroke:#60b300;stroke-width:1.26881194;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 208.90754,476.78099 c 0,0 7.78182,14.37424 26.66048,16.82589 24.57555,3.19146 51.66049,-4.60268 51.66049,-4.60268"
+         id="path4521" />
+      <path
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4543"
+         d="m 305.82369,491.47499 -3.96809,-13.87147 13.99709,3.49927 z" />
+      <path
+         d="m 517.95571,566.73137 -3.96809,-13.87147 13.99709,3.49927 z"
+         id="path4545"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="matrix(-0.06202643,0.99807451,-0.99807451,-0.06202643,1109.8027,81.397484)" />
+      <path
+         transform="matrix(0.55414515,0.83242006,-0.83242006,0.55414515,609.87553,63.562038)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4547"
+         d="m 517.95571,566.73137 -3.96809,-13.87147 13.99709,3.49927 z" />
+      <path
+         d="m 517.95571,566.73137 -3.96809,-13.87147 13.99709,3.49927 z"
+         id="path4549"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="matrix(0.89261231,0.4508251,-0.4508251,0.89261231,3.5198718,-5.3892723)" />
+    </g>
+  </g>
+</svg>
