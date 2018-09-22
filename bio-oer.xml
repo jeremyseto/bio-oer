@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.9.5" created="2018-07-17 11:39" -->
+<!-- generator="WordPress/4.9.8" created="2018-09-22 21:34" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,8 +28,8 @@
 <channel>
 	<title>Biology OER</title>
 	<link>https://openlab.citytech.cuny.edu/bio-oer</link>
-	<description>Open Education Resources for General Biology I and Molecular &#38; Cell Biology</description>
-	<pubDate>Tue, 17 Jul 2018 11:39:22 +0000</pubDate>
+	<description>Open Educational Resources for General Biology I and Molecular &#38; Cell Biology</description>
+	<pubDate>Sat, 22 Sep 2018 21:34:49 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://openlab.citytech.cuny.edu/</wp:base_site_url>
@@ -104,7 +104,7 @@
 		<wp:tag_name><![CDATA[breadth of knowledge]]></wp:tag_name>
 	</wp:tag>
 
-	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
 
 <image>
 	<url>https://openlab.citytech.cuny.edu/bio-oer/files/2016/09/cropped-cropped-banner-1-32x32.png</url>
@@ -1950,64 +1950,6 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 		</wp:postmeta>
 	</item>
 	<item>
-		<title></title>
-		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1395</link>
-		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
-		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1395</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1395</wp:post_id>
-		<wp:post_date><![CDATA[2017-11-01 11:51:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[194]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1509551477]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>01_ugene-1024x559</title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/bioinformatics/sequence-analysis/01_ugene-1024x559/</link>
 		<pubDate>Wed, 10 Jan 2018 14:27:14 +0000</pubDate>
@@ -2129,6 +2071,99 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1024;s:6:"height";i:559;s:4:"file";s:29:"2015/07/04_ugene-1024x559.png";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:29:"04_ugene-1024x559-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:29:"04_ugene-1024x559-300x164.png";s:5:"width";i:300;s:6:"height";i:164;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:29:"04_ugene-1024x559-768x419.png";s:5:"width";i:768;s:6:"height";i:419;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:30:"04_ugene-1024x559-1024x559.png";s:5:"width";i:1024;s:6:"height";i:559;s:9:"mime-type";s:9:"image/png";}s:14:"post-thumbnail";a:4:{s:4:"file";s:29:"04_ugene-1024x559-604x270.png";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>banner</title>
+		<link>https://openlab.citytech.cuny.edu/bio-oer/banner/</link>
+		<pubDate>Wed, 29 Aug 2018 17:22:47 +0000</pubDate>
+		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
+		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/files/2018/08/banner.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1760</wp:post_id>
+		<wp:post_date><![CDATA[2018-08-29 13:22:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-08-29 17:22:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[banner]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://openlab.citytech.cuny.edu/bio-oer/files/2018/08/banner.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_no_alt]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2018/08/banner.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:172;s:4:"file";s:18:"2018/08/banner.png";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:18:"banner-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:17:"banner-300x43.png";s:5:"width";i:300;s:6:"height";i:43;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:18:"banner-768x110.png";s:5:"width";i:768;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:19:"banner-1024x147.png";s:5:"width";i:1024;s:6:"height";i:147;s:9:"mime-type";s:9:"image/png";}s:14:"post-thumbnail";a:4:{s:4:"file";s:18:"banner-604x172.png";s:5:"width";i:604;s:6:"height";i:172;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1395</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
+		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1395</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1395</wp:post_id>
+		<wp:post_date><![CDATA[2017-11-01 11:51:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[194]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1509551477]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -4394,64 +4429,6 @@ McCurry MR, Mahony M, Clausen PD, Quayle MR, Walmsley CW, et al. (2015) The Rela
 		</wp:postmeta>
 	</item>
 	<item>
-		<title></title>
-		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1435</link>
-		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
-		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1435</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1435</wp:post_id>
-		<wp:post_date><![CDATA[2017-11-01 11:51:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>164</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[203]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1509551478]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Biologically important Macromolecules</title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/chemistry/biologically-important-macromolecules/</link>
 		<pubDate>Sat, 13 Jun 2015 20:29:41 +0000</pubDate>
@@ -4656,7 +4633,7 @@ Living things are composed of <span style="color: #ff0000"><b>organic molecules<
 
 [caption id="attachment_25" align="alignleft" width="250" class=" "]<a href="https://github.com/jeremyseto/bio-oer/blob/master/figures/chemistry/macromolecules/starch-glycogen.png" target="new"><img class="alignleft size-full" src="https://github.com/jeremyseto/bio-oer/blob/master/figures/chemistry/macromolecules/starch-glycogen.png?raw=true" width="250" /></a> <span style="font-size: small">Plants store carbohydrates as a simple repeating polymer of glucose called starch. Amylose is a type of starch. Animal cells store glucose into a storage polymer called glycogen which is slightly more complicated than amylose.</span>[/caption]
 
-Carbohydrates that are used for energy storage are not reducing sugars since they are polymers that lack free aldehydes. Plant cells store energy in the form of starches like amylose or pectin. Since these molecules are larger than monosaccharides or disaccharides, they are not sweet to the taste and are not very soluble in water.<b> </b><span style="color: #ff0000"><b>Iodine</b></span> (iodine-potassium iodide, I<span style="color: #000000"><sub>&gt;2</sub></span>KI) staining distinguishes starch from monosaccharides, disaccharides, and other polysaccharides. The basis for this test is that starch is a coiled polymer of glucose --- iodine interacts with these coiled molecules and becomes bluish black. Iodine does not react with other carbohydrates that are not coiled, and remains yellowish brown. Therefore, a <span style="color: #000080">bluish black color</span> is a positive test for starch, and a <span style="color: #ffcc00">yellowish brown</span> color (i.e., no color change) is a negative test for starch. Notably, glycogen, a common energy storage polysaccharide in animals, has a slightly different structure than does starch and produces only an intermediate color reaction.
+Carbohydrates that are used for energy storage are not reducing sugars since they are polymers that lack free aldehydes. Plant cells store energy in the form of starches like amylose or pectin. Since these molecules are larger than monosaccharides or disaccharides, they are not sweet to the taste and are not very soluble in water.<b> </b><span style="color: #ff0000"><b>Iodine</b></span> (iodine-potassium iodide, I<span style="color: #000000"><sub>2</sub></span>KI) staining distinguishes starch from monosaccharides, disaccharides, and other polysaccharides. The basis for this test is that starch is a coiled polymer of glucose --- iodine interacts with these coiled molecules and becomes bluish black. Iodine does not react with other carbohydrates that are not coiled, and remains yellowish brown. Therefore, a <span style="color: #000080">bluish black color</span> is a positive test for starch, and a <span style="color: #ffcc00">yellowish brown</span> color (i.e., no color change) is a negative test for starch. Notably, glycogen, a common energy storage polysaccharide in animals, has a slightly different structure than does starch and produces only an intermediate color reaction.
 <h2><span style="color: #008000"><b>Activity: Iodine Test For Starch</b></span></h2>
 <ol>
  	<li>Obtain 7 test-tubes and number them 1-7.</li>
@@ -5385,127 +5362,6 @@ about swelling</b></span></p>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Analyzing DNA</title>
-		<link>https://openlab.citytech.cuny.edu/bio-oer/analyzing-dna/</link>
-		<pubDate>Sun, 14 Jun 2015 18:43:21 +0000</pubDate>
-		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
-		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=60</guid>
-		<description></description>
-		<content:encoded><![CDATA[<h2>Agarose Gel Electrophoresis</h2>
-<a title="By Yikrazuul (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AAgarose_polymere.svg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Agarose_polymere.svg/256px-Agarose_polymere.svg.png" alt="Agarose polymere" width="256" /></a>
-<span style="color: #ff0000"><strong>Agarose</strong></span> is a linear carbohydrate polymer purified from the cell walls of certain species of algae. Agar is a combination of the crude extract that contains agarose and the smaller polysaccharide agaropectin. When dissolved and melted in liquid, agarose strands become tangled together to form a netting that holds the fluid in a gel. Reduction of the fluid creates a higher percentage gel that is firmer and contains smaller pores within the netting.
-
-<a title="By Joseph Elsbernd (2% agarose gel in a gel tray (front, angled)) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ATwo_percent_Agarose_Gel_in_Borate_Buffer_cast_in_a_Gel_Tray_(Front%2C_angled).jpg"><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Two_percent_Agarose_Gel_in_Borate_Buffer_cast_in_a_Gel_Tray_%28Front%2C_angled%29.jpg/256px-Two_percent_Agarose_Gel_in_Borate_Buffer_cast_in_a_Gel_Tray_%28Front%2C_angled%29.jpg" alt="Two percent Agarose Gel in Borate Buffer cast in a Gel Tray (Front, angled)" width="256" /></a>Placing a <strong><span style="color: #ff0000">comb</span></strong> within the melted agarose creates spaces that allow for the insertion of samples when the gel is solidified. Molecules can traverse through the pores as they are drawn by electrical currents. Charged compounds will migrate towards the electrode of opposite charge but migration rate will be influenced by the size of the molecules. Smaller compounds can easily traverse through the webbing while larger items are retarded by the pore size. <a href="http://learn.genetics.utah.edu/content/labs/gel/" target="new"><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">Follow this simulation</span></span></a> to get a better idea of how we use <strong><span style="color: #ff0000">Agarose Gel Electrophoresis</span></strong> in molecular biology to study DNA fragments.
-
-DNA molecules are not readily visible when <span style="color: #ff0000"><strong>resolved</strong></span> (separated) on an agarose gel. In order to visualize the molecules, a DNA dye must be administered to the gel. In research labs, a <strong><span style="color: #ff0000">DNA intercalating agent</span></strong> called Ethidium Bromide is added to the molten gel and will bind to the DNA of the samples when run. Ethidium Bromide can then be visualized on a UV box that will fluoresce the compound and reveal bands where DNA is accumulated. Since Ethidium Bromide is known as a carcinogen, teaching labs will use a safer DNA intercalating agent known as Sybr Green. This can be visualized in a similar fashion, but will fluoresce a green color instead.
-
-[caption id="" align="aligncenter" width="500"]<a title="Agarose Gels by jeremy Seto flickr.com/jamescastle" href="https://www.flickr.com/photos/jamescastle/37394472310/" target="new"><img src="https://farm5.staticflickr.com/4507/37394472310_c9d3afa3ed.jpg" alt="Agarose Gels" width="500" height="240" /></a> <small>Agarose gels visualized on a UV transilluminator. Left shows a gel with Ethidium bromide. Right shows a gel with Sybr Green.</small>[/caption]
-
-Agarose gels are made of and bathed in a buffered solution, usually of Tris-Borate-EDTA (<strong><span style="color: #ff0000">TBE</span></strong>) or Tris-Acetate-EDTA (<span style="color: #ff0000"><strong>TAE</strong></span>). Regardless of buffer solution, the buffer provides necessary electrolytes  for the current to pass through and maintain the pH of the solution.
-
-DNA samples are prepared in a buffer similar to the solution that it will be run in to ensure that the phosphate backbone of the DNA remains deprotonated and moves to the positive electrode. Additionally, <span style="color: #ff0000"><strong>glycerol</strong></span> or another compound is added to this buffer in order for the solution to sink into the wells without spreading out. A dye is often included in this loading buffer in order to visualize the loading in the wells and to track the relative progression of gel.
-<h2>Agarose Gel Set-up</h2>
-<a title="By CNX OpenStax (https://cnx.org/contents/5CvTdmJL@4.4) [CC BY 4.0 (http://creativecommons.org/licenses/by/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AOSC_Microbio_12_02_AgaroseGE.jpg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/3/30/OSC_Microbio_12_02_AgaroseGE.jpg" alt="OSC Microbio 12 02 AgaroseGE" width="512" /></a>
-https://upload.wikimedia.org/wikipedia/commons/8/84/Agarose_Gel_Electrophoresis_-_Assembling_the_Rig_and_Loading-Running_the_Gel.webm
-<h2>External Resources</h2>
-<ul>
- 	<li><a href="http://learn.genetics.utah.edu/content/labs/gel/" target="new">Gel Electrophoresis Simulation</a></li>
- 	<li>The Structure of DNA <a href="http://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397" target="new">http://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397</a></li>
- 	<li><a href="http://learn.genetics.utah.edu/content/science/forensics/" target="new">http://learn.genetics.utah.edu/content/science/forensics/</a></li>
-</ul>
-<!--nextpage-->
-<h2>Electrophoresis of Dyes (activity)</h2>
-<ol>
- 	<li>Prepare a 1% agarose gel by adding 60ml Tris-Borate-EDTA buffer (TBE) to 0.6g agarose in an erlenmeyer flask</li>
- 	<li>Place flask in microwave or on heat until agarose is melted
-<ul>
- 	<li>stop periodically and swirl solution and do not permit to boil over</li>
-</ul>
-</li>
- 	<li>Assemble the casting tray by blocking the ends with tape or plastic gaskets</li>
- 	<li>Place the comb into the center of the casting tray</li>
- 	<li>You may place the casting trays inside a refrigerator and pour the solution into the tray</li>
- 	<li>Wait until the gel is solidified</li>
- 	<li>Carefully separate the gaskets from the tray</li>
- 	<li>Remove the comb and place the casting tray into an electrophoresis chamber</li>
- 	<li>Cover the gel with TBE buffer</li>
- 	<li>Using a micropipettor, load 40-50μl dye samples sequentially into  the wells</li>
- 	<li>Cover the electrophoresis chamber with the lid and ensure good contact between electrodes
-<ul>
- 	<li>It is conventional that the <strong><span style="color: #ff0000">POSITIVE</span></strong> side of the tank is nearest to you</li>
- 	<li>With the <strong><span style="color: #ff0000">POSITIVE</span></strong> side nearest to you, load the samples from left to right</li>
-</ul>
-</li>
- 	<li>Set the power supply to 100-120V and press the Run button (you should see bubbles at each electrode) and allow to run for at least 40 minutes</li>
- 	<li>After 40 minutes, stop the current and remove the gel in casting tray</li>
- 	<li>Place tray on a white background and document your gel</li>
-</ol>
-<h3>Activity Follow-up</h3>
-<ol>
- 	<li>What colors were the dyes originally before loading into the wells?</li>
- 	<li>How many separate bands of dye are in each well following the run?</li>
- 	<li>What does it mean that there are multiple bands in a lane? What does it mean that there is only one band in a lane?</li>
- 	<li>What does the length of migration illustrate to us about the properties of the dye molecules?</li>
- 	<li>In which direction did the dye molecules migrate? What does the direction of migration indicate about the analytes?</li>
- 	<li>Are there lanes where there are multiple bands of the SAME color?</li>
-</ol>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>60</wp:post_id>
-		<wp:post_date><![CDATA[2015-06-14 14:43:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-06-14 18:43:21]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[analyzing-dna]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>11</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="post_tag" nicename="analysis"><![CDATA[analysis]]></category>
-		<category domain="post_tag" nicename="visual-communication"><![CDATA[visual communication]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[975]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_bd4de352284982fbb7243a2d1ef796ba]]></wp:meta_key>
-			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_bf99db397f6f785726772549f2c9a45d]]></wp:meta_key>
-			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_d3460b5bd6dd003d4e36d68acb6164e0]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe width="604" height="340" src="https://www.youtube.com/embed/THmE61QNOfA?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_time_d3460b5bd6dd003d4e36d68acb6164e0]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1479748927]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[975]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_bd4de352284982fbb7243a2d1ef796ba]]></wp:meta_key>
-			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_bf99db397f6f785726772549f2c9a45d]]></wp:meta_key>
-			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_d3460b5bd6dd003d4e36d68acb6164e0]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe width="604" height="340" src="https://www.youtube.com/embed/THmE61QNOfA?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_time_d3460b5bd6dd003d4e36d68acb6164e0]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1479748927]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Alignment and Tree</title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/?page_id=548</link>
 		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
@@ -5791,6 +5647,64 @@ In our lab, we look at some pond water. What do we see? Why is this significant?
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_a3d8a3ea354ecd5c39a1a89df012333a]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1530033115]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>https://openlab.citytech.cuny.edu/bio-oer/?p=1435</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
+		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?p=1435</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1435</wp:post_id>
+		<wp:post_date><![CDATA[2017-11-01 11:51:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>164</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[203]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1509551478]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -6297,17 +6211,138 @@ In our lab, we look at some pond water. What do we see? Why is this significant?
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>Analyzing DNA</title>
+		<link>https://openlab.citytech.cuny.edu/bio-oer/analyzing-dna/</link>
+		<pubDate>Sun, 14 Jun 2015 18:43:21 +0000</pubDate>
+		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
+		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=60</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>Agarose Gel Electrophoresis</h2>
+<a title="By Yikrazuul (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AAgarose_polymere.svg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Agarose_polymere.svg/256px-Agarose_polymere.svg.png" alt="Agarose polymere" width="256" /></a>
+<span style="color: #ff0000"><strong>Agarose</strong></span> is a linear carbohydrate polymer purified from the cell walls of certain species of algae. Agar is a combination of the crude extract that contains agarose and the smaller polysaccharide agaropectin. When dissolved and melted in liquid, agarose strands become tangled together to form a netting that holds the fluid in a gel. Reduction of the fluid creates a higher percentage gel that is firmer and contains smaller pores within the netting.
+
+<a title="By Joseph Elsbernd (2% agarose gel in a gel tray (front, angled)) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ATwo_percent_Agarose_Gel_in_Borate_Buffer_cast_in_a_Gel_Tray_(Front%2C_angled).jpg"><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Two_percent_Agarose_Gel_in_Borate_Buffer_cast_in_a_Gel_Tray_%28Front%2C_angled%29.jpg/256px-Two_percent_Agarose_Gel_in_Borate_Buffer_cast_in_a_Gel_Tray_%28Front%2C_angled%29.jpg" alt="Two percent Agarose Gel in Borate Buffer cast in a Gel Tray (Front, angled)" width="256" /></a>Placing a <strong><span style="color: #ff0000">comb</span></strong> within the melted agarose creates spaces that allow for the insertion of samples when the gel is solidified. Molecules can traverse through the pores as they are drawn by electrical currents. Charged compounds will migrate towards the electrode of opposite charge but migration rate will be influenced by the size of the molecules. Smaller compounds can easily traverse through the webbing while larger items are retarded by the pore size. <a href="http://learn.genetics.utah.edu/content/labs/gel/" target="new"><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">Follow this simulation</span></span></a> to get a better idea of how we use <strong><span style="color: #ff0000">Agarose Gel Electrophoresis</span></strong> in molecular biology to study DNA fragments.
+
+DNA molecules are not readily visible when <span style="color: #ff0000"><strong>resolved</strong></span> (separated) on an agarose gel. In order to visualize the molecules, a DNA dye must be administered to the gel. In research labs, a <strong><span style="color: #ff0000">DNA intercalating agent</span></strong> called Ethidium Bromide is added to the molten gel and will bind to the DNA of the samples when run. Ethidium Bromide can then be visualized on a UV box that will fluoresce the compound and reveal bands where DNA is accumulated. Since Ethidium Bromide is known as a carcinogen, teaching labs will use a safer DNA intercalating agent known as Sybr Green. This can be visualized in a similar fashion, but will fluoresce a green color instead.
+
+[caption id="" align="aligncenter" width="500"]<a title="Agarose Gels by jeremy Seto flickr.com/jamescastle" href="https://www.flickr.com/photos/jamescastle/37394472310/" target="new"><img src="https://farm5.staticflickr.com/4507/37394472310_c9d3afa3ed.jpg" alt="Agarose Gels" width="500" height="240" /></a> <small>Agarose gels visualized on a UV transilluminator. Left shows a gel with Ethidium bromide. Right shows a gel with Sybr Green.</small>[/caption]
+
+Agarose gels are made of and bathed in a buffered solution, usually of Tris-Borate-EDTA (<strong><span style="color: #ff0000">TBE</span></strong>) or Tris-Acetate-EDTA (<span style="color: #ff0000"><strong>TAE</strong></span>). Regardless of buffer solution, the buffer provides necessary electrolytes  for the current to pass through and maintain the pH of the solution.
+
+DNA samples are prepared in a buffer similar to the solution that it will be run in to ensure that the phosphate backbone of the DNA remains deprotonated and moves to the positive electrode. Additionally, <span style="color: #ff0000"><strong>glycerol</strong></span> or another compound is added to this buffer in order for the solution to sink into the wells without spreading out. A dye is often included in this loading buffer in order to visualize the loading in the wells and to track the relative progression of gel.
+<h2>Agarose Gel Set-up</h2>
+<a title="By CNX OpenStax (https://cnx.org/contents/5CvTdmJL@4.4) [CC BY 4.0 (http://creativecommons.org/licenses/by/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AOSC_Microbio_12_02_AgaroseGE.jpg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/3/30/OSC_Microbio_12_02_AgaroseGE.jpg" alt="OSC Microbio 12 02 AgaroseGE" width="512" /></a>
+https://upload.wikimedia.org/wikipedia/commons/8/84/Agarose_Gel_Electrophoresis_-_Assembling_the_Rig_and_Loading-Running_the_Gel.webm
+<h2>External Resources</h2>
+<ul>
+ 	<li><a href="http://learn.genetics.utah.edu/content/labs/gel/" target="new">Gel Electrophoresis Simulation</a></li>
+ 	<li>The Structure of DNA <a href="http://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397" target="new">http://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397</a></li>
+ 	<li><a href="http://learn.genetics.utah.edu/content/science/forensics/" target="new">http://learn.genetics.utah.edu/content/science/forensics/</a></li>
+</ul>
+<!--nextpage-->
+<h2>Electrophoresis of Dyes (activity)</h2>
+<ol>
+ 	<li>Prepare a 1% agarose gel by adding 60ml Tris-Borate-EDTA buffer (TBE) to 0.6g agarose in an erlenmeyer flask</li>
+ 	<li>Place flask in microwave or on heat until agarose is melted
+<ul>
+ 	<li>stop periodically and swirl solution and do not permit to boil over</li>
+</ul>
+</li>
+ 	<li>Assemble the casting tray by blocking the ends with tape or plastic gaskets</li>
+ 	<li>Place the comb into the center of the casting tray</li>
+ 	<li>You may place the casting trays inside a refrigerator and pour the solution into the tray</li>
+ 	<li>Wait until the gel is solidified</li>
+ 	<li>Carefully separate the gaskets from the tray</li>
+ 	<li>Remove the comb and place the casting tray into an electrophoresis chamber</li>
+ 	<li>Cover the gel with TBE buffer</li>
+ 	<li>Using a micropipettor, load 40-50μl dye samples sequentially into  the wells</li>
+ 	<li>Cover the electrophoresis chamber with the lid and ensure good contact between electrodes
+<ul>
+ 	<li>It is conventional that the <strong><span style="color: #ff0000">POSITIVE</span></strong> side of the tank is nearest to you</li>
+ 	<li>With the <strong><span style="color: #ff0000">POSITIVE</span></strong> side nearest to you, load the samples from left to right</li>
+</ul>
+</li>
+ 	<li>Set the power supply to 100-120V and press the Run button (you should see bubbles at each electrode) and allow to run for at least 40 minutes</li>
+ 	<li>After 40 minutes, stop the current and remove the gel in casting tray</li>
+ 	<li>Place tray on a white background and document your gel</li>
+</ol>
+<h3>Activity Follow-up</h3>
+<ol>
+ 	<li>What colors were the dyes originally before loading into the wells?</li>
+ 	<li>How many separate bands of dye are in each well following the run?</li>
+ 	<li>What does it mean that there are multiple bands in a lane? What does it mean that there is only one band in a lane?</li>
+ 	<li>What does the length of migration illustrate to us about the properties of the dye molecules?</li>
+ 	<li>In which direction did the dye molecules migrate? What does the direction of migration indicate about the analytes?</li>
+ 	<li>Are there lanes where there are multiple bands of the SAME color?</li>
+</ol>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>60</wp:post_id>
+		<wp:post_date><![CDATA[2015-06-14 14:43:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-06-14 18:43:21]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[analyzing-dna]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>11</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="post_tag" nicename="analysis"><![CDATA[analysis]]></category>
+		<category domain="post_tag" nicename="visual-communication"><![CDATA[visual communication]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[975]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_bd4de352284982fbb7243a2d1ef796ba]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_bf99db397f6f785726772549f2c9a45d]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_d3460b5bd6dd003d4e36d68acb6164e0]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="604" height="340" src="https://www.youtube.com/embed/THmE61QNOfA?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_d3460b5bd6dd003d4e36d68acb6164e0]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1479748927]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[975]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_bd4de352284982fbb7243a2d1ef796ba]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_bf99db397f6f785726772549f2c9a45d]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_d3460b5bd6dd003d4e36d68acb6164e0]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="604" height="340" src="https://www.youtube.com/embed/THmE61QNOfA?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_d3460b5bd6dd003d4e36d68acb6164e0]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1479748927]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>DNA Replication</title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/analyzing-dna/pcr/</link>
 		<pubDate>Sun, 14 Jun 2015 18:53:10 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=62</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h2>new<b>DNA Replication</b></h2>
+		<content:encoded><![CDATA[<h2><b>DNA Replication</b></h2>
 [caption id="" align="aligncenter" width="512"]<a href="https://github.com/jeremyseto/bio-oer/blob/master/figures/molecular/replication/postulatedreplication.png?raw=true" target="new"><img src="https://github.com/jeremyseto/bio-oer/blob/master/figures/molecular/replication/postulatedreplication.png?raw=true" alt="postulate replication" width="512" /></a> <span style="font-size: small">Francis Crick proposed 3 models for how DNA might replicate. Credit: Jeremy Seto (<a href="http://creativecommons.org/licenses/by-sa/3.0" target="new">CC-BY 3.0</a>)</span>[/caption]
-<h3>newMeselson &amp; Stahl Experiment</h3>
+<h3>Meselson &amp; Stahl Experiment</h3>
 [caption id="" align="aligncenter" width="600"]<a href="https://github.com/jeremyseto/bio-oer/blob/master/figures/molecular/replication/Meselson-Stahl_experiment.png?raw=true" target="new"><img src="https://github.com/jeremyseto/bio-oer/blob/master/figures/molecular/replication/Meselson-Stahl_experiment.png?raw=true" alt="Meselson and Stahl" width="600" /></a> <span style="font-size: small">Meselson &amp; Stahl revealed semi-conservative replication as the method through use of radiolabeling DNA in bacteria. Credit: Jeremy Seto (<a href="http://creativecommons.org/licenses/by-sa/3.0" target="new">CC0</a>)</span>[/caption]
-<h3>newReplication Machinery</h3>
+<h3>Replication Machinery</h3>
 <a title="I, Madprime [CC0, GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or CC BY-SA 2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/2.5-2.0-1.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ADNA_replication_split.svg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/DNA_replication_split.svg/256px-DNA_replication_split.svg.png" alt="DNA replication split" width="256" /></a>
 <a title="By CNX OpenStax (https://cnx.org/contents/5CvTdmJL@4.4) [CC BY 4.0 (http://creativecommons.org/licenses/by/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AOSC_Microbio_11_02_RepFork.jpg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/OSC_Microbio_11_02_RepFork.jpg" alt="OSC Microbio 11 02 RepFork" width="512" /></a>
 
@@ -6332,7 +6367,7 @@ However, a double stranded DNA molecule is already base paired together into a 
 PCR is accomplished by cycling rapidly between these three steps: denature, anneal, extension. The rate limiting step is the extension which limits the length of DNA to be copied. If the original template is only a single copy, then after the completion of a cycle, we would have 2 copies. The subsequent cycle would have 4 copies, then 8, then 16, 32, and so on. The doubling process is exponential so from 1 copy undergoing 30 cycles; we would have 2<sup>30</sup> or 1,073,741,824 copies. This is over a billion copies in a few hours of time. </span>
 
 [caption id="" align="aligncenter" width="600"]<a href="https://github.com/jeremyseto/bio-oer/blob/master/figures/molecular/replication/exponentialamplification.png?raw=true" target="new"><img src="https://github.com/jeremyseto/bio-oer/blob/master/figures/molecular/replication/exponentialamplification.png?raw=true" alt="exponential amplification" width="600" /></a> <span style="font-size: small">Exponential amplification by PCR. Credit: Jeremy Seto (<a href="http://creativecommons.org/licenses/by-sa/3.0" target="new">CC-BY 3.0</a>)</span>[/caption]
-<h2>newExternal Resources:</h2>
+<h2>External Resources:</h2>
 <ul>
  	<li style="margin-top: 0.08in;margin-bottom: 0.08in;line-height: 100%">Walkthrough of the steps in PCR
 <ul>
@@ -6367,7 +6402,7 @@ PCR is accomplished by cycling rapidly between these three steps: denature, an
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_6ddc9a504682fa838205c4cc14bdda90]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1529358996]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1534283431]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_94669f7dc41ce7aea4c7df9511247b85]]></wp:meta_key>
@@ -6375,7 +6410,7 @@ PCR is accomplished by cycling rapidly between these three steps: denature, an
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_94669f7dc41ce7aea4c7df9511247b85]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1529358996]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1534283431]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -6395,10 +6430,10 @@ or sometimes short tandem repeats (<span style="color: #ff0000"><b>STRs</b></spa
 contain VNTRs/STRs in order to differentiate people based on their DNA. This is often used in forensic science or in maternity/paternity cases. Any variation of a locus is referred to as an <span style="color: #ff0000"><b>allele</b></span>. In standard genetics, we often think of an allele as a variation of gene that would result in a difference in a physical manifestation of that gene. In the case of STRs, these alleles are simply a difference in number of repeats. That means the length of DNA within this locus is either longer or shorter and gives rise to many different alleles. VNTRs are referred to as minisatellites while STRs are called <span style="color: #ff0000"><strong>microsatellites</strong></span>.</p>
 
 <h2>CoDIS</h2>
-[caption id="" align="aligncenter" width="512"]<a title="By The Photographer [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://github.com/jeremyseto/bio-oer/blob/master/figures/DNAanalysis/DNAfingerprint.png?raw=true" target="new"><img src="https://github.com/jeremyseto/bio-oer/blob/master/figures/DNAanalysis/DNAfingerprint.png?raw=true" alt="Dna fingerprinting" width="512" /></a> <span style="font-size: small">DNA fingerprinting. Credit: <a title="User:Helixitta" href="https://commons.wikimedia.org/wiki/User:Helixitta">Helixitta</a>,<a title="User:The Photographer" href="https://commons.wikimedia.org/wiki/User:The_Photographer">The Photographer</a> and Jeremy Seto (CC-BY-SA 3.0)</span>[/caption]The FBI and local law enforcement agencies have developed a database called the  Combined DNA Index System (<a href="https://www.fbi.gov/about-us/lab/biometric-analysis/codis" target="new"><span style="color: #ff0000"><b>CoDIS</b></span></a>) that gathers data on a number of STRs. By establishing the number of repeats of a given locus, law enforcement officials can differentiate individuals based on the repeat length of these alleles. CoDIS uses a
-set of 13 loci that are tested together. As you would imagine, people are bound to have the same alleles of certain loci, especially if they were related. The use of 13 different loci makes it statistically improbable that 2 different people could be confused for each other. Think about this in terms of physical traits. As you increase the number of physical traits used to describe someone, you are less likely to confuse that person with someone else based on those combinations of traits. Using the CoDIS loci increases the stringency since there are many alleles for each locus. The thirteenth locus in CoDIS (called AMEL) discriminates between male and female.
+[caption id="" align="aligncenter" width="512"]<a title="By The Photographer [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://github.com/jeremyseto/bio-oer/blob/master/figures/DNAanalysis/DNAfingerprint.png?raw=true" target="new"><img src="https://github.com/jeremyseto/bio-oer/blob/master/figures/DNAanalysis/DNAfingerprint.png?raw=true" alt="Dna fingerprinting" width="512" /></a> <span style="font-size: small">DNA fingerprinting. Credit: <a title="User:Helixitta" href="https://commons.wikimedia.org/wiki/User:Helixitta">Helixitta</a>,<a title="User:The Photographer" href="https://commons.wikimedia.org/wiki/User:The_Photographer">The Photographer</a> and Jeremy Seto (CC-BY-SA 3.0)</span>[/caption]The FBI and local law enforcement agencies have developed a database called the  <a href="https://www.fbi.gov/services/laboratory/biometric-analysis/codis/codis-and-ndis-fact-sheet" target="_blank" rel="noopener">Combined DNA Index System</a> (<a href="https://www.fbi.gov/about-us/lab/biometric-analysis/codis" target="new"><span style="color: #ff0000"><b>CoDIS</b></span></a>) that gathers data on a number of STRs. By establishing the number of repeats of a given locus, law enforcement officials can differentiate individuals based on the repeat length of these alleles. CoDIS uses a
+set of 20 loci that are tested together. As you would imagine, people are bound to have the same alleles of certain loci, especially if they were related. The use of 20 different loci makes it statistically improbable that 2 different people could be confused for each other. Think about this in terms of physical traits. As you increase the number of physical traits used to describe someone, you are less likely to confuse that person with someone else based on those combinations of traits. Using the CoDIS loci increases the stringency since there are many alleles for each locus. The twentieth locus in CoDIS (called AMEL) discriminates between male and female.
 
-[caption id="attachment_76" align="alignnone" width="604"]<a href="https://github.com/jeremyseto/bio-oer/blob/master/figures/genetics/vntr/codis.png"><img class="wp-image-76 size-large" src="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/genetics/vntr/codis.png" alt="codis" width="604" /></a> <span style="color: #000000"><span style="font-size: small"><strong>CoDIS STRs:</strong> The FBI utilizes 13 different loci to discriminate between people. AMEL discriminates by gender and is located on the X &amp; Y. Credit: Jeremy Seto (CC-BY-NC-SA)</span></span>[/caption]
+[caption id="attachment_76" align="alignnone" width="604"]<a href="https://github.com/jeremyseto/bio-oer/blob/master/figures/genetics/vntr/codis.png"><img class="wp-image-76 size-large" src="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/figures/genetics/vntr/codis.png" alt="codis" width="604" /></a> <span style="color: #000000"><span style="font-size: small"><strong>CoDIS STRs:</strong> The FBI utilizes 20 different loci to discriminate between people. AMEL discriminates by gender and is located on the X &amp; Y. Credit: Jeremy Seto (CC-BY-NC-SA)</span></span>[/caption]
 <h2>Crime Scene Investigation</h2>
 <p class="western">This lab uses a CoDIS locus called TH01. TH01 is a locus on chromosome 11 that has a repeating sequence of TCAT. There are reported to be between 3-14 repeats in this locus. With the exception of X and Y in a male, all chromosomes have a homologous partner. Therefore, each individual will have 2 alleles for each CoDIS locus.</p>
 
@@ -8360,7 +8395,7 @@ Juice</span></p>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=194</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h2>Biology Open Education Resources</h2>
+		<content:encoded><![CDATA[<h2>Biology Open Educational Resources</h2>
 <h3><a href="https://openlab.citytech.cuny.edu/library/resources-for-faculty/oer-pilot-2015/oer-project-need-and-project-overview/" target="new">OER @ City Tech Biology</a></h3>
 Open educational resources (OER) are free and (re)distributable teaching materials. This site is a sponsored by the <a href="https://openlab.citytech.cuny.edu/library/" target="new">Ursula Schwerin Library</a> to select and curate resources for use in General Biology 1. This was extended to include <a href="page/3/" target="new">Molecular &amp; Cell Biology</a> through the U.S. Department of Education Title V Grant, "<a href="https://openlab.citytech.cuny.edu/livinglab/living-lab/" target="new">A Living Lab</a>". This site was originally authored and curated by Jeremy Seto, Department of Biological Sciences - New York City College of Technology. In the spirit of remixing and redistribution, the entire WordPress site can be downloaded from GitHub as well as customized imagery (<a href="https://github.com/jeremyseto/bio-oer" target="new">https://github.com/jeremyseto/bio-oer</a>).
 
@@ -8421,33 +8456,31 @@ The NYCCT General Biology 1 Lab will follow the sequence below:
 </ul>
 </td>
 </tr>
-<tr style="height: 147px" valign="top">
-<td style="height: 147px" bgcolor="#ffffff" width="65">VI</td>
-<td style="height: 147px" bgcolor="#ffffff" width="545"><strong><a class="western" href="quantitative-determination" target="new"><span style="color: #0000ff"><u>Quantitative</u></span><u> </u><span style="color: #0000ff"><u>Determination</u></span></a></strong> of Proteins
+<tr style="height: 116.4px" valign="top">
+<td style="height: 116.4px" bgcolor="#ffffff" width="65">VI</td>
+<td style="height: 116.4px" bgcolor="#ffffff" width="545"><strong><a class="western" href="quantitative-determination" target="new"><span style="color: #0000ff"><u>Quantitative</u></span><u> </u><span style="color: #0000ff"><u>Determination</u></span></a></strong> of Proteins
 <ul>
  	<li><strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="exploring-beers-law-virtual" target="new">Beer's Law</a></u></span></strong> (virtual)</li>
- 	<li>Protein Assay (<span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="protein-assay" target="new">large spec</a></u></strong></span>)</li>
  	<li>Protein Assay (<span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="quantitative-detection-of-protein-spectrovis-plus" target="new">SpectroVis</a></u></strong></span>)</li>
 </ul>
 </td>
 </tr>
 <tr style="height: 93px" valign="top">
 <td style="height: 93px" bgcolor="#ffffff" width="65">VII</td>
-<td style="height: 93px" bgcolor="#ffffff" width="545"><strong><a class="western" href="enzymes" target="new"><span style="color: #0000ff"><u>Enzyme</u></span><span style="color: #0000ff"><u> and Energy</u></span></a></strong>
-<ul>
- 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="enzyme-kinetics-activity" target="new">Enzyme Kinetics activity</a></u></strong></span></li>
- 	<li><a href="enzyme-kinetics-with-spectrovis" target="new">Enzyme Kinetics activity (SpectroVis Plus)</a></li>
-</ul>
-</td>
-</tr>
-<tr style="height: 175px" valign="top">
-<td style="height: 175px" bgcolor="#ffffff" width="65">VIII</td>
-<td style="height: 175px" bgcolor="#ffffff" width="545"><strong>Membranes and Biological Transport: <a class="western" href="osmosis-and-diffusion" target="new"><span style="color: #0000ff"><u>Diffusion</u></span><u> </u><span style="color: #0000ff"><u>and</u></span><u> </u><span style="color: #0000ff"><u>Osmosis</u></span></a></strong>
+<td style="height: 93px" bgcolor="#ffffff" width="545"> <strong style="font-family: inherit;font-size: inherit">Membranes and Biological Transport: <a class="western" href="osmosis-and-diffusion" target="new"><span style="color: #0000ff"><u>Diffusion</u></span><u> </u><span style="color: #0000ff"><u>and</u></span><u> </u><span style="color: #0000ff"><u>Osmosis</u></span></a></strong>
 <ul>
  	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="larger-diffuse">Size</a></u></strong></span></li>
  	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="gummy-bears-tonicity-activity">Gummy</a></u></strong></span></li>
  	<li><strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="why-are-cells-small-activity">Cell Models</a></u></span> </strong></li>
  	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="observing-osmosis">Dialysis</a></u></strong></span></li>
+</ul>
+</td>
+</tr>
+<tr style="height: 113px" valign="top">
+<td style="height: 113px" bgcolor="#ffffff" width="65">VIII</td>
+<td style="height: 113px" bgcolor="#ffffff" width="545"><strong><a class="western" href="enzymes" target="new"><span style="color: #0000ff"><u>Enzyme</u></span><span style="color: #0000ff"><u> and Energy</u></span></a></strong>
+<ul>
+ 	<li><span style="color: #0000ff"><strong><a style="color: #0000ff" href="enzyme-kinetics-with-spectrovis" target="new">Enzyme Kinetics activity (SpectroVis Plus)</a></strong></span><u></u></li>
 </ul>
 </td>
 </tr>
@@ -8470,9 +8503,9 @@ The NYCCT General Biology 1 Lab will follow the sequence below:
 </ul>
 </td>
 </tr>
-<tr style="height: 202.852px" valign="top">
-<td style="height: 202.852px" bgcolor="#ffffff" width="65">XI</td>
-<td style="height: 202.852px" bgcolor="#ffffff" width="545"><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="cell-division" target="new">Cell Division</a></u></strong></span>
+<tr style="height: 202px" valign="top">
+<td style="height: 202px" bgcolor="#ffffff" width="65">XI</td>
+<td style="height: 202px" bgcolor="#ffffff" width="545"><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="cell-division" target="new">Cell Division</a></u></strong></span>
 <ul>
  	<li>Mitosis: <strong><span style="color: #0000ff"><u><a class="western" style="color: #0000ff" href="mitosis-activity" target="new">Estimating time of phases</a></u></span></strong>
 <ul>
@@ -8487,31 +8520,31 @@ The NYCCT General Biology 1 Lab will follow the sequence below:
 </tr>
 <tr style="height: 120px" valign="top">
 <td style="height: 120px" bgcolor="#ffffff" width="65">XII</td>
-<td style="height: 120px" bgcolor="#ffffff" width="545"><strong>Principles of Gel Electrophoresis</strong>
-<ul>
- 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="analyzing-dna" target="new">Analyzing DNA</a></u></strong></span></li>
- 	<li><span style="text-decoration: underline;color: #0000ff"><strong><a style="color: #0000ff;text-decoration: underline" href="restriction-enzymes" target="new">Restriction Enzymes</a></strong></span></li>
-</ul>
-</td>
-</tr>
-<tr style="height: 120px" valign="top">
-<td style="height: 120px" bgcolor="#ffffff" width="65">XIII</td>
-<td style="height: 120px" bgcolor="#ffffff" width="545"><strong>DNA Fingerprinting</strong>
-<ul>
- 	<li><span style="text-decoration: underline;color: #0000ff"><strong><a style="color: #0000ff;text-decoration: underline" href="rflp-analysis" target="new">RFLP</a></strong></span></li>
- 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="pcr" target="new">PCR Technology</a></u></strong></span></li>
- 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="variable-number-tandem-repeats" target="new">Forensics</a></u></strong></span></li>
-</ul>
-</td>
-</tr>
-<tr style="height: 147px" valign="top">
-<td style="height: 147px" bgcolor="#ffffff" width="65"><span style="font-family: 'color: #000000">XIV </span></td>
-<td style="height: 147px" bgcolor="#ffffff" width="545"><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="genetics" target="new">Genetics</a></u></strong></span>
+<td style="height: 120px" bgcolor="#ffffff" width="545"><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="genetics" target="new">Genetics</a></u></strong></span>
 <ul>
  	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="bitter-taste-activity" target="new">Genetics of Taste Activity</a></u></strong></span></li>
  	<li><span style="text-decoration: underline;color: #0000ff"><a style="color: #0000ff" href="sex-linked-genes" target="new"><strong>Sex-Linked Genes</strong></a></span></li>
  	<li><span style="text-decoration: underline"><span style="color: #0000ff"><strong><a style="color: #0000ff;text-decoration: underline" href="co-dominance-and-multiple-alleles" target="new">Co-Dominance and Multiple Alleles</a></strong></span></span></li>
  	<li><span style="text-decoration: underline;color: #0000ff"><a style="color: #0000ff" href="probability-and-chi-square-analysis" target="new"><strong>Probability and Statistics with Chi-Square</strong></a></span></li>
+</ul>
+</td>
+</tr>
+<tr style="height: 120px" valign="top">
+<td style="height: 120px" bgcolor="#ffffff" width="65">XIII</td>
+<td style="height: 120px" bgcolor="#ffffff" width="545"><strong>Principles of Gel Electrophoresis</strong>
+<ul>
+ 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="analyzing-dna" target="new">Analyzing DNA</a></u></strong></span></li>
+ 	<li><span style="text-decoration: underline;color: #0000ff"><strong><a style="color: #0000ff;text-decoration: underline" href="restriction-enzymes" target="new">Restriction Enzymes</a></strong></span><u></u></li>
+</ul>
+</td>
+</tr>
+<tr style="height: 147px" valign="top">
+<td style="height: 147px" bgcolor="#ffffff" width="65"><span style="font-family: 'color: #000000">XIV </span></td>
+<td style="height: 147px" bgcolor="#ffffff" width="545"><strong>DNA Fingerprinting</strong>
+<ul>
+ 	<li><span style="text-decoration: underline;color: #0000ff"><strong><a style="color: #0000ff;text-decoration: underline" href="rflp-analysis" target="new">RFLP</a></strong></span></li>
+ 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="pcr" target="new">PCR Technology</a></u></strong></span></li>
+ 	<li><span style="color: #0000ff"><strong><u><a class="western" style="color: #0000ff" href="variable-number-tandem-repeats" target="new">Forensics</a></u></strong></span></li>
 </ul>
 </td>
 </tr>
@@ -8532,14 +8565,12 @@ Quiz</td>
 <ul>
  	<li><span style="text-decoration: underline;color: #0000ff"><strong><a style="color: #0000ff;text-decoration: underline" href="https://openstax.org/details/biology" target="new">Biology</a></strong></span><span style="color: #000000"> (also available in <span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="http://amzn.to/2tob6mb" target="new">hardcopy</a></span></span>)</span>
 <ul>
- 	<li><b>Publisher:</b> OpenStax College; 1st edition (January 1, 2013)</li>
- 	<li><b>ISBN-10:</b> 1938168097</li>
- 	<li><b>ISBN-13:</b> 978-1938168093</li>
+ 	<li><b>Publisher:</b> OpenStax (2018)</li>
+ 	<li><b>ISBN-10:</b> 1947172514</li>
+ 	<li><b>ISBN-13:</b> 978-1947172517</li>
 </ul>
 </li>
 </ul>
-&nbsp;
-
 &nbsp;
 <table style="border-color: #000000" border="rgb(0, 0, 0)" width="636" cellspacing="0" cellpadding="4"><colgroup> <col width="58" /> <col width="88" /> <col width="512" /> </colgroup>
 <tbody>
@@ -8652,56 +8683,56 @@ Quiz</td>
 </tr>
 </tbody>
 </table>
-<table style="border-color: #000000" border="rgb(0, 0, 0)" width="636" cellspacing="0" cellpadding="4"><colgroup> <col width="58" /> <col width="88" /> <col width="512" /> </colgroup>
+<table style="border-color: #000000;width: 603px" border="rgb(0, 0, 0)" cellspacing="0" cellpadding="4"><colgroup> <col width="58" /> <col width="88" /> <col width="512" /> </colgroup>
 <tbody>
 <tr valign="top">
 <td style="width: 32px"><span style="color: #000000"><b>Week</b></span></td>
 <td style="width: 47px"><span style="color: #000000"><b>Lectures</b></span></td>
-<td style="width: 406.375px"><span style="color: #000000"><b>Topic with link to Openstax pages</b></span></td>
-<td style="width: 87.625px"><span style="color: #000000"><b>Openlab Supplement</b></span></td>
+<td style="width: 418.2px"><span style="color: #000000"><b>Topic with link to Openstax pages</b></span></td>
+<td style="width: 74.8px"><span style="color: #000000"><b>Openlab Supplement</b></span></td>
 </tr>
 <tr valign="top">
 <td style="width: 32px"><span style="color: #000000"> </span></td>
 <td style="width: 47px"><span style="color: #000000"> </span></td>
-<td style="width: 406.375px"><span style="color: #000000"> </span></td>
-<td style="width: 87.625px"></td>
+<td style="width: 418.2px"><span style="color: #000000"> </span></td>
+<td style="width: 74.8px"></td>
 </tr>
 <tr valign="top">
 <td style="width: 32px"><span style="color: #000000"> </span></td>
 <td style="width: 47px"><span style="color: #000000">8.</span></td>
-<td style="width: 406.375px"><span style="color: #000000"><u><a href="https://www.dropbox.com/sh/rn5y87w7q3vc21y/AACofk5-8LIALW2IPn0mJb9-a?dl=0">MACROMOLECULES </a></u></span><span style="color: #000000"><u><a href="https://www.dropbox.com/sh/rn5y87w7q3vc21y/AACofk5-8LIALW2IPn0mJb9-a?dl=0">I</a></u></span>
+<td style="width: 418.2px"><span style="color: #000000"><u><a href="https://www.dropbox.com/sh/rn5y87w7q3vc21y/AACofk5-8LIALW2IPn0mJb9-a?dl=0">MACROMOLECULES </a></u></span><span style="color: #000000"><u><a href="https://www.dropbox.com/sh/rn5y87w7q3vc21y/AACofk5-8LIALW2IPn0mJb9-a?dl=0">I</a></u></span>
 <span style="color: #000000"> Monomers and Polymers</span>
 <span style="color: #000000"> Dehydration Synthesis and Hydrolysis</span>
 <span style="color: #000000"> Carbohydrates</span>
 <span style="color: #000000"> Lipids</span></td>
-<td style="width: 87.625px"><a href="https://openlab.citytech.cuny.edu/openstax-bio/macromolecules-i" target="new"><span style="color: #0000ff">Macromolecules I</span></a></td>
+<td style="width: 74.8px"><a href="https://openlab.citytech.cuny.edu/openstax-bio/macromolecules-i" target="new"><span style="color: #0000ff">Macromolecules I</span></a></td>
 </tr>
 <tr valign="top">
 <td style="width: 32px"><span style="color: #000000"> </span></td>
 <td style="width: 47px"><span style="color: #000000"> </span></td>
-<td style="width: 406.375px"><span style="color: #000000"> </span></td>
-<td style="width: 87.625px"></td>
+<td style="width: 418.2px"><span style="color: #000000"> </span></td>
+<td style="width: 74.8px"></td>
 </tr>
 <tr valign="top">
 <td style="width: 32px"><span style="color: #000000">V</span></td>
 <td style="width: 47px"><span style="color: #000000">9.</span></td>
-<td style="width: 406.375px"><span style="color: #000000"><u><a href="https://www.dropbox.com/sh/3y2hwlr1afxal7g/AACOb63FIPuTuPXngE5i7jlJa?dl=0">MACROMOLECULES </a></u></span><span style="color: #000000"><u><a href="https://www.dropbox.com/sh/3y2hwlr1afxal7g/AACOb63FIPuTuPXngE5i7jlJa?dl=0">II</a></u></span>
+<td style="width: 418.2px"><span style="color: #000000"><u><a href="https://www.dropbox.com/sh/3y2hwlr1afxal7g/AACOb63FIPuTuPXngE5i7jlJa?dl=0">MACROMOLECULES </a></u></span><span style="color: #000000"><u><a href="https://www.dropbox.com/sh/3y2hwlr1afxal7g/AACOb63FIPuTuPXngE5i7jlJa?dl=0">II</a></u></span>
 <span style="color: #000000"> Proteins</span>
 <span style="color: #000000"> Nucleic Acids</span>
 <span style="color: #000000"> ATP</span>
 <span style="color: #000000"> Enzymes and Metabolic Pathways</span></td>
-<td style="width: 87.625px"><a href="https://openlab.citytech.cuny.edu/openstax-bio/macromolecules-ii" target="new"><span style="color: #0000ff">Macromolecules II</span></a></td>
+<td style="width: 74.8px"><a href="https://openlab.citytech.cuny.edu/openstax-bio/macromolecules-ii" target="new"><span style="color: #0000ff">Macromolecules II</span></a></td>
 </tr>
 <tr valign="top">
 <td style="width: 32px"><span style="color: #000000"> </span></td>
 <td style="width: 47px"><span style="color: #000000"> </span></td>
-<td style="width: 406.375px"><span style="color: #000000"> </span></td>
-<td style="width: 87.625px"></td>
+<td style="width: 418.2px"><span style="color: #000000"> </span></td>
+<td style="width: 74.8px"></td>
 </tr>
 <tr valign="top">
 <td style="width: 32px"><span style="color: #000000"> </span></td>
 <td style="width: 47px"><span style="color: #000000">10.</span></td>
-<td style="width: 406.375px"><span style="color: #000000"><u><a href="https://www.dropbox.com/sh/0sh6g79ucasqnyf/AABN_1pKXK7RxtRnugxkT1lNa?dl=0">CELLS</a></u></span>
+<td style="width: 418.2px"><span style="color: #000000"><u><a href="https://www.dropbox.com/sh/0sh6g79ucasqnyf/AABN_1pKXK7RxtRnugxkT1lNa?dl=0">CELLS</a></u></span>
 
 <span style="color: #000000">The Cell Theory</span>
 <span style="color: #000000"> Methods of Studying Cells</span>
@@ -8710,43 +8741,43 @@ Quiz</td>
 <span style="color: #000000"> Prokaryotic and Eukaryotic Cells</span>
 <span style="color: #000000"> Cellular Evolution</span>
 <span style="color: #000000"> Anaerobic and Aerobic Cells; Endosymbiosis; Multicellularity; Viruses, Bacteria and Archaea</span></td>
-<td style="width: 87.625px"><a href="https://openlab.citytech.cuny.edu/openstax-bio/cells" target="new"><span style="color: #0000ff">Cells</span></a></td>
+<td style="width: 74.8px"><a href="https://openlab.citytech.cuny.edu/openstax-bio/cells" target="new"><span style="color: #0000ff">Cells</span></a></td>
 </tr>
 <tr valign="top">
 <td style="width: 32px"><span style="color: #000000"> </span></td>
 <td style="width: 47px"><span style="color: #000000"> </span></td>
-<td style="width: 406.375px"><span style="color: #000000"> </span></td>
-<td style="width: 87.625px"></td>
+<td style="width: 418.2px"><span style="color: #000000"> </span></td>
+<td style="width: 74.8px"></td>
 </tr>
 <tr valign="top">
 <td style="width: 32px"><span style="color: #000000">VI</span></td>
 <td style="width: 47px"><span style="color: #000000">11.</span></td>
-<td style="width: 406.375px"><span style="color: #000000"><u>THE EUKARYOTIC CELL</u></span>
+<td style="width: 418.2px"><span style="color: #000000"><u>THE EUKARYOTIC CELL</u></span>
 
 <span style="color: #000000">Eukaryotic Cell Structure and Function</span></td>
-<td style="width: 87.625px"><a href="https://openlab.citytech.cuny.edu/openstax-bio/eukaryotic-cells" target="new"><span style="color: #0000ff">Eukaryotes</span></a></td>
+<td style="width: 74.8px"><a href="https://openlab.citytech.cuny.edu/openstax-bio/eukaryotic-cells" target="new"><span style="color: #0000ff">Eukaryotes</span></a></td>
 </tr>
 <tr valign="top">
 <td style="width: 32px"><span style="color: #000000"> </span></td>
 <td style="width: 47px"><span style="color: #000000">12.</span></td>
-<td style="width: 406.375px"><span style="color: #000000"><u><a href="https://www.dropbox.com/sh/8saywfhi3d4dhk1/AAA3kjG06wrLCZanC5ry310Fa?dl=0">MEMBRANES &amp; TRANSPORT</a></u></span>
+<td style="width: 418.2px"><span style="color: #000000"><u><a href="https://www.dropbox.com/sh/8saywfhi3d4dhk1/AAA3kjG06wrLCZanC5ry310Fa?dl=0">MEMBRANES &amp; TRANSPORT</a></u></span>
 <span style="color: #000000"> Membrane Structure and Function</span>
 <span style="color: #000000"> Passive Transport Processes</span>
 <span style="color: #000000"> Active Transport Processes</span>
 <span style="color: #000000"> Cell Surface Modifications</span></td>
-<td style="width: 87.625px"><a href="https://openlab.citytech.cuny.edu/openstax-bio/membranes-transport" target="new"><span style="color: #0000ff">Membranes</span></a></td>
+<td style="width: 74.8px"><a href="https://openlab.citytech.cuny.edu/openstax-bio/membranes-transport" target="new"><span style="color: #0000ff">Membranes</span></a></td>
 </tr>
 <tr valign="top">
 <td style="width: 32px"><span style="color: #000000"> </span></td>
 <td style="width: 47px"><span style="color: #000000"> </span></td>
-<td style="width: 406.375px"><span style="color: #000000"> </span></td>
-<td style="width: 87.625px"></td>
+<td style="width: 418.2px"><span style="color: #000000"> </span></td>
+<td style="width: 74.8px"></td>
 </tr>
 <tr valign="top">
 <td style="width: 32px"><span style="color: #000000">VII</span></td>
 <td style="width: 47px"><span style="color: #000000">13.</span></td>
-<td style="width: 406.375px"><span style="color: #000000"><u><b>Examination II </b></u>(Lectures 8-12 inclusive)</span></td>
-<td style="width: 87.625px"></td>
+<td style="width: 418.2px"><span style="color: #000000"><u><b>Examination II </b></u>(Lectures 8-12 inclusive)</span></td>
+<td style="width: 74.8px"></td>
 </tr>
 </tbody>
 </table>
@@ -9441,7 +9472,7 @@ Pop-beads are small, colored beads that can be joined together to simulate chrom
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Cellular Energy</title>
+		<title>Cellular Respiration</title>
 		<link>https://openlab.citytech.cuny.edu/bio-oer/cellular-energy/</link>
 		<pubDate>Thu, 18 Jun 2015 22:15:11 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
@@ -9477,33 +9508,11 @@ Mitochondria are the power station of eukaryotic cells. They are derived from a 
 
 [caption id="" align="aligncenter" width="512"]<a title="By Kelvinsong; modified by Sowlos (Own work based on: Mitochondrion mini.svg) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AMitochondrion_structure.svg" target="new"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Mitochondrion_structure.svg/512px-Mitochondrion_structure.svg.png" alt="Mitochondrion structure" width="512" /></a> <span style="font-size: small">Credit: <span style="font-size: small"><i><a href="https://commons.wikimedia.org/wiki/User:Kelvinsong">Kelvinsong</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC-BY-</a></i></span><a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">SA 3.0</a></span><span style="font-size: xx-small">)</span>[/caption]
 <h2>Aerobic Respiration</h2>
-[caption id="" align="aligncenter" width="512"]<a title="By RegisFrey (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACellRespiration.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/CellRespiration.svg/512px-CellRespiration.svg.png" alt="CellRespiration" width="512" height="362" /></a> <span style="font-size: small">Cellular Respiration. Left side is glycolysis (anaerobic). The Right side is what occurs in the presence of oxygen in eukaryotes. The aerobic reactions occur inside the mitochondria after being fed Acetyl-CoA molecules from the cytoplasmic preparatory reaction. <i>Credit: <a href="https://commons.wikimedia.org/wiki/User:RegisFrey">RegisFrey</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC-BY-SA 3.0</a>)</i></span>[/caption]Acetyl-CoA  enters the mitochondrial matrix where it is used in the <span style="text-decoration: underline"><strong><span style="color: #ff0000;text-decoration: underline">Krebs Cycle</span></strong></span> (aka Tricarboxylic acid cycle (TCA), aka Citric acid cycle). For each pyruvate, there are 2 turns of the cycle where additional NADH and another high energy electron carrier <span style="text-decoration: underline"><strong><span style="color: #ff0000;text-decoration: underline">FADH<sub>2</sub></span></strong></span> (flavin adenine dinucleotide) are generated. The electrons stored by NADH and FADH<sub>2</sub> are transferred to  proteins called <span style="text-decoration: underline"><strong><span style="color: #ff0000;text-decoration: underline">cytochromes</span></strong></span> that have metal centers for conducting these electrons. In the process of moving these electrons, the cytochromes in this <span style="text-decoration: underline"><strong><span style="color: #ff0000;text-decoration: underline">Electron Transport Chains</span></strong> </span>(ETC) power the movement of protons into the intermembrane space.  The terminus of these electrons is an O<sub>2</sub> molecule that is reduced into 1/2 H<sub>2</sub>O molecules. This apparent movement of water molecules from the chemical synthesis is termed <strong><span style="text-decoration: underline"><span style="color: #ff0000;text-decoration: underline">chemiosmosis</span></span></strong>. A channel in the membrane called <strong><span style="text-decoration: underline"><span style="color: #ff0000;text-decoration: underline">ATP synthase</span></span></strong> acts as a gateway for the H<sup>+</sup> back into the matrix, but use this motion to convert ADP into ATP.
+[caption id="" align="aligncenter" width="512"]<a title="By RegisFrey (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACellRespiration.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/CellRespiration.svg/1024px-CellRespiration.svg.png" alt="CellRespiration" width="512" height="362" /></a> <span style="font-size: small">Cellular Respiration. Left side is glycolysis (anaerobic). The Right side is what occurs in the presence of oxygen in eukaryotes. The aerobic reactions occur inside the mitochondria after being fed Acetyl-CoA molecules from the cytoplasmic preparatory reaction. <i>Credit: <a href="https://commons.wikimedia.org/wiki/User:RegisFrey">RegisFrey</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC-BY-SA 3.0</a>)</i></span>[/caption]Acetyl-CoA  enters the mitochondrial matrix where it is used in the <span style="text-decoration: underline"><strong><span style="color: #ff0000;text-decoration: underline">Krebs Cycle</span></strong></span> (aka Tricarboxylic acid cycle (TCA), aka Citric acid cycle). For each pyruvate, there are 2 turns of the cycle where additional NADH and another high energy electron carrier <span style="text-decoration: underline"><strong><span style="color: #ff0000;text-decoration: underline">FADH<sub>2</sub></span></strong></span> (flavin adenine dinucleotide) are generated. The electrons stored by NADH and FADH<sub>2</sub> are transferred to  proteins called <span style="text-decoration: underline"><strong><span style="color: #ff0000;text-decoration: underline">cytochromes</span></strong></span> that have metal centers for conducting these electrons. In the process of moving these electrons, the cytochromes in this <span style="text-decoration: underline"><strong><span style="color: #ff0000;text-decoration: underline">Electron Transport Chains</span></strong> </span>(ETC) power the movement of protons into the intermembrane space.  The terminus of these electrons is an O<sub>2</sub> molecule that is reduced into 1/2 H<sub>2</sub>O molecules. This apparent movement of water molecules from the chemical synthesis is termed <strong><span style="text-decoration: underline"><span style="color: #ff0000;text-decoration: underline">chemiosmosis</span></span></strong>. A channel in the membrane called <strong><span style="text-decoration: underline"><span style="color: #ff0000;text-decoration: underline">ATP synthase</span></span></strong> acts as a gateway for the H<sup>+</sup> back into the matrix, but use this motion to convert ADP into ATP.
 
 [caption id="" align="aligncenter" width="600"]<a title="By Jeremy Seto CC-BY-NC-SA" href="https://github.com/jeremyseto/bio-oer/blob/master/figures/respiration/Mitochondrial_electron_transport.png?raw=true"><img src="https://github.com/jeremyseto/bio-oer/blob/master/figures/respiration/Mitochondrial_electron_transport.png?raw=true" alt="Electron Transport Chain" width="600" /></a> <span style="font-size: small">Closeup of the <span style="color: #ff0000"><strong>Electron Transport Chain</strong></span> (ETC) that takes place on the inner membrane of mitochondria. This is where oxygen is utilized as the final electron acceptor. Reduction of 1/2 O<sub>2</sub> results in the generation of a water molecule (<span style="color: #ff0000"><strong>chemiosmosis</strong></span>). <i>Credit: Jeremy Seto (<a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC-BY-NC-SA 3.0</a>)</i></span>[/caption]
 
-<!--nextpage-->
-<h2>Chloroplasts</h2>
-[caption id="" align="alignnone" width="512"]<a title="By Kelvinsong (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AChloroplast-cyanobacterium_comparison.svg" target="new"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Chloroplast-cyanobacterium_comparison.svg/512px-Chloroplast-cyanobacterium_comparison.svg.png" alt="Chloroplast-cyanobacterium comparison" width="512" height="193" /></a> <span style="font-size: small">Credit:  <a href="https://commons.wikimedia.org/wiki/User:Kelvinsong">Kelvinsong</a> [<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC-BY-SA 3.0</a></span>][/caption]<span style="color: #ff0000"><strong>Chloroplasts</strong></span> arose through a second endosymbiotic event in plants and various protists. These light harvesting organelles share similarity in structure and genome to photoautotrophic cynaboacteria.
-<h2>Light Harvesting</h2>
-<a title="By Somepics (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AThylakoid_membrane_3.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Thylakoid_membrane_3.svg/512px-Thylakoid_membrane_3.svg.png" alt="Thylakoid membrane 3" width="512" /></a>
-
-The thylakoid membranes of chloroplasts and cyanobacteria provide additional surface area for energy capture of light to occur. The light-dependent reactions in chlorplasts utilize two protein complexes referred to as <span style="color: #ff0000"><strong>Photosystem I</strong></span> (PSI) and <span style="color: #ff0000"><strong>Photosystem II</strong></span> (PSII)located on the thylakoid membranes. At the center of each photosystem complexes are <span style="color: #ff0000"><strong>photopigments</strong></span> optimized to absorb specific wavelengths of light. When light is absorbed in a photosystem, an electron is excited and transferred to the electron transport chain. In PSII, the electron is regenerated by splitting of two water molecules into 4H<sup>+</sup> + 4e<sup>-</sup> + O<sub>2</sub>. As the electrons move through the ETC, protons are pumped into the thylakoid space. The ETC leads to the reduction of a high energy electron carrier NADP<sup>+</sup> to <strong><span style="color: #ff0000">NADPH</span></strong>. Since this pathway uses consumes water in a chemical reaction, the apparent loss of water in the thylakoid space is referred to as chemiosmosis.
-
-PSI is also known as the cyclic pathway since the excited electron runs through a closed circuit of the ETC to regenerate the lost electron. This closed circuit also generates a proton gradient through powering of a proton pump but does not lead to the reduction of NADPH. As with the ETC-powered proton pump in mitochondria, the proton gradient is used to power ATP-synthase in producing ATP molecules.
-<h2>Light Independent Reactions</h2>
-[caption id="" align="alignnone" width="512"]<a title="By Mike Jones (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACalvin-cycle4.svg" target="new"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Calvin-cycle4.svg/512px-Calvin-cycle4.svg.png" alt="Calvin-cycle4" width="512" height="469" /></a> <span style="font-size: small">Credit: <i><a href="https://commons.wikimedia.org/wiki/User:Adenosine">Mike Jones</a> [</i><a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC-BY-SA 3.0</a>]</span>[/caption]The light independent reactions are also known as the dark reactions or <strong><span style="color: #ff0000">Calvin Cycle</span></strong> and utilize the ATP and NADPH from the light-dependent reactions to fix gaseous CO<sub>2</sub> into carbohydrate backbones. Photosynthesis is often simplified into 6CO<sub>2</sub> + 6H<sub>2</sub>O + light --&gt; C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6O<sub>2</sub> . However, the true product is 3-phosphoglycerate that can be used to generate longer carbohydrates like glucose. The starting point of <span style="color: #ff0000"><strong>carbon fixation</strong></span> is the carbohydrate Ribulose 1,5-bisphosphate. The enzyme Ribulose Bisphospate Carboxylase (<span style="color: #ff0000"><strong>RuBisCO</strong></span>)  captures a CO<sub>2</sub> molecule onto Ribulose 1,5-bisphosphate to generate 2 molecules of 3-phosphoglycerate which can enter the process of <strong><span style="color: #ff0000">gluconeogenesis</span></strong> to generate glucose. ATP from the light reactions can then facilitate the conversion of 3-phosphoglycerate to 1,3 bisphosphoglycerate which can be reduced by NADPH to glyceraldehyde-3-phosphate (G3P). G3P can then be used to regenerate  Ribulose 1,5-bisphosphate.
-
-[caption id="" align="aligncenter" width="512"]<a title="By Peter coxhead (Own work) [CC0], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACalvin_cycle_step_1.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Calvin_cycle_step_1.svg/1280px-Calvin_cycle_step_1.svg.png" alt="Calvin cycle step 1" width="512" /></a> <span style="font-size: small">1: Carbon fixation by RuBisCO</span>[/caption][caption id="" align="aligncenter" width="512"]<a title="By Peter coxhead (Own work) [CC0], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACalvin_cycle_step_2_(doubled).svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calvin_cycle_step_2_%28doubled%29.svg/1024px-Calvin_cycle_step_2_%28doubled%29.svg.png" alt="Calvin cycle step 2 (doubled)" width="512" /></a> <span style="font-size: small">2: Reduction by NADPH </span>[/caption][caption id="" align="aligncenter" width="512"]<a title="By Peter coxhead (Own work) [CC0], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACalvin_cycle_step_3.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Calvin_cycle_step_3.svg/1024px-Calvin_cycle_step_3.svg.png" alt="Calvin cycle step 3" width="512" /></a> <span style="font-size: small">3: Ribulose ,5-bisphosphate regeneration</span>[/caption]
-<h2>The Great Oxygenation Event</h2>
-[caption id="" align="aligncenter" width="512"]<a href="https://commons.wikimedia.org/wiki/File%3AOxygenation-atm-2.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Oxygenation-atm-2.svg/512px-Oxygenation-atm-2.svg.png" alt="Oxygenation-atm-2" width="512" /></a> <span style="font-size: small">Two estimates of evolution of atmospheric O<sub>2</sub>. The upper red and lower green lines represent the range of the estimates. Stage 1 (3.85–2.45 Ga) represents the primordial reducing atmosphere. Stage 2 (2.45–1.85 Ga) coincides with the emergence of oceanic cyanobacteria where O<sub>2</sub> was being absorbed by the oceans and sediment. O<sub>2</sub> escaped the oceans during Stage 3 (1.85–0.85 Ga). O<sub>2</sub> sinks filled in Stage 4 (0.85–0.54 Ga ) and Stage 5 (0.54 Ga–present) leading to atmospheric accumulation.</span>[/caption]
-
-[caption id="" align="aligncenter" width="512"]<a href="https://commons.wikimedia.org/wiki/File%3ABlack-band_ironstone_(aka).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Black-band_ironstone_%28aka%29.jpg/512px-Black-band_ironstone_%28aka%29.jpg" alt="Black-band ironstone (aka)" width="512" /></a> <span style="font-size: small">Banded iron formations in 2.1 billion year old rock illustrate the oxidation of dissolved oceanic iron that precipitated in response to accumulating O<sub>2</sub> concentrations.</span>[/caption]
-
-[caption id="" align="aligncenter" width="512"]<a title="By Diagram adapted from U.S. DOE, Biological and Environmental Research Information System. [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACarbon_cycle.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Carbon_cycle.jpg/911px-Carbon_cycle.jpg" alt="Carbon cycle" width="512" /></a> <span style="font-size: small">The Carbon Cycle illustrates carbon sequestration and release between various carbon sinks</span>[/caption]
-
-[caption id="" align="aligncenter" width="512"]<a href="https://commons.wikimedia.org/wiki/File%3AM15-162b-EarthAtmosphere-CarbonDioxide-FutureRoleInGlobalWarming-Simulation-20151109.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/14/M15-162b-EarthAtmosphere-CarbonDioxide-FutureRoleInGlobalWarming-Simulation-20151109.jpg" alt="M15-162b-EarthAtmosphere-CarbonDioxide-FutureRoleInGlobalWarming-Simulation-20151109" width="512" /></a> <span style="font-size: small">Projection of atmospheric CO<sub>2</sub> accumulation without reduction of fossil fuel reduction by NASA</span>[/caption]
-
-&nbsp;]]></content:encoded>
+<!--nextpage-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>209</wp:post_id>
 		<wp:post_date><![CDATA[2015-06-18 18:15:11]]></wp:post_date>
@@ -9518,6 +9527,14 @@ PSI is also known as the cyclic pathway since the excited electron runs through 
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_97a606c3bae1b8e726766e7b86a5a064]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="604" height="340" src="https://www.youtube.com/embed/dO2xx-aeZ4w?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_97a606c3bae1b8e726766e7b86a5a064]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1532190588]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[975]]></wp:meta_value>
 		</wp:postmeta>
@@ -9531,12 +9548,12 @@ PSI is also known as the cyclic pathway since the excited electron runs through 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_d1233cefc6fe62640a4bced5d71f8036]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1529363123]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1533648658]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Photosynthesis (concept)</title>
-		<link>https://openlab.citytech.cuny.edu/bio-oer/cellular-energy/photosynthesis-concept/</link>
+		<link>https://openlab.citytech.cuny.edu/bio-oer/photosynthesis/photosynthesis-concept/</link>
 		<pubDate>Thu, 18 Jun 2015 22:17:58 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=211</guid>
@@ -9555,7 +9572,7 @@ Run the simulation below to understand how white light, specific wavelengths of 
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[photosynthesis-concept]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>209</wp:post_parent>
+		<wp:post_parent>1751</wp:post_parent>
 		<wp:menu_order>5</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -9607,7 +9624,7 @@ Run the simulation below to understand how white light, specific wavelengths of 
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=232</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2>Complementation</h2>
-<p align="left">George Beadle and Edward Tatum first described the concept that each gene corresponded to an enzyme in a metabolic pathway by exposing the yeast <em>Neurospoara crassa</em> to mutagenic conditions (<a href="#beadle">Beadle &amp; Tatum, 1941</a>). Following these procedures Josua lederberg continued these studies with Tatum where they generated two mutants strains in <em>Escherichia coli</em> . These bacteria were <strong><span style="color: #ff0000">auxotrophs</span></strong><span style="color: #ff0000"><span style="color: #000000">,</span></span> unable to generate some basic nutrients necessary to sustain their growth.  The two strains were described as <em>met<sup>−</sup> bio<sup>−</sup> Thr<sup>+</sup> Leu<sup>+</sup> Thi<sup>+</sup></em> (Strain A) and <em>Met<sup>+</sup> Bio<sup>+</sup> thr<sup>−</sup> leu<sup>−</sup> thi<sup>−</sup></em> (Strain B). Strain A can sufficiently synthesize the amino acids threonine, leucine and the cofactor thiamine while deficient in producing the cofactor biotin and the amino acid methionine while the converse was true of Strain B. When either of these two strains were plated onto minimal media, no growth occurred. Supplementing minimal media with methionine and biotin permitted Strain A to grow as normal. When the two strains were mixed together and plated on minimal media, there was growth of bacteria. The two strains were capable of complementing each other in some way as if a sexual exchange of genetic material had occurred (<a href="#lederberg">Lederberg &amp; Tatum, 1946</a>).</p>
+<p align="left">George Beadle and Edward Tatum first described the concept that each gene corresponded to an enzyme in a metabolic pathway by exposing the yeast <em>Neurospoara crassa</em> to mutagenic conditions (<a href="#beadle">Beadle &amp; Tatum, 1941</a>). Following these procedures Josua Lederberg continued these studies with Tatum where they generated two mutants strains in <em>Escherichia coli</em> . These bacteria were <strong><span style="color: #ff0000">auxotrophs</span></strong><span style="color: #ff0000"><span style="color: #000000">,</span></span> unable to generate some basic nutrients necessary to sustain their growth.  The two strains were described as <em>met<sup>−</sup> bio<sup>−</sup> Thr<sup>+</sup> Leu<sup>+</sup> Thi<sup>+</sup></em> (Strain A) and <em>Met<sup>+</sup> Bio<sup>+</sup> thr<sup>−</sup> leu<sup>−</sup> thi<sup>−</sup></em> (Strain B). Strain A can sufficiently synthesize the amino acids threonine, leucine and the cofactor thiamine while deficient in producing the cofactor biotin and the amino acid methionine while the converse was true of Strain B. When either of these two strains were plated onto minimal media, no growth occurred. Supplementing minimal media with methionine and biotin permitted Strain A to grow as normal. When the two strains were mixed together and plated on minimal media, there was growth of bacteria. The two strains were capable of complementing each other in some way as if a sexual exchange of genetic material had occurred (<a href="#lederberg">Lederberg &amp; Tatum, 1946</a>).</p>
 <p align="left">Bacteria are equipped with all the necessary capacities to replicate DNA. Common bacterial species have bee adapted for use in the lab to carry DNA and propagate it for uses in biotechnology. In addition to chromosomal DNA of the bacterial genome, bacteria also have extrachromosomal DNA called <span style="color: #ff0000"><b>plasmids</b></span>. These plasmids replicate independently of the bacterial chromosome and can occur in high copy. These circular pieces of DNA are modified in labs to carry specific pieces of DNA so they can be studied or used for expression into proteins. Plasmids can naturally carry important traits, including antibiotic resistance. Plasmids are relatively small, ranging in size from 1000 bases to 1,000,000 bases long (1kb-1000kb).</p>
 
 [caption id="" align="aligncenter" width="256"]<a title="By User:Spaully on English wikipedia (Own work) [CC BY-SA 2.5 (http://creativecommons.org/licenses/by-sa/2.5)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APlasmid_(english).svg" target="new"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Plasmid_%28english%29.svg/256px-Plasmid_%28english%29.svg.png" alt="Plasmid (english)" width="256" height="120" /></a> <span style="font-size: small">Bacterial DNA usually exists as a large <strong><span style="color: #ff0000">circular chromosome</span></strong> (<span style="color: #ff0000">red</span>). <strong><span style="color: #0000ff">Plasmids</span></strong> are extrachromosomal and autonomously replicating pieces of DNA (<span style="color: #0000ff">blue</span>).</span>[/caption]
@@ -9673,7 +9690,7 @@ https://youtu.be/8rXizmLjegI
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_e7288dd905b9db2d2bb643cc7c5127de]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1529422994]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1536173832]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -9686,10 +9703,10 @@ https://youtu.be/8rXizmLjegI
 		<content:encoded><![CDATA[<h2>Alkaline Lysis</h2>
 Once DNA is introduced and carried in bacteria, we would like to isolate the DNA again for further manipulation. In order to do so, bacteria containing the plasmid of interest is grown in a liquid culture of nutrient rich broth made of yeast extract called Luria-Bertani Broth (<span style="color: #ff0000"><b>LB</b></span>). These cultured bacteria are grown until they are of a high concentration over night. They are harvested through centrifugation and the broth is removed. The resulting pellet of bacteria is resuspended in a physiological buffer containing the chelator EDTA. A <span style="color: #ff0000"><b>chelator</b></span> is a chemical that removes divalent cations like Ca<sup>2+</sup> or Mg<sup>2+</sup> from solution. This is significant because divalent cations are necessary for DNA digesting enzymes to be active. By chelating the ions, the DNA we ultimately wish to purify will be safe from degradation.
 
-&gt;After resuspension of the bacteria, an alkaline solution of 0.1N NaOH is mixed into the bacterial mix. This solution also contains an ionic detergent called sodium dodecyl sulfate (<span style="color: #ff0000"><b>SDS</b></span>) that aids in denaturing proteins and disrupting their interactions with the DNA. The mixture becomes viscous as the bacteria burst open and their contents leak into the solution. This basic solution is then neutralize with a potassium acetate buffer at pH5.5. As the solutions mix together, the pH approaches 7 and the potassium interacts with the SDS to cause a precipitation of the genomic chromosomal DNA and proteins. In order to separate the precipitate from the solution, the mixture is centrifuged at high speed to pellet the genomic DNA and protein. The <span style="color: #ff0000"><b>supernantant</b></span>, or solution, is transferred to a column containing a <span style="color: #ff0000"><b>silica membrane</b></span>. Under high salt conditions, DNA adheres to glass or silica. By passing the solution through this column, the plasmid DNA in the supernatant is trapped onto the silica membrane and removed from solution. Additional washes are used to removed stray contaminants and remove the excessive salt. Plasmid DNA is finally removed from the column through <span style="color: #ff0000"><b>elution</b></span> by a low salt buffer. This low salt buffer is Tris pH 8 with EDTA (<span style="color: #ff0000"><b>TE</b></span>). Plasmid DNA can be stored stably in TE buffer in the freezer for extended periods.
+After resuspension of the bacteria, an alkaline solution of 0.1N NaOH is mixed into the bacterial mix. This solution also contains an ionic detergent called sodium dodecyl sulfate (<span style="color: #ff0000"><b>SDS</b></span>) that aids in denaturing proteins and disrupting their interactions with the DNA. The mixture becomes viscous as the bacteria burst open and their contents leak into the solution. This basic solution is then neutralize with a potassium acetate buffer at pH5.5. As the solutions mix together, the pH approaches 7 and the potassium interacts with the SDS to cause a precipitation of the genomic chromosomal DNA and proteins. In order to separate the precipitate from the solution, the mixture is centrifuged at high speed to pellet the genomic DNA and protein. The <span style="color: #ff0000"><b>supernantant</b></span>, or solution, is transferred to a column containing a <span style="color: #ff0000"><b>silica membrane</b></span>. Under high salt conditions, DNA adheres to glass or silica. By passing the solution through this column, the plasmid DNA in the supernatant is trapped onto the silica membrane and removed from solution. Additional washes are used to removed stray contaminants and remove the excessive salt. Plasmid DNA is finally removed from the column through <span style="color: #ff0000"><b>elution</b></span> by a low salt buffer. This low salt buffer is Tris pH 8 with EDTA (<span style="color: #ff0000"><b>TE</b></span>). Plasmid DNA can be stored stably in TE buffer in the freezer for extended periods.
 <h2>Exercise 1: Plasmid DNA Mini-Prep by Alkaline Lysis</h2>
 <ol>
- 	<li>&gt;<span style="color: #ff0000"><b>Inoculate</b></span> 2 ml of rich medium (LB, YT, or Terrific Broth) containing the appropriate antibiotic with a single colony of transformed bacteria. Incubate the culture overnight at 37°C with vigorous shaking. (This is what you were provided)
+ 	<li><span style="color: #ff0000"><b>Inoculate</b></span> 2 ml of rich medium (LB, YT, or Terrific Broth) containing the appropriate antibiotic with a single colony of transformed bacteria. Incubate the culture overnight at 37°C with vigorous shaking. (This is what you were provided)
 <ol>
  	<li>Each group should take 2 cultures</li>
 </ol>
@@ -9723,7 +9740,7 @@ Once DNA is introduced and carried in bacteria, we would like to isolate the DNA
 <ul>
  	<li style="list-style-type: none">
 <ul>
- 	<li>&gt;This is the lysis buffer containing the detergent Sodium Dodecyl Sulfate and NaOH</li>
+ 	<li>This is the lysis buffer containing the detergent Sodium Dodecyl Sulfate and NaOH</li>
 </ul>
 </li>
 </ul>
@@ -9734,7 +9751,7 @@ Once DNA is introduced and carried in bacteria, we would like to isolate the DNA
  	<li style="list-style-type: none">
 <ul>
  	<li>This is the neutralization buffer containing Potassium Acetate</li>
- 	<li>&gt;Neutralization restores pH to near 7 and also causes the precipitation of genomic DNA and proteins into a gloopy mess (snot-like)</li>
+ 	<li>Neutralization restores pH to near 7 and also causes the precipitation of genomic DNA and proteins into a gloopy mess (snot-like)</li>
 </ul>
 </li>
 </ul>
@@ -9762,7 +9779,7 @@ Once DNA is introduced and carried in bacteria, we would like to isolate the DNA
 </li>
 </ul>
 <ol start="9">
- 	<li>Centrifuge the supernatant through column for 1 minutes at maximum speed in a microfuge.</li>
+ 	<li>Centrifuge the supernatant through column for 1 minute at maximum speed in a microfuge.</li>
 </ol>
 <ul>
  	<li style="list-style-type: none">
@@ -9783,7 +9800,7 @@ Once DNA is introduced and carried in bacteria, we would like to isolate the DNA
 </ul>
 <ol start="11">
  	<li>Discard flow-through. Wash Column with 700 μl PE. Centrifuge the supernatant through column for 1 minutes at maximum in a microfuge. Discard flow-through and repeat spin to dry column.</li>
- 	<li><span style="color: #ff0000"><b>Elute</b></span> the nucleic acids in 50 μl of TE (pH 8.0) by binding for 1 minute and spinning at maximum speed for 1 minute.</li>
+ 	<li><span style="color: #ff0000"><span style="color: #000000">Place column in a fresh centrifuge tube and </span><b>Elute</b></span> the nucleic acids in 50 μl of TE (pH 8.0) by binding for 1 minute and spinning at maximum speed for 1 minute.</li>
 </ol>
 <!--nextpage-->
 <h2><a id="ID"></a>Identification of Plasmid DNA</h2>
@@ -10673,6 +10690,9 @@ Use the following simulation to test how a polypeptide chain with fold based on 
  	<li><strong><span style="color: #ff0000">Tertiary structure (3°)</span></strong>: overall 3-D structure of the peptide chain</li>
  	<li><span style="color: #ff0000"><strong>Quaternary structure(4°)</strong></span>: multimeric protein structure from assembling multiple peptide subunits</li>
 </ul>
+&nbsp;
+
+https://youtu.be/wvTv8TqWC48
 <h2>Diversity of Proteins</h2>
 <a title="By Axel Griewel (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AProtein_structure_examples.png"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Protein_structure_examples.png/512px-Protein_structure_examples.png" alt="Protein structure examples" width="512" /></a>
 
@@ -10690,6 +10710,14 @@ Learn more about complexity of protein structures at the <a href="http://mm.rcsb
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_34c7eeb41f3d46473bef33b83ac4e574]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1532275754]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_34c7eeb41f3d46473bef33b83ac4e574]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="604" height="340" src="https://www.youtube.com/embed/wvTv8TqWC48?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[975]]></wp:meta_value>
@@ -10950,29 +10978,29 @@ What kinds of decisions are made for stem cells to differentiate into different 
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=364</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h2>The Lactose Intolerance of Bacteria</span></h2>
-[caption id="" align="aligncenter" width="512"]<a href="https://commons.wikimedia.org/wiki/File%3ABacterial_growth_en.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bacterial_growth_en.svg/1024px-Bacterial_growth_en.svg.png" alt="Bacterial growth en" width="512" height="703" /></a> <span style="font-size: 10pt">The standard growth kinetics of E. coli are described by the curve. Credit: Michał Komorniczak (CC-BY-SA 3.0)</span>[/caption]
+		<content:encoded><![CDATA[<h2>The Lactose Intolerance of Bacteria</h2>
+[caption id="" align="aligncenter" width="512"]<a href="https://commons.wikimedia.org/wiki/File%3ABacterial_growth_en.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bacterial_growth_en.svg/1024px-Bacterial_growth_en.svg.png" alt="Bacterial growth en" width="512" /></a> <span style="font-size: 10pt">The standard growth kinetics of E. coli are described by the curve. Credit: Michał Komorniczak (CC-BY-SA 3.0)</span>[/caption]
 
 Glucose is the preferred energy source of cells. François Jacob and Jacques Monod sought to understand how bacteria made decisions to switch between different sugars as sources of energy.   Jacob and Monod found that if glucose and lactose were presented as food for bacteria, there would be a <strong><span style="color: #ff0000">biphasic growth</span></strong> pattern.
 
-[caption id="" align="alignright" width="256"]<a title="By CNX OpenStax (https://cnx.org/contents/5CvTdmJL@4.4) [CC BY 4.0 (http://creativecommons.org/licenses/by/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AOSC_Microbio_11_07_Diaux.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/OSC_Microbio_11_07_Diaux.jpg" alt="OSC Microbio 11 07 Diaux" width="256" height="660" /></a> <span style="font-size: 10pt">Credit: CNX OpenStax (CC-BY 4.0)</span>[/caption]
+[caption id="" align="alignright" width="256"]<a title="By CNX OpenStax (https://cnx.org/contents/5CvTdmJL@4.4) [CC BY 4.0 (http://creativecommons.org/licenses/by/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AOSC_Microbio_11_07_Diaux.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/OSC_Microbio_11_07_Diaux.jpg" alt="OSC Microbio 11 07 Diaux" width="256" /></a> <span style="font-size: 10pt">Credit: CNX OpenStax (CC-BY 4.0)</span>[/caption]
 <a title="By Telliott at English Wikipedia (Transferred from en.wikipedia to Commons.) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ALactose_etc.png"><img class="alignnone" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Lactose_etc.png/610px-Lactose_etc.png" alt="Lactose etc" width="256" /></a>
 
 &nbsp;
 
 Jacob and Monod came to understand that the glucose would first be utilized (preferred source) and the lactose would be digested after the depletion of glucose. This occurred because, under normal situations the bacteria would not have access to lactose and would waste energy by creating enzymes to digest it. The enzyme <strong><span style="color: #ff0000">β-galactosidase</span></strong><span style="color: #000000">,</span> which is responsible for digesting lactose to the monomers galactose and glucose would only be induced under the conditions of low glucose and high lactose. Monod found that when lactose was the sole sugar, the expression of the  enzyme β-galactosidase was induced and displayed a monophasic growth with a delay.
-<h2>The Lac Operon</span></h2>
+<h2>The Lac Operon</h2>
 Jacob and Monod later found that the genes involved in utilizing lactose were clustered together in proximity under a coordinated control mechanism. This became known as the <span style="color: #ff0000"><strong>Lac operon</strong></span>.
 
-[caption id="" align="aligncenter" width="803"]<img title="Public Domain from Wikimedia" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Lac_operon1.png" alt="The Lac Operon" width="803" height="81" /> <span style="font-size: small">A schematic of the Lac Operon. LacZ, LacY and LacA are transcribed as a single mRNA.</span>[/caption]
+[caption id="" align="aligncenter" width="803"]<img title="Public Domain from Wikimedia" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Lac_operon1.png" alt="The Lac Operon" width="803" /> <span style="font-size: small">A schematic of the Lac Operon. LacZ, LacY and LacA are transcribed as a single mRNA.</span>[/caption]
 
 The usage of lactose as a source of energy is preferred by bacteria when glucose is not present. In the presence of abundant glucose, it would be a waste of energy and cellular resources to commit to synthesizing the mRNA and the protein for β-galactosidase. Unless lactose is present, a protein binds to a portion of the Lac promoter referred to as the <span style="color: #ff0000"><strong>operator</strong></span>. This <strong><span style="color: #ff0000">repressor</span></strong> protein is encoded by another gene (<span style="color: #ff0000"><em><strong>LacI</strong></em></span>) outside of the gene cluster. Occasionally, the repressor unbinds to the operator and RNA Polymerase is permitted to transcribe the <span style="color: #ff0000"><strong><em>LacZ</em></strong></span> gene (β-galactosidase), <span style="color: #ff0000"><strong><em>LacY</em></strong></span> gene (permease), and <span style="color: #ff0000"><strong><em>LacA</em></strong></span> gene (acetylase).This "leakiness" of expression is important since the permease protein is needed on the surface of the cell to allow lactose into the cell if it is present in the environment. The presence of lactose causes the repressor to fall off the operator to grant RNA pol access to the DNA. When glucose is low, a protein called <span style="color: #ff0000"><strong>CAP</strong></span> (Catabolite Activated Protein), binds to the Lac promoter and works as an recruiter of RNA pol. The coordinated effects of CAP activation and Lac Repressor inactivation yields high transcription of the operon.
 
-[caption id="" align="aligncenter" width="512"]<a title="By Lac_operon.png: G3pro derivative work: Tereseik (Lac_operon.png) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ALac_operon-2010-21-01.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Lac_operon-2010-21-01.png/921px-Lac_operon-2010-21-01.png" alt="Lac operon-2010-21-01" width="512" height="768" /></a> <span style="font-size: 8pt">Credit: G3pro (CC-BY 2.0)</span>[/caption][caption id="" align="aligncenter" width="512"]<a title="By SocratesJedi (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AAnnotated_Theoretical_Model_of_Bound_Tetrameric_Lac_Repressor.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Annotated_Theoretical_Model_of_Bound_Tetrameric_Lac_Repressor.png/512px-Annotated_Theoretical_Model_of_Bound_Tetrameric_Lac_Repressor.png" alt="Annotated Theoretical Model of Bound Tetrameric Lac Repressor" width="512" height="445" /></a> <span style="font-size: 8pt">LacI bound to 2 DNA operator sequences. Credit: SocratesJedi (CC-BY-SA 3.0)</span>[/caption]
+[caption id="" align="aligncenter" width="512"]<a title="By Lac_operon.png: G3pro derivative work: Tereseik (Lac_operon.png) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ALac_operon-2010-21-01.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Lac_operon-2010-21-01.png/921px-Lac_operon-2010-21-01.png" alt="Lac operon-2010-21-01" width="512" /></a> <span style="font-size: 8pt">Credit: G3pro (CC-BY 2.0)</span>[/caption][caption id="" align="aligncenter" width="512"]<a title="By SocratesJedi (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AAnnotated_Theoretical_Model_of_Bound_Tetrameric_Lac_Repressor.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Annotated_Theoretical_Model_of_Bound_Tetrameric_Lac_Repressor.png/512px-Annotated_Theoretical_Model_of_Bound_Tetrameric_Lac_Repressor.png" alt="Annotated Theoretical Model of Bound Tetrameric Lac Repressor" width="512" /></a> <span style="font-size: 8pt">LacI bound to 2 DNA operator sequences. Credit: SocratesJedi (CC-BY-SA 3.0)</span>[/caption]
 <a title="By Thomas Shafee [CC BY 4.0 (http://creativecommons.org/licenses/by/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AGene_structure_prokaryote_2_annotated.svg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gene_structure_prokaryote_2_annotated.svg/1024px-Gene_structure_prokaryote_2_annotated.svg.png" alt="Gene structure prokaryote 2 annotated" width="512" /></a>
-<h2>Lac Operon Simulation</span></h2>
+<h2>Lac Operon Simulation</h2>
 Launch the simulation below to explore the coordinated activation of the Lac Operon.
-<div style="width: 300px;height: 197px"><a style="text-decoration: none" href="http://phet.colorado.edu/sims/gene-network/gene-machine-lac-operon_en.jnlp"><img style="border: none" src="http://phet.colorado.edu/sims/gene-network/gene-machine-lac-operon-600.png" alt="Gene Machine: The Lac Operon" width="300" height="197" />
+<div style="width: 300px;height: 197px"><a style="text-decoration: none" href="http://phet.colorado.edu/sims/gene-network/gene-machine-lac-operon_en.jnlp"><img style="border: none" src="http://phet.colorado.edu/sims/gene-network/gene-machine-lac-operon-600.png" alt="Gene Machine: The Lac Operon" width="300" />
 </a>
 <div></div>
 <table style="width: 200px;height: 80px">
@@ -10985,19 +11013,19 @@ Launch the simulation below to explore the coordinated activation of the Lac Ope
 </div>
 &nbsp;
 <h2></h2>
-<h2>LacZ as a reporter gene</span></h2>
+<h2>LacZ as a reporter gene</h2>
 pUC19 contains LacZ DNA as a reporter gene to illustrate the presence of the functioning gene. Transcription of this gene is driven by the binding site for the RNA Polymerase subunit called <span style="color: #ff0000"><strong>σ factor</strong></span>. The σ factor binding site determines the directionality of the RNA polymerase, since there is an option of transcribing in 2 directions. The standard σ factor binding site is often denoted as <span style="color: #ff0000"><strong>-35</strong></span> <strong>TTGACA...TATAAT</strong> <strong><span style="color: #ff0000">-10</span></strong> from the transcription initiation.
-<a href="http://openlab.citytech.cuny.edu/bio1-oer/dna-fingerprinting/propagating-dna-in-bacteria/puc19/" rel="attachment wp-att-241"><img class="size-large wp-image-241 aligncenter" src="https://openlab.citytech.cuny.edu/bio-oer/files/2015/07/pUC19-1024x582.png" alt="" width="604" height="343" /></a>
+<a href="http://openlab.citytech.cuny.edu/bio1-oer/dna-fingerprinting/propagating-dna-in-bacteria/puc19/" rel="attachment wp-att-241"><img class="size-large wp-image-241 aligncenter" src="https://openlab.citytech.cuny.edu/bio-oer/files/2015/07/pUC19-1024x582.png" alt="" width="604" /></a>
 The multiple cloning site within the plasmid provides a convenient location to shuttle a foreign piece of DNA. When no foreign DNA is inserted to this space, the LacZ gene product β-galactosidase is functional. Disruption of the reading frame for this gene likewise disables the functional product from being translated. By using chemical reporters, the integrity of this gene can be confirmed through enzymatic activity.
 
-[caption id="" align="aligncenter" width="256"]<a title="By Yikrazuul (Own work; file:Lactose Haworth.svg) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AHydrolysis_of_lactose.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Hydrolysis_of_lactose.svg/256px-Hydrolysis_of_lactose.svg.png" alt="Hydrolysis of lactose" width="256" height="217" /></a> <span style="font-size: small">Hydrolysis of lactose to galactose and glucose</span>[/caption]Two chemical reporters used to reveal the presence of a functioning LacZ are <span style="color: #ff0000"><strong>X-Gal</strong></span> (5-bromo-4-chloro-3-indolyl-β-D-galactoside5-bromo-4-chloro-3-indolyl-β-D-galactoside) and <span style="color: #ff0000"><strong>ONPG</strong></span> (orthonitrophenol).
+[caption id="" align="aligncenter" width="256"]<a title="By Yikrazuul (Own work; file:Lactose Haworth.svg) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AHydrolysis_of_lactose.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Hydrolysis_of_lactose.svg/256px-Hydrolysis_of_lactose.svg.png" alt="Hydrolysis of lactose" width="256" /></a> <span style="font-size: small">Hydrolysis of lactose to galactose and glucose</span>[/caption]Two chemical reporters used to reveal the presence of a functioning LacZ are <span style="color: #ff0000"><strong>X-Gal</strong></span> (5-bromo-4-chloro-3-indolyl-β-D-galactoside5-bromo-4-chloro-3-indolyl-β-D-galactoside) and <span style="color: #ff0000"><strong>ONPG</strong></span> (orthonitrophenol).
 
-[caption id="" align="alignleft" width="128"]<a title="By NEUROtiker (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AX-Gal.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/X-Gal.svg/128px-X-Gal.svg.png" alt="X-Gal" width="128" height="91" /></a> <span style="font-size: small">X-Gal (5-bromo-4-chloro-3-indolyl-β-D-galactoside) yields a blue color when cleaved by β-galactosidase</span>[/caption][caption id="" align="alignright" width="128"]<a title="By NEUROtiker (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AONPG.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ONPG.svg/128px-ONPG.svg.png" alt="ONPG" width="128" height="111" /></a> <span style="font-size: small">ONPG (orthonitrophenol) yields a yellow color upon cleavage by β-galactosidase</span>[/caption]
+[caption id="" align="alignleft" width="128"]<a title="By NEUROtiker (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AX-Gal.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/X-Gal.svg/128px-X-Gal.svg.png" alt="X-Gal" width="128" /></a> <span style="font-size: small">X-Gal (5-bromo-4-chloro-3-indolyl-β-D-galactoside) yields a blue color when cleaved by β-galactosidase</span>[/caption][caption id="" align="alignright" width="128"]<a title="By NEUROtiker (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AONPG.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ONPG.svg/128px-ONPG.svg.png" alt="ONPG" width="128" /></a> <span style="font-size: small">ONPG (orthonitrophenol) yields a yellow color upon cleavage by β-galactosidase</span>[/caption]
 As in the case of the Lac operon, the <em>LacI</em> (repressor protein) will occupy the operator. This operator happens to be overlapping the -35 &amp; -10 sequences. In order to fully activate these genes, the Lac repressor must be removed by binding to a lactose analog. In this case, the chemical <span style="color: #ff0000"><strong>IPTG</strong></span> (Isopropyl β-D-1-thiogalactopyranoside) is used since it is a non-cleavable analog that will perpetually bind to the Lac repressor.
 
-[caption id="" align="aligncenter" width="128"]<a title="By NEUROtiker (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AIPTG2.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/IPTG2.svg/128px-IPTG2.svg.png" alt="IPTG2" width="128" height="117" /></a> <span style="font-size: small">IPTG</span>[/caption]
+[caption id="" align="aligncenter" width="128"]<a title="By NEUROtiker (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AIPTG2.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/IPTG2.svg/128px-IPTG2.svg.png" alt="IPTG2" width="128" /></a> <span style="font-size: small">IPTG</span>[/caption]
 <h2>Blue-White Screening</h2>
-[caption id="" align="aligncenter" width="512"]<a title="By Stefan Walkowski (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 4.0-3.0-2.5-2.0-1.0 (https://creativecommons.org/licenses/by-sa/4.0-3.0-2.5-2.0-1.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ABlue-white_test.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Blue-white_test.jpg" alt="Blue-white test" width="512" height="800" /></a> <span style="font-size: small">Blue-White Screening reveals a phenotype of transformed bacteria based on the ability of X-Gal conversion by β-lactamase Credit: <a class="new" title="User:Navaho (page does not exist)" href="https://commons.wikimedia.org/w/index.php?title=User:Navaho&amp;action=edit&amp;redlink=1" target="new">Stefan </a>Walkowski (<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="new">CC-BY-SA 4.0</a>)</span>[/caption]
+[caption id="" align="aligncenter" width="512"]<a title="By Stefan Walkowski (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 4.0-3.0-2.5-2.0-1.0 (https://creativecommons.org/licenses/by-sa/4.0-3.0-2.5-2.0-1.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ABlue-white_test.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Blue-white_test.jpg" alt="Blue-white test" width="512" /></a> <span style="font-size: small">Blue-White Screening reveals a phenotype of transformed bacteria based on the ability of X-Gal conversion by β-lactamase Credit: <a class="new" title="User:Navaho (page does not exist)" href="https://commons.wikimedia.org/w/index.php?title=User:Navaho&amp;action=edit&amp;redlink=1" target="new">Stefan </a>Walkowski (<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="new">CC-BY-SA 4.0</a>)</span>[/caption]
 <h2>References</h2>
 <ul>
  	<li>JACOB F, MONOD J. <strong>Genetic regulatory mechanisms in the synthesis of proteins</strong><em>. J Mol Biol. 1961 Jun;3:318-56.</em></li>
@@ -11243,7 +11271,7 @@ The human mitochondrial genome (<span style="text-decoration: underline"><span s
 
 The cluster of SNPs found in the mitochondrial control region are linked and are always inherited together. Because of the lack of paternal contribution, this linkage is referred to as a <span style="color: #ff0000"><span style="font-size: medium"><b>haplotype</b></span></span><span style="color: #000000"><span style="font-size: medium">, or “half-type”. Tracking these polymorphic haplotypes, a family tree of humans was developed in the 1980s which concluded that humans arose from a metaphorical “Mitochondrial Eve” 200,000 years ago. As a metaphor to the Biblical Eve, this alludes to an origin but unlike the Biblical event, this does not mean that it was a single woman that gave rise to all of modern humanity. On the contrary, the metaphor merely indicates that a series of females; sisters and cousins, of this line gave rise to modern humans. </span></span>
 
-[caption id="" align="aligncenter" width="600"]<img title="GFDL and CC-BY-SA - https://commons.wikimedia.org/wiki/File:Map-of-human-migrations.jpg" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Map-of-human-migrations.jpg" alt=" Mitochondrial Migration Map" width="600" /> Migration map of mitochondrial haplogroups. Numbers represent 1000 years ago.[/caption]
+[caption id="" align="aligncenter" width="600"]<img title="GFDL and CC-BY-SA - https://commons.wikimedia.org/wiki/File:Map-of-human-migrations.jpg" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Map-of-human-migrations.jpg" alt=" Mitochondrial Migration Map" width="600" /> Migration map of mitochondrial haplogroups. Numbers represent 1000 years ago. <span style="font-size: medium"><i><span style="font-size: small"><a href="https://commons.wikimedia.org/wiki/File:Map-of-human-migrations.jpg">https://commons.wikimedia.org/wiki/File:Map-of-human-migrations.jpg</a> (CC-BY-SA 3.0)</span></i></span>[/caption]
 
 The use of mitochondria for this analysis provides great flexibility, especially from ancient sources. Unlike the nuclear genome which only has 2 copies of DNA per cell, the mitochondria are abundant in number and provide many copies of genome per cell. Ancient sources of DNA in fossils will most often have degradation of the DNA. The mitochondrial genome is just as likely to undergo degradation over time, however the high copy number allows for gaps to be filled in easily. SNPs do not alter the overall size of the hypervariable region, therefore amplification by PCR can not resolve these differences based on agarose gel migration. However, <span style="color: #ff0000"><strong><span style="font-size: medium">a</span></strong></span><span style="font-size: medium"><b>mplicons</b></span><span style="color: #000000"><span style="font-size: medium"> (amplified copies) can be sent for sequencing whereby each nucleotide can be called out in succession and reveal the specific SNPs.</span></span>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -11281,6 +11309,8 @@ The use of mitochondria for this analysis provides great flexibility, especially
 		<description></description>
 		<content:encoded><![CDATA[<h2 class="western"><b>Transposable Elements</b></h2>
 Mobile genetic elements called <span style="color: #ff0000"><span style="font-size: medium"><b>transposable elements</b></span></span><span style="font-size: medium"> or </span><span style="color: #ff0000"><span style="font-size: medium"><b>transposons</b></span></span><span style="font-size: medium"> are located throughout the genome. These elements were first described in maize by Barbara McClintock at the Cold Spring Harbor Laboratory where she observed a disruption of coloring in corn kernels that did not follow simple Mendelian inheritance.</span>
+
+https://youtu.be/9MPiRx3SPMM
 <h3 class="western"><b>McClintock's Corn Kernels</b></h3>
 <a title="F2 Close-up with Transposition" href="https://www.flickr.com/photos/jamescastle/34332964562/in/photostream/"><img src="https://c1.staticflickr.com/5/4193/34332964562_9bccd10dc7.jpg" alt="F2 Close-up with Transposition" width="500" /></a>
 
@@ -11320,24 +11350,12 @@ https://youtu.be/IOXvZXtc93U
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[975]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_oembed_b97e20bb4efc03d10fe8c83c1f4e6060]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="604" height="340" src="https://www.youtube.com/embed/9MPiRx3SPMM?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_cc71ddb90af1719430300fd575d4df96]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe width="604" height="453" src="https://www.youtube.com/embed/_cJfsWYR42M?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_time_cc71ddb90af1719430300fd575d4df96]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1529413846]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_bd313c6ec7b247c6bcc9465389584243]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe width="604" height="453" src="https://www.youtube.com/embed/IOXvZXtc93U?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_time_bd313c6ec7b247c6bcc9465389584243]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1529413846]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_oembed_time_b97e20bb4efc03d10fe8c83c1f4e6060]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1535748030]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -11349,7 +11367,7 @@ https://youtu.be/IOXvZXtc93U
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_cc71ddb90af1719430300fd575d4df96]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1529413846]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1535748073]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_bd313c6ec7b247c6bcc9465389584243]]></wp:meta_key>
@@ -11357,7 +11375,27 @@ https://youtu.be/IOXvZXtc93U
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_bd313c6ec7b247c6bcc9465389584243]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1529413846]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1535748073]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[975]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_cc71ddb90af1719430300fd575d4df96]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="604" height="453" src="https://www.youtube.com/embed/_cJfsWYR42M?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_cc71ddb90af1719430300fd575d4df96]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1535748073]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_bd313c6ec7b247c6bcc9465389584243]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="604" height="453" src="https://www.youtube.com/embed/IOXvZXtc93U?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_bd313c6ec7b247c6bcc9465389584243]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1535748073]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -11367,36 +11405,36 @@ https://youtu.be/IOXvZXtc93U
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=392</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h2><b>The PCR amplification of the mitochondrial control region</b></span></h2>
-<p class="western">There are 2 hypervariable regions within the control region of the mitochondria. This exercise amplifies just one of these. For more definitive results, both should be amplified and sequenced. This exercise will permit us to have a rough idea of the origins of our maternal line and we will be able to attribute ourselves to various tribes throughout the world. The human mitochondrial genome (<a href="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/sequences/ape_mt/Homo_sapiens_mtS1.gb" target="new">genbank file</a>).</span></span></p>
-<p class="western"><span style="color: #000000"><b>Forward Primer</b></span></span></span> <span style="color: #000000"><span style="font-family: 'Liberation mono', 'Courier New', monospace"><span style="font-size: medium">5’-TTAACTCCACCATTAGCACC-3’</span></span></span></p>
-<p class="western"><span style="color: #000000"><b>Reverse Primer</b></span></span></span> <span style="color: #000000"><span style="font-family: 'Liberation Mono', 'Courier New', monospace"><span style="font-size: medium">5’-GAGGATGGTGGTCAAGGGAC-3’</span></span></span></p>
+		<content:encoded><![CDATA[<h2><b>The PCR amplification of the mitochondrial control region</b></h2>
+<p class="western">There are 2 hypervariable regions within the control region of the mitochondria. This exercise amplifies just one of these. For more definitive results, both should be amplified and sequenced. This exercise will permit us to have a rough idea of the origins of our maternal line and we will be able to attribute ourselves to various tribes throughout the world. The human mitochondrial genome (<a href="https://raw.githubusercontent.com/jeremyseto/bio-oer/master/sequences/ape_mt/Homo_sapiens_mtS1.gb" target="new">genbank file</a>).</p>
+<p class="western"><span style="color: #000000"><b>Forward Primer</b></span> <span style="color: #000000"><span style="font-family: 'Liberation mono', 'Courier New', monospace"><span style="font-size: medium">5’-TTAACTCCACCATTAGCACC-3’</span></span></span></p>
+<p class="western"><span style="color: #000000"><b>Reverse Primer</b></span> <span style="color: #000000"><span style="font-family: 'Liberation Mono', 'Courier New', monospace"><span style="font-size: medium">5’-GAGGATGGTGGTCAAGGGAC-3’</span></span></span></p>
 
 <ol>
- 	<li>PCR the previously extract DNA  samples</span></span></li>
+ 	<li>PCR the previously extract DNA  samples</li>
 </ol>
 <ul>
  	<li style="list-style-type: none">
 <ul>
- 	<li>Pour 2% agarose into casting apparatus in refrigerator</span></span></li>
- 	<li>2 gels per class need to be made → 100ml of TBE with 2g agarose</span></span></li>
- 	<li><span style="font-size: medium">add 5μ</span>l SYBR safe solution into the molten agarose before casting</span></span></li>
- 	<li>place 2 sets of combs into the gel → at one end and in the middle</span></span></li>
+ 	<li>Pour 2% agarose into casting apparatus in refrigerator</li>
+ 	<li>2 gels per class need to be made → 100ml of TBE with 2g agarose</li>
+ 	<li><span style="font-size: medium">add 5μ</span>l SYBR safe solution into the molten agarose before casting</li>
+ 	<li>place 2 sets of combs into the gel → at one end and in the middle</li>
 </ul>
 </li>
 </ul>
 <ol start="2">
- 	<li>load gel with DNA ladder and PCR</span></span></li>
- 	<li>Run gel at 120V for 20 minutes</span></span></li>
- 	<li>Visualize on UV transilluminator </span></span></li>
- 	<li>Document with camera to verify amplification</span></span></li>
- 	<li>The instructor will submit the viable reactions for sequencing</span></span></li>
- 	<li><b>Analyze data during Bioinformatics Lab session</b></span></span>
+ 	<li>load gel with DNA ladder and PCR</li>
+ 	<li>Run gel at 120V for 20 minutes</li>
+ 	<li>Visualize on UV transilluminator</li>
+ 	<li>Document with camera to verify amplification</li>
+ 	<li>The instructor will submit the viable reactions for sequencing</li>
+ 	<li><b>Analyze data during Bioinformatics Lab session</b>
 <ol>
- 	<li><span style="color: #000000">Using NYCCT email address, register for account at </span></span></span><span style="color: #0000ff"><a style="color: #0000ff" href="http://dnasubway.iplantcollaborative.org/">http://dnasubway.iplantcollaborative.org/</span></span></a></span></span></li>
- 	<li>retrieve reference mitochondrial sequences</span></span></li>
- 	<li><span style="color: #000000">perform multiple sequence alignment using </span></span></span><span style="color: #0000ff"><a style="color: #0000ff" href="http://www.ebi.ac.uk/Tools/msa/muscle/">MUSCLE</span></span></a></span></span></li>
- 	<li><span style="color: #000000">draw phylogenetic trees using </span></span></span><span style="color: #0000ff"><a style="color: #0000ff" href="http://evolution.genetics.washington.edu/phylip/general.html">PHYLIP</span></span></a></span></span><span style="color: #000000"> and visualize using </span></span></span><span style="color: #0000ff"><a style="color: #0000ff" href="http://tree.bio.ed.ac.uk/software/figtree/">FigTree</span></span></a></span></span></li>
+ 	<li><span style="color: #000000">Using NYCCT email address, register for account at </span><span style="color: #0000ff"><a style="color: #0000ff" href="https://dnasubway.cyverse.org/" target="_blank" rel="noopener">https://dnasubway.cyverse.org/</a></span></li>
+ 	<li>retrieve reference mitochondrial sequences</li>
+ 	<li><span style="color: #000000">perform multiple sequence alignment using </span><span style="color: #0000ff"><a style="color: #0000ff" href="http://www.ebi.ac.uk/Tools/msa/muscle/">MUSCLE</a></span></li>
+ 	<li><span style="color: #000000">draw phylogenetic trees using </span><span style="color: #0000ff"><a style="color: #0000ff" href="http://evolution.genetics.washington.edu/phylip/general.html">PHYLIP</a></span><span style="color: #000000"> and visualize using </span><span style="color: #0000ff"><a style="color: #0000ff" href="http://tree.bio.ed.ac.uk/software/figtree/">FigTree</a></span></li>
 </ol>
 </li>
 </ol>]]></content:encoded>
@@ -13261,7 +13299,7 @@ generation</b></td>
 	</item>
 	<item>
 		<title>Photosynthetic Pigments</title>
-		<link>https://openlab.citytech.cuny.edu/bio-oer/cellular-energy/photosynthetic-pigments/</link>
+		<link>https://openlab.citytech.cuny.edu/bio-oer/photosynthesis/photosynthetic-pigments/</link>
 		<pubDate>Sun, 04 Oct 2015 22:53:33 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=515</guid>
@@ -13295,7 +13333,7 @@ generation</b></td>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[photosynthetic-pigments]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>209</wp:post_parent>
+		<wp:post_parent>1751</wp:post_parent>
 		<wp:menu_order>2</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -13320,7 +13358,7 @@ generation</b></td>
 	</item>
 	<item>
 		<title>Absorbance Spectra of Photosynthetic Pigments</title>
-		<link>https://openlab.citytech.cuny.edu/bio-oer/cellular-energy/absorbance-spectra-of-photosynthetic-pigments/</link>
+		<link>https://openlab.citytech.cuny.edu/bio-oer/photosynthesis/absorbance-spectra-of-photosynthetic-pigments/</link>
 		<pubDate>Mon, 12 Oct 2015 02:40:46 +0000</pubDate>
 		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
 		<guid isPermaLink="false">http://openlab.citytech.cuny.edu/bio1-oer/?page_id=517</guid>
@@ -13623,7 +13661,7 @@ Visible light wavelengths (between 400nm-700nm) are strongly absorbed by the pig
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[absorbance-spectra-of-photosynthetic-pigments]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>209</wp:post_parent>
+		<wp:post_parent>1751</wp:post_parent>
 		<wp:menu_order>3</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -15811,6 +15849,63 @@ This exercise uses turnip extract as a source of peroxidase. This turnip extract
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[975]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Photosynthesis</title>
+		<link>https://openlab.citytech.cuny.edu/bio-oer/photosynthesis/</link>
+		<pubDate>Sun, 05 Aug 2018 16:50:33 +0000</pubDate>
+		<dc:creator><![CDATA[jeremyseto]]></dc:creator>
+		<guid isPermaLink="false">https://openlab.citytech.cuny.edu/bio-oer/?page_id=1751</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>Chloroplasts</h2>
+[caption id="" align="alignnone" width="512"]<a title="By Kelvinsong (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AChloroplast-cyanobacterium_comparison.svg" target="new"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Chloroplast-cyanobacterium_comparison.svg/512px-Chloroplast-cyanobacterium_comparison.svg.png" alt="Chloroplast-cyanobacterium comparison" width="512" height="193" /></a> <span style="font-size: small">Credit:  <a href="https://commons.wikimedia.org/wiki/User:Kelvinsong">Kelvinsong</a> [<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC-BY-SA 3.0</a>]</span>[/caption]<span style="color: #ff0000"><strong>Chloroplasts</strong></span> arose through a second endosymbiotic event in plants and various protists. These light harvesting organelles share similarity in structure and genome to photoautotrophic cynaboacteria.
+<h2>Light Harvesting</h2>
+<a title="By Somepics (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AThylakoid_membrane_3.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Thylakoid_membrane_3.svg/512px-Thylakoid_membrane_3.svg.png" alt="Thylakoid membrane 3" width="512" /></a>
+
+The thylakoid membranes of chloroplasts and cyanobacteria provide additional surface area for energy capture of light to occur. The light-dependent reactions in chlorplasts utilize two protein complexes referred to as <span style="color: #ff0000"><strong>Photosystem I</strong></span> (PSI) and <span style="color: #ff0000"><strong>Photosystem II</strong></span> (PSII)located on the thylakoid membranes. At the center of each photosystem complexes are <span style="color: #ff0000"><strong>photopigments</strong></span> optimized to absorb specific wavelengths of light. When light is absorbed in a photosystem, an electron is excited and transferred to the electron transport chain. In PSII, the electron is regenerated by splitting of two water molecules into 4H<sup>+</sup> + 4e<sup>-</sup> + O<sub>2</sub>. As the electrons move through the ETC, protons are pumped into the thylakoid space. The ETC leads to the reduction of a high energy electron carrier NADP<sup>+</sup> to <strong><span style="color: #ff0000">NADPH</span></strong>. Since this pathway uses consumes water in a chemical reaction, the apparent loss of water in the thylakoid space is referred to as chemiosmosis.
+
+PSI is also known as the cyclic pathway since the excited electron runs through a closed circuit of the ETC to regenerate the lost electron. This closed circuit also generates a proton gradient through powering of a proton pump but does not lead to the reduction of NADPH. As with the ETC-powered proton pump in mitochondria, the proton gradient is used to power ATP-synthase in producing ATP molecules.
+<h2>Light Independent Reactions</h2>
+[caption id="" align="alignnone" width="512"]<a title="By Mike Jones (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACalvin-cycle4.svg" target="new"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Calvin-cycle4.svg/512px-Calvin-cycle4.svg.png" alt="Calvin-cycle4" width="512" height="469" /></a> <span style="font-size: small">Credit: <i><a href="https://commons.wikimedia.org/wiki/User:Adenosine">Mike Jones</a> [</i><a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC-BY-SA 3.0</a>]</span>[/caption]The light independent reactions are also known as the dark reactions or <strong><span style="color: #ff0000">Calvin Cycle</span></strong> and utilize the ATP and NADPH from the light-dependent reactions to fix gaseous CO<sub>2</sub> into carbohydrate backbones. Photosynthesis is often simplified into 6CO<sub>2</sub> + 6H<sub>2</sub>O + light --&gt; C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6O<sub>2</sub> . However, the true product is 3-phosphoglycerate that can be used to generate longer carbohydrates like glucose. The starting point of <span style="color: #ff0000"><strong>carbon fixation</strong></span> is the carbohydrate Ribulose 1,5-bisphosphate. The enzyme Ribulose Bisphospate Carboxylase (<span style="color: #ff0000"><strong>RuBisCO</strong></span>)  captures a CO<sub>2</sub> molecule onto Ribulose 1,5-bisphosphate to generate 2 molecules of 3-phosphoglycerate which can enter the process of <strong><span style="color: #ff0000">gluconeogenesis</span></strong> to generate glucose. ATP from the light reactions can then facilitate the conversion of 3-phosphoglycerate to 1,3 bisphosphoglycerate which can be reduced by NADPH to glyceraldehyde-3-phosphate (G3P). G3P can then be used to regenerate  Ribulose 1,5-bisphosphate.
+
+[caption id="" align="aligncenter" width="512"]<a title="By Peter coxhead (Own work) [CC0], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACalvin_cycle_step_1.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Calvin_cycle_step_1.svg/1280px-Calvin_cycle_step_1.svg.png" alt="Calvin cycle step 1" width="512" /></a> <span style="font-size: small">1: Carbon fixation by RuBisCO</span>[/caption][caption id="" align="aligncenter" width="512"]<a title="By Peter coxhead (Own work) [CC0], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACalvin_cycle_step_2_(doubled).svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calvin_cycle_step_2_%28doubled%29.svg/1024px-Calvin_cycle_step_2_%28doubled%29.svg.png" alt="Calvin cycle step 2 (doubled)" width="512" /></a> <span style="font-size: small">2: Reduction by NADPH </span>[/caption][caption id="" align="aligncenter" width="512"]<a title="By Peter coxhead (Own work) [CC0], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACalvin_cycle_step_3.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Calvin_cycle_step_3.svg/1024px-Calvin_cycle_step_3.svg.png" alt="Calvin cycle step 3" width="512" /></a> <span style="font-size: small">3: Ribulose ,5-bisphosphate regeneration</span>[/caption]
+<h2>The Great Oxygenation Event</h2>
+[caption id="" align="aligncenter" width="512"]<a href="https://commons.wikimedia.org/wiki/File%3AOxygenation-atm-2.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Oxygenation-atm-2.svg/512px-Oxygenation-atm-2.svg.png" alt="Oxygenation-atm-2" width="512" /></a> <span style="font-size: small">Two estimates of evolution of atmospheric O<sub>2</sub>. The upper red and lower green lines represent the range of the estimates. Stage 1 (3.85–2.45 Ga) represents the primordial reducing atmosphere. Stage 2 (2.45–1.85 Ga) coincides with the emergence of oceanic cyanobacteria where O<sub>2</sub> was being absorbed by the oceans and sediment. O<sub>2</sub> escaped the oceans during Stage 3 (1.85–0.85 Ga). O<sub>2</sub> sinks filled in Stage 4 (0.85–0.54 Ga ) and Stage 5 (0.54 Ga–present) leading to atmospheric accumulation.</span>[/caption]
+
+[caption id="" align="aligncenter" width="512"]<a href="https://commons.wikimedia.org/wiki/File%3ABlack-band_ironstone_(aka).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Black-band_ironstone_%28aka%29.jpg/512px-Black-band_ironstone_%28aka%29.jpg" alt="Black-band ironstone (aka)" width="512" /></a> <span style="font-size: small">Banded iron formations in 2.1 billion year old rock illustrate the oxidation of dissolved oceanic iron that precipitated in response to accumulating O<sub>2</sub> concentrations.</span>[/caption]
+
+https://youtu.be/dO2xx-aeZ4w
+
+[caption id="" align="aligncenter" width="512"]<a title="By Diagram adapted from U.S. DOE, Biological and Environmental Research Information System. [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACarbon_cycle.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Carbon_cycle.jpg/911px-Carbon_cycle.jpg" alt="Carbon cycle" width="512" /></a> <span style="font-size: small">The Carbon Cycle illustrates carbon sequestration and release between various carbon sinks</span>[/caption]
+
+[caption id="" align="aligncenter" width="512"]<a href="https://commons.wikimedia.org/wiki/File%3AM15-162b-EarthAtmosphere-CarbonDioxide-FutureRoleInGlobalWarming-Simulation-20151109.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/14/M15-162b-EarthAtmosphere-CarbonDioxide-FutureRoleInGlobalWarming-Simulation-20151109.jpg" alt="M15-162b-EarthAtmosphere-CarbonDioxide-FutureRoleInGlobalWarming-Simulation-20151109" width="512" /></a> <span style="font-size: small">Projection of atmospheric CO<sub>2</sub> accumulation without reduction of fossil fuel reduction by NASA</span>[/caption]
+
+&nbsp;]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1751</wp:post_id>
+		<wp:post_date><![CDATA[2018-08-05 12:50:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-08-05 16:50:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[photosynthesis]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[975]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_97a606c3bae1b8e726766e7b86a5a064]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="604" height="340" src="https://www.youtube.com/embed/dO2xx-aeZ4w?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_97a606c3bae1b8e726766e7b86a5a064]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1533487789]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
