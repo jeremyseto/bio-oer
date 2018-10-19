@@ -232,8 +232,8 @@
      id="namedview85"
      showgrid="false"
      inkscape:zoom="0.79290635"
-     inkscape:cx="974.03641"
-     inkscape:cy="177.00735"
+     inkscape:cx="559.46158"
+     inkscape:cy="260.74653"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -256,7 +256,7 @@
          height="66.212105"
          x="215.03169"
          y="210.64944" /></flowRegion><flowPara
-       id="flowPara12307"></flowPara></flowRoot>  <flowRoot
+       id="flowPara12307" /></flowRoot>  <flowRoot
      xml:space="preserve"
      id="flowRoot12319"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -266,7 +266,7 @@
          height="64.320335"
          x="218.18466"
          y="215.69418" /></flowRegion><flowPara
-       id="flowPara12325"></flowPara></flowRoot>  <rect
+       id="flowPara12325" /></flowRoot>  <rect
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect9492"
      width="681.03882"
@@ -407,7 +407,7 @@
        x="497.91321"
        sodipodi:role="line">E<tspan
    id="tspan12335"
-   style="font-size:17.12277985px;baseline-shift:sub;fill:#33b87d;fill-opacity:1;stroke:#33b87d;stroke-width:1.36982238px;stroke-opacity:1">A</tspan> without</tspan><tspan
+   style="font-size:17.12277985px;baseline-shift:sub;fill:#33b87d;fill-opacity:1;stroke:#33b87d;stroke-width:1.36982238px;stroke-opacity:1">A</tspan> with</tspan><tspan
        id="tspan12337"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.9718914px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#33b87d;fill-opacity:1;stroke:#33b87d;stroke-width:1.36982238px;stroke-opacity:1"
        y="308.99448"
