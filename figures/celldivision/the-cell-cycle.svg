@@ -12,7 +12,7 @@
    id="svg10237"
    height="541"
    width="545"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="the-cell-cycle.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -24,12 +24,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-height="1054"
      id="namedview232"
      showgrid="false"
      inkscape:zoom="1.2618314"
-     inkscape:cx="137.62758"
-     inkscape:cy="281.47236"
+     inkscape:cx="11.224005"
+     inkscape:cy="279.88736"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -65,7 +65,7 @@
           <rdf:Bag>
             <rdf:li>cell cycle</rdf:li>
             <rdf:li>cyclin</rdf:li>
-            <rdf:li></rdf:li>
+            <rdf:li />
             <rdf:li>mitosis</rdf:li>
           </rdf:Bag>
         </dc:subject>
@@ -1304,9 +1304,8 @@
      sodipodi:linespacing="125%"><textPath
        xlink:href="#path6077"
        startOffset="50%"
-       id="textPath6079"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1"
-   id="tspan6075">METAPHASE</tspan></textPath></text>
+       id="textPath6079"
+       style="fill:#ffffff;fill-opacity:1;-inkscape-font-specification:'Noto Sans Bold';font-family:'Noto Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Mitosis</textPath></text>
   <path
      style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 155.22565,57.748411 c 0,0 22.63988,-10.76649 34.46345,-14.850106 9.67863,-3.342798 19.62336,-6.026737 29.70021,-7.845339 11.17592,-2.016954 22.50882,-4.200563 33.90307,-5.043432 11.82909,-0.875035 23.72105,-0.521636 35.58422,0 9.69896,0.426473 19.33668,2.034556 28.85964,3.922669 9.75501,1.934122 19.3694,4.59254 28.85964,7.565149 11.67325,3.656388 34.46345,12.60858 34.46345,12.60858"
