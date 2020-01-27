@@ -1,0 +1,497 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" width="531.283mm" height="20.1083mm" version="1.2" viewBox="0 0 1506 57">
+ <title>Qt SVG Document</title>
+ <desc>Generated with Qt</desc>
+ <defs>
+  <linearGradient y1="0" y2="1" x1="0" x2="0" gradientUnits="objectBoundingBox" id="gradient1">
+   <stop offset="0" stop-color="#ffffff" stop-opacity="0.470588"/>
+   <stop offset="0.02" stop-color="#ffffff" stop-opacity="0.45098"/>
+   <stop offset="0.04" stop-color="#ffffff" stop-opacity="0.431373"/>
+   <stop offset="0.06" stop-color="#ffffff" stop-opacity="0.411765"/>
+   <stop offset="0.08" stop-color="#ffffff" stop-opacity="0.396078"/>
+   <stop offset="0.1" stop-color="#ffffff" stop-opacity="0.376471"/>
+   <stop offset="0.12" stop-color="#ffffff" stop-opacity="0.356863"/>
+   <stop offset="0.14" stop-color="#ffffff" stop-opacity="0.337255"/>
+   <stop offset="0.16" stop-color="#ffffff" stop-opacity="0.321569"/>
+   <stop offset="0.18" stop-color="#ffffff" stop-opacity="0.298039"/>
+   <stop offset="0.2" stop-color="#ffffff" stop-opacity="0.282353"/>
+   <stop offset="0.22" stop-color="#ffffff" stop-opacity="0.262745"/>
+   <stop offset="0.24" stop-color="#ffffff" stop-opacity="0.243137"/>
+   <stop offset="0.26" stop-color="#ffffff" stop-opacity="0.223529"/>
+   <stop offset="0.28" stop-color="#ffffff" stop-opacity="0.203922"/>
+   <stop offset="0.3" stop-color="#ffffff" stop-opacity="0.188235"/>
+   <stop offset="0.32" stop-color="#ffffff" stop-opacity="0.168627"/>
+   <stop offset="0.34" stop-color="#ffffff" stop-opacity="0.14902"/>
+   <stop offset="0.36" stop-color="#ffffff" stop-opacity="0.129412"/>
+   <stop offset="0.38" stop-color="#ffffff" stop-opacity="0.113725"/>
+   <stop offset="0.4" stop-color="#ffffff" stop-opacity="0.0941176"/>
+   <stop offset="0.42" stop-color="#ffffff" stop-opacity="0.0745098"/>
+   <stop offset="0.44" stop-color="#ffffff" stop-opacity="0.054902"/>
+   <stop offset="0.46" stop-color="#ffffff" stop-opacity="0.0352941"/>
+   <stop offset="0.48" stop-color="#ffffff" stop-opacity="0.0196078"/>
+   <stop offset="0.5" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.52" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.54" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.56" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.58" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.6" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.62" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.64" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.66" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.68" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.7" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.71875" stop-color="#000000" stop-opacity="0.0156863"/>
+   <stop offset="0.7375" stop-color="#000000" stop-opacity="0.0313725"/>
+   <stop offset="0.75625" stop-color="#000000" stop-opacity="0.0509804"/>
+   <stop offset="0.775" stop-color="#000000" stop-opacity="0.0666667"/>
+   <stop offset="0.79375" stop-color="#000000" stop-opacity="0.0823529"/>
+   <stop offset="0.8125" stop-color="#000000" stop-opacity="0.101961"/>
+   <stop offset="0.83125" stop-color="#000000" stop-opacity="0.117647"/>
+   <stop offset="0.85" stop-color="#000000" stop-opacity="0.137255"/>
+   <stop offset="0.86875" stop-color="#000000" stop-opacity="0.152941"/>
+   <stop offset="0.8875" stop-color="#000000" stop-opacity="0.168627"/>
+   <stop offset="0.90625" stop-color="#000000" stop-opacity="0.188235"/>
+   <stop offset="0.925" stop-color="#000000" stop-opacity="0.203922"/>
+   <stop offset="0.94375" stop-color="#000000" stop-opacity="0.219608"/>
+   <stop offset="0.9625" stop-color="#000000" stop-opacity="0.239216"/>
+   <stop offset="0.98125" stop-color="#000000" stop-opacity="0.254902"/>
+   <stop offset="1" stop-color="#000000" stop-opacity="0.27451"/>
+  </linearGradient>
+  <linearGradient y1="0" y2="1" x1="0" x2="0" gradientUnits="objectBoundingBox" id="gradient2">
+   <stop offset="0" stop-color="#ffffff" stop-opacity="0.470588"/>
+   <stop offset="0.02" stop-color="#ffffff" stop-opacity="0.45098"/>
+   <stop offset="0.04" stop-color="#ffffff" stop-opacity="0.431373"/>
+   <stop offset="0.06" stop-color="#ffffff" stop-opacity="0.411765"/>
+   <stop offset="0.08" stop-color="#ffffff" stop-opacity="0.396078"/>
+   <stop offset="0.1" stop-color="#ffffff" stop-opacity="0.376471"/>
+   <stop offset="0.12" stop-color="#ffffff" stop-opacity="0.356863"/>
+   <stop offset="0.14" stop-color="#ffffff" stop-opacity="0.337255"/>
+   <stop offset="0.16" stop-color="#ffffff" stop-opacity="0.321569"/>
+   <stop offset="0.18" stop-color="#ffffff" stop-opacity="0.298039"/>
+   <stop offset="0.2" stop-color="#ffffff" stop-opacity="0.282353"/>
+   <stop offset="0.22" stop-color="#ffffff" stop-opacity="0.262745"/>
+   <stop offset="0.24" stop-color="#ffffff" stop-opacity="0.243137"/>
+   <stop offset="0.26" stop-color="#ffffff" stop-opacity="0.223529"/>
+   <stop offset="0.28" stop-color="#ffffff" stop-opacity="0.203922"/>
+   <stop offset="0.3" stop-color="#ffffff" stop-opacity="0.188235"/>
+   <stop offset="0.32" stop-color="#ffffff" stop-opacity="0.168627"/>
+   <stop offset="0.34" stop-color="#ffffff" stop-opacity="0.14902"/>
+   <stop offset="0.36" stop-color="#ffffff" stop-opacity="0.129412"/>
+   <stop offset="0.38" stop-color="#ffffff" stop-opacity="0.113725"/>
+   <stop offset="0.4" stop-color="#ffffff" stop-opacity="0.0941176"/>
+   <stop offset="0.42" stop-color="#ffffff" stop-opacity="0.0745098"/>
+   <stop offset="0.44" stop-color="#ffffff" stop-opacity="0.054902"/>
+   <stop offset="0.46" stop-color="#ffffff" stop-opacity="0.0352941"/>
+   <stop offset="0.48" stop-color="#ffffff" stop-opacity="0.0196078"/>
+   <stop offset="0.5" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.52" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.54" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.56" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.58" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.6" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.62" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.64" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.66" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.68" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.7" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.71875" stop-color="#000000" stop-opacity="0.0156863"/>
+   <stop offset="0.7375" stop-color="#000000" stop-opacity="0.0313725"/>
+   <stop offset="0.75625" stop-color="#000000" stop-opacity="0.0509804"/>
+   <stop offset="0.775" stop-color="#000000" stop-opacity="0.0666667"/>
+   <stop offset="0.79375" stop-color="#000000" stop-opacity="0.0823529"/>
+   <stop offset="0.8125" stop-color="#000000" stop-opacity="0.101961"/>
+   <stop offset="0.83125" stop-color="#000000" stop-opacity="0.117647"/>
+   <stop offset="0.85" stop-color="#000000" stop-opacity="0.137255"/>
+   <stop offset="0.86875" stop-color="#000000" stop-opacity="0.152941"/>
+   <stop offset="0.8875" stop-color="#000000" stop-opacity="0.168627"/>
+   <stop offset="0.90625" stop-color="#000000" stop-opacity="0.188235"/>
+   <stop offset="0.925" stop-color="#000000" stop-opacity="0.203922"/>
+   <stop offset="0.94375" stop-color="#000000" stop-opacity="0.219608"/>
+   <stop offset="0.9625" stop-color="#000000" stop-opacity="0.239216"/>
+   <stop offset="0.98125" stop-color="#000000" stop-opacity="0.254902"/>
+   <stop offset="1" stop-color="#000000" stop-opacity="0.27451"/>
+  </linearGradient>
+  <linearGradient y1="0" y2="1" x1="0" x2="0" gradientUnits="objectBoundingBox" id="gradient3">
+   <stop offset="0" stop-color="#ffffff" stop-opacity="0.470588"/>
+   <stop offset="0.02" stop-color="#ffffff" stop-opacity="0.45098"/>
+   <stop offset="0.04" stop-color="#ffffff" stop-opacity="0.431373"/>
+   <stop offset="0.06" stop-color="#ffffff" stop-opacity="0.411765"/>
+   <stop offset="0.08" stop-color="#ffffff" stop-opacity="0.396078"/>
+   <stop offset="0.1" stop-color="#ffffff" stop-opacity="0.376471"/>
+   <stop offset="0.12" stop-color="#ffffff" stop-opacity="0.356863"/>
+   <stop offset="0.14" stop-color="#ffffff" stop-opacity="0.337255"/>
+   <stop offset="0.16" stop-color="#ffffff" stop-opacity="0.321569"/>
+   <stop offset="0.18" stop-color="#ffffff" stop-opacity="0.298039"/>
+   <stop offset="0.2" stop-color="#ffffff" stop-opacity="0.282353"/>
+   <stop offset="0.22" stop-color="#ffffff" stop-opacity="0.262745"/>
+   <stop offset="0.24" stop-color="#ffffff" stop-opacity="0.243137"/>
+   <stop offset="0.26" stop-color="#ffffff" stop-opacity="0.223529"/>
+   <stop offset="0.28" stop-color="#ffffff" stop-opacity="0.203922"/>
+   <stop offset="0.3" stop-color="#ffffff" stop-opacity="0.188235"/>
+   <stop offset="0.32" stop-color="#ffffff" stop-opacity="0.168627"/>
+   <stop offset="0.34" stop-color="#ffffff" stop-opacity="0.14902"/>
+   <stop offset="0.36" stop-color="#ffffff" stop-opacity="0.129412"/>
+   <stop offset="0.38" stop-color="#ffffff" stop-opacity="0.113725"/>
+   <stop offset="0.4" stop-color="#ffffff" stop-opacity="0.0941176"/>
+   <stop offset="0.42" stop-color="#ffffff" stop-opacity="0.0745098"/>
+   <stop offset="0.44" stop-color="#ffffff" stop-opacity="0.054902"/>
+   <stop offset="0.46" stop-color="#ffffff" stop-opacity="0.0352941"/>
+   <stop offset="0.48" stop-color="#ffffff" stop-opacity="0.0196078"/>
+   <stop offset="0.5" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.52" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.54" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.56" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.58" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.6" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.62" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.64" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.66" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.68" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.7" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.71875" stop-color="#000000" stop-opacity="0.0156863"/>
+   <stop offset="0.7375" stop-color="#000000" stop-opacity="0.0313725"/>
+   <stop offset="0.75625" stop-color="#000000" stop-opacity="0.0509804"/>
+   <stop offset="0.775" stop-color="#000000" stop-opacity="0.0666667"/>
+   <stop offset="0.79375" stop-color="#000000" stop-opacity="0.0823529"/>
+   <stop offset="0.8125" stop-color="#000000" stop-opacity="0.101961"/>
+   <stop offset="0.83125" stop-color="#000000" stop-opacity="0.117647"/>
+   <stop offset="0.85" stop-color="#000000" stop-opacity="0.137255"/>
+   <stop offset="0.86875" stop-color="#000000" stop-opacity="0.152941"/>
+   <stop offset="0.8875" stop-color="#000000" stop-opacity="0.168627"/>
+   <stop offset="0.90625" stop-color="#000000" stop-opacity="0.188235"/>
+   <stop offset="0.925" stop-color="#000000" stop-opacity="0.203922"/>
+   <stop offset="0.94375" stop-color="#000000" stop-opacity="0.219608"/>
+   <stop offset="0.9625" stop-color="#000000" stop-opacity="0.239216"/>
+   <stop offset="0.98125" stop-color="#000000" stop-opacity="0.254902"/>
+   <stop offset="1" stop-color="#000000" stop-opacity="0.27451"/>
+  </linearGradient>
+  <linearGradient y1="0" y2="1" x1="0" x2="0" gradientUnits="objectBoundingBox" id="gradient4">
+   <stop offset="0" stop-color="#ffffff" stop-opacity="0.470588"/>
+   <stop offset="0.02" stop-color="#ffffff" stop-opacity="0.45098"/>
+   <stop offset="0.04" stop-color="#ffffff" stop-opacity="0.431373"/>
+   <stop offset="0.06" stop-color="#ffffff" stop-opacity="0.411765"/>
+   <stop offset="0.08" stop-color="#ffffff" stop-opacity="0.396078"/>
+   <stop offset="0.1" stop-color="#ffffff" stop-opacity="0.376471"/>
+   <stop offset="0.12" stop-color="#ffffff" stop-opacity="0.356863"/>
+   <stop offset="0.14" stop-color="#ffffff" stop-opacity="0.337255"/>
+   <stop offset="0.16" stop-color="#ffffff" stop-opacity="0.321569"/>
+   <stop offset="0.18" stop-color="#ffffff" stop-opacity="0.298039"/>
+   <stop offset="0.2" stop-color="#ffffff" stop-opacity="0.282353"/>
+   <stop offset="0.22" stop-color="#ffffff" stop-opacity="0.262745"/>
+   <stop offset="0.24" stop-color="#ffffff" stop-opacity="0.243137"/>
+   <stop offset="0.26" stop-color="#ffffff" stop-opacity="0.223529"/>
+   <stop offset="0.28" stop-color="#ffffff" stop-opacity="0.203922"/>
+   <stop offset="0.3" stop-color="#ffffff" stop-opacity="0.188235"/>
+   <stop offset="0.32" stop-color="#ffffff" stop-opacity="0.168627"/>
+   <stop offset="0.34" stop-color="#ffffff" stop-opacity="0.14902"/>
+   <stop offset="0.36" stop-color="#ffffff" stop-opacity="0.129412"/>
+   <stop offset="0.38" stop-color="#ffffff" stop-opacity="0.113725"/>
+   <stop offset="0.4" stop-color="#ffffff" stop-opacity="0.0941176"/>
+   <stop offset="0.42" stop-color="#ffffff" stop-opacity="0.0745098"/>
+   <stop offset="0.44" stop-color="#ffffff" stop-opacity="0.054902"/>
+   <stop offset="0.46" stop-color="#ffffff" stop-opacity="0.0352941"/>
+   <stop offset="0.48" stop-color="#ffffff" stop-opacity="0.0196078"/>
+   <stop offset="0.5" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.52" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.54" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.56" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.58" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.6" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.62" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.64" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.66" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.68" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.7" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.71875" stop-color="#000000" stop-opacity="0.0156863"/>
+   <stop offset="0.7375" stop-color="#000000" stop-opacity="0.0313725"/>
+   <stop offset="0.75625" stop-color="#000000" stop-opacity="0.0509804"/>
+   <stop offset="0.775" stop-color="#000000" stop-opacity="0.0666667"/>
+   <stop offset="0.79375" stop-color="#000000" stop-opacity="0.0823529"/>
+   <stop offset="0.8125" stop-color="#000000" stop-opacity="0.101961"/>
+   <stop offset="0.83125" stop-color="#000000" stop-opacity="0.117647"/>
+   <stop offset="0.85" stop-color="#000000" stop-opacity="0.137255"/>
+   <stop offset="0.86875" stop-color="#000000" stop-opacity="0.152941"/>
+   <stop offset="0.8875" stop-color="#000000" stop-opacity="0.168627"/>
+   <stop offset="0.90625" stop-color="#000000" stop-opacity="0.188235"/>
+   <stop offset="0.925" stop-color="#000000" stop-opacity="0.203922"/>
+   <stop offset="0.94375" stop-color="#000000" stop-opacity="0.219608"/>
+   <stop offset="0.9625" stop-color="#000000" stop-opacity="0.239216"/>
+   <stop offset="0.98125" stop-color="#000000" stop-opacity="0.254902"/>
+   <stop offset="1" stop-color="#000000" stop-opacity="0.27451"/>
+  </linearGradient>
+  <linearGradient y1="0" y2="1" x1="0" x2="0" gradientUnits="objectBoundingBox" id="gradient5">
+   <stop offset="0" stop-color="#ffffff" stop-opacity="0.470588"/>
+   <stop offset="0.02" stop-color="#ffffff" stop-opacity="0.45098"/>
+   <stop offset="0.04" stop-color="#ffffff" stop-opacity="0.431373"/>
+   <stop offset="0.06" stop-color="#ffffff" stop-opacity="0.411765"/>
+   <stop offset="0.08" stop-color="#ffffff" stop-opacity="0.396078"/>
+   <stop offset="0.1" stop-color="#ffffff" stop-opacity="0.376471"/>
+   <stop offset="0.12" stop-color="#ffffff" stop-opacity="0.356863"/>
+   <stop offset="0.14" stop-color="#ffffff" stop-opacity="0.337255"/>
+   <stop offset="0.16" stop-color="#ffffff" stop-opacity="0.321569"/>
+   <stop offset="0.18" stop-color="#ffffff" stop-opacity="0.298039"/>
+   <stop offset="0.2" stop-color="#ffffff" stop-opacity="0.282353"/>
+   <stop offset="0.22" stop-color="#ffffff" stop-opacity="0.262745"/>
+   <stop offset="0.24" stop-color="#ffffff" stop-opacity="0.243137"/>
+   <stop offset="0.26" stop-color="#ffffff" stop-opacity="0.223529"/>
+   <stop offset="0.28" stop-color="#ffffff" stop-opacity="0.203922"/>
+   <stop offset="0.3" stop-color="#ffffff" stop-opacity="0.188235"/>
+   <stop offset="0.32" stop-color="#ffffff" stop-opacity="0.168627"/>
+   <stop offset="0.34" stop-color="#ffffff" stop-opacity="0.14902"/>
+   <stop offset="0.36" stop-color="#ffffff" stop-opacity="0.129412"/>
+   <stop offset="0.38" stop-color="#ffffff" stop-opacity="0.113725"/>
+   <stop offset="0.4" stop-color="#ffffff" stop-opacity="0.0941176"/>
+   <stop offset="0.42" stop-color="#ffffff" stop-opacity="0.0745098"/>
+   <stop offset="0.44" stop-color="#ffffff" stop-opacity="0.054902"/>
+   <stop offset="0.46" stop-color="#ffffff" stop-opacity="0.0352941"/>
+   <stop offset="0.48" stop-color="#ffffff" stop-opacity="0.0196078"/>
+   <stop offset="0.5" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.52" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.54" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.56" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.58" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.6" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.62" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.64" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.66" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.68" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.7" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.71875" stop-color="#000000" stop-opacity="0.0156863"/>
+   <stop offset="0.7375" stop-color="#000000" stop-opacity="0.0313725"/>
+   <stop offset="0.75625" stop-color="#000000" stop-opacity="0.0509804"/>
+   <stop offset="0.775" stop-color="#000000" stop-opacity="0.0666667"/>
+   <stop offset="0.79375" stop-color="#000000" stop-opacity="0.0823529"/>
+   <stop offset="0.8125" stop-color="#000000" stop-opacity="0.101961"/>
+   <stop offset="0.83125" stop-color="#000000" stop-opacity="0.117647"/>
+   <stop offset="0.85" stop-color="#000000" stop-opacity="0.137255"/>
+   <stop offset="0.86875" stop-color="#000000" stop-opacity="0.152941"/>
+   <stop offset="0.8875" stop-color="#000000" stop-opacity="0.168627"/>
+   <stop offset="0.90625" stop-color="#000000" stop-opacity="0.188235"/>
+   <stop offset="0.925" stop-color="#000000" stop-opacity="0.203922"/>
+   <stop offset="0.94375" stop-color="#000000" stop-opacity="0.219608"/>
+   <stop offset="0.9625" stop-color="#000000" stop-opacity="0.239216"/>
+   <stop offset="0.98125" stop-color="#000000" stop-opacity="0.254902"/>
+   <stop offset="1" stop-color="#000000" stop-opacity="0.27451"/>
+  </linearGradient>
+  <linearGradient y1="0" y2="1" x1="0" x2="0" gradientUnits="objectBoundingBox" id="gradient6">
+   <stop offset="0" stop-color="#ffffff" stop-opacity="0.470588"/>
+   <stop offset="0.02" stop-color="#ffffff" stop-opacity="0.45098"/>
+   <stop offset="0.04" stop-color="#ffffff" stop-opacity="0.431373"/>
+   <stop offset="0.06" stop-color="#ffffff" stop-opacity="0.411765"/>
+   <stop offset="0.08" stop-color="#ffffff" stop-opacity="0.396078"/>
+   <stop offset="0.1" stop-color="#ffffff" stop-opacity="0.376471"/>
+   <stop offset="0.12" stop-color="#ffffff" stop-opacity="0.356863"/>
+   <stop offset="0.14" stop-color="#ffffff" stop-opacity="0.337255"/>
+   <stop offset="0.16" stop-color="#ffffff" stop-opacity="0.321569"/>
+   <stop offset="0.18" stop-color="#ffffff" stop-opacity="0.298039"/>
+   <stop offset="0.2" stop-color="#ffffff" stop-opacity="0.282353"/>
+   <stop offset="0.22" stop-color="#ffffff" stop-opacity="0.262745"/>
+   <stop offset="0.24" stop-color="#ffffff" stop-opacity="0.243137"/>
+   <stop offset="0.26" stop-color="#ffffff" stop-opacity="0.223529"/>
+   <stop offset="0.28" stop-color="#ffffff" stop-opacity="0.203922"/>
+   <stop offset="0.3" stop-color="#ffffff" stop-opacity="0.188235"/>
+   <stop offset="0.32" stop-color="#ffffff" stop-opacity="0.168627"/>
+   <stop offset="0.34" stop-color="#ffffff" stop-opacity="0.14902"/>
+   <stop offset="0.36" stop-color="#ffffff" stop-opacity="0.129412"/>
+   <stop offset="0.38" stop-color="#ffffff" stop-opacity="0.113725"/>
+   <stop offset="0.4" stop-color="#ffffff" stop-opacity="0.0941176"/>
+   <stop offset="0.42" stop-color="#ffffff" stop-opacity="0.0745098"/>
+   <stop offset="0.44" stop-color="#ffffff" stop-opacity="0.054902"/>
+   <stop offset="0.46" stop-color="#ffffff" stop-opacity="0.0352941"/>
+   <stop offset="0.48" stop-color="#ffffff" stop-opacity="0.0196078"/>
+   <stop offset="0.5" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.52" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.54" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.56" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.58" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.6" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.62" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.64" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.66" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.68" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.7" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="0.71875" stop-color="#000000" stop-opacity="0.0156863"/>
+   <stop offset="0.7375" stop-color="#000000" stop-opacity="0.0313725"/>
+   <stop offset="0.75625" stop-color="#000000" stop-opacity="0.0509804"/>
+   <stop offset="0.775" stop-color="#000000" stop-opacity="0.0666667"/>
+   <stop offset="0.79375" stop-color="#000000" stop-opacity="0.0823529"/>
+   <stop offset="0.8125" stop-color="#000000" stop-opacity="0.101961"/>
+   <stop offset="0.83125" stop-color="#000000" stop-opacity="0.117647"/>
+   <stop offset="0.85" stop-color="#000000" stop-opacity="0.137255"/>
+   <stop offset="0.86875" stop-color="#000000" stop-opacity="0.152941"/>
+   <stop offset="0.8875" stop-color="#000000" stop-opacity="0.168627"/>
+   <stop offset="0.90625" stop-color="#000000" stop-opacity="0.188235"/>
+   <stop offset="0.925" stop-color="#000000" stop-opacity="0.203922"/>
+   <stop offset="0.94375" stop-color="#000000" stop-opacity="0.219608"/>
+   <stop offset="0.9625" stop-color="#000000" stop-opacity="0.239216"/>
+   <stop offset="0.98125" stop-color="#000000" stop-opacity="0.254902"/>
+   <stop offset="1" stop-color="#000000" stop-opacity="0.27451"/>
+  </linearGradient>
+ </defs>
+ <g stroke="black" fill-rule="evenodd" fill="none" stroke-linecap="square" stroke-width="1" stroke-linejoin="bevel">
+  <g fill-opacity="1" stroke="none" font-size="9" fill="#ffffff" font-family="Noto Sans" font-style="normal" transform="matrix(1,0,0,1,0,0)" font-weight="400">
+   <rect width="1506" height="57" y="0" x="0"/>
+  </g>
+  <g stroke="#000000" font-size="9" fill="none" stroke-linecap="square" stroke-width="1" font-family="Noto Sans" font-style="normal" stroke-opacity="1" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,3)" font-weight="400"/>
+  <g stroke="#000000" font-size="8" fill="none" stroke-linecap="square" stroke-width="1" font-family="Arial" font-style="normal" stroke-opacity="1" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <polyline vector-effect="none" points="0,19 1501,19 " fill="none"/>
+   <polyline vector-effect="none" points="0,17 0,21 " fill="none"/>
+   <polyline vector-effect="none" points="1501,17 1501,21 " fill="none"/>
+  </g>
+  <g stroke="#000000" font-size="8" fill="none" stroke-linecap="square" stroke-width="1" font-family="Arial" font-style="normal" stroke-opacity="1" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="1.28125" font-weight="400">1</text>
+  </g>
+  <g stroke="#000000" font-size="8" fill="none" stroke-linecap="square" stroke-width="1" font-family="Arial" font-style="normal" stroke-opacity="1" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,3)" font-weight="400"/>
+  <g stroke="#000000" font-size="8" fill="none" stroke-linecap="square" stroke-width="1" font-family="Arial" font-style="normal" stroke-opacity="1" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="1476.3" font-weight="400">15 894</text>
+  </g>
+  <g stroke="#000000" font-size="8" fill="none" stroke-linecap="square" stroke-width="1" font-family="Arial" font-style="normal" stroke-opacity="1" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <polyline vector-effect="none" points="47,17 47,21 " fill="none"/>
+  </g>
+  <g stroke="#000000" font-size="8" fill="none" stroke-linecap="square" stroke-width="1" font-family="Arial" font-style="normal" stroke-opacity="1" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="40.8438" font-weight="400">500</text>
+  </g>
+  <g stroke="#000000" font-size="8" fill="none" stroke-linecap="square" stroke-width="1" font-family="Arial" font-style="normal" stroke-opacity="1" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <polyline vector-effect="none" points="94,17 94,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="90.2813" font-weight="400">1k</text>
+   <polyline vector-effect="none" points="142,17 142,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="134.953" font-weight="400">1.5k</text>
+   <polyline vector-effect="none" points="189,17 189,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="185.281" font-weight="400">2k</text>
+   <polyline vector-effect="none" points="236,17 236,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="228.953" font-weight="400">2.5k</text>
+   <polyline vector-effect="none" points="283,17 283,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="279.281" font-weight="400">3k</text>
+   <polyline vector-effect="none" points="330,17 330,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="322.953" font-weight="400">3.5k</text>
+   <polyline vector-effect="none" points="378,17 378,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="374.281" font-weight="400">4k</text>
+   <polyline vector-effect="none" points="425,17 425,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="417.953" font-weight="400">4.5k</text>
+   <polyline vector-effect="none" points="472,17 472,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="468.281" font-weight="400">5k</text>
+   <polyline vector-effect="none" points="519,17 519,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="511.953" font-weight="400">5.5k</text>
+   <polyline vector-effect="none" points="567,17 567,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="563.281" font-weight="400">6k</text>
+   <polyline vector-effect="none" points="614,17 614,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="606.953" font-weight="400">6.5k</text>
+   <polyline vector-effect="none" points="661,17 661,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="657.281" font-weight="400">7k</text>
+   <polyline vector-effect="none" points="708,17 708,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="700.953" font-weight="400">7.5k</text>
+   <polyline vector-effect="none" points="755,17 755,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="751.281" font-weight="400">8k</text>
+   <polyline vector-effect="none" points="803,17 803,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="795.953" font-weight="400">8.5k</text>
+   <polyline vector-effect="none" points="850,17 850,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="846.281" font-weight="400">9k</text>
+   <polyline vector-effect="none" points="897,17 897,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="889.953" font-weight="400">9.5k</text>
+   <polyline vector-effect="none" points="944,17 944,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="938.063" font-weight="400">10k</text>
+   <polyline vector-effect="none" points="992,17 992,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="982.734" font-weight="400">10.5k</text>
+   <polyline vector-effect="none" points="1039,17 1039,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="1033.36" font-weight="400">11k</text>
+   <polyline vector-effect="none" points="1086,17 1086,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="1077.03" font-weight="400">11.5k</text>
+   <polyline vector-effect="none" points="1133,17 1133,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="1127.06" font-weight="400">12k</text>
+   <polyline vector-effect="none" points="1180,17 1180,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="1170.73" font-weight="400">12.5k</text>
+   <polyline vector-effect="none" points="1228,17 1228,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="1222.06" font-weight="400">13k</text>
+   <polyline vector-effect="none" points="1275,17 1275,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="1265.73" font-weight="400">13.5k</text>
+   <polyline vector-effect="none" points="1322,17 1322,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="1316.06" font-weight="400">14k</text>
+   <polyline vector-effect="none" points="1369,17 1369,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="1359.73" font-weight="400">14.5k</text>
+   <polyline vector-effect="none" points="1417,17 1417,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="1411.06" font-weight="400">15k</text>
+   <polyline vector-effect="none" points="1464,17 1464,21 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="30.5" font-size="8" fill="#000000" font-family="Arial" font-style="normal" x="1454.73" font-weight="400">15.5k</text>
+  </g>
+  <g stroke="#000000" font-size="9" fill="none" stroke-linecap="square" stroke-width="1" font-family="Noto Sans" font-style="normal" stroke-opacity="1" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,3)" font-weight="400"/>
+  <g stroke-dasharray="1,2" stroke="#c0c0c0" stroke-dashoffset="0" font-size="8" fill="none" stroke-linecap="square" stroke-width="1" font-family="Arial" font-style="normal" stroke-opacity="1" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <polyline vector-effect="none" points="0,0 1506,0 " fill="none"/>
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="9" font-size="8" fill="#c0c0c0" font-family="Arial" font-style="normal" x="8" font-weight="400">gene (6)</text>
+  </g>
+  <g fill-opacity="1" stroke="none" font-size="8" fill="#00ffc8" font-family="Arial" font-style="normal" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <path vector-effect="none" fill-rule="nonzero" d="M10,2 L155,2 L155,-1 L161,8 L155,17 L155,15 L10,15 L10,2"/>
+  </g>
+  <g stroke="none" font-size="8" fill="url(#gradient1)" font-family="Arial" font-style="normal" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <path vector-effect="none" fill-rule="nonzero" d="M10,2 L155,2 L155,-1 L161,8 L155,17 L155,15 L10,15 L10,2"/>
+  </g>
+  <g stroke="#000000" font-size="8" fill="none" stroke-linecap="square" stroke-width="1" font-family="Arial" font-style="normal" stroke-opacity="1" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <path vector-effect="none" fill-rule="nonzero" d="M10,2 L155,2 L155,-1 L161,8 L155,17 L155,15 L10,15 L10,2"/>
+  </g>
+  <g stroke="#000000" font-size="10" fill="none" stroke-linecap="square" stroke-width="1" font-family="Courier" font-style="normal" stroke-opacity="1" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="11.5" font-size="10" fill="#000000" font-family="Courier" font-style="normal" x="81.5" font-weight="400">N</text>
+  </g>
+  <g fill-opacity="1" stroke="none" font-size="10" fill="#00ffc8" font-family="Courier" font-style="normal" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <path vector-effect="none" fill-rule="nonzero" d="M171,2 L311,2 L311,-1 L317,8 L311,17 L311,15 L171,15 L171,2"/>
+  </g>
+  <g stroke="none" font-size="10" fill="url(#gradient2)" font-family="Courier" font-style="normal" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <path vector-effect="none" fill-rule="nonzero" d="M171,2 L311,2 L311,-1 L317,8 L311,17 L311,15 L171,15 L171,2"/>
+  </g>
+  <g stroke="#000000" font-size="10" fill="none" stroke-linecap="square" stroke-width="1" font-family="Courier" font-style="normal" stroke-opacity="1" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <path vector-effect="none" fill-rule="nonzero" d="M171,2 L311,2 L311,-1 L317,8 L311,17 L311,15 L171,15 L171,2"/>
+  </g>
+  <g stroke="#000000" font-size="10" fill="none" stroke-linecap="square" stroke-width="1" font-family="Courier" font-style="normal" stroke-opacity="1" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="11.5" font-size="10" fill="#000000" font-family="Courier" font-style="normal" x="228" font-weight="400">P/V/C</text>
+  </g>
+  <g fill-opacity="1" stroke="none" font-size="10" fill="#00ffc8" font-family="Courier" font-style="normal" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <path vector-effect="none" fill-rule="nonzero" d="M325,2 L416,2 L416,-1 L422,8 L416,17 L416,15 L325,15 L325,2"/>
+  </g>
+  <g stroke="none" font-size="10" fill="url(#gradient3)" font-family="Courier" font-style="normal" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <path vector-effect="none" fill-rule="nonzero" d="M325,2 L416,2 L416,-1 L422,8 L416,17 L416,15 L325,15 L325,2"/>
+  </g>
+  <g stroke="#000000" font-size="10" fill="none" stroke-linecap="square" stroke-width="1" font-family="Courier" font-style="normal" stroke-opacity="1" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <path vector-effect="none" fill-rule="nonzero" d="M325,2 L416,2 L416,-1 L422,8 L416,17 L416,15 L325,15 L325,2"/>
+  </g>
+  <g stroke="#000000" font-size="10" fill="none" stroke-linecap="square" stroke-width="1" font-family="Courier" font-style="normal" stroke-opacity="1" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="11.5" font-size="10" fill="#000000" font-family="Courier" font-style="normal" x="369.5" font-weight="400">M</text>
+  </g>
+  <g fill-opacity="1" stroke="none" font-size="10" fill="#00ffc8" font-family="Courier" font-style="normal" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <path vector-effect="none" fill-rule="nonzero" d="M516,2 L668,2 L668,-1 L674,8 L668,17 L668,15 L516,15 L516,2"/>
+  </g>
+  <g stroke="none" font-size="10" fill="url(#gradient4)" font-family="Courier" font-style="normal" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <path vector-effect="none" fill-rule="nonzero" d="M516,2 L668,2 L668,-1 L674,8 L668,17 L668,15 L516,15 L516,2"/>
+  </g>
+  <g stroke="#000000" font-size="10" fill="none" stroke-linecap="square" stroke-width="1" font-family="Courier" font-style="normal" stroke-opacity="1" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <path vector-effect="none" fill-rule="nonzero" d="M516,2 L668,2 L668,-1 L674,8 L668,17 L668,15 L516,15 L516,2"/>
+  </g>
+  <g stroke="#000000" font-size="10" fill="none" stroke-linecap="square" stroke-width="1" font-family="Courier" font-style="normal" stroke-opacity="1" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="11.5" font-size="10" fill="#000000" font-family="Courier" font-style="normal" x="591" font-weight="400">F</text>
+  </g>
+  <g fill-opacity="1" stroke="none" font-size="10" fill="#00ffc8" font-family="Courier" font-style="normal" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <path vector-effect="none" fill-rule="nonzero" d="M687,2 L858,2 L858,-1 L864,8 L858,17 L858,15 L687,15 L687,2"/>
+  </g>
+  <g stroke="none" font-size="10" fill="url(#gradient5)" font-family="Courier" font-style="normal" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <path vector-effect="none" fill-rule="nonzero" d="M687,2 L858,2 L858,-1 L864,8 L858,17 L858,15 L687,15 L687,2"/>
+  </g>
+  <g stroke="#000000" font-size="10" fill="none" stroke-linecap="square" stroke-width="1" font-family="Courier" font-style="normal" stroke-opacity="1" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <path vector-effect="none" fill-rule="nonzero" d="M687,2 L858,2 L858,-1 L864,8 L858,17 L858,15 L687,15 L687,2"/>
+  </g>
+  <g stroke="#000000" font-size="10" fill="none" stroke-linecap="square" stroke-width="1" font-family="Courier" font-style="normal" stroke-opacity="1" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="11.5" font-size="10" fill="#000000" font-family="Courier" font-style="normal" x="771.5" font-weight="400">H</text>
+  </g>
+  <g fill-opacity="1" stroke="none" font-size="10" fill="#00ffc8" font-family="Courier" font-style="normal" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <path vector-effect="none" fill-rule="nonzero" d="M873,2 L1488,2 L1488,-1 L1494,8 L1488,17 L1488,15 L873,15 L873,2"/>
+  </g>
+  <g stroke="none" font-size="10" fill="url(#gradient6)" font-family="Courier" font-style="normal" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <path vector-effect="none" fill-rule="nonzero" d="M873,2 L1488,2 L1488,-1 L1494,8 L1488,17 L1488,15 L873,15 L873,2"/>
+  </g>
+  <g stroke="#000000" font-size="10" fill="none" stroke-linecap="square" stroke-width="1" font-family="Courier" font-style="normal" stroke-opacity="1" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <path vector-effect="none" fill-rule="nonzero" d="M873,2 L1488,2 L1488,-1 L1494,8 L1488,17 L1488,15 L873,15 L873,2"/>
+  </g>
+  <g stroke="#000000" font-size="10" fill="none" stroke-linecap="square" stroke-width="1" font-family="Courier" font-style="normal" stroke-opacity="1" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <text fill-opacity="1" stroke="none" xml:space="preserve" y="11.5" font-size="10" fill="#000000" font-family="Courier" font-style="normal" x="1179.5" font-weight="400">L</text>
+  </g>
+  <g stroke-dasharray="1,2" stroke="#c0c0c0" stroke-dashoffset="0" font-size="8" fill="none" stroke-linecap="square" stroke-width="1" font-family="Arial" font-style="normal" stroke-opacity="1" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,3)" font-weight="400">
+   <polyline vector-effect="none" points="0,17 1506,17 " fill="none"/>
+  </g>
+ </g>
+</svg>
