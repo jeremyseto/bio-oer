@@ -14,12 +14,41 @@
    height="240"
    id="svg8332"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="th01-cats.svg">
   <title
      id="title4273">TH01</title>
   <defs
      id="defs8334">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5220"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1;fill:#00ff00;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5218" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4933"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#00ffff;stroke-width:1pt;stroke-opacity:1;fill:#00ffff;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
     <radialGradient
        r="19.778078"
        fy="454.62503"
@@ -416,14 +445,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="334.42195"
-     inkscape:cy="117.52445"
+     inkscape:zoom="0.7"
+     inkscape:cx="303.36767"
+     inkscape:cy="402.34895"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-height="1009"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -461,115 +490,52 @@
      id="layer1"
      transform="translate(0,-812.36218)">
     <rect
-       style="fill:#ffff00;fill-opacity:1;stroke:none"
+       style="fill:#fcffff;fill-opacity:1;stroke:none;stroke-width:0.92309391;stroke-miterlimit:4;stroke-dasharray:0.92309393, 2.76928178;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4910"
+       width="1674.2858"
+       height="298.57144"
+       x="-480"
+       y="780.93365" />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:#b30000;stroke-width:0.85051274;stroke-miterlimit:4;stroke-dasharray:0.85051272, 2.55153816;stroke-dashoffset:0;stroke-opacity:1"
        id="rect8356"
-       width="77.312561"
-       height="36.845188"
-       x="92.566444"
-       y="849.48865"
-       ry="18.422594"
+       width="72.834717"
+       height="28.310064"
+       x="94.675873"
+       y="853.05719"
+       ry="14.155032"
        inkscape:export-xdpi="180"
-       inkscape:export-ydpi="180" />
-    <rect
        inkscape:export-ydpi="180"
-       inkscape:export-xdpi="180"
-       ry="18.422594"
-       y="849.48865"
-       x="172.56644"
-       height="36.845188"
-       width="77.312561"
-       id="rect4294"
-       style="fill:#ffff00;fill-opacity:1;stroke:none" />
-    <rect
-       style="fill:#ffff00;fill-opacity:1;stroke:none"
-       id="rect4296"
-       width="77.312561"
-       height="36.845188"
-       x="250.56644"
-       y="849.48865"
-       ry="18.422594"
-       inkscape:export-xdpi="180"
-       inkscape:export-ydpi="180" />
-    <rect
-       inkscape:export-ydpi="180"
-       inkscape:export-xdpi="180"
-       ry="18.422594"
-       y="849.48865"
-       x="328.56644"
-       height="36.845188"
-       width="77.312561"
-       id="rect4298"
-       style="fill:#ffff00;fill-opacity:1;stroke:none" />
-    <rect
-       style="fill:#ffff00;fill-opacity:1;stroke:none"
-       id="rect4300"
-       width="77.312561"
-       height="36.845188"
-       x="408.56644"
-       y="849.48865"
-       ry="18.422594"
-       inkscape:export-xdpi="180"
-       inkscape:export-ydpi="180" />
-    <rect
-       inkscape:export-ydpi="180"
-       inkscape:export-xdpi="180"
-       ry="18.422594"
-       y="849.48865"
-       x="486.56644"
-       height="36.845188"
-       width="77.312561"
-       id="rect4302"
-       style="fill:#ffff00;fill-opacity:1;stroke:none" />
+       rx="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:bold;font-size:25.03105545px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="32.858017"
-       y="845.4577"
-       id="text8340"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="180"
-       inkscape:export-ydpi="180"><tspan
-         sodipodi:role="line"
-         id="tspan8342"
-         x="32.858017"
-         y="845.4577" /><tspan
-         sodipodi:role="line"
-         x="32.858017"
-         y="876.74652"
-         id="tspan8344">CCC TCAT TCAT TCAT TCAT TCAT TCAT AAA</tspan><tspan
-         sodipodi:role="line"
-         x="32.858017"
-         y="908.03534"
-         id="tspan8346" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:bold;font-size:27.50839233px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="67.745888"
-       y="924.34082"
+       style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="107.74589"
+       y="1070.3408"
        id="text8348"
-       sodipodi:linespacing="125%"
        inkscape:export-xdpi="180"
        inkscape:export-ydpi="180"><tspan
          sodipodi:role="line"
          id="tspan8350"
-         x="67.745888"
-         y="924.34082">This example has 6 TCAT repeats. </tspan></text>
+         x="107.74589"
+         y="1070.3408"
+         style="font-size:27.50839233px;line-height:1.25;font-family:sans-serif">This example has 6 TCAT repeats </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:bold;font-size:26.7294426px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="0.069485143"
+       style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="54.069485"
        y="838.4317"
        id="text8352"
-       sodipodi:linespacing="125%"
        inkscape:export-xdpi="180"
        inkscape:export-ydpi="180"><tspan
          sodipodi:role="line"
          id="tspan8354"
-         x="0.069485143"
-         y="838.4317">The TH01 locus contains repeats of TCAT.  </tspan></text>
+         x="54.069485"
+         y="838.4317"
+         style="font-size:26.7294426px;line-height:1.25;font-family:sans-serif">The TH01 locus contains repeats of TCAT  </tspan></text>
     <g
        id="g9489"
-       transform="matrix(0.16348083,0,0,0.16348083,95.068074,931.31408)"
+       transform="matrix(0.16348083,0,0,0.16348083,86.798103,931.31408)"
        inkscape:export-xdpi="180"
        inkscape:export-ydpi="180">
       <path
@@ -604,28 +570,27 @@
          style="fill:url(#linearGradient7764);fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
       <text
-         sodipodi:linespacing="125%"
          id="text7785"
          y="336.62076"
          x="210.97676"
-         style="font-style:normal;font-weight:bold;font-size:38.61982727px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-size:137.31494141px"
+           style="font-size:137.31494141px;line-height:1.25;font-family:sans-serif"
            y="336.62076"
            x="210.97676"
            id="tspan7787"
            sodipodi:role="line">T</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text7789"
          y="470.0704"
          x="146.06648"
-         style="font-style:normal;font-weight:bold;font-size:116.12158966px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="470.0704"
            x="146.06648"
            id="tspan7791"
-           sodipodi:role="line">CAT</tspan></text>
+           sodipodi:role="line"
+           style="font-size:116.12158966px;line-height:1.25;font-family:sans-serif">CAT</tspan></text>
       <ellipse
          transform="translate(-11.122881,7.9449152)"
          id="path7793"
@@ -644,7 +609,7 @@
          ry="11.122881" />
     </g>
     <g
-       transform="matrix(0.16348083,0,0,0.16348083,169.94933,931.31408)"
+       transform="matrix(0.16348083,0,0,0.16348083,178.7981,931.31408)"
        id="g9503"
        inkscape:export-xdpi="180"
        inkscape:export-ydpi="180">
@@ -681,27 +646,26 @@
          d="m 175.1911,460.32923 c 22.4546,45.30516 20.0176,106.83988 19.4778,127.58101 13.7476,16.24716 32.5407,17.75673 45.7059,17.3569 7.9194,-33.01518 29.1921,-126.1912 36.6908,-148.68727 7.5091,-22.52729 -118.5362,-29.86782 -101.8745,3.74936 z" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:bold;font-size:38.61982727px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          x="210.97676"
          y="336.62076"
-         id="text9517"
-         sodipodi:linespacing="125%"><tspan
+         id="text9517"><tspan
            sodipodi:role="line"
            id="tspan9519"
            x="210.97676"
            y="336.62076"
-           style="font-size:137.31494141px">T</tspan></text>
+           style="font-size:137.31494141px;line-height:1.25;font-family:sans-serif">T</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:bold;font-size:116.12158966px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          x="146.06648"
          y="470.0704"
-         id="text9521"
-         sodipodi:linespacing="125%"><tspan
+         id="text9521"><tspan
            sodipodi:role="line"
            id="tspan9523"
            x="146.06648"
-           y="470.0704">CAT</tspan></text>
+           y="470.0704"
+           style="font-size:116.12158966px;line-height:1.25;font-family:sans-serif">CAT</tspan></text>
       <ellipse
          style="fill:#000000;fill-opacity:0.72596154;stroke:none"
          id="path9525"
@@ -721,7 +685,7 @@
     </g>
     <g
        id="g9537"
-       transform="matrix(0.16348083,0,0,0.16348083,244.83058,931.31408)"
+       transform="matrix(0.16348083,0,0,0.16348083,270.7981,931.31408)"
        inkscape:export-xdpi="180"
        inkscape:export-ydpi="180">
       <path
@@ -756,28 +720,27 @@
          style="fill:url(#linearGradient9569);fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
       <text
-         sodipodi:linespacing="125%"
          id="text9551"
          y="336.62076"
          x="210.97676"
-         style="font-style:normal;font-weight:bold;font-size:38.61982727px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-size:137.31494141px"
+           style="font-size:137.31494141px;line-height:1.25;font-family:sans-serif"
            y="336.62076"
            x="210.97676"
            id="tspan9553"
            sodipodi:role="line">T</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text9555"
          y="470.0704"
          x="146.06648"
-         style="font-style:normal;font-weight:bold;font-size:116.12158966px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="470.0704"
            x="146.06648"
            id="tspan9557"
-           sodipodi:role="line">CAT</tspan></text>
+           sodipodi:role="line"
+           style="font-size:116.12158966px;line-height:1.25;font-family:sans-serif">CAT</tspan></text>
       <ellipse
          transform="translate(-11.122881,7.9449152)"
          id="path9559"
@@ -796,7 +759,7 @@
          ry="11.122881" />
     </g>
     <g
-       transform="matrix(0.16348083,0,0,0.16348083,321.33969,931.31408)"
+       transform="matrix(0.16348083,0,0,0.16348083,360.7981,931.31408)"
        id="g9571"
        inkscape:export-xdpi="180"
        inkscape:export-ydpi="180">
@@ -833,27 +796,26 @@
          d="m 175.1911,460.32923 c 22.4546,45.30516 20.0176,106.83988 19.4778,127.58101 13.7476,16.24716 32.5407,17.75673 45.7059,17.3569 7.9194,-33.01518 29.1921,-126.1912 36.6908,-148.68727 7.5091,-22.52729 -118.5362,-29.86782 -101.8745,3.74936 z" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:bold;font-size:38.61982727px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          x="210.97676"
          y="336.62076"
-         id="text9585"
-         sodipodi:linespacing="125%"><tspan
+         id="text9585"><tspan
            sodipodi:role="line"
            id="tspan9587"
            x="210.97676"
            y="336.62076"
-           style="font-size:137.31494141px">T</tspan></text>
+           style="font-size:137.31494141px;line-height:1.25;font-family:sans-serif">T</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:bold;font-size:116.12158966px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          x="146.06648"
          y="470.0704"
-         id="text9589"
-         sodipodi:linespacing="125%"><tspan
+         id="text9589"><tspan
            sodipodi:role="line"
            id="tspan9591"
            x="146.06648"
-           y="470.0704">CAT</tspan></text>
+           y="470.0704"
+           style="font-size:116.12158966px;line-height:1.25;font-family:sans-serif">CAT</tspan></text>
       <ellipse
          style="fill:#000000;fill-opacity:0.72596154;stroke:none"
          id="path9593"
@@ -873,7 +835,7 @@
     </g>
     <g
        id="g9605"
-       transform="matrix(0.16348083,0,0,0.16348083,397.8488,931.31408)"
+       transform="matrix(0.16348083,0,0,0.16348083,452.7981,931.31408)"
        inkscape:export-xdpi="180"
        inkscape:export-ydpi="180">
       <path
@@ -908,28 +870,27 @@
          style="fill:url(#linearGradient9637);fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
       <text
-         sodipodi:linespacing="125%"
          id="text9619"
          y="336.62076"
          x="210.97676"
-         style="font-style:normal;font-weight:bold;font-size:38.61982727px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-size:137.31494141px"
+           style="font-size:137.31494141px;line-height:1.25;font-family:sans-serif"
            y="336.62076"
            x="210.97676"
            id="tspan9621"
            sodipodi:role="line">T</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text9623"
          y="470.0704"
          x="146.06648"
-         style="font-style:normal;font-weight:bold;font-size:116.12158966px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="470.0704"
            x="146.06648"
            id="tspan9625"
-           sodipodi:role="line">CAT</tspan></text>
+           sodipodi:role="line"
+           style="font-size:116.12158966px;line-height:1.25;font-family:sans-serif">CAT</tspan></text>
       <ellipse
          transform="translate(-11.122881,7.9449152)"
          id="path9627"
@@ -948,7 +909,7 @@
          ry="11.122881" />
     </g>
     <g
-       transform="matrix(0.16348083,0,0,0.16348083,474.35791,931.31408)"
+       transform="matrix(0.16348083,0,0,0.16348083,544.79813,931.31408)"
        id="g9639"
        inkscape:export-xdpi="180"
        inkscape:export-ydpi="180">
@@ -985,27 +946,26 @@
          d="m 175.1911,460.32923 c 22.4546,45.30516 20.0176,106.83988 19.4778,127.58101 13.7476,16.24716 32.5407,17.75673 45.7059,17.3569 7.9194,-33.01518 29.1921,-126.1912 36.6908,-148.68727 7.5091,-22.52729 -118.5362,-29.86782 -101.8745,3.74936 z" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:bold;font-size:38.61982727px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          x="210.97676"
          y="336.62076"
-         id="text9653"
-         sodipodi:linespacing="125%"><tspan
+         id="text9653"><tspan
            sodipodi:role="line"
            id="tspan9655"
            x="210.97676"
            y="336.62076"
-           style="font-size:137.31494141px">T</tspan></text>
+           style="font-size:137.31494141px;line-height:1.25;font-family:sans-serif">T</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:bold;font-size:116.12158966px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          x="146.06648"
          y="470.0704"
-         id="text9657"
-         sodipodi:linespacing="125%"><tspan
+         id="text9657"><tspan
            sodipodi:role="line"
            id="tspan9659"
            x="146.06648"
-           y="470.0704">CAT</tspan></text>
+           y="470.0704"
+           style="font-size:116.12158966px;line-height:1.25;font-family:sans-serif">CAT</tspan></text>
       <ellipse
          style="fill:#000000;fill-opacity:0.72596154;stroke:none"
          id="path9661"
@@ -1023,5 +983,138 @@
          rx="11.917373"
          ry="11.122881" />
     </g>
+    <rect
+       rx="0"
+       inkscape:export-ydpi="180"
+       inkscape:export-xdpi="180"
+       ry="14.155032"
+       y="853.05719"
+       x="186.67587"
+       height="28.310064"
+       width="72.834717"
+       id="rect4892"
+       style="fill:#ffff00;fill-opacity:1;stroke:#b30000;stroke-width:0.85051274;stroke-miterlimit:4;stroke-dasharray:0.85051272, 2.55153816;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       rx="0"
+       inkscape:export-ydpi="180"
+       inkscape:export-xdpi="180"
+       ry="14.155032"
+       y="853.05719"
+       x="278.67587"
+       height="28.310064"
+       width="72.834717"
+       id="rect4894"
+       style="fill:#ffff00;fill-opacity:1;stroke:#b30000;stroke-width:0.85051274;stroke-miterlimit:4;stroke-dasharray:0.85051272, 2.55153816;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:#b30000;stroke-width:0.85051274;stroke-miterlimit:4;stroke-dasharray:0.85051272, 2.55153816;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4896"
+       width="72.834717"
+       height="28.310064"
+       x="368.67587"
+       y="853.05719"
+       ry="14.155032"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180"
+       rx="0" />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:#b30000;stroke-width:0.85051274;stroke-miterlimit:4;stroke-dasharray:0.85051272, 2.55153816;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4898"
+       width="72.834717"
+       height="28.310064"
+       x="460.67587"
+       y="853.05719"
+       ry="14.155032"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180"
+       rx="0" />
+    <rect
+       rx="0"
+       inkscape:export-ydpi="180"
+       inkscape:export-xdpi="180"
+       ry="14.155032"
+       y="853.05719"
+       x="552.6759"
+       height="28.310064"
+       width="72.834717"
+       id="rect4900"
+       style="fill:#ffff00;fill-opacity:1;stroke:#b30000;stroke-width:0.85051274;stroke-miterlimit:4;stroke-dasharray:0.85051272, 2.55153816;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.88886857;stroke-miterlimit:4;stroke-dasharray:0.88886858, 2.66660573;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4912"
+       width="501.46158"
+       height="30.433655"
+       x="-422.85715"
+       y="850.93359" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30.36723709px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75918096"
+       x="-471.55341"
+       y="878.24725"
+       id="text4083"><tspan
+         sodipodi:role="line"
+         id="tspan4081"
+         x="-471.55341"
+         y="878.24725"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.75918096">5'-GTGGGCTGAAAAGCTCCCGATTATCCC TCAT TCAT TCAT TCAT TCAT TCAT AAACCAGAGCCCAGATACCCTTTGAAT-3'</tspan><tspan
+         sodipodi:role="line"
+         x="-471.55341"
+         y="916.2063"
+         id="tspan4085"
+         style="stroke-width:0.75918096" /></text>
+    <rect
+       y="884.93359"
+       x="640.21423"
+       height="30.433655"
+       width="506.46158"
+       id="rect4914"
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.89328897;stroke-miterlimit:4;stroke-dasharray:0.89328898, 2.67986693;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text4906"
+       y="912.24731"
+       x="-471.55341"
+       style="font-style:normal;font-weight:normal;font-size:30.36723709px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75918096"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.75918096"
+         y="912.24731"
+         x="-471.55341"
+         id="tspan4902"
+         sodipodi:role="line">3'-CACCCGACTTTTCGAGGGCTAATAGGG AGTA AGTA AGTA AGTA AGTA AGTA TTTGGTCTCGGGTCTATGGGAAACTTA-5'</tspan><tspan
+         style="stroke-width:0.75918096"
+         id="tspan4904"
+         y="950.20636"
+         x="-471.55341"
+         sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:31.49571419px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.78739285"
+       x="-226.37354"
+       y="844.14752"
+       id="text4918"><tspan
+         sodipodi:role="line"
+         id="tspan4916"
+         x="-226.37354"
+         y="844.14752"
+         style="stroke-width:0.78739285">Primer 1</tspan></text>
+    <text
+       id="text4922"
+       y="947.18311"
+       x="828.08356"
+       style="font-style:normal;font-weight:normal;font-size:31.49571419px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.78739285"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.78739285"
+         y="947.18311"
+         x="828.08356"
+         id="tspan4920"
+         sodipodi:role="line">Primer 2</tspan></text>
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker5220)"
+       d="M -406.08132,801.84435 H 22.223356"
+       id="path4926"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#00ffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="M 1133.3912,969.52967 H 674.7819"
+       id="path4928"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
